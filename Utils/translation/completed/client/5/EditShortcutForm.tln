@@ -1,0 +1,7 @@
+SkillBar4.Hint=
+Label1.Caption=描述
+Label1.Hint=这里输入捷径的描述
+Label2.Caption=捷径
+Label2.Hint=选择捷径
+Label3.Caption=文本
+Button1.Caption=增加

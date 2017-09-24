@@ -1,0 +1,16 @@
+N2.Caption=削除
+Label1.Caption=あなたに話すこと:
+OnlineList.Columns=3
+OnlineList.Columns.0=別名で
+OnlineList.Columns.1=レベル
+OnlineList.Columns.2=世界
+Label2.Caption=待っていること:
+WaitingList.Columns=3
+WaitingList.Columns.0=別名で
+WaitingList.Columns.1=レベル
+WaitingList.Columns.2=世界
+File1.Caption=&File
+EXitMnu.Caption=E&xit
+Shortcuts1.Caption=近道
+Minimize1.Caption=最小にしなさい
+Chat1.Caption=雑談!

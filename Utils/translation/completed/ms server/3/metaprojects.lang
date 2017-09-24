@@ -1,0 +1,14 @@
+﻿Ministries.Ministry8.Name=Gehäuse
+Target=Projects
+LangId=3
+Projects.College.Name=Hochschulen
+Projects.Disposal.Name=Abfall-Beseitigung
+Projects.Fire.Name=Feuer-Abdeckung
+Projects.Health.Name=Gesundheits-Abdeckung
+Projects.Jail.Name=Gefängnisse
+Projects.Museum.Name=Museen
+Projects.Police.Name=Polizei-Abdeckung
+Projects.School.Name=Schule-Abdeckung
+Projects.Services.Name=Dienstleistungen und Unterhaltung
+Projects.Sport.Name=Erholung-Anlagen
+Projects.Unemployment.Name=Arbeitslosigkeit

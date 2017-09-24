@@ -1,0 +1,4 @@
+btnModify.Text=Modifier
+lvAntennas.Columns=3
+lvAntennas.Columns.0=Nom
+lvAntennas.Columns.1=Ville

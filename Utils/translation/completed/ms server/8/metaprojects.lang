@@ -1,0 +1,14 @@
+﻿Ministries.Ministry8.Name=주거
+Target=Projects
+LangId=8
+Projects.College.Name=대학
+Projects.Disposal.Name=쓰레기 분쇄 처리
+Projects.Fire.Name=불 적용
+Projects.Health.Name=의료보험 커버 내역
+Projects.Jail.Name=감옥
+Projects.Museum.Name=박물관
+Projects.Police.Name=경찰 적용
+Projects.School.Name=학교 적용
+Projects.Services.Name=서비스와 오락
+Projects.Sport.Name=휴양 기능
+Projects.Unemployment.Name=실직

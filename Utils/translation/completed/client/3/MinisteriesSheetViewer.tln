@@ -1,0 +1,10 @@
+btnCancel.Text=Transzendenz annullieren
+lvMinisteries.Columns=4
+lvMinisteries.Columns.0=Ministerium
+lvMinisteries.Columns.1=Minister
+lvMinisteries.Columns.2=Bewertung
+lvMinisteries.Columns.3=Etat
+lbBudget.Caption=Etat des nächsten Jahres:
+btnSetBudget.Text=Etat einstellen
+btnDeposeClick.Test=Absetzen
+lbMinister.Caption=Minister:

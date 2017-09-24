@@ -1,0 +1,17 @@
+﻿WorldProjects.Wealth.Name=Riqueza econômica
+Target=WorldRatings
+LangId=10
+WorldRatings.CampaignAccuracy.Name=Realização da campanha
+WorldRatings.College.Name=Faculdades
+WorldRatings.Disposal.Name=Triturador
+WorldRatings.Fire.Name=Cobertura do fogo
+WorldRatings.Health.Name=Cobertura de saúde
+WorldRatings.Jail.Name=Cadeias
+WorldRatings.Museum.Name=Museus
+WorldRatings.Police.Name=Cobertura da polícia
+WorldRatings.PopGrowth.Name=Crescimento da cidade
+WorldRatings.School.Name=Cobertura da escola
+WorldRatings.Services.Name=Serviços e divertimento
+WorldRatings.Sport.Name=Facilidades da recreação
+WorldRatings.Taxes.Name=Impostos
+WorldRatings.Unemployment.Name=Emprego

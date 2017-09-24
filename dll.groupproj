@@ -1,0 +1,166 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{5999c939-1825-41d2-8e77-d7fa13ec1f83}</ProjectGuid>
+  </PropertyGroup>
+  <ItemGroup />
+  <ItemGroup />
+  <ProjectExtensions>
+    <Borland.Personality>Default.Personality</Borland.Personality>
+    <Borland.ProjectType />
+    <BorlandProject>
+  <BorlandProject xmlns=""> <Default.Personality> </Default.Personality> </BorlandProject></BorlandProject>
+  </ProjectExtensions>
+  <Target Name="InputSrch">
+    <MSBuild Projects="Cache\InputSrch.dproj" Targets="" />
+  </Target>
+  <Target Name="InputSrch:Clean">
+    <MSBuild Projects="Cache\InputSrch.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="InputSrch:Make">
+    <MSBuild Projects="Cache\InputSrch.dproj" Targets="Make" />
+  </Target>
+  <Target Name="CacheManager">
+    <MSBuild Projects="Cache\CacheManager.dproj" Targets="" />
+  </Target>
+  <Target Name="CacheManager:Clean">
+    <MSBuild Projects="Cache\CacheManager.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="CacheManager:Make">
+    <MSBuild Projects="Cache\CacheManager.dproj" Targets="Make" />
+  </Target>
+  <Target Name="FolderIterator">
+    <MSBuild Projects="Cache\FolderIterator.dproj" Targets="" />
+  </Target>
+  <Target Name="FolderIterator:Clean">
+    <MSBuild Projects="Cache\FolderIterator.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="FolderIterator:Make">
+    <MSBuild Projects="Cache\FolderIterator.dproj" Targets="Make" />
+  </Target>
+  <Target Name="ModelServerCache">
+    <MSBuild Projects="Cache\ModelServerCache.dproj" Targets="" />
+  </Target>
+  <Target Name="ModelServerCache:Clean">
+    <MSBuild Projects="Cache\ModelServerCache.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="ModelServerCache:Make">
+    <MSBuild Projects="Cache\ModelServerCache.dproj" Targets="Make" />
+  </Target>
+  <Target Name="OutputSrch">
+    <MSBuild Projects="Cache\OutputSrch.dproj" Targets="" />
+  </Target>
+  <Target Name="OutputSrch:Clean">
+    <MSBuild Projects="Cache\OutputSrch.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="OutputSrch:Make">
+    <MSBuild Projects="Cache\OutputSrch.dproj" Targets="Make" />
+  </Target>
+  <Target Name="Visual">
+    <MSBuild Projects="Cache\Visual.dproj" Targets="" />
+  </Target>
+  <Target Name="Visual:Clean">
+    <MSBuild Projects="Cache\Visual.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="Visual:Make">
+    <MSBuild Projects="Cache\Visual.dproj" Targets="Make" />
+  </Target>
+  <Target Name="ClassStorage">
+    <MSBuild Projects="Class Storage\ClassStorage.dproj" Targets="" />
+  </Target>
+  <Target Name="ClassStorage:Clean">
+    <MSBuild Projects="Class Storage\ClassStorage.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="ClassStorage:Make">
+    <MSBuild Projects="Class Storage\ClassStorage.dproj" Targets="Make" />
+  </Target>
+  <Target Name="ThreadRegistry">
+    <MSBuild Projects="Kernel\ThreadRegistry.dproj" Targets="" />
+  </Target>
+  <Target Name="ThreadRegistry:Clean">
+    <MSBuild Projects="Kernel\ThreadRegistry.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="ThreadRegistry:Make">
+    <MSBuild Projects="Kernel\ThreadRegistry.dproj" Targets="Make" />
+  </Target>
+  <Target Name="FIVELogs">
+    <MSBuild Projects="Logs\FIVELogs.dproj" Targets="" />
+  </Target>
+  <Target Name="FIVELogs:Clean">
+    <MSBuild Projects="Logs\FIVELogs.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="FIVELogs:Make">
+    <MSBuild Projects="Logs\FIVELogs.dproj" Targets="Make" />
+  </Target>
+  <Target Name="MailMessage">
+    <MSBuild Projects="Mail\MailMessage.dproj" Targets="" />
+  </Target>
+  <Target Name="MailMessage:Clean">
+    <MSBuild Projects="Mail\MailMessage.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="MailMessage:Make">
+    <MSBuild Projects="Mail\MailMessage.dproj" Targets="Make" />
+  </Target>
+  <Target Name="MailBrowser">
+    <MSBuild Projects="Mail\MailBrowser.dproj" Targets="" />
+  </Target>
+  <Target Name="MailBrowser:Clean">
+    <MSBuild Projects="Mail\MailBrowser.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="MailBrowser:Make">
+    <MSBuild Projects="Mail\MailBrowser.dproj" Targets="Make" />
+  </Target>
+  <Target Name="Mailo">
+    <MSBuild Projects="Mail\Mailo.dproj" Targets="" />
+  </Target>
+  <Target Name="Mailo:Clean">
+    <MSBuild Projects="Mail\Mailo.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="Mailo:Make">
+    <MSBuild Projects="Mail\Mailo.dproj" Targets="Make" />
+  </Target>
+  <Target Name="DllPersistent">
+    <MSBuild Projects="Memory\DllPersistent.dproj" Targets="" />
+  </Target>
+  <Target Name="DllPersistent:Clean">
+    <MSBuild Projects="Memory\DllPersistent.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="DllPersistent:Make">
+    <MSBuild Projects="Memory\DllPersistent.dproj" Targets="Make" />
+  </Target>
+  <Target Name="NewsBoard">
+    <MSBuild Projects="News Server\NewsBoard.dproj" Targets="" />
+  </Target>
+  <Target Name="NewsBoard:Clean">
+    <MSBuild Projects="News Server\NewsBoard.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="NewsBoard:Make">
+    <MSBuild Projects="News Server\NewsBoard.dproj" Targets="Make" />
+  </Target>
+  <Target Name="NewsFileUtils">
+    <MSBuild Projects="News Server\NewsFileUtils.dproj" Targets="" />
+  </Target>
+  <Target Name="NewsFileUtils:Clean">
+    <MSBuild Projects="News Server\NewsFileUtils.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="NewsFileUtils:Make">
+    <MSBuild Projects="News Server\NewsFileUtils.dproj" Targets="Make" />
+  </Target>
+  <Target Name="RDOClient">
+    <MSBuild Projects="Rdo\Client\AutoServer\RDOClient.dproj" Targets="" />
+  </Target>
+  <Target Name="RDOClient:Clean">
+    <MSBuild Projects="Rdo\Client\AutoServer\RDOClient.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="RDOClient:Make">
+    <MSBuild Projects="Rdo\Client\AutoServer\RDOClient.dproj" Targets="Make" />
+  </Target>
+  <Target Name="Build">
+    <CallTarget Targets="InputSrch;CacheManager;FolderIterator;ModelServerCache;OutputSrch;Visual;ClassStorage;ThreadRegistry;FIVELogs;MailMessage;MailBrowser;Mailo;DllPersistent;NewsBoard;NewsFileUtils;RDOClient" />
+  </Target>
+  <Target Name="Clean">
+    <CallTarget Targets="InputSrch:Clean;CacheManager:Clean;FolderIterator:Clean;ModelServerCache:Clean;OutputSrch:Clean;Visual:Clean;ClassStorage:Clean;ThreadRegistry:Clean;FIVELogs:Clean;MailMessage:Clean;MailBrowser:Clean;Mailo:Clean;DllPersistent:Clean;NewsBoard:Clean;NewsFileUtils:Clean;RDOClient:Clean" />
+  </Target>
+  <Target Name="Make">
+    <CallTarget Targets="InputSrch:Make;CacheManager:Make;FolderIterator:Make;ModelServerCache:Make;OutputSrch:Make;Visual:Make;ClassStorage:Make;ThreadRegistry:Make;FIVELogs:Make;MailMessage:Make;MailBrowser:Make;Mailo:Make;DllPersistent:Make;NewsBoard:Make;NewsFileUtils:Make;RDOClient:Make" />
+  </Target>
+</Project>

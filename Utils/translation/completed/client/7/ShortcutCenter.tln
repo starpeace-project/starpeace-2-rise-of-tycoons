@@ -1,0 +1,14 @@
+=
+ShortcutCenter.Caption=キーボード近道
+Label1.Caption=登録されていたキーボード近道
+ListView1.Columns=3
+ListView1.Columns.0=記述
+ListView1.Columns.1=近道
+ListView1.Columns.2=テキスト
+Button1.Caption=加えなさい…
+Button1.Hint=近道を加えるためにかちりと鳴らしなさい
+Button2.Caption=編集しなさい…
+Button2.Hint=shorcutを編集するためにかちりと鳴らしなさい
+Button3.Caption=削除
+Button3.Hint=近道を除去するためにかちりと鳴らしなさい
+Button4.Caption=閉めなさい

@@ -1,0 +1,17 @@
+Label2.Caption=主題:
+Marquee.Caption=新しいチャネルを作成しなさい
+Marquee.Hint=新しいチャネルを作成しなさい
+btnCreate.Hint=新しいチャネルを作成するためにかちりと鳴らしなさい
+btnCreate.Text=作成しなさい
+btnCancel.Text=取り消しなさい
+Label1.Caption=新しいチャネルの名前を選びなさい:
+Label2.Caption=パスワードのチャネルを保護できる:
+Label3.Caption=パスワードを入力し直しなさい:
+ChannelName.Hint=チャネルの名前をここに入れなさい
+Password.Hint=チャネルパスワードをここに入れなさい
+PasswordCheck.Hint=パスワードをここに点検しなさい
+Label4.Caption=ゲームを選びなさい:
+Label5.Caption=許可されるプレーヤーの最高:
+Edit1.Text=0
+Tabs.TabNames=2
+Tabs.TabNames.0=雑談チャネル

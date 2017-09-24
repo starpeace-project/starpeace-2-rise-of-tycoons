@@ -1,0 +1,10 @@
+btnCancel.Text=Annullare la trascendenza
+lvMinisteries.Columns=4
+lvMinisteries.Columns.0=Ministero
+lvMinisteries.Columns.1=Ministro
+lvMinisteries.Columns.2=Valutazione
+lvMinisteries.Columns.3=Preventivo
+lbBudget.Caption=Preventivo dell'anno prossimo:
+btnSetBudget.Text=Regolare il preventivo
+btnDeposeClick.Test=Destituire
+lbMinister.Caption=Ministro:

@@ -1,0 +1,17 @@
+﻿WorldProjects.Wealth.Name=Ökonomischer Reichtum
+Target=WorldRatings
+LangId=3
+WorldRatings.CampaignAccuracy.Name=Kampagnen-Vollendung
+WorldRatings.College.Name=Hochschulen
+WorldRatings.Disposal.Name=Abfall-Beseitigung
+WorldRatings.Fire.Name=Feuer-Abdeckung
+WorldRatings.Health.Name=Gesundheits-Abdeckung
+WorldRatings.Jail.Name=Gefängnisse
+WorldRatings.Museum.Name=Museen
+WorldRatings.Police.Name=Polizei-Abdeckung
+WorldRatings.PopGrowth.Name=Stadt-Wachstum
+WorldRatings.School.Name=Schule-Abdeckung
+WorldRatings.Services.Name=Dienstleistungen und Unterhaltung
+WorldRatings.Sport.Name=Erholung-Anlagen
+WorldRatings.Taxes.Name=Steuern
+WorldRatings.Unemployment.Name=Beschäftigung

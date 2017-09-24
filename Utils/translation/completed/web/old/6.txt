@@ -1,0 +1,751 @@
+
+„klant“
+„Klanten“
+„klant“
+„Om aan geselecteerde klant“ te verkopen
+„leverancier“
+„Leveranciers“
+„leverancier“
+„Koop van geselecteerde leverancier“
+„Onderzoek naar“
+„van“
+„Firmanaam“
+De „naam van de stad“
+„Onderzoek“
+Het „terugstellen“
+„Houd met“ op
+„Voer Pakhuizen in“
+„Opslag“
+De „pakhuizen van de uitvoer“
+De „handelscentra van de stad“
+„Regelmatige Pakhuizen“
+„Fabrieken“
+De „grens van de lijst“
+De „resultaten van het onderzoek“
+„werden gevonden“
+„U kunt wat van de lijst hieronder selecteren en verhoudingen met hen beginnen door te klikken op“
+„Geen“
+„Specificeerde u waarschijnlijk te restrictieve voorwaarden die moeten worden voldaan aan. Gelieve te proberen een breder onderzoek, verlatend sommige gebieden leeg“
+„Faciliteit“
+„Bedrijf“
+„Stad“
+„Prijs“
+„Kwaliteit“
+„Selecteer allen“
+„Unselect allen“
+De „instructies van het onderzoek“
+„Aan onderzoek naar“
+„vul hierboven de vorm in en klik dan op „Onderzoek““
+„VistaGrande“
+„naar de informatie op zoek zijn u wilt. U kunt alle gebieden leeg verlaten om het meest algemene onderzoek“ te bereiken
+
+
+„O.K.“
+„Kan aan voorwerp“ binden niet
+„Kan met server“ verbinden niet
+„Droevig, is deze plaats in aanbouw“
+
+
+„FOUT: Kon niet aan Magnaat“ binden
+„FOUT: Kon niet verbinden“
+„Dit zal al uw bedrijven en faciliteiten ontmantelen. U zult opnieuw $100.000.000 van IFEL om ertoe brengen over te beginnen. Bent zeker u dit bent wat u wilt doen?“ 
+De „rekening van het terugstellen“
+„Annuleer“
+„Droevig, kan de geen informatie van de Magnaat van server“ terugwinnen
+„U hebt geen leveranciers voor“ geregistreerd 
+„Klik op <b>Add</b> om wat“ toe te voegen
+„Huur ook een Handelscentrum“
+„Auto-omvat slechts pakhuizen“
+„Voeg“ toe
+„Schrap“
+De „aanvankelijke Leveranciers worden slechts geplaatst op de lijst van leveranciers wanneer u eerst een faciliteit cre?ërt. Als u geen faciliteit met andere leveranciers verbindt, zullen de aanvankelijke leveranciers uit de leverancierslijst van de faciliteit bestaan. Al uw faciliteiten zijn automatisch ingegaan als Aanvankelijke Leveranciers tenzij u uw selectie hieronder“ beperkt 
+„Droevig, kan de geen informatie van de Magnaat van server“ terugwinnen
+„Bankrekening“
+„Datum“
+„Huidig Saldo“ 
+De „informatie van het bankwezen wordt bijgewerkt in echt - tijd. Klik "" verfrissen "" op de hulpmiddelbar voor de recentste cijfers“
+„Bank van IFEL“
+De „bank verwierp uw verzoek. U hebt reeds het maximum geleend u.“ kunt
+„FOUT: Kan handeling“ uitvoeren niet
+„Borrow“
+„Jaarlijkse Rente. Om in %1 jaar“ worden betaald
+„Verzend geld“
+„FOUT: Gevonden niet magnaat“
+„FOUT: Ongeldige hoeveelheid geld“
+„FOUT: Kan geld“ overbrengen niet
+„Verzend naar“
+„Bedrag“
+„Verzend“
+„U kunt geen geld <br> verzenden dat u met leningen <br> of als deel van uw Visum van de Investeerder“ ontving 
+„U hebt geen te verzenden geld“
+De „openbare functionarissen kunnen geen geld“ overbrengen
+„Leningen“
+„Naam van de bank“
+„Rentevoet“
+„Term“
+„Volgende betaling“
+„U bent geld aan geen bank verschuldigd. Als u geld <br> van de bank van IFEL wilt lenen, ga het bedrag in u <br> hierboven op de inputdoos wilt en <b>Borrow</b>“ klikt
+„Droevig, kan de geen informatie van de Magnaat van server“ terugwinnen
+„Lever“ resultaat op
+„<b>NOTE:</b> aangezien dit een <b>DEMO</b>- rekening is, kan <br>you geld geen <br>to overbrengen andere spelers of politieke cijfers“
+De „overdrachten van het geld worden niet toegestaan in de planeten van Toernooien“
+„U hebt de volgende bedrijven geregistreerd. <br> kies van de lijst of cre?ër nieuwe“
+„Meer Info“
+„Cre?ër Nieuw“
+„Uitgevoerd niet!“
+„<b>Note:</b> de waarden die in deze pagina worden getoond zouden verschillend kunnen zijn op dit ogenblik“
+„(dit jaar)“
+De „verkoop van het product“
+De „verkoop van de dienst“
+„Huren“
+„Andere“
+„Levering“
+„Salarissen“
+„Onderhoud“
+„Bouw“
+„Onderzoek“
+„Andere“
+De „opties van het bedrijf“
+„Kan de firmanaam niet leeg zijn noch de volgende karakters bevatten:  \/:*?"" <>|&+%“
+„Cre?ër een nieuw bedrijf“
+„Kies een naam voor uw bedrijf. Vennoot met één van de burgemeester technologische orden“
+„Fout“
+„Firmanaam“
+„Vennoot met“
+„Klik hier om het bedrijf“ te creëren
+„Annuleer en ga naar vorige pagina“
+„Droevig, kan de geen informatie van de Magnaat van server“ terugwinnen
+„Leerplan“
+„punten“
+De „rekening van het terugstellen“
+„Huidig Niveau“
+„Verbetering op volgende niveau“
+„Kon geen niveau vorig jaar bevorderen“
+„Volgende Niveau“ 
+„Vereist“
+„in het rangschikken“
+„Punt“ 
+„Prestige“
+„Droevig, kan de geen informatie van de Magnaat van server“ terugwinnen
+„<b>NOTE:</b> aangezien dit een <b>DEMO</b>- rekening is, kunt u niet niveau.“
+„Thplaats in NTA die“ rangschikt
+„Winst & Verlies“
+„Aanvankelijke Leveranciers“
+„Bedrijven“
+„Strategie“
+„Leerprogramma“
+„Klik hier om uw beeld te verzenden.“
+„niets“
+„gealigneerd“
+„Naam“ 
+„Uw beleid“
+„Zijn beleid“
+„Verandering uw beleid naar een magnaat“ 
+„Droevig, kan de geen informatie van de Magnaat van server“ terugwinnen
+„Droevig, stonden geen commerciële strategiemontages in de planeten van Toernooien toe.“
+„De waarden die in deze pagina worden getoond zouden verschillend kunnen zijn op dit ogenblik“
+„lokale leveranciers voor“
+„werden gevonden“ 
+„Faciliteit“
+„Bedrijf“
+„Stad“
+„Prijs“
+„Kwaliteit“
+„Omvat Geselecteerd“
+„Houd op met Onderzoek“
+„Pers <b>SEARCH</b> om een lijst van Verlof te verkrijgen suppliers.<br> alle lege gebieden om meest algemene search<br>“ te bereiken
+Het „autoOnderzoek van Verbindingen“
+De „opties van de magnaat“
+„Winst & Verlies“
+„Nota“
+„De Opties van de Strategie van de magnaat“
+„Commerciële Strategie“
+„Uw huidige strategiestatus:“
+De „naam van de magnaat“
+„Bondgenoot“
+„Neutraal“
+„Vijand“
+„Plaats Beleid“
+„Persoonlijk Fortuin“
+„Gemiddelde Winst (dit jaar)“
+„Totaal Prestige“
+„Adel“
+„Capaciteit“
+„van het rangschikken“
+„voor het zijn op het hoogste niveau“
+„voor het hebben van leningen“
+De „punten van het leerplan“
+„Dissidenten“
+„PGI“
+„Ondernemingen Mariko“
+„Moab“
+„Universele Pakhuizen“
+De „opties van het bedrijf“
+„Inkomens“
+„Uitgaven“
+„Ga“ terug
+„Werk met dit bedrijf“
+„Los dit bedrijf op“
+„Droevig, kan de geen informatie van de Magnaat van server terugwinnen.“
+De „lijst van het bedrijf“
+„Bedrijven“
+„U kunt tot %1“ overbrengen
+„AutoVerbindingen“
+De „rekening van het terugstellen“
+„WAARSCHUWING!“
+„Treed“ af
+„Bent zeker u u wilt van uw huidige politieke plichten afstand doen?“
+„Het creëren van een nieuw bedrijf kan de automatische aankoop van een nieuwe onderzoekVergunning impliceren. <br>Your daarna zal de Vergunning kosten: “
+De „taken zullen van een privé-leraar niet vooruitgaan als u niet als uw aanvankelijk bedrijf het programma wordt geopend. Wij stellen volledig u voor het leerprogramma alvorens een nieuw bedrijf te creëren. <br><br>If wilt u het doen hoe dan ook, ervoor zorgen wordt u het programma geopend als uw eerste bedrijf alvorens u het leerprogramma“ hervat
+
+
+„U kunt uw beeld van de Pagina van het Profiel verzenden“
+„Bezoek het Lusje van de Reclame bij de Montages van het Stadhuis om uw reclameleveranciers“ te vormen
+„Burgemeester van“
+„Wijzig hieronder de prioritaire waarden om uw publiciteitstijd“ te verdelen
+value>%1</span> klappen/uur van publiciteit.„
+„Het hoogst“
+„Hoog“
+„Normaal“
+„Laag“
+„Het laagst“
+„niets“
+„gealigneerd“
+„U kunt uw beeld van de Pagina van het Profiel verzenden“
+„Sterkste Kandidaat“
+„punten“
+„jaren aan verkiezingen“
+„jaar aan verkiezingen“
+„Geen verkiezingen op de planeten van Toernooien“
+„Geen Voorzitter“
+„Geen Burgemeester“
+„Naam“
+„Prestige“
+„Populaire Classificatie“
+„Magnaten die“ schatten
+De „classificatie van IFEL“
+„Stel Geen verplicht“
+„gealigneerd“
+„CLASSIFICATIE POPULAR<br>“
+„CLASSIFICATIE IFEL's<br>“
+„TYCOONS'< CLASSIFICATIES br>“
+„BURGEMEESTER“
+„VOORZITTER“
+„PUBLICITEIT“
+De „campagne van de lancering voor %1 in %2…“
+„FOUT: Kon niet aan Stadhuis“ binden
+„FOUT: Kon niet verbinden“
+„Trek Campagne terug“
+„Ongeldige magnaatnaam“
+„Deze magnaat kan niet als Minister“ handelen
+„Dit voorstel is O.K.!“
+„Controleer de Namen van de Minister“
+„U neemt niet aan de komende verkiezingen deel. Klik hieronder op de knoop om uw politieke campagne te lanceren. Om worden goedgekeurd, zou uw prestige hoger moeten zijn dan %1 punten“
+De „campagne van de lancering“
+„U bent %1. U kunt geen campagne“ hebben
+„Uw toepassing is ontkend. Onze verslagen tonen aan dat u reeds een openbare verplichting“ hebt
+„Droevig, vervult u niet de vereisten voor het hebben van uw eigen campagne. Uw prestige zou hoger moeten zijn dan %1 punten“ 
+„Het is te laat om een campagne te lanceren. De campagnes kunnen slechts tijdens de eerste helft van de politieke periode zijn begonnen.“
+„Geen verkiezingen worden gehouden in de planeten van Toernooien. De waarden van belastingen worden bevestigd en het noodzakelijke in zones onderver*delen wordt verstrekt wanneer de planeet wordt geopend. Er is geen minimumloon en de spelers zullen op zich voor burgerfaciliteiten moeten aflossen.“
+„*Values getoond in rood zijn die u voor het onderzoek verzond. Deze waarden zullen met die worden gemengd verzonden door andere magnaten afhankelijk van persoonlijk prestige.“
+„Nota: Klik meer dan één punt om uw advies te verzenden. Merk ook op dat het verzenden van een nieuwe waarde met voeten zal een vorige waarde treden die door u“ wordt verzonden
+„Nota: Bezoek het forum van de lokale krant om uw classificaties voor deze politicus“ te plaatsen
+„Plaats“
+„Naam“
+„Schattend“
+„Meer dan“
+„Minder dan“
+„Nota: Klik meer dan één punt om uw montages te specificeren.“
+„Niets“
+„O.K.“
+„Geen kandidaten“
+„Geen verkiezingen zijn gehouden <br> op de planeten van Toernooien“
+„Sluit“
+„YOUR<br>CAMPAIGN“
+„ALL<br>CAMPAIGNS“
+„Burgemeester“
+„Voorzitter“
+
+
+De „koepel werkt normaal“
+De „koepel werd tegengehouden door de eigenaar“
+De „koepel functioneert niet behoorlijk“
+„Één of meerdere basislevering wordt niet ontvangen bij allen“
+„Er is niet genoeg geld om te werken“
+De „koepel wordt niet geleverd aangezien het behoorlijk“ moet werken
+
+
+„HOMEPAGE“
+„Producten“
+„Levering“
+„Verbruikend“
+„Producerend“
+„van“
+„mogelijk“
+„Kwaliteit“
+„Prijs“
+„Faciliteit“
+„Bedrijf“
+„Aankopen“
+„Verkoop“
+„Voeg nieuw toe“
+„Schrap geselecteerd“
+„leverancier“
+„klant“
+„leverancier“
+„klant“
+„Eigenaar“
+„Winst“
+„vorig jaar“
+„Kosten“
+„Opbrengst“
+„Teveel betaald“
+„veranderd“
+„Overprice“
+„verbinding“
+„“ is veranderd
+„Banen“
+„Huis“
+„Aantal arbeidskrachten“
+„Eersteklas“
+„Middenstand“
+„Lage Klasse“
+„Huidige arbeiders“
+De „kwaliteit van het aantal arbeidskrachten“
+„Salarissen“
+„De het salariswaarden van percenten vertegenwoordigt de verhouding tussen huidige salarissen in deze faciliteit en standaardprijzen in de aantal arbeidskrachtenmarkt“
+„Conn“
+„Meer over“
+„Meer Info“
+„Inwoners“
+„Schoonheid“
+„Misdaad“
+„Verontreiniging“
+„Levenskwaliteit“
+„Huur“
+„Onderhoud“
+De „diensten“
+De „vraag“
+„Levering“
+
+
+„Algemene Informatie“
+De „soort van de faciliteit“
+„Stad“
+„Cluster“
+„Bedrijf“
+„CEO“
+„Verrichting“
+„Aantal arbeidskrachten“
+„Eersteklas“
+„arbeiders“
+„van“
+„Middenstand“
+„Lage klasse“
+
+
+„Bouw“
+„Aantal arbeidskrachten“
+„Eersteklas“
+„Middenstand“
+„Lage klasse“
+„Salarissen“
+„Klik hier om naam“ uit te geven
+„Onderzoek naar“
+„O.K.“
+„Annuleer“
+„Droevig, kan niet met deze faciliteit“ verbinden
+„Dit zal contracten tussen <b>%1</b> en alle fabrieken u own.<br>Also vestigen, zal <b>%1</b> aan uw lijst van standaardleveranciers worden toegevoegd.“
+„Dit zal contracten tussen <b>%1</b> en alle pakhuizen u own.<br>Also vestigen, zal <b>%1</b> aan uw lijst van standaardleveranciers worden toegevoegd.“
+„Dit zal contracten tussen <b>%1</b> en alle opslag u own.<br>Also vestigen, zal <b>%1</b> aan uw lijst van standaardleveranciers worden toegevoegd.“
+„Dit zal contracten tussen <b>%1</b> en alle faciliteiten breken u.“ hebt
+De „muiscurseur zal zijn vorm veranderen om u uitgezochte cliënten voor <b>%1</b> van map.<br>To toe te staan aborteert direct deze verrichting klikt de muis wanneer het forbiden pictogram.“ toont
+„Naam“
+„Bedrijf“
+De „algemene opties om tot <b>%1</b> een leverancier van andere faciliteiten te maken u bezitten.“
+„Algemene opties om leveranciers voor <b>%1</b> in te huren.“
+„Wenk“
+„Algemeen“
+„Huur“
+„Onderhoud“
+„Geleid tot door %1, eigenaar en CEO van %2.“
+„Wegen“
+„Vernietig“
+„In aanbouw“
+„Droevig, in aanbouw is deze plaats.“
+„Bevolking“
+„Werkloosheid“
+„Levenskwaliteit“
+„Politie“
+„Gezondheid“
+„School“
+„Brand“
+„Begonnen door %1, eigenaar en CEO van %2.“
+
+
+„Faciliteiten“
+„Bedrijven“
+„Capitool“
+„Steden“
+„U“
+„Mensen“
+„Het rangschikken“
+„Nieuws“
+„Onderzoek“
+„Achter“
+„Huis“
+„Bezeten door %1“
+„Media“
+„Netto winst“
+„Kosten“
+„ROI“
+„Reeds“
+„Nooit“
+„Verzend post“
+„Toon in kaart“
+„Rangschikkend“
+„%1 die“ rangschikt
+„Er zijn geen relevante prestaties op dit gebied te benadrukken.“
+„Inwoners“
+„Werkloosheid“
+„Levenskwaliteit“
+De „website van het bezoek“
+„Fortuin“
+„Dit jaar“
+„NTA die“ rangschikt
+„1st plaats.“
+„2de plaats.“
+„3de plaats.“
+„%1th plaats.“
+„Niveau“
+„Prestige“
+„%1 punten.“
+„Toon Profiel“
+„Verzend post“
+„Mensen“
+„Index“
+„Banken“
+
+
+
+De „hulp is in aanbouw!“
+„U hebt de volgende bedrijven geregistreerd. Kies van de lijst of cre?ër nieuwe.“
+„Bedrijven“
+„U hebt de volgende bedrijven in %1.“ geregistreerd 
+„Kies van de lijst of cre?ër nieuwe.“
+„Privé“
+„meer info“
+„%1 Faciliteiten“
+„Cre?ër Nieuw!“
+„Er is geen verslag van u in Ifel- dossiers voor %1. U hebt een visum nodig om deze wereld in te gaan. De kansen van de investering zijn eindeloos voor houders van de Visa van de Magnaat, terwijl de toeristen van hun verblijf kunnen genieten gebruikend een Visum van de Bezoeker.“
+„Het schijnt dat u reeds %1 bezocht. Welkom rug! Aangezien u moet het weten, moeten de Visa van de Bezoeker worden vernieuwd telkens als u vraagt om deze wereld in te gaan. Misschien is het tijd een Investeerder te worden!“
+Het „visum van de magnaat“
+„Krijg $100.000.000“
+„Cre?ër een bedrijf“
+„Bouw een Imperium!“
+Het „visum van de bezoeker“
+„Ontmoet nieuwe mensen“
+„Zie wat“ gebeurt
+„Word een Magnaat later“
+„Klik meer dan één van de werelden die hieronder worden vermeld om toe te treden.“
+„%1 inwoners“
+„jaar %1“
+„%1 magnaten“
+„online %1“
+„Annuleer“
+„Hulp“
+De „grote eigenaars van de Verbinding“
+„PGI“
+„Dissidenten“
+„Ondernemingen Mariko“
+„Moab“
+De „speciale eigenaars van de Verbinding“
+„Universele Pakhuizen“
+„Opgericht door de rijkste organisaties in Europa, verstrekt PGI enkele beste vandaag beschikbare technologieën. Ongeacht uw niveau, als u naar efficiency streeft en de kwaliteit PGI is is de manier aan de industrieën go.<p>PGI efficiënt en demonstreert de beste beschikbare productiekwaliteit, maar zijn faciliteiten zijn zeer duur. PGI is de enige Verbinding toegestaan om de Materialen van het Document en van de Druk in de nieuwe werelden te produceren. De chemische producten, de kleding, residentials en de handelscentra zijn zijn sterkte.“
+„Pros“
+„Cons.“
+De „zeer efficiënte industrieën, met de beste beschikbare productiekwaliteit.“
+„Hoge prijzen. De industrieën zijn soms te groot.“
+„Sterkste gebieden“
+„Zwakste gebieden“
+„Chemische producten, kleding, woningbouw, opslag en andere handelscentra.“
+„Niets ver gekend dit.“
+„Geïntroduceerdh door Markus Blomke-founder van iFEL-om de kolonies' politiek landschap, het grootste deel van de Dissidente technologie in evenwicht te brengen werd ontworpen ideaal om voor beginners.<p>Dissidents' lage prijzen van de gebouwensport te zijn de zeer, nochtans is de productiekwaliteit laag en het efficiencyniveau is niet beste beschikbaar. De dissidenten hebben de exclusiviteit op de productie van Alcoholische dranken, Speelgoed en Hout. De beste prestaties zijn in de landbouw, software, bars en media.“
+„Zeer lage prijzen. Lage niveaus van verontreiniging. Kleine ontwerpenideal voor laag bevolkte gebieden.“
+„Low quality van productie. Lage efficiency. Archiquecture is soms onhandig.“
+De „landbouw, software, bars en media.“
+„Gebouwen Residentials, mijnbouw, metallurgisch en zware industrieën.“
+„De Ondernemingen Mariko biedt hoogst aan - de concurrerende oplossingen die op de kennis worden gebaseerd die door de Japanners in de laatste Industrieën century.<p>Since wordt ontwikkeld Mariko zijn hoogst geautomatiseerd, vereisen zij minder arbeiders en zijn zeer efficiënt. Hun kleinere structuren zijn vrij goedkoop en waarborg minder verontreiniging. De plastic productie en CDs zijn gereserveerd aan de Verbinding Mariko. Zijn sterkste economische sectoren zijn elektronische componenten, advocaten, bureaus, huishoudapparaten en kantoormachines.“
+„Lage niveaus van verontreiniging. Hoogst geautomatiseerde Industies. Hoge niveaus van efficency. Vrij lage prijzen.“
+„Lage weerstand tegen misdaad en verontreiniging. De hoge automatisering kan werkloosheid verhogen.“
+„Elektronische componenten, advocaten, bureaugebouwen, huishoudapparaten en kantoormachines.“
+De „verwerking van het voedsel, residentialsgebouwen en media.“
+Een „godsdienstige orde, werd Moab opgericht in Texas door een rijke Duitse immigrant. Moab is een gemoedsgesteldheid die slechts door een sadomasochistritueel kan worden bereikt dat slechts aan zij wordt geopenbaard die cult.<p>Thanks aan de centralisatie van alle burgergebouwen in Correctioneel omhelzen, is deze verbinding het beste in het bestrijden van misdaad en brand. Moab heeft de exclusiviteit van de olie-gas productieketen: boorplatforms, raffinaderijen en benzinestations; de beste mijnbouw en de chemische producten; goede hoge en lage klassenresidentials.“
+„Grote misdaad en brandbestrijding. De zeer efficiënte industrieën. Gematigde prijzen.“
+„Donkere en soms frighting ontwerpen.	Sommige mensen houden niet van in Moab de industrieën te werken. Het is verteld dat de vreemde moorden in hun woningbouw.“ voorkomen
+De „beste mijnbouw en de chemische producten in de wereld. Eersteklas en lage klassenresidentials.“
+De „residentials en media van de middenstand. De verwerkingsprocédés van de landbouw en van het voedsel zijn verdacht.“
+De „speciale eigenaars van de Verbinding“
+De „lijst van het bedrijf“
+„U moet een geldig Online serienummer van de Erfenis verstrekken.“
+„U moet een geldig e-mailadres verstrekken.“
+„U moet uw volledige naam in echt verstrekken.“
+De „wachtwoorden u leverde passen niet.“ aan
+„U moet een wachtwoord verstrekken.“
+„U moet een alias verstrekken.“
+„Te verstrekken gelieve de volgende inlichtingen.“
+„Fout“
+„Alias“
+„Wachtwoord“
+„Geef wachtwoord opnieuw in“
+„Serienummer“
+„Volledige naam“
+„Geslacht“
+„E-mailadres“
+„E-mail me over gebeurtenissen online met betrekking tot Erfenis of mijn rekening.“
+„Verstuur me niet over gebeurtenissen online met betrekking tot Erfenis of mijn rekening met de elektronische post.“
+„Publiceer mijn e-mailadres niet aan andere spelers.“
+„Publiceer mijn e-mailadres aan andere spelers.“
+„BELANGRIJK: De alias u kiest hier zal worden gebruikt om u in het volledige Online heelal van de Erfenis te vertegenwoordigen. U zult niet het kunnen later veranderen tenzij u aan al uw possesions en verwezenlijkingen in het spel.“ aftreedt
+„O.K.“
+„Kunnen de firmanamen niet leeg zijn of de volgende karakters“ bevatten
+„Kies een naam voor uw bedrijf. Ook, verkies een technologieleverancier om te associëren met.“
+„Cre?ër Bedrijf“
+„Firmanaam“
+„Droevig, moet u het niveauParadigma bereiken of minstens 100 Punten van de Adel hebben om toegang tot de Magna Verbinding te hebben.“
+„Vennoot met“
+„Magna Corp“
+„IFEL, betrokken over overbevolking in de kolonies, verleende een Speciale Verbinding aan Magna Corp van Earth.<p>Magna specialiseert zich in zeer grote structuren: Archologies (massieve woningbouw) en reusachtige Handelscentra. Tot dusver is de enige Industrie beschikbaar aan hen de Studio's van de Film. Deze Verbinding kan slechts aan investeerders worden vergunning gegeven die het niveau van het Paradigma.“ bereikten
+„Deze technologie is vergunning gegeven slechts aan die investeerders die niveauParadigma.“ bereikten
+De „universele Pakhuizen verstrekken uitstekende pakhuistechnologie. IFEL moedigt sterk het gebruik van pakhuizen in de kolonies aan. Zij helpen de gehele economie controleren, en het beheer van grote bedrijven verlichten.“
+De „lijst van de wereld“
+De „erfenis is online onderaan“
+„„De Naam“ en „het Wachtwoord“ gebieden kunnen niet leeg worden verlaten!“
+„U staat %1 in te gaan op het punt. Ga uw naam en wachtwoord voor deze wereld in. Als u een nieuwkomerbericht bent dat de naam u binnengaat hier uw bijnaam in deze wereld zal zijn. Ook ben zeker om een wachtwoord (en vergeet het niet!) te verstrekken“
+„Naam“
+„Wacht. Vestigend contact met %1…“
+De „fout van de opening van een sessie“
+„Uw verzoek was verworpen gepast een fout.“
+„Kon niet aan Erfenis online het programma openen!“
+De „droevige, maar Online servers van de Erfenis zijn neer. <br>You kan niet nu het programma openen. Gelieve te proberen later.“
+„Gevonden niet server. <br>Please zeker is dat u een actieve verbinding aan het Net.“ hebt
+„Ongeldige <b>User Name</b>.“
+„Er is iemand dat de naam gebruikt u.“ specificeerde
+„Er zijn twee mogelijke oorzaken voor deze fout“
+„(a) u registreert voor het eerst en u koos een naam die reeds.“ wordt genomen
+„(b) u hebt reeds een identiteit in deze wereld maar u specificeerde een ongeldige <b>password</b> of schreef uw naam verkeerd. Weet het voor het geval dat u uw wachtwoord vergat. Wij kunnen u helpen om het achter te krijgen.“
+„Hoe u dat deed! Dit is geen gemeenschappelijke fout. <br>It kan gebeuren wanneer twee mensen proberen het programma te openen tezelfdertijd gebruikend zelfde <b>User Name</b>. <br>The allereerste krijgt men de rekening, tweede zal moeten het programma openen gebruikend een verschillende naam. <br>This is uw geval.“
+„Wat hoe de server niet aan cliëntcallbacks kon binden.“
+„U kunt niet het programma openen gebruikend die naam!“
+Een „onbekende fout kwam.“ voor
+„Als u dit soort foutenrapport aan Oceanus.“ vaak gelieve te worden
+„Plons“
+Een „spel door“
+„Klik om binnen te gaan…“
+De „erfenis kon niet online uw rekeningsinformatie in de server opslaan. Gelieve te proberen opnieuw en aan Oceanus te rapporteren voor het geval dat het.“ opnieuw ontbreekt
+„Deze rekening is reeds in gebruik. Gelieve te proberen alias een andere.“
+„Ongeldig Serienummer“
+„Kon niet met Erfenis Online+servers“ verbinden
+„Opening van een sessie VIJF“
+„Nu kunt u te werk gaan binnen te ondertekenen. Klik hieronder de O.K. knoop om naar het teken-binnen scherm terug te keren.“
+De „naam die u ongeldig is hebt verstrekt of er is reeds een bedrijf dat gebruikt die naam.“
+Een „onbekend probleem kwam toen het proberen om uw bedrijf te registreren voor. Gelieve te proberen opnieuw.“
+„NOTA: Op het ogenblik slechts kunnen de Visa van de Bezoeker in deze wereld worden verleend omdat het zijn maximumcapaciteit van Magnaten.“ heeft bereikt
+„Tremendos carnas 0“
+„Tremendos carnas 1“
+„Tremendos carnas 2“
+„Tremendos carnas 3“
+„Tremendos carnas 4“
+„NOTA: Op het ogenblik slechts kunnen de Visa van de Bezoeker in deze wereld worden verleend omdat het zijn maximumcapaciteit van de Magnaat heeft bereikt. Probeer uw avontuur van de Investeerder in één van de andere werelden.“
+tidTycoonVisaNote
+„NOTA: Op het ogenblik, kunt u geen Visum van de Magnaat voor deze wereld krijgen. Onze verslagen tonen aan dat u reeds speelt aangezien de Magnaat in het maximumaantal werelden toegestaan door uw Adel.“ richt
+
+
+
+„Burgemeester van“
+„O.K.“
+„Classificaties van“
+„FOUT: Kon niet aan Stadhuis“ binden
+„FOUT: Kon niet verbinden“
+„U moet een titel voor uw kolom“ leveren
+„Er was een fout terwijl het posten van uw bericht. Gelieve te proberen opnieuw“
+„Klik“
+„hier“
+„om naar uw vorm“ terug te keren
+„door“
+„Onthaal aan de %1 redactiesectie“
+„Klik op de verbindingen bij de linkerzijde om de kolommen te lezen die door uw medeinvesteerders worden gepubliceerd. Controleer de vorm hieronder voor het geval dat u uw eigen kolom“ wilt posten
+„Post een kolom“
+„Onderwerp“
+„Tarief“
+„Voorzitter“
+„Burgemeester“
+„Antwoord op deze kolom“
+„Post in hoofddraad“
+„PostKolom“
+De „vorm van het terugstellen“
+„Te verstrekken gelieve een titel aan uw politieke verklaring“
+„Ga hier uw classificaties in. Het verlof in spatie de waarden u wil niet worden gewijzigd“
+„Nota: Uw classificaties zullen afhankelijk van uw prestige“ worden in acht genomen
+„Uw commentaren op uw classificaties“
+„Leg Classificaties voor“
+„Stel Vorm terug“
+„LEES KOLOMMEN“
+„LEES NIEUWS“ 
+„SLUIT“
+„Verbindend met %1 servers…“
+„Laatst 10 kolommen:“
+„Post een kolom“
+„Antwoorden:“
+„Alle kolommen“
+„Laatst 3 kolommen“
+„Plaatsend“
+„aan“
+
+
+„Normaal werkend“
+„Opgehouden door de eigenaar“
+Het „probleem van de verrichting“
+Een „essentiële levering (of meer) wordt niet ontvangen“
+„Niet genoeg geld om te werken“
+„Niet genoeg levering“
+
+
+„Ga in geschiedenis terug“
+„Ga in geschiedenis door“
+„Verfris alle meningen“
+De „navigatie van het einde“
+„Homepage Starpeace“
+De „vertoning bouwt menu“
+„Krijg een visum van de Investeerder“
+„Onderzoek het Web“
+Het „profiel van de gebruiker“
+De „mening van de kaart“
+De „mening van het heelal“
+„Post“
+„Praatje“
+„Opties“
+„Vraag GMs naar Hulp“
+
+
+„Opties“
+„Bouw“
+„Achter“
+„Huis“
+„Info van de huid“
+„Meer info“
+De „lijst van de faciliteit“
+„NIET BESCHIKBAAR“
+De „bouw moet in heldergroene streek of geen streek bij allen“ worden gevestigd
+De „bouw moet in medio groene streek of geen streek bij allen“ worden gevestigd
+De „bouw moet in donkergroene streek of geen streek bij allen“ worden gevestigd
+De „bouw moet in gele streek of geen streek bij allen“ worden gevestigd
+De „bouw moet in blauwe streek of geen streek bij allen“ worden gevestigd
+„Bouw nu“
+„Wegen“
+„Burgemeester“
+„Minister“
+„Voorzitter“
+„van“
+„U bent niet de burgemeester!“
+De „leerlingen kunnen geen weg“ aanleggen
+„Gezondheid“
+„Onderwijs“
+„Defensie“
+„Landbouw“
+„Lichte Industrie“
+„Zware industrie“
+„Handel“
+„Huisvestend“
+„Stad die“ plant
+„Bouw Capitool“
+„Eersteklas woon“
+„Middenklasse woon“
+„Laag-klasse woon“
+„Commercieel“
+„Maatschappijleer“
+„Bureaus“
+„Industrieel“
+„Gereserveerd“
+„DE-streek“
+De „opties van de weg“
+„Vernietig“
+„Spoorweg“
+Een „korte historische achtergrond…“
+De „actie vindt in de nabije toekomst plaats. De aarde is op de rand van instorting. De overbevolking en het misbruik van aard hebben, een eens groene droge planeet gelopen. De eerste landen van de Wereld worden bereid om naar oorlog tegen de landen van de Derde wereld te gaan, hopend zal dit de situatie.“ verminderen
+„Aangezien een alternatief voor dat, IFEL (Internationale Stichting voor het Buitenaardse Leven) een revolutionair programma aanbiedt, noemde de code <b>Legacy</b>.“
+De „mening van IFEL“
+„IFEL controlesportalen van geheimzinnige oorsprong. Deze portalen worden gebruikt om de nieuwe werelden te bevolken.“
+„Earthlings kan voor een visum van toepassing zijn IFEL en het nieuw leven in één van deze werelden vinden. Die eminente individuen die kwalificeren worden verleend een speciaal soort visum: het visum van de Investeerder. De investeerders ontvangen 100 miljoen dollar van IFEL om deze kolonies te ontwikkelen. <b>You kan één van them.</b>“ zijn
+De „verbinding“
+„Uitgezocht weinig bedrijven in de wereld kan de veelzijdigheid en de macht aanpassen die wordt vereist om een Verbinding te winnen IFEL.“
+De „verbinding staat een bedrijf toe om technologieoplossingen aan investeerders te verstrekken. De huidige Eigenaars van de Verbinding zijn: PGI, Ondernemingen Mariko, Dissidents Inc, Moab en de Anderhalve liter flessen.“
+„Het tarief informatie“
+„<b>Legacy Online</b> zal tot nader order.“ vrij zijn
+De „vereisten van het systeem“
+„<b>Legacy Online</b> in werking stellen moet u“
+„Pentium II 500 Mhz, 32 MBytes RAM“
+„Windows 95, 98, NT 4.0, 2000, XP“
+„800x600- hicolorresolutie of groter“
+„Internet Explorer 5.5“
+„50 MBytes harde schijfruimte“
+De „actieve verbinding van Internet“
+„Modem 28.8 Kb/s“
+De „snelheid van uw videokaart op deze wijzen zal voor uw gameplay.“ bepalend zijn
+„Onthaal aan Erfenis online“
+„Dit programma zal online Erfenis op uw computer.“ installeren
+„Kies één van de volgende verbindingen als u meer wilt kennen alvorens u“ installeert
+„Vereisten“
+„De prijs vaststellend van“
+„Bijwerkende componenten…“
+„<b>Legacy Online</b> zoekt naar nieuwere componenten.“
+„Opening van een sessie VIJF“
+„Nieuw“
+„Schrap“
+„Antwoord“
+„Door:sturen“
+„Post Bericht“
+„Klik op het lusje <b>Inbox</b> om de berichten te zien u.“ hebt ontvangen
+„Klik op het lusje <b>Sent</b> om de berichten te zien u.“ hebt verzonden
+„In <b>Draft</b> zult u onvolledige berichten die door u worden gespaard.“ vinden
+„Klik %1here%2 om meer over de Post van de Reiziger te lezen.“
+„Post Bericht“
+„Geen gehechtheid.“
+„Fout: Kan het bericht openen niet…“
+„Sluit“
+„Van“
+„Aan“
+„Onderwerp“
+„Datum“
+„Onthaal aan %1!“
+„CERTIFICAAT“
+„In zones onderver*delend Alarm!“
+„Sommige van de uw bouw zijn uit in zones ondergever*deeld. Dit is een lijst van hen. Klik op de verbinding om de kaartbeweging daar te hebben.“
+„Naam:“
+„Bedrijf:“
+„In zones ondergever*deeld door:“
+„Datum Demoliton:“
+„Succesvolle de overdracht van het geld“
+„National Bank“
+„Bedrag“
+„Beste %1:“
+De „onafhankelijke Federale Overheid van %1 geeft u het warmste onthaal. Wij hopen u hier uw fortuin in ons land zult vermenigvuldigen, dat nu van u is. Als handeling van diepgaande sympathie is onze Overheid trots om u de voorwaarde van „Gast van Eer“ te geven.“
+„Zijn hier sommige nuttige verbindingen“
+„Hoe te om uw geld“ te investeren
+„%1, het land“
+De „grondwet van %1“
+„Over de Gast van de toekenning van de Eer“
+feedback>your kon feedback</a> en u het spel beïnvloeden! Een het opwekken nieuwe grens wacht op, ga nu en bloei!„
+„Deze e-mailrekening werd gecre?ërd gratis. U kunt het gebruiken om berichten met andere mensen te verzenden en te ontvangen die reeds een woonplaats in %1, echter, het zullen werken hebben om geen berichten naar andere werelden, met inbegrip van Aarde te verzenden. Aangezien u moet het weten, ontwikkelt de Werkgroep van de Techniek van Internet nog een protocol dat door portalen kan worden gebruikt.“
+„Als Investeerder hebt u het recht op een vrije e-mailrekening voor om het even welk bedrijf u cre?ërt. Deze rekeningen zullen ook gecreërd worden bij %1.net, ons hoofddomein.“
+„Goed geluk in zaken!“
+„Onthaal aan boord,“
+„Globaal“
+De basis Strategie Page>Strategy Section</a>.<br><br>If u wenst niet om deze benoeming goed te keuren of u zou tijdens uw termijn aftreden, op het Bedrijf van de Minister overschakelen, naar de Pagina van het Profiel willen gaan en op Resign Button.<br><br>Regards klikken, <br>IFEL de Raad.„
+„Gelieve te wachten terwijl <b>Legacy Online</b> nieuwe dossiers…“ downloadt
+„Geen Geld aan Onderzoek“
+„Beste <b>%1</b>, <br> volgens onze verslagen, u probeerden aan onderzoek <b>%2</b> bij het hoofdkwartier van bedrijf <b>%3</b>.“
+„Hebt u jammer genoeg genoeg fondsen niet om het te voltooien zonder uw rekening onder het Nauwkeurige onderzoek van het Faillissement te verzenden. <br><br> gelieve te wachten tot u meer geld alvorens het hebt opnieuw te onderzoeken.“
+„Jammer genoeg, hebt u genoeg fondsen voor de vergunning niet in bijlage aan het, en de aankoop van dergelijke vergunning zou uw bedrijf onder het Nauwkeurige onderzoek van het Faillissement sturen. <br><br> gelieve te wachten tot u meer geld hebt of nadenkt verkopend een andere vergunning alvorens het opnieuw te onderzoeken.“
+„Achting, <br><br>IFEL de Raad“
+

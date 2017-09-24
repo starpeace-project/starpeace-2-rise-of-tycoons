@@ -1,0 +1,9 @@
+btnConnect.Text=SKOK ŚWIAT
+ChatLine.Lines=(1)
+ChatLine.Lines.0=Wchodzić Do gadka tekst tutaj…
+btnConnect.Hint=Dzwonić Gemowy Mistrz
+btnConnect.Text=DZWONIĆ GRA MISTRZ
+btGMOptions.Hint=Wystawiać Opcja
+btGMOptions.Text=OPCJA
+btClose.Text=ZAKOŃCZENIE
+Label8.Caption=GM:

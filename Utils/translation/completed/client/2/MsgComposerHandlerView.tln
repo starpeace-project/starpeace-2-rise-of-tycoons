@@ -1,0 +1,8 @@
+CaptionPanel.Caption=ERREUR INCONNUE
+SendBtn.Hint=Cliquer pour envoyer votre message
+SendBtn.Text=Envoyer
+SaveBtn.Hint=Cliquer pour sauver votre message
+SaveBtn.Text=Économiser
+CloseBtn.Hint=Fermer ce message
+CloseBtn.Text=Se fermer
+Label1.Caption=:

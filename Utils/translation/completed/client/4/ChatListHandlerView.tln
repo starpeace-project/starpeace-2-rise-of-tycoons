@@ -1,0 +1,10 @@
+ChannelName.Caption=Riunione segreta
+Label1.Caption=Chiacchierata
+IgnoreUser.Hint=Scattar per ignorare l'utente attualmente selezionato
+IgnoreUser.Text=Ignorare l'utente
+ChatOverMap.Hint=Scattar per chiacchierare mentre passano in rassegna il programma
+ChatOverMap.Text=Chiacchierare sopra il programma
+FollowUser.Hint=Scattar per seguire l'utente selezionato
+FollowUser.Text=Seguire l'utente
+VoiceChat.Hint=Scattar per ottenere il pannello di chiacchierata di voce
+VoiceChat.Text=Comunicare il pannello

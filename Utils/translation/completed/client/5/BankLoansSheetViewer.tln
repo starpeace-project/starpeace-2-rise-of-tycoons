@@ -1,0 +1,5 @@
+lbBankResult.Caption=这家银行没有足够建立现在支付。
+lvLoans.Columns=4
+lvLoans.Columns.0=债家
+lvLoans.Columns.1=数额
+lvLoans.Columns.2=兴趣

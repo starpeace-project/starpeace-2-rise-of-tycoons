@@ -1,0 +1,14 @@
+﻿Ratings.Wealth.Name=Хозяйственное богатство
+Target=WorldProjects
+LangId=11
+WorldProjects.College.Name=Коллежи
+WorldProjects.Disposal.Name=Избавление отброса
+WorldProjects.Fire.Name=Охват пожара
+WorldProjects.Health.Name=Охват здоровья
+WorldProjects.Jail.Name=Тюрьмы
+WorldProjects.Museum.Name=Музеи
+WorldProjects.Police.Name=Охват полиций
+WorldProjects.School.Name=Охват школы
+WorldProjects.Services.Name=Обслуживания и занятность
+WorldProjects.Sport.Name=Средства воссоздания
+WorldProjects.Unemployment.Name=Незанятость

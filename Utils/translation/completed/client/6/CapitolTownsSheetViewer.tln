@@ -1,0 +1,11 @@
+Label14.Caption=%
+lvTowns.Columns=6
+lvTowns.Columns.0=Naam
+lvTowns.Columns.1=Bevolking
+lvTowns.Columns.2=QOL
+lvTowns.Columns.3=Handel
+lvTowns.Columns.4=Rijkdom
+lvTowns.Columns.5=Belasting
+lbTax.Caption=Belasting: 0%
+pbTax.Hint=0%
+btnElect.Text=Verkies

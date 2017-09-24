@@ -1,0 +1,5 @@
+lbBankResult.Caption=Die Bank hat keine genug gründet, um jetzt zu zahlen.
+lvLoans.Columns=4
+lvLoans.Columns.0=Schuldner
+lvLoans.Columns.1=Menge
+lvLoans.Columns.2=Interesse

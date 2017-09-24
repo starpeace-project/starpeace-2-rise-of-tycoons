@@ -1,0 +1,16 @@
+=
+lbName.Caption=Mapa universal
+Tabs.TabNames=3
+Tabs.TabNames.0=Mundos oficiales
+Tabs.TabNames.1=Mundos del torneo
+Tabs.TabNames.2=Mundos del jugador
+Label11.Caption= Mundos encontrados en esta área:
+Label9.Caption=Clase cerca:
+RadioButton1.Caption=Estallido
+RadioButton2.Caption=Inversionistas
+RadioButton3.Caption=Año
+RadioButton4.Caption=PING
+Ticker.Caption=Recepción al mapa de Univesal. Chascar encendido los mundos uces de los arriba para exhibir la información extendida.
+Jump.Hint=Saltar al planeta seleccionado actual
+Jump.Text=SALTAR AL PLANETA
+Refresh.Hint=Restaurar la lista del planeta exhibida arriba

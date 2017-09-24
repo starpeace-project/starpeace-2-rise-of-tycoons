@@ -1,0 +1,17 @@
+WorldProjects.Wealth.Name=Economische Rijkdom
+Target=WorldRatings
+LangId=6
+WorldRatings.CampaignAccuracy.Name=De Verwezenlijking van de campagne
+WorldRatings.College.Name=Universiteiten
+WorldRatings.Disposal.Name=De Verwijdering van het huisvuil
+WorldRatings.Fire.Name=De Dekking van de brand
+WorldRatings.Health.Name=De Dekking van de gezondheid
+WorldRatings.Jail.Name=Gevangenissen
+WorldRatings.Museum.Name=Musea
+WorldRatings.Police.Name=De Dekking van de politie
+WorldRatings.PopGrowth.Name=De Groei van de stad
+WorldRatings.School.Name=De Dekking van de school
+WorldRatings.Services.Name=De diensten en Vermaak
+WorldRatings.Sport.Name=De Faciliteiten van de recreatie
+WorldRatings.Taxes.Name=Belastingen
+WorldRatings.Unemployment.Name=Werkgelegenheid

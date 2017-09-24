@@ -1,0 +1,11 @@
+Label3.Caption=賃貸料の価格:
+Label9.Caption=総索引:
+xfer_GQOS.Caption=0
+lvServices.Columns=8
+lvServices.Columns.0=名前
+lvServices.Columns.1=要求
+lvServices.Columns.2=提供
+lvServices.Columns.3=容量
+lvServices.Columns.4=比率
+lvServices.Columns.5=IFELの価格
+lvServices.Columns.6=Avg。 価格

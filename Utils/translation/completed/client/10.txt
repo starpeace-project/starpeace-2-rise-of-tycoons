@@ -1,0 +1,2228 @@
+6
+Publicitário
+Proprietário
+Preço
+Pagado em excesso
+Último
+Qualidade
+Último valor:
+n/a
+Custo:
+n/a
+Propaganda:
+0%
+0
+Estalar aqui para empregar clientes novos
+Aluguer
+Estalar aqui para modificar a conexão selecionada
+Modificar
+3
+Nome
+Cidade
+Visores
+
+
+Painel
+
+
+0%
+Orçamento:
+0%
+Interesse:
+0%
+0%
+Emprestar aos pontos mortos
+Emprestar aos inimigos
+Termo (anos):
+30%
+20
+Dinheiro do empréstimo do banco
+Empréstimo
+Demulir esta facilidade
+Demulir
+Fechar esta facilidade
+Fechar
+Uma quantidade:
+Dinheiro do empréstimo aqui:
+Nome:
+O banco não tem nenhum bastante funda para pagar agora.
+4
+Devedor
+Uma quantidade
+Interesse
+Termo
+Presidente:
+Nenhum
+Avaliação popular:
+Avaliação dos empresários bem sucedido:
+Mandato Nº:
+Anos às eleições:
+Nenhum
+Nenhum
+Nenhum
+Nenhum
+Clique para visitar a página da política do presidente
+Presidente Política Página da visita
+QOL:
+100
+%
+6
+Nome
+População
+QOL
+Comércio
+Riqueza
+Imposto
+Imposto: 0%
+0%
+Eleger
+Mayor:
+ChangeLogView
+
+
+GradientBox1
+Estalar aqui para fazer estas notícias não aparecer outra vez
+EU SEI
+Mostrar estas notícias outra vez, mais tarde
+MAIS TARDE
+Notícia em linha do legado
+
+Panel1
+
+Panel1
+
+
+1
+Não há nenhum evento novo a relatar
+Informação da carta da transferência…
+Pesaroso: Nenhuma informação da história estará disponível até o fim deste ano.
+Fechar esta janela
+FIM
+Datilografar seus comentários aqui:
+Nenhumas canaletas a mostrar
+Estalar para criar uma canaleta
+Criar a canaleta
+Estalar para juntar-se a uma canaleta
+Juntar-se à canaleta
+Estalar para deixar a canaleta
+Deixar a canaleta
+BOA VINDA ao BATE-PAPO de Starpeace.
+BOA VINDA ao BATE-PAPO de Starpeace.
+Reunião secreta
+Bate-papo
+Estalar para ignorar o usuário selecionado atualmente
+Ignorar o usuário
+Estalar para conversar ao consultar o mapa
+Conversar sobre o mapa
+Estalar para seguir o usuário selecionado
+Seguir o usuário
+Estalar para começ o painel do bate-papo da voz
+Falar o painel
+Registro
+Registro
+Janela próxima
+Nenhuma informação…
+Recepção:
+n/a
+n/a
+Pedido:
+Relação:
+n/a
+0%
+Confirmar a senha
+Este é a primeira vez você registro no domínio paralelo.
+Confirmar por favor sua senha:
+Senha:
+Confirmar a senha:
+Incorporar a senha aqui
+Confirmar a senha aqui
+APROVAÇÃO
+Cancelamento
+Conetar…
+Esperar por favor…
+
+
+
+GradientBox1
+Desconhecido
+
+Reputação:
+
+Dinheiro:
+
+n/a
+
+Despesas:
+
+n/a
+
+n/a
+
+Aplicação próxima
+x
+
+2
+EQUIPES
+HISTÓRIA
+
+Conexão
+
+NewId
+
+Equipes
+
+História
+
+Esperar por favor quando Starpeace conetar ao Crimininal arquiva…
+
+Você não tem uma identidade criminosa. Se você quer criar um, você deve escolher um criminoso aliás. Este pseudônimo é original e secreto. Será usado para identificar suas ações neste planeta.
+
+Incorporar seu pseudônimo criminoso aqui:
+
+Indicar ferramentas do mapa da folha de prova
+Criar a identificação criminosa
+NOTA: Se você se torna furado deste pseudônimo, você terá que restaurar seu perfil criminoso inteiro. Tentar escolher um pseudônimo que você mantenha para sua toda a vida.
+
+
+
+ERRO!
+
+Equipe:
+
+Ferramentas do mapa da folha de prova da exposição
+Licenciar a equipe
+Indicar ferramentas do mapa da folha de prova
+M I S S I O N
+Ferramentas do mapa da folha de prova da exposição
+Ajustar matrizes
+Indicar ferramentas do mapa da folha de prova
+Ir às matrizes
+Indicar ferramentas do mapa da folha de prova
+Equipe nova
+n/a
+
+Custo:
+
+Lucro líquido:
+
+n/a
+
+Anos do funcionamento:
+
+n/a
+
+Ferramentas do mapa da folha de prova da exposição
+Lista do criminoso da vista
+Ferramentas do mapa da folha de prova da exposição
+História da equipe
+
+
+
+
+Estalar aqui para empregar um criminoso
+
+
+APRONTAR!
+APRONTAR!
+…
+
+
+
+Slot2
+
+Panel5
+
+Estalar aqui para empregar um criminoso
+
+
+APRONTAR!
+APRONTAR!
+…
+
+Panel4
+
+Panel5
+
+Estalar aqui para empregar um criminoso
+
+
+APRONTAR!
+APRONTAR!
+…
+
+Panel4
+
+Panel5
+
+Estalar aqui para empregar um criminoso
+
+
+APRONTAR!
+APRONTAR!
+…
+
+Panel4
+
+Panel5
+
+Estalar aqui para empregar um criminoso
+
+
+APRONTAR!
+APRONTAR!
+…
+
+Panel4
+
+Panel5
+
+Estalar aqui para empregar um criminoso
+
+
+APRONTAR!
+APRONTAR!
+…
+
+Panel4
+
+Panel5
+
+Estalar aqui para empregar um criminoso
+
+
+APRONTAR!
+APRONTAR!
+…
+
+Panel4
+
+
+
+Estalar aqui para empregar um criminoso
+
+
+APRONTAR!
+APRONTAR!
+…
+
+
+
+
+
+
+
+Suprimir desta identidade
+SUGESTÃO: Você deve ajustar matrizes para esta equipe.
+SUGESTÃO: Você deve ajustar matrizes para esta equipe.
+Crime
+
+Janela próxima
+x
+HISTÓRIA
+HISTÓRIA
+
+
+
+
+
+
+2
+DISPONÍVEL
+TERMINADO
+
+Disponível
+
+Completo
+
+
+
+
+Ferramentas do mapa da folha de prova da exposição
+T R A I N
+Ferramentas do mapa da folha de prova da exposição
+Fim
+
+
+
+
+Ferramentas do mapa da folha de prova da exposição
+Fim
+
+CriminalRosterView
+
+Criminosos que querem juntar-se a esta equipe:
+
+Ferramentas do mapa da folha de prova da exposição
+< PRECEDENTE
+Ferramentas do mapa da folha de prova da exposição
+MAIS >
+Ferramentas do mapa da folha de prova da exposição
+H I R E
+Aplicação próxima
+x
+Panel4
+
+Panel5
+
+
+Panel4
+
+Panel5
+
+
+Panel4
+
+Panel5
+
+
+Panel4
+
+Panel5
+
+
+CriminalView
+
+
+GradientBox1
+James Bulger
+
+Ferramentas do mapa da folha de prova da exposição
+Fogo!
+Ferramentas do mapa da folha de prova da exposição
+Trem
+Ferramentas do mapa da folha de prova da exposição
+Movimento
+Ferramentas do mapa da folha de prova da exposição
+História
+0%
+Salário:
+
+n/a
+
+Papel na equipe:
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+Aplicação próxima
+x
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+
+
+Panel3
+
+Panel4
+
+
+Nenhuns comentários
+Nenhuns comentários
+
+
+
+
+
+
+
+
+
+
+
+
+Descrição
+Incorporar a descrição do atalho aqui
+Atalho
+Selecionar o atalho
+Texto
+Adicionar
+Cancelar
+Título:
+Lançamento
+n/a
+Tempo:
+Orçamento:
+Cancelamento
+Liberação
+$10.000.000
+Auto liberação
+12
+Produção periódica do filme
+Saltar ao mundo do cliente
+SALTAR AO MUNDO
+1
+Incorporar o texto do bate-papo aqui…
+Chamar um mestre de jogo
+CHAMAR O MESTRE DE JOGO
+Indicar opções
+OPÇÕES
+FIM
+Fala ao GM:
+Nenhum
+Lista de mestres de jogo
+Mover o mestre de jogo acima na lista de prioridade
+MOVER
+Mover o mestre de jogo para baixo na lista de prioridade
+ABAIXAR
+Remover o mestre de jogo da lista
+REMOVER
+Fazer o mestre de jogo um de seus favoritos
+FAVORITO
+Dar o tratamento do normal do mestre de jogo
+NORMAL
+Ignorar este mestre de jogo
+IGNORADO
+Ajustar a prioridade do GM:
+FIM
+Organizar mestres de jogo na lista abaixo:
+Mover
+Abaixar
+-
+Prioridade
+O mais altamente
+Normal
+Ignorado!
+Supressão
+Fala a você:
+3
+Aliás
+Nível
+Mundo
+Esperando o:
+3
+Aliás
+Nível
+Mundo
+&File
+E&xit
+Atalhos
+Minimizar
+Bate-papo!
+Espera!
+HintBoxWindow
+
+
+Texto da sugestão
+
+Janela próxima
+x
+Janela próxima da história
+Fim
+HISTÓRIA
+HISTÓRIA
+Nome:
+Criador:
+n/a
+Idade:
+n/a
+Clique para fechar esta facilidade
+Fim
+Estalar para demulir esta facilidade
+Demulir
+n/a
+Estalar para conetar esta facilidade a outro no mapa
+Conetar
+Custo:
+n/a
+ROI:
+n/a
+Nome:
+Proprietário:
+n/a
+Custo:
+n/a
+ROI:
+n/a
+Idade:
+n/a
+Clique para fechar esta facilidade
+Fim
+Clisk para demulir esta facilidade
+Demulir
+Estalar para conetar esta facilidade a outro no mapa
+Conetar
+n/a
+Coneta esta facilidade a todas suas lojas
+Venda a tudo lojas
+Coneta esta facilidade a todas suas fábricas
+Venda a todas as fábricas
+Coneta esta facilidade a todos seus armazéns
+Venda a todos os armazéns
+Desconecta esta facilidade de todas suas lojas
+Não vender às lojas
+Coneta esta facilidade a todas suas fábricas
+Não vender às fábricas
+Coneta esta facilidade a todos seus armazéns
+Não vender aos armazéns
+Trocar a modalidade:
+Comércio com:
+3
+Armazém da companhia
+Exportador
+Importador
+3
+Nenhum
+Aliados somente
+Qualquer um
+
+APROVAÇÃO
+Nome:
+Companhia:
+Sobrepaga:
+x
+
+Cancelamento
+Supressão
+0%
+0%
+n/a
+n/a
+Proprietário:
+Cidade:
+Clique a procurarar por clientes para o produto selecionado
+BUSCA >
+Contagem:
+Dar entrada com um nome da companhia para limitar a busca para clientes às facilidades dessa companhia somente
+Importar armazéns
+Verific se você quer incluir armazéns da importação na busca para clientes
+Armazéns regulares
+Verific se você quer incluir armazéns regulares na busca para clientes
+Lojas
+Verific se você quer incluir lojas na busca para clientes
+Fábricas
+Verific se você quiser fábricas da verificação quando busca para clientes
+Máximo seleto dos clientes que você quer procurarar por
+20
+3
+Edifício
+Proprietário
+Cidade
+Selecionar tudo clientes encontrados
+Selecionar tudo
+Unselect todo encontrou clientes
+Unselect todo
+Estalar para começar vender a todos os clientes selecionados
+VENDER AO SELECIONADO
+Fechar
+Dar entrada com o nome de uma cidade aqui para limitar a busca para clientes a tal cidade
+3
+DISPONÍVEL
+PESQUISA
+TORNADO
+Estalar aqui para começar a pesquisa
+Pesquisa
+Estalar aqui para parar a pesquisa
+Parar
+Estalar aqui para vender a pesquisa
+Venda
+Fim
+PESQUISA
+Transferência…
+n/a
+n/a
+Nenhuns fornecedores
+Aberto
+Fim
+Fim
+Aberto
+Fim
+O empréstimo foi concedido.
+O banco rejeitou seu pedido.
+O banco não tem bastante funda para pagar agora.
+Erro desconhecido.
+Transferência…
+Nenhuns empréstimos…
+anos de %s
+um ano
+Nenhum
+Nenhum
+Nenhum
+Nenhum
+Começo
+Batente
+Começo
+Mapa da transferência…
+Aberto
+Fim
+Já
+anos de %s
+Nunca
+n/a
+%s somente
+Fim
+Aberto
+Fim
+Aberto
+Fim
+Fim
+Aberto
+Fim
+Nenhum
+Transferência…
+Transferência…
+Venda (+%s)
+nenhum ministro
+Nenhum
+Transferência…
+Batente
+Transferência do retrato parada.
+Batente
+Emitindo o retrato.
+Agora você está pronto para emitir este retrato agradável, clique emite para prosiguer.
+Processando a imagem.
+Não podia emitido o retrato, por favor experimentar de novo mais tarde.
+O Voyager está emitindo o retrato ao usuário.
+Não podia emitir o retrato ao usuário.
+Emitir
+Nova tentativa
+anos de %s
+um ano
+pontos de %s
+Nenhum
+Nenhum
+Nenhum
+Nenhum
+Nenhum
+n/a
+Transferência…
+Nenhuns clientes
+Aberto
+Fim
+Já
+anos de %s
+Nunca
+n/a
+n/a
+Fim
+Aberto
+Fim
+Aberto
+Fim
+Já
+anos de %s
+Nunca
+Fim
+Aberto
+Fim
+n/a
+n/a
+Transferência…
+Nenhum
+Nenhuns fornecedores
+anos de %s
+um ano
+pontos de %s
+Nenhum
+Nenhum
+Nenhum
+Nenhum
+Nenhum
+n/a
+n/a
+n/a
+n/a
+n/a
+Transferência…
+Vazio
+Transferência…
+Vazio
+Transferência…
+Vazio
+Transferência…
+Subvencionado
+Subvencionado
+Nenhum
+Imposto: %s%%
+Subvencionado
+Aberto
+Fim
+Já
+anos de %s
+Nunca
+n/a
+Fim
+Aberto
+Fim
+Aberto
+Fim
+Já
+anos de %s
+Nunca
+n/a
+Fim
+Aberto
+Fim
+Um erro do unknow ocorreu ao tentar transferir o mapa.
+O legado em linha não podia escrever a lima do mapa em seu sistema.
+O legado em linha não podia encontrar a lima do mapa no usuário.
+O legado em linha não podia decompress o mapa. Verific por favor para ver se há o espaço extra de movimentação.
+Um erro do unknow ocorreu ao tentar transferir o mapa.
+Transferência do mapa falhada.
+Transferência abortada.
+%s você quer tentar outra vez?
+Atualizando o mapa…
+Frames do correio do carregamento…
+Frames de carregamento do bate-papo…
+Começando o som e a música…
+Frame da barra de ferramentas do carregamento…
+Informação da imagem do carregamento…
+Mapa de inicialização…
+Erro
+Os dados que do início de uma sessão você especific estavam incorretos ou há um problema na comunicação com os usuários. Ser por favor certo que você tem uma conexão ativa ao Internet.
+Erro
+Um erro do unknow ocorreu na comunicação com os usuários. Tentar por favor outra vez. Se isto acontece demasiado frequentemente, relatar por favor a Oceanus.
+Título
+Nenhum
+Nenhum
+Nenhum
+%s (de %s)
+Nenhum
+Nenhum
+Nenhum
+%s (de %s)
+Nenhum
+Nenhum
+Nenhum
+%s (de %s)
+%d (de %d)
+%d (de %d)
+%d (de %d)
+Data: %s
+Transferência…
+Erro: Nome inválido da equipe
+Mestre de jogo:
+Usuário do mestre de jogo:
+O mestre de jogo é ocupado agora, há uns pedidos de %d pendentes, espera por favor ou tenta-o chamar um outro mestre de jogo.
+Usuário do mestre de jogo:
+O mestre de jogo está ausente agora, espera por favor ou tenta-o chamar um outro mestre de jogo.
+Usuário do mestre de jogo:
+O mestre de jogo é em linha!
+Usuário do mestre de jogo:
+O mestre de jogo era disconnected, tenta por favor conetar a um outro mestre de jogo.
+Chamada
+Chamada
+Pendurar acima
+Costumer
+Nenhum
+Transferência…
+Imposto: %d%%
+Imposto: %s
+O mais altamente
+Normal
+Ignorado!
+Não pode juntar-se à canaleta
+Esta canaleta está cheia. Você pode tentar mais tarde, quando alguns dos usuários dentro lá sairam.
+Não pode juntar-se à canaleta
+Senha inválida.
+Incorporar o texto do bate-papo aqui…
+UMA CANALETA NOVA (%S) FOI CRIADA.
+A CANALETA %S ERA FECHADO.
+AGORA CONVERSANDO EM %S
+DE VOLTA À ENTRADA.
+Título: %s
+atualização…
+Bate-papo da tela cheia
+Bate-papo sobre o mapa
+Clique sobre uma facilidade no mapa para estabelecer a conexão.
+Sugestão: Para abortar o clique da operação quando o cursor do forbiden for indicado.
+Sugestão: Usar um único clique para selecionar uma facilidade no mapa. Direita - estalar para invocar opções de QuickWeb.
+Custo de construção: %s
+Sugestão: Direita do uso - clique para cancelar a operação.
+Clique sobre uma facilidade no mapa à conexão do estabish.
+Sugestão: Para abortar o clique da operação quando o cursor do forbiden for indicado.
+Erro
+Você não tem nenhuma direita demulir esta estrada.
+Erro
+Não pode demulir a estrada.
+PEDIDO DA CONSTRUÇÃO REJEITADO
+O Mayor da cidade não permite um edifício deste tipo nesta posição. Anotar por favor que a zona desta posição (indicada pela cor) tem que combinar com o tipo da zona da facilidade que você pretendeu construir. O tipo da zona dos edifícios é mostrado além do ícone da facilidade no painel da configuração.
+PEDIDO DA CONSTRUÇÃO REJEITADO
+Você não pode construir lá. Área nao desobstruída.
+PEDIDO DA CONSTRUÇÃO REJEITADO
+Você alcangou o limite de edifícios que você pode possuir. Demulir alguns edifícios ou tentá-los avançar ao nível seguinte.
+CONSTRUÇÃO FALHADA
+Não pode construir a facilidade aqui. Certificar-se por favor que você está operando pelo menos uma companhia.
+Erro
+Não pode conetar facilidades.
+Erro
+Não pode conetar facilidades.
+Nenhuma facilidade selecionada.
+Sugestão: Usar um único clique para selecionar uma facilidade no mapa. Direita - estalar para invocar opções de QuickWeb.
+RE:
+Re: %s
+Assunto: %s
+De: %s
+FW:
+FW: %s
+Assunto: %s
+De: %s
+Esta mensagem não alcangou nenhum endereço.
+Não pode o perfom esta ação, mail server está para baixo.
+Não podia conservar a mensagem.
+Não pode o perfom esta ação, mail server está para baixo.
+Erro: %s
+uma linha
+linhas de %d
+Matrizes principais
+Matrizes da indústria
+Escritório e matrizes residenciais
+Matrizes do comércio
+Matrizes dos assuntos oficiais
+Olá! classe LoCost Residentials
+Classe média LoCost Residentials
+Baixa classe LoCost Residentials
+Olá! classe Residentials
+Classe média Residentials
+Baixa classe Residentials
+Escritórios
+Explorações agrícolas
+Processadores de alimento
+Indústrias químicas
+Minas
+Indústrias têxteis
+Indústrias de metal
+Fábricas dos componentes eletrônicos
+Fábricas da roupa
+Fábricas dos aparelhos electrodomésticos
+Fábricas de máquinas do negócio
+Heavy Industries
+Fábricas do carro
+Indústrias da construção civil
+Indústrias do produto farmacêutico
+Indústrias de plásticos
+Fábricas do brinquedo
+Plataformas petrolíferas
+Refinarias
+Fábricas do licor
+Lojas de alimento
+Lojas da roupa
+Lojas de HHA
+Lojas do carro
+Supermercados
+Barras
+Restaurantes
+Filmes
+Lojas de droga
+Lojas de brinquedo
+Postos de gasolina
+Empresas de software
+Hospitais
+Escolas
+Estações de polícia
+Estações de fogo
+Correctionals
+Parques
+Bancos
+Canais de televisão
+Antena da tevê
+Armazém frio
+Armazém químico
+Armazém geral
+Armazém das telas
+Armazém do minério
+Monumentos
+%d bytes/s
+0 bytes/s
+%d bytes/s
+0 bytes/s
+Conexão ao mundo…
+SISTEMA
+Não podia estabelecer a conexão com os usuários.
+Você forneceu um nome inválido.
+Você forneceu uma senha inválida.
+Havia um erro que tenta conetar ao usuário. Ser por favor certo que você tem uma conexão ativa ao Internet.
+Havia um erro que tenta conetar ao usuário. Ser por favor certo que você tem uma conexão ativa ao Internet.
+Havia um erro que tenta conetar ao usuário. Seu pedido foi negado.
+Um erro desconhecido ocorreu. Relatar por favor a Oceanus se isto acontece demasiado frequentemente.
+Erro
+SISTEMA
+Senha inválida
+Ambas as senhas devem combinar!
+SISTEMA
+A conexão ao usuário deixou cair. Esperar quando tentativas do Voyager a reconetar…
+SISTEMA
+Agora você está actuando como %s.
+Você foi reconetado com sucesso.
+SISTEMA
+Havia um erro que muda sua identidade a %s.
+Tentativa de reconetar failed. Tentar outra vez…
+mensagens unread de %d.
+mensagens unread de %d.
+Indica a chegada do correio novo
+OBSERVAÇÃO DO CIRURGIÃO: Não executar a ligação com um formulário de vida estrangeiro, a menos que for do sexo oposto.
+OBSERVAÇÃO DO CIRURGIÃO: Não funcionar com objetos afiados. Funcionar sempre com objetos sem corte.
+OBSERVAÇÃO DO CIRURGIÃO: O cigarro pode matar o, sua família e todos seus amigos.
+OBSERVAÇÃO DO CIRURGIÃO: Os Antipodes não mordem.
+NOTÍCIA: Museu escapado mamã de Michael Jackson do Louvre.
+NOTÍCIA: Ford anuncia que produzirá carros outra vez.
+OBSERVAÇÃO DO CIRURGIÃO: A dinamite começ melhor com tempo. Se você encontra a dinamite velha em sua chamada do refrigerador para a ajuda.
+NOTÍCIA: O episódio XII do STAR WARS, princesa Zuloo começ finalmente a menina.
+NOTÍCIA: Os astrónomos e os médicos encontram que a lua é a causa da maioria de desordens do estômago.
+OBSERVAÇÃO DO CIRURGIÃO: Os chapéus podem causar a perda de cabelo e a dor de cabeça cronic. Os médicos recomendam o uso dos capacetes.
+NOTÍCIA: Lizzard gigante avistado sobre o saucer de vôo. Os oficiais disseram que ambos poderiam ser UFOs.
+NOTÍCIA: A proibição nos jogos video é retirada em Inglaterra.
+NOTÍCIA: Canadá retira suas tropas de Washington após a mediação bem sucedida do rei de Arábia.
+NOTÍCIA: Os povos inoperantes dos estados federais novos da lei estão inoperantes até provado de outra maneira.
+NOTÍCIA: Podia o gelado do chocolate transformar-se a cura para o cancro? Os peritos não dizem nenhuma maneira.
+NOTÍCIA: Os Paleontologists descobrem que toda a evidência de T-Rex estêve plantada no século XX adiantado por produtores CÓMICOS.
+NOTÍCIA: O propulsor novo da anti-matéria empurra a tecnologia da viagem espacial um bocado mais.
+NOTÍCIA: Uma réplica idêntica da pirâmide de Keops foi encontrada sob a pirâmide de Keops.
+NOTÍCIA: O estudo revela râs está multiplicando nas colônias humanas.
+NOTÍCIA: Um trabalho derivado da lei de Heinsenberg prova que os robôs não serão sempre bons - serido para aplicações domésticas.
+SISTEMA
+Encontrando um mestre de jogo. Esperar por favor…
+SISTEMA
+Você desconectou do mestre de jogo %s.
+Nenhum
+MESTRE DE JOGO DA CHAMADA
+SISTEMA
+Você é em linha com o mestre de jogo %s.
+SISTEMA
+O mestre de jogo %s aceitou sua chamada. Seu pedido fêz o número %d. Esperar por favor até que o mestre de jogo esteja pronto para o ajudar.
+PENDURAR ACIMA
+SISTEMA
+Não há nenhum mestre de jogo disponível neste momento. Tentativa de Plase mais atrasada.
+SISTEMA
+Havia um erro que tenta contatar um mestre de jogo. Tentativa de Plase outra vez.
+SISTEMA
+Sua mensagem não podia alcangar o mestre de jogo.
+Todos os usuários para baixo. Tentativa de Plase mais atrasada.
+Erro
+Não podia conetar ao usuário. Verific por favor suas conexão a internet e tentativa outra vez.
+Conetar a %s…
+Assinar falhado dentro. O pseudônimo que você forneceu parece ser inválido. Tentar por favor outra vez.
+Assinar falhado dentro. A senha que você forneceu parece ser inválida. Tentar por favor outra vez.
+Assinar falhado dentro. Havia um erro que alcança os usuários. Verific por favor suas conexão a internet e tentativa outra vez.
+Erro
+Erro
+O legado em linha não podia saltar ao mundo selecionado. Nós recomendamo-lo usar o procedimento padrão do sign-in.
+Transferência…
+América
+Assinar em…
+Conexão para fixar o usuário…
+Assinar em…
+América
+Europa
+Ásia
+Atualizar…
+[ECLIPSADO]
+Nenhum.
+%s. População: acionistas de %s: ano de %s: %s em linha: nobreza mínima de %s: data da restauração de %s: %s
+Boa vinda ao mapa de Univesal. Estalar sobre alguns dos mundos acima para indicar informação prolongada.
+Atualizar…
+Aberto
+Fim
+Fim
+Aberto
+Fim
+n/a
+SISTEMA
+Exploração…
+Incorporar o texto do bate-papo aqui…
+Mapa da transferência %s. Isto pode tomar alguns segundos…
+Exploração…
+LIGAÇÕES
+O mais altamente
+Normal
+Ignorado!
+Mestre de jogo:
+Usuário do mestre de jogo:
+O mestre de jogo é ocupado agora, há uns pedidos de %d pendentes, espera por favor ou tenta-o chamar um outro mestre de jogo.
+Usuário do mestre de jogo:
+O mestre de jogo está ausente agora, espera por favor ou tenta-o chamar um outro mestre de jogo.
+Usuário do mestre de jogo:
+conetado a %s
+Usuário do mestre de jogo:
+O mestre de jogo é em linha!
+Usuário do mestre de jogo:
+O mestre de jogo é ocupado, espera por favor um bocado por ele.
+Usuário do mestre de jogo:
+O mestre de jogo era disconnected, tenta por favor conetar a um outro mestre de jogo.
+Chamada
+Chamada
+Pendurar acima
+Costumer
+Aprovação
+Adicionar
+Há uns conflitos!!
+Dar entrada com o nome de GMS!
+Dar entrada com seu nome!
+Não pode conetar ao usuário do GM, tentar outra vez mais tarde ou verific ajustes do usuário do GM
+O usuário foi inativo: segundos de %d
+O usuário tem esperado: segundos de %d
+Companhia: dinheiro de %s: %s
+Não pode conetar ao usuário do GM, tentar outra vez mais tarde ou verific ajustes do usuário do GM.
+Mim:
+CLIENTES
+COMÉRCIO
+GERAL
+HISTÓRIA
+TRABALHOS
+EMPRÉSTIMOS
+GERÊNCIA
+MINISTERIES
+PRODUTOS
+PUBLICIDADE
+PESQUISA
+RESIDENTIALS
+SERVIÇOS
+FONTES
+IMPOSTOS
+Venda
+MAUSOLÉU
+Seu são exigidos para subscrever ao jogo a fim continuar a jogar. Estalar a APROVAÇÃO para fechar esta janela e para navegar à página da subscrição.
+Seu cliente no legado em linha foi temporariamente frozen. Estalar a APROVAÇÃO para fechar esta janela e para navegar a uma página onde você receba a informação a respeito desta situação.
+Melhoramento
+Batente
+CIDADES
+PELÍCULAS
+ANTENAS
+VOTOS
+Busca…
+Usuário ocupado
+Você foi desconectado do usuário.
+Compra
+O cliente já existe
+O nome de tela ou a senha que de Sega.com você incorporou estão incorreto.
+Maxed de série
+Série inválida
+Identificação do subscritor não encontrada
+Você não pode construir lá. Isto que buildning é demasiado próximo a um outro edifício da mesma classe.
+Os usuários em linha do legado estão criando limas alternativas para este mundo. Isto pode tomar dos segundos aos minutos dependendo do tamanho do mundo. Quando durar você pode continuar a consultar o mapa e a inspecionar edifícios, mas algumas opções, como a configuração, serão deficientes. Anotar que o ícone do disco em sua barra de ferramentas se ilumina acima durante o apoio. Você verá somente esta caixa de mensagem esta vez.
+APOIO DO USUÁRIO
+APOIO DO USUÁRIO TERMINADO
+Os usuários em linha do legado terminaram o apoio. Você pode continuar a jogar sem limitação.
+É você certo você quer demulir seu %s?
+Aviso!
+A mesma companhia
+A mesma cidade
+Estalar aqui para ver as réguas do competiam.
+Progresso total.   
+KBytes (de 
+Tempo estimado: 
+horas. 
+hora. 
+minutos. 
+minuto. 
+Não podia criar o diretório.
+Erro
+A instalação falhada.
+Não terminam a instalação.
+Não podia funcionar a aplicação principal. Código de erro: 
+Não terminam a operação.
+ERRO: Dívida falh da operação um erro desconhecido.
+Erro que escreve ao disco (
+ERRO: Lima corrompida encontrada (
+ERRO: Descompressão falhada (
+). Verific para ver se há o espaço extra de movimentação.
+ERRO: Lima do índice corrompida. Relatar por favor a Sega.
+ERRO: Transferência da lima falhada (
+OLÁ!! ESTE PROGRAMA INSTALARÁ O LEGADO EM LINHA EM SEU COMPUTADOR. INCORPORAR POR FAVOR A INFORMAÇÃO EXIGIDA.
+Não podia inicializar o web client. Ser por favor certo que você instalou Internet Explorer 4.0 ou maior.
+SIM
+NÃO
+Feito
+Encontrando o recurso: 
+Transferência: 
+Esperar por favor…
+Decompressing 
+organicwaste
+fert
+grainFarma
+moinho
+algodão
+calças
+fruitFarma
+fruitpie
+rubbersap
+rubbertree
+rubberfact
+shoefact
+vegFarma
+stewfact
+organicMine
+polímero
+nylon
+camisa
+Cattlefarma
+burgerfact
+rawChemMine
+miningchem
+couro
+leatherjacket
+Esta é uma missão gmabling do antro
+esta é uma missão do roubo a um banco
+esta é uma estrada destrói a missão
+Um jogo perto
+Estalar aqui para começar
+CLIENTE NOVO
+ASSINAR DENTRO
+CANCELAMENTO
+Username:
+Senha:
+Boa vinda a Starpeace. Fornecer por favor seus username e senha.
+Entrar em seu Starpeace aliás aqui
+Incorporar sua senha de Starpeace aqui
+Escolher agora o mundo que você quer entrar:
+ENTRAR NO MUNDO SELECIONADO
+IR AO MAPA DO UNIVERSO
+REFRESCAR TUDO
+REFRESCAR SELECIONADO
+6
+Nome
+População
+Acionistas
+Em linha
+Ano
+PING (milissegundo)
+Saltar a um mundo que você tem visitado já:
+Estalar para saltar ao planeta selecionado
+IR!
+Ajustes entrantes
+Verific esta caixa para permitir que esta facilidade seja configurada baseou nos ajustes de uma outra facilidade.
+Clonar ajustes
+Estalar para clonar os ajustes desta facilidade
+Clone
+Melhoramento
+Clique para promover esta facilidade.
+Downgrade
+Clique para degradar esta facilidade.
+Melhoramento
+Nível:
+Durante:
+Melhoramento seguinte:
+1
+Aceitar ajustes entrantes.
+Verific se você quer configurar esta facilidade using os ajustes de uma outra facilidade
+Somente para facilidades nesta cidade.
+Verific para limitar o efeito do clonagem somente para facilidades nesta cidade
+Somente para facilidades nesta companhia.
+Verific para limitar o efeito do clonagem somente para facilidades nesta companhia
+Sugestão: Usar um único clique para selecionar uma facilidade no mapa. Direita - estalar para invocar opções de QuickWeb.
+Sugestão: Usar um único clique para selecionar uma facilidade no mapa. Direita - estalar para invocar opções de QuickWeb.
+Nenhuma facilidade selecionada
+Nenhuma facilidade selecionada
+Ir para trás a sua posição precedente no mapa
+< TRASEIRO
+Ir para a frente à posição que seguinte você visitou
+EM SEGUIDA >
+Ir à câmara municipal a mais próxima
+VAI A CÂMARA MUNICIPAL
+Começ mais informação sobre o edifício selecionado (mesma que o right-click sobre o edifício)
+INSPECIONAR
+Indicar ferramentas do mapa da folha de prova
+FOLHA DE PROVA
+ZoomIn
+Zumbir dentro
+ZoomOut
+Zumbido para fora
+Mostrar a folha de prova das zonas da cidade
+ZONAS DA CIDADE
+RotateCW
+Girar o CW
+RotateCCW
+Girar o CCW
+Data
+Zumbir dentro (o mapa pequeno)
++
+Zumbido para fora (mapa pequeno)
+-
+Caixa próxima do bate-papo
+x
+Mostra
+Nome de usuário
+Mostra que usuário você está perseguindo atualmente
+Lista de ligações úteis às facilidades no mapa
+Lista de ligações úteis às facilidades no mapa
+Estalar para adicionar a facilidade selecionada às ligações
+ADICIONAR
+Estalar para remover a facilidade das ligações
+DEL
+Estalar para saltar à ligação
+IR
+LIGAÇÕES
+LIGAÇÕES
+As facilidades que estão perdendo o dinheiro parecem protegidas no vermelho
+Facilidades perdedoras do sinal
+Folha de prova ativa:
+Mostrar ao nome que folha de prova é atualmente visível
+Escolher o mapa que da folha de prova você quer mostrar
+48
+NENHUNS
+Zonas do edifício
+Cidades
+Beleza
+População High-class
+População da classe média
+População Low-class
+QOL
+Crime
+Poluição
+BAP
+Calças
+Padaria
+Sapatas
+Tortas da fruta
+Cutelaria
+Pano de tabela
+Bolos frescos
+Vidros
+Placas
+Carro pequeno
+Televisões
+Laços
+Ternos
+Sob o desgaste
+Chapéus
+Peúgas
+Roupa interior
+Scarves
+Calças de couro
+Carros de esportes
+Jogadores MP3
+Impressoras
+Câmara de vídeo
+Hoovers
+Jogadores de DVD
+Chaleira
+Micrôondas
+Torradeiras
+Fogões
+Bicicletas do motor
+Telefones móveis
+Jogo da lavagem de carro
+Polonês do carro
+Refrogerador de ar do carro
+Dados macios
+Humvee
+PC
+Facilidades perdedoras do sinal
+As facilidades que estão perdendo a mostra do dinheiro protegeram no vermelho
+MapOptionsView
+
+
+Serviços de alimento processados
+
+Serviços de alimento fresco
+
+2
+VISIBILIDADE
+MAPAS
+Panel1
+
+
+
+
+
+Visibilidade
+
+Mapas
+
+
+Couro cru Residentials High-class
+
+Meados de-classe Residentials do couro cru
+
+Couro cru Residentials Low-class
+
+Escritórios do couro cru
+
+Lojas do couro cru
+
+Fábricas do couro cru
+
+Esconder tudo
+
+Mostrar tudo
+
+Esconder armazéns
+
+Valor da beleza e de terra
+
+População
+
+Qualidade de vida
+
+Crime
+
+Poluição
+
+Áreas de Bussines
+
+Alimento fresco
+
+Alimento processado
+
+Roupa
+
+Preensão de casa
+
+Carros
+
+Restaurantes
+
+Barras
+SERVIÇOS
+
+GERAL
+
+
+Normal
+
+
+
+
+
+FIM
+Ajustar palavras da sabedoria
+Palavras da sabedoria:
+Cancelar a transcendência
+4
+Ministério
+Ministro
+Avaliação
+Orçamento
+Orçamento do próximo ano:
+Ajustar o orçamento
+Destituir
+Ministro:
+Eleger
+MisionView
+
+Escolher uma missão
+
+Etapa 1 de 3
+
+Aplicação próxima
+x
+
+1
+
+2
+
+3
+
+4
+
+Estalar sobre uma missão para ver suas exigências.
+
+Indicar ferramentas do mapa da folha de prova
+Escolher a missão
+Indicar ferramentas do mapa da folha de prova
+Camcel
+
+3
+Antro de jogo
+Roubo a um banco
+A estrada destrói
+Fraude
+Terrorize e aviltar-se
+Vandalize
+Robery
+Banco Robery
+Sabotagem
+Esta missão exige-o escolher um edifício no mapa. Estalar sobre da “a tecla do alvo picareta” e o clique no edifício que você quer ser o alvo da missão.
+
+Indicar ferramentas do mapa da folha de prova
+Escolher o alvo
+Indicar ferramentas do mapa da folha de prova
+< TRASEIRO
+Ferramentas do mapa da folha de prova da exposição
+CONTINUAR >
+Planear a missão aqui. Uma vez que você atribuiu os papéis apropriados ao membro da equipa você poderá começar a missão.
+
+Este é o roubo a um banco típico. A equipe coletará todo o dinheiro dos contadores e os clientes e o vault, se você escolhe assim.
+
+Instrução:
+
+Ferramentas do mapa da folha de prova da exposição
+S T A R T
+Ferramentas do mapa da folha de prova da exposição
+< TRASEIRO
+2
+Papel
+Nível de habilidade
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ferramentas do mapa da folha de prova da exposição
+Fim
+Registro da missão:
+
+
+
+
+O Mayor da cidade não permite um edifício deste tipo nesta posição. Anotar por favor que a zona desta posição (indicada pela cor) tem que combinar com o tipo da zona da facilidade que você pretendeu construir. Os tipos da zona dos edifícios são mostrados além do th 
+APROVAÇÃO
+CANCELAMENTO
+ERRO DESCONHECIDO
+Estalar para emitir sua mensagem
+Emitir
+Estalar para conservar sua mensagem
+Conservar
+Fechar esta mensagem
+Fechar
+:
+Assunto:
+CRIAR A CANALETA NOVA
+CRIAR A CANALETA NOVA
+Estalar para criar uma canaleta nova
+Criar
+Cancelar
+Escolher um nome para a canaleta nova:
+Você pode proteger a canaleta com uma senha:
+Re-enter a senha:
+Dar entrada com o nome da canaleta aqui
+Incorporar a senha da canaleta aqui
+Verific sua senha aqui
+Escolher um jogo:
+Máximo dos jogadores permitidos:
+0
+2
+CANALETA DO BATE-PAPO
+CANALETA DO JOGO
+NewTeamDlg
+
+Janela próxima
+x
+
+Nome da equipe:
+
+Ferramentas do mapa da folha de prova da exposição
+Equipe nova
+Ferramentas do mapa da folha de prova da exposição
+Cancelamento
+CRIAR UMA EQUIPE
+CRIAR UMA EQUIPE
+
+
+ERRO!
+
+
+
+
+
+
+
+
+
+
+
+
+
+Opções
+5
+Gráficos
+Som
+Rede
+Privacidade
+Extra
+facilidades &Visible:
+Clique para esconder todas as facilidades
+&Hide todo
+Clique para mostrar todas as facilidades
+&Show todo
+Usar a transparência
+Verific para ver edifícios transparentes
+Mostrar animações do edifício
+Verific para ver edifícios animados
+Mostrar carros
+Verific para ver carros
+Mostrar planos
+Verific para ver planos
+Lista de facilidades disponíveis
+folhas de prova &Transparent
+Verific para ter mapas transparentes da folha de prova
+Soar o volume de FX:
+Regular o volume de sons do mapa aqui
+50%
+Volume da música:
+Regular o volume da música aqui
+50%
+Lista de canções:
+Mostra uma lista de títulos selecionados
+Estalar para adicionar uma lima da música a sua lista de canções
+Adicionar a lima
+Estalar para adicionar um dobrador inteiro
+Adicionar o diretório
+Estalar para eliminar uma lima da lista de canções
+Suprimir da lima
+Estalar para transferir mais música
+Transferir mais música
+Permitir sons
+Estalar para permitir sons do mapa
+Emitido:
+Recebido:
+Total emitido:
+0
+0
+0
+Taxa de Avg:
+0 bytes/segundo
+Total recebido:
+0 bytes/segundo
+Taxa:
+0
+Latência:
+0
+Usar o início de uma sessão rápido
+Verific para permitir o início de uma sessão rápido
+Ignorar a lista:
+Remover da lista
+Incorporar automaticamente a canaleta no início de uma sessão:
+Nome da canaleta:
+Senha da canaleta:
+Conservar a sessão do bate-papo a uma lima
+Conservar
+Língua:
+Clique para mudar a língua
+Ativar a língua
+Definição
+Freqüência
+Aplicar
+Proprietário:
+Cidade:
+Clique a procurarar por fornecedores do produto selecionado
+BUSCA >
+Contagem:
+Dar entrada com um nome da companhia para limitar a busca para fornecedores às facilidades dessa companhia somente
+Exportar armazéns
+Verific para incluir armazéns da exportação na busca para fornecedores
+Armazéns regulares
+Verific para incluir armazéns regulares na busca para fornecedores
+Centros de comércio da cidade
+Verific para incluir os centros de comércio na busca para fornecedores
+Fábricas
+Verific para incluir fábricas na busca para fornecedores
+5
+Edifício
+Proprietário
+Cidade
+Preço
+Qualidade
+Selecionar tudo fornecedores encontrados
+Selecionar tudo
+Unselect todo encontrou fornecedores
+Unselect todo
+Compra dos fornecedores selecionados
+COMPRA DO SELECIONADO
+Fim
+Dar entrada com um nome da cidade para limitar a busca para fornecedores às facilidades dessa companhia somente 
+Máximo seleto dos fornecedores que você quer procurarar por
+20
+INCORPORAR A SENHA
+INCORPORAR A SENHA
+Incorporar a senha aqui:
+APROVAÇÃO
+Cancelamento
+Carregar seu retrato de uma lima de disco
+Carga
+Inspecionar seu retrato
+Inspeção prévia
+Emitir seu retrato
+Emitir
+Fechar
+Zumbir dentro
++
+Zumbido para fora
+-
+EMITIR SEU RETRATO
+EMITIR SEU RETRATO
+Inspeção prévia
+
+
+
+
+2034
+
+35
+
+36
+
+37
+
+38
+
+39
+
+40
+
+41
+
+42
+
+43
+
+44
+
+2045
+
+v1
+
+v1
+
+v1
+
+v1
+
+v1
+
+v1
+
+v1
+
+v1
+
+v1
+
+v1
+
+v1
+
+v1
+
+Mayor:
+n/a
+Prestígio de salão de cidade:
+Avaliação popular:
+Avaliação dos empresários bem sucedido:
+Mandato Nº:
+Anos às eleições:
+n/a
+n/a
+n/a
+n/a
+n/a
+Estalar para ir à página da política
+Visitar a página da política
+QOL:
+100
+%
+Avaliar o Mayor
+Ler a notícia
+4
+Cliente
+Companhia
+Vendas
+T. Custo
+0%
+Preço:
+0%
+Estalar aqui para oferecer seu produto aos clientes
+Oferta
+Estalar aqui para suprimir de um cliente
+Supressão
+Início de uma sessão rápido
+
+Nome de usuário:
+
+Senha:
+
+
+NOTA: Se você é um newcommer (nem seu nome não aparece no cancelamento da imprensa da lista acima) apenas e não examina o procedimento de início de uma sessão padrão. Você pode permitir o início de uma sessão rápido mais tarde da página das opções.
+
+
+
+APROVAÇÃO
+
+Cancelamento
+
+Usar a última senha
+
+Incapacitar o início de uma sessão rápido no futuro
+
+
+
+Nome:
+Proprietário:
+100%
+n/a
+Resistência do crime:
+n/a
+Resistência da poluição:
+Privacidade extra:
+n/a
+n/a
+Beleza extra:
+n/a
+Idade:
+n/a
+Aluguel:
+100%
+Manutenção:
+100%
+100%
+Clique para fechar este edifício
+Fim
+Clique para reparar este edifício
+Reparo
+Estalar para demulir este edifício
+Demulir
+n/a
+Custo:
+n/a
+ROI:
+n/a
+
+Nome:
+Proprietário:
+n/a
+Idade:
+n/a
+Clique para fechar esta facilidade
+Fim
+Estalar para demulir a facilidade dos thios
+Demulir
+Estalar para conetar esta facilidade a outro no mapa
+Conetar
+n/a
+Custo:
+n/a
+ROI:
+n/a
+0%
+Fonte:
+n/a
+n/a
+Demanda local:
+Preço:
+n/a
+
+Atalhos de teclado
+Atalhos de teclado registados
+3
+Descrição
+Atalho
+Texto
+Adicionar…
+Estalar para adicionar um atalho
+Editar…
+Estalar para editar um shorcut
+Supressão
+Estalar para eliminar um atalho
+Fechar
+Estalar para fechar esta janela
+Trens
+
+
+
+
+X:
+
+Y:
+
+_
+
+_
+
+Contagem:
+
+_
+
+Ângulo:
+
+_
+
+Último valor:
+n/a
+Custo:
+n/a
+7
+Facilidade
+Proprietário
+Preço
+Pagado em excesso
+Último
+Qualidade
+T. Custo
+Qualidade mínima:
+0%
+0%
+Preço máximo:
+0%
+0%
+Estalar aqui para empregar clientes novos
+Aluguer
+Estalar aqui para modificar a conexão selecionada
+Modificar
+Requisitado pela qualidade
+Comprar a fonte
+SurfaceViewer
+
+
+
+FAZÊ-LO!
+
+
+400
+
+400
+
+?. Nome de usuário
+Mostra seu nome e sua posição na classificação de NTA
+$000.000.000
+Mostra quanto dinheiro você tem
+Nome de companhia
+Mostra o nome da companhia ativa
+($0/h)
+Mostra quanto você está fazendo por a hora
+n/a
+Mostra a data atual do mundo
+0/0
+Mostra o número de entalhes que do edifício você tem a configuração e o número total de entalhes do edifício disponíveis
+Mostra o número de entalhes que do edifício você tem a configuração e o número total de entalhes do edifício disponíveis
+Indica que alguém está olhando a mesma área que você
+Você começ o correio!
+Indica que alguém está tentando conversar com você
+Aviso da bancarrota
+Indica que alguém está olhando a mesma área que você
+Nenhum correio novo
+Indica que alguém está tentando conversar com você
+Aviso da bancarrota
+O cubo gira quando o legado em linha está navegando
+Minimizar a aplicação
+-
+Fechar a aplicação
+x
+Você não é conetado ao usuário
+O usuário é ocupado fazer um apoio
+Conetado ao usuário 
+Trabalhadores
+0%
+0
+0
+100
+100
+0%
+%
+%
+Profissionais
+0%
+0
+0
+100
+100
+0%
+%
+%
+Executivos
+0
+100
+100
+0%
+0
+0%
+%
+%
+Vacâncias:
+Salário médio:
+Poder de despesa:
+Salário mínimo:
+Vacâncias confidenciais:
+Vacâncias confidenciais:
+Baixa classe
+0
+0
+0
+%
+%
+Classe média
+0
+0
+0
+%
+%
+Classe elevada
+0
+0
+0
+%
+%
+Vacâncias:
+Índice da qualidade:
+Preço do aluguel:
+Índice geral:
+0
+8
+Nome
+Demanda
+Oferta
+Capacidade
+Relação
+Preço de IFEL
+Avg. Preço
+Qualidade
+10
+Nome
+Produzido
+Comprado
+Pancada. Capacidade
+Comprar a capacidade
+Vender o preço
+Vender o Q.
+Comprar o preço
+Comprar o Q.
+Preço máximo
+3
+Nome
+Valor
+O ano passado
+Imposto
+Subvencionar
+PercPanel
+0%
+Imposto: 0%
+Valor:
+Jogo
+10000000
+Nome:
+0%
+Horas no ar:
+n/a
+Propaganda:
+0%
+0%
+Clique para fechar a estação
+Fim
+Estalar para demulir a estação
+Demulir
+0%
+Estalar para conetar a estação às facilidades no mapa
+Conetar
+Criador:
+n/a
+Idade:
+n/a
+Custo:
+n/a
+ROI:
+n/a
+
+Mapa universal
+3
+Mundos oficiais
+Mundos do competiam
+Mundos do jogador
+ Mundos encontrados nesta área:
+Sorte perto:
+PNF
+Acionistas
+Ano
+PING
+Boa vinda ao mapa de Univesal. Estalar sobre alguns dos mundos acima para indicar informação prolongada.
+Saltar ao planeta selecionado atualmente
+SALTAR AO PLANETA
+Refrescar a lista do planeta indicada acima
+REFRESCAR A LISTA DO PLANETA
+Nome:
+Criador:
+n/a
+Idade:
+n/a
+Clique para fechar esta facilidade
+Fim
+Estalar para demulir esta facilidade
+Demulir
+n/a
+Estalar para conetar esta facilidade a outro no mapa
+Conetar
+Custo:
+n/a
+ROI:
+n/a
+
+espera
+
+
+Carregamento
+
+NewInstallation
+
+Atualização
+
+Carregamento…
+
+
+
+O legado em linha será instalado no seguinte diretório:
+
+
+
+Minimizar
+
+Parar
+
+Consultar…
+
+Instalar
+
+em linha de C:\Program Files\Oceanus\Legacy \
+
+
+Pesquisa por componentes novos…
+
+
+Minimizar
+
+Parar
+
+Nova tentativa
+
+Prgress
+
+Começo
+
+Progresso total:
+
+
+Transferência finished em linha do legado os componentes principais. Agora o legado em linha é imagens da pre-transferência para apressar o desempenho. Você pode começar jogar a qualquer momento. 
+
+
+Jogo agora
+
+
+HTMLView
+
+OLÁ!!
+OLÁ!!
+MELHORAMENTO
+APROVAÇÃO
+Cancelamento
+Custo:
+$25.000.000.000
+Níveis:
+Notificação, clique do dobro a restaurar
+Janela próxima
+x
+Minimizar a janela
+-
+OLÁ! MUNDO!
+OLÁ! MUNDO!
+Carregamento…
+Manter para falar através de seu microfone
+T A L K
+Último altofalante:
+Nenhum
+4
+Candidato
+Avaliação
+Votos válidos
+Pontos
+Voto
+Legado em linha
+Nome:
+Proprietário:
+n/a
+Custo:
+n/a
+ROI:
+n/a
+Idade:
+n/a
+Clique para fechar esta facilidade
+Fim
+Clisk para demulir esta facilidade
+Demulir
+Estalar para conetar esta facilidade a outro no mapa
+Conetar
+n/a
+Coneta esta facilidade a todas suas lojas
+Venda a tudo lojas
+Coneta esta facilidade a todas suas fábricas
+Venda a todas as fábricas
+Coneta esta facilidade a todos seus armazéns
+Venda a todos os armazéns
+Desconecta esta facilidade de todas suas lojas
+Não vender às lojas
+Coneta esta facilidade a todas suas fábricas
+Não vender às fábricas
+Coneta esta facilidade a todos seus armazéns
+Não vender aos armazéns
+Trocar a modalidade:
+Comércio com:
+3
+Armazém da companhia
+Exportador
+Importador
+3
+Nenhum
+Aliados somente
+Qualquer um
+Aplicação próxima
+x
+Minimizar a aplicação
+-
+Trabalhadores
+0 (de 0)
+50%
+1 (100%)
+100%
+Profissionais
+0 (de 0)
+50%
+5 (100%)
+100%
+Executivos
+0 (de 0)
+50%
+1 (100%)
+100%
+Trabalhadores atuais
+Qualidade da força de trabalho
+Salários

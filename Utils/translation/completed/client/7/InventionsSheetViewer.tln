@@ -1,0 +1,12 @@
+eTown.Hint=そのような町に顧客の調査を限るために町の名前をここに入れなさい
+ftInveKind.TabNames=3
+ftInveKind.TabNames.0=利用できる
+ftInveKind.TabNames.1=研究
+ftInveKind.TabNames.2=成長する
+btnResearch.Hint=研究を始めるためにここにかちりと鳴らしなさい
+btnResearch.Text=研究
+btnStop.Hint=研究を停止するためにここにかちりと鳴らしなさい
+btnStop.Text=停止しなさい
+btnSell.Hint=研究を販売するためにここにかちりと鳴らしなさい
+btnSell.Text=販売法
+btnClose.Text=終わり

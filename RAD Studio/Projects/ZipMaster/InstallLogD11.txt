@@ -1,0 +1,367 @@
+***************************************
+BEGIN: Unregistering Component Package
+***************************************
+
+Reading Extra Paths from Setup.ini
+   C:\Users\darren\Documents\RAD Studio\Projects\ZipMaster
+
+Cleaning Known Package Registry Entry
+
+Reading Packages:
+$(BDS)\bin\applet100.bpl
+$(BDS)\bin\dcl31w100.bpl
+$(BDS)\bin\dclstd100.bpl
+$(SystemRoot)\system32\vclimg100.bpl
+$(BDS)\bin\dclact100.bpl
+$(BDS)\bin\dclbde100.bpl
+$(BDS)\bin\dcldb100.bpl
+$(BDS)\bin\dbx100.bpl
+$(BDS)\bin\dclemacsedit100.bpl
+$(BDS)\bin\dclmlwiz100.bpl
+$(BDS)\bin\dclsmpedit100.bpl
+$(BDS)\bin\dcldbxcds4100.bpl
+$(BDS)\bin\dclmid100.bpl
+$(BDS)\bin\dcldbx4100.bpl
+$(BDS)\bin\dclmcn100.bpl
+$(BDS)\bin\dcltee7100.bpl
+$(BDS)\Bin\dclib100.bpl
+$(BDS)\bin\dclado100.bpl
+$(BDS)\Bin\dclIndyCore100.bpl
+$(BDS)\Bin\dclIndyProtocols100.bpl
+$(BDS)\Bin\dclintraweb_90_100.bpl
+$(BDS)\bin\dclsmp100.bpl
+$(BDS)\bin\dclie100.bpl
+$(BDS)\bin\dclwebsnap100.bpl
+$(BDS)\Bin\dclwbm100.bpl
+$(BDS)\Bin\dclnet100.bpl
+$(BDS)\bin\dclsoap100.bpl
+$(BDS)\bin\dclofficexp100.bpl
+$(BDSCOMMONDIR)\Bpl\FiveComp.bpl
+C:\starpeace\Source\Voyager\Components\fiveD5cpm.bpl
+$(BDSCOMMONDIR)\Bpl\ZipMasterD11.bpl
+$(BDSCOMMONDIR)\Bpl\steampackage.bpl
+ 
+Stripping off path and extension
+applet100
+dcl31w100
+dclstd100
+vclimg100
+dclact100
+dclbde100
+dcldb100
+dbx100
+dclemacsedit100
+dclmlwiz100
+dclsmpedit100
+dcldbxcds4100
+dclmid100
+dcldbx4100
+dclmcn100
+dcltee7100
+dclib100
+dclado100
+dclIndyCore100
+dclIndyProtocols100
+dclintraweb_90_100
+dclsmp100
+dclie100
+dclwebsnap100
+dclwbm100
+dclnet100
+dclsoap100
+dclofficexp100
+FiveComp
+fiveD5cpm
+ZipMasterD11
+steampackage
+ 
+Reading Packages to remove
+ZipmasterD11
+ 
+Stripping off path and extension
+ZipmasterD11
+ 
+Scanning for previously installed packages....
+Deleting bpl file: C:\Users\Public\Documents\RAD Studio\5.0\Bpl\ZipmasterD11.bpl
+File deleted
+Deleting dcp file: C:\Users\Public\Documents\RAD Studio\5.0\Dcp\ZipmasterD11.dcp
+File deleted
+ 
+
+Known Package Registry Entry Cleaned
+
+Cleaning Disabled Package Registry Entry
+
+Reading Packages:
+ 
+Stripping off path and extension
+ 
+Reading Packages to remove
+ZipmasterD11
+ 
+Stripping off path and extension
+ZipmasterD11
+ 
+Scanning for previously installed packages....
+Disabled Package Registry Entry Cleaned
+
+Cleaning Package Cache Registry Entry
+
+Reading Packages:
+ 
+Stripping off path and extension
+ 
+Reading Packages to remove
+ZipmasterD11
+ 
+Stripping off path and extension
+ZipmasterD11
+ 
+Scanning for previously installed packages....
+Package Cache Registry Entry Cleaned
+
+Reading Search Path Registry Entry
+C:\Program Files\CodeGear\RAD Studio\5.0\lib
+$(BDSUSERDIR)\Imports
+C:\Program Files\CodeGear\RAD Studio\5.0\Imports
+C:\Program Files\CodeGear\RAD Studio\5.0\Lib\Indy10
+C:\Users\Public\Documents\RAD Studio\5.0\Dcp
+c:\starpeace\source\voyager\components
+    
+    
+Writing Search Path Registry Entry
+Removing extra characters and blank lines
+Formatting.....
+$(BDS)\lib
+$(BDSUSERDIR)\Imports
+$(BDS)\Imports
+$(BDS)\Lib\Indy10
+$(BDSCOMMONDIR)\Dcp
+c:\starpeace\source\voyager\components
+Writing to Key: Software\Borland\BDS\5.0\Library  Value: Search Path
+Search Path Registry Entry written
+
+Reading Browse Path Registry Entry
+C:\Program Files\CodeGear\RAD Studio\5.0\SOURCE\WIN32\VCL
+C:\Program Files\CodeGear\RAD Studio\5.0\source\Win32\rtl\common
+C:\Program Files\CodeGear\RAD Studio\5.0\SOURCE\WIN32\RTL\SYS
+C:\Program Files\CodeGear\RAD Studio\5.0\source\Win32\rtl\win
+C:\Program Files\CodeGear\RAD Studio\5.0\SOURCE\WIN32\WEBSNAP
+C:\Program Files\CodeGear\RAD Studio\5.0\source\ToolsAPI
+C:\Program Files\CodeGear\RAD Studio\5.0\SOURCE\WIN32\IBX
+C:\Program Files\CodeGear\RAD Studio\5.0\source\Win32\Internet
+C:\Program Files\CodeGear\RAD Studio\5.0\SOURCE\WIN32\PROPERTY EDITORS
+C:\Program Files\CodeGear\RAD Studio\5.0\source\Win32\soap
+C:\Program Files\CodeGear\RAD Studio\5.0\SOURCE\WIN32\XML
+C:\Program Files\CodeGear\RAD Studio\5.0\source\Win32\db
+C:\Program Files\CodeGear\RAD Studio\5.0\SOURCE\WIN32\xtab
+C:\Program Files\CodeGear\RAD Studio\5.0\source\Indy10
+C:\Program Files\CodeGear\RAD Studio\5.0\source\database\src\pas\dbx\driver
+C:\Program Files\CodeGear\RAD Studio\5.0\source\database\src\pas\dbx\vcl
+    
+    
+Writing Browse Path Registry Entry
+Removing extra characters and blank lines
+Formatting.....
+$(BDS)\SOURCE\WIN32\VCL
+$(BDS)\source\Win32\rtl\common
+$(BDS)\SOURCE\WIN32\RTL\SYS
+$(BDS)\source\Win32\rtl\win
+$(BDS)\SOURCE\WIN32\WEBSNAP
+$(BDS)\source\ToolsAPI
+$(BDS)\SOURCE\WIN32\IBX
+$(BDS)\source\Win32\Internet
+$(BDS)\SOURCE\WIN32\PROPERTY EDITORS
+$(BDS)\source\Win32\soap
+$(BDS)\SOURCE\WIN32\XML
+$(BDS)\source\Win32\db
+$(BDS)\SOURCE\WIN32\xtab
+$(BDS)\source\Indy10
+$(BDS)\source\database\src\pas\dbx\driver
+$(BDS)\source\database\src\pas\dbx\vcl
+Writing to Key: Software\Borland\BDS\5.0\Library  Value: Browsing Path
+Browse Path Registry Entry written
+
+***************************************
+END: Unregistering Component Package
+***************************************
+
+
+***************************************
+BEGIN: Compiling Component Package
+***************************************
+Validating Output Folders
+Creating temp compile folder
+Folder Created: C:\Users\darren\AppData\Local\Temp\ESetup
+
+Config.ini -JP Switch: 
+Config.ini -U Switch: C:\PROGRA~1\CodeGear\RADSTU~1\5.0\lib;$(BDSUSERDIR)\Imports;C:\PROGRA~1\CodeGear\RADSTU~1\5.0\Imports;C:\PROGRA~1\CodeGear\RADSTU~1\5.0\Lib\Indy10;C:\Users\Public\DOCUME~1\RADSTU~1\5.0\Dcp;c:\STARPE~1\source\voyager\COMPON~1;
+Config.ini -I Switch: ..\
+Config.ini -LE Switch: C:\Users\Public\DOCUME~1\RADSTU~1\5.0\Bpl
+Config.ini -LN Switch: C:\Users\Public\DOCUME~1\RADSTU~1\5.0\Dcp
+Config.ini -N Switch: C:\Users\darren\AppData\Local\Temp\ESetup
+
+Compiling....
+
+Redirector Working Dir: C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\Delphi
+Redirector CreateProcess command: "C:\PROGRA~1\CodeGear\RADSTU~1\5.0\Bin\DCC32.exe" ZipmasterD11.dpk
+
+
+CodeGear Delphi for Win32 compiler version 18.5
+Copyright (c) 1983,2007 CodeGear
+ZipMasterD11.dpk(1) ZipMasterD11.dpk(31) ZipMasterD11.dpk(33) ZipMasterD11.dpk(33) ZipMasterD11.dpk(33) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\DZUtils.pas(1) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\DZUtils.pas(21) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\DZUtils.pas(21) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\DZUtils.pas(21) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\DZUtils.pas(21) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\DZUtils.pas(21) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\DZUtils.pas(21) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\DZUtils.pas(21) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\DZUtils.pas(21) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\DZUtils.pas(21) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\DZUtils.pas(21) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\DZUtils.pas(21) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\DZUtils.pas(21) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\DZUtils.pas(21) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\DZUtils.pas(21) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\DZUtils.pas(21) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\DZUtils.pas(21) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\DZUtils.pas(21) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\DZUtils.pas(21) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\DZUtils.pas(21) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\DZUtils.pas(21) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipMsg.pas(1)   C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipMsg.pas(236) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\DZUtils.pas(21) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\SFXStructs.pas(1) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\DELVER.INC(176)   
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\missing_types.inc(118) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\SFXStructs.pas(28) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\SFXStructs.pas(129) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\DZUtils.pas(21) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\DZUtils.pas(21) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\DZUtils.pas(21) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMXcpt.pas(1)   C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMXcpt.pas(33) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMMsgStr.pas(1) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipConfig.inc(25) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipVers.inc(185) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMMsgStr.pas(38) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMMsgStr.pas(67) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMMsgStr.pas(67) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(1)   C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipVers.inc(185) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(97) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMStructs.pas(1) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipVers.inc(185) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMStructs.pas(44) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMStructs.pas(303) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(97) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(97) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(97) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(97) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(97) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(97) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(97) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(97) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(97) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(97) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(97) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(97) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(97) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(97) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(97) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(97) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(97) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(97) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(97) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(97) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(97) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(97) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(97) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(97) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(97) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(97) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(97) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(97) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(97) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(97) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(97) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(97) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(97) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(97) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(97) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(100) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(328) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(725) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMMsgStr.pas(67) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMMsgStr.pas(67) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMDefMsgs.pas(1) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipConfig.inc(25) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipVers.inc(185) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMDefMsgs.pas(304) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMDefMsgs.pas(431) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMDefMsgs.pas(611) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMMsgStr.pas(67) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMExtrLZ77.pas(1) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMExtrLZ77.pas(37) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMExtrLZ77.pas(127) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMMsgStr.pas(69) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMMsgStr.pas(304) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMMsgStr.pas(571) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMXcpt.pas(35) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMXcpt.pas(60) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMXcpt.pas(62) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMXcpt.pas(159) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\DZUtils.pas(21) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\DELVER.INC(176) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\DZUtils.pas(26) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\missing_types.inc(118) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\DZUtils.pas(153) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\DZUtils.pas(220) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\DZUtils.pas(732) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\DZUtils.pas(880) 
+ZipMasterD11.dpk(54) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\SFXInterface.pas(1) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\SFXInterface.pas(25) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\SFXInterface.pas(211) 
+ZipMasterD11.dpk(54) ZipMasterD11.dpk(54) ZipMasterD11.dpk(54) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipMstr.pas(1) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipConfig.inc(25) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipVers.inc(185) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipMstr.pas(39) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipMstr.pas(39) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipMstr.pas(39) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipMstr.pas(39) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipMstr.pas(39) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipMstr.pas(39) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipMstr.pas(43) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipSFX.pas(1)   C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipSFX.pas(15) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipSFX.pas(15) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipSFX.pas(15) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipSFX.pas(15) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipSFX.pas(19) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipSFX.pas(19) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipSFX.pas(19) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipSFX.pas(19) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\DELVER.INC(176) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\SFXVER.INC(1) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\SFXVER.INC(5) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\lang2.inc(6) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipSFX.pas(328) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipSFX.pas(347) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipSFX.pas(840) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipSFX.pas(1352) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipSFX.pas(1476) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipMstr.pas(43) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipMstr.pas(43) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipMstr.pas(43) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipMstr.pas(43) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipMstr.pas(50) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipMstr.pas(304) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipMstr.pas(806) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMCore.pas(1)    C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipConfig.inc(25) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipVers.inc(185) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMCore.pas(37) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMCore.pas(37) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMCore.pas(37) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMCore.pas(37) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMCore.pas(38) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMCore.pas(38) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMCore.pas(38) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMCore.pas(38) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMDelZip.pas(1) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMDelZip.pas(34) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMDelZip.pas(260) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMCore.pas(41) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMCore.pas(186) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMCore.pas(186) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMDlg.pas(1)    C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMDlg.pas(34) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMDlg.pas(34) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMDlg.pas(34) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMDlg.pas(34) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMDlg.pas(34) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMDlg.pas(34) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMDlg.pas(34) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMDlg.pas(37) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMDlg.pas(67) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMDlg.pas(67) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMDlg.pas(67) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMDlg.pas(67) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMDlg.pas(69) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMDlg.pas(308) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMCore.pas(186) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMCore.pas(186) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMCtx.pas(1)    C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMCtx.pas(55) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMCore.pas(188) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMCore.pas(304) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMCore.pas(816) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMCore.pas(832) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipMstr.pas(806) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipMstr.pas(806) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipMstr.pas(806) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(1)    C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipConfig.inc(25) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipVers.inc(185) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(45) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(45) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(45) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(46) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(46) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(47) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(47) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(47) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(47) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(47) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(51) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(51) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(51) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(51) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(51) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMHash.pas(1)  C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMHash.pas(35) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMHash.pas(78) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMHash.pas(80) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMHash.pas(289) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(55) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMDBind.pas(1) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMDBind.pas(33) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMDBind.pas(33) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMDBind.pas(33) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMDBind.pas(33) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMDBind.pas(35) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMDBind.pas(87) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMDBind.pas(87) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMDBind.pas(87) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMDBind.pas(87) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMDBind.pas(87) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMDBind.pas(87) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMDBind.pas(89) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMDBind.pas(483) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(57) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(57) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(57) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(60) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(304) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(318) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(318) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(318) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(318) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(318) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(318) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMCompat.pas(1) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMCompat.pas(53) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMCompat.pas(77) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(322) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(816) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(1328) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(1840) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(2352) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(2864) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(3376) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(3888) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(4400) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(4912) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(5424) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(5936) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(6448) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(6463) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipMstr.pas(808) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipMstr.pas(816) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipMstr.pas(1328) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipMstr.pas(1840) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipMstr.pas(2321) 
+ZipMasterD11.dpk(54) ZipMasterD11.dpk(54) ZipMasterD11.dpk(54) ZipMasterD11.dpk(54) ZipMasterD11.dpk(54) ZipMasterD11.dpk(54) ZipMasterD11.dpk(54) ZipMasterD11.dpk(54) ZipMasterD11.dpk(54) ZipMasterD11.dpk(54) ZipMasterD11.dpk(54) ZipMasterD11.dpk(54) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMSBind.pas(1) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipConfig.inc(25) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipVers.inc(185) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMSBind.pas(194) 
+ZipMasterD11.dpk(54) ZipMasterD11.dpk(54) ZipMasterD11.dpk(54) ZipMasterD11.dpk(54) ZipMasterD11.dpk(54) ZipMasterD11.dpk(56) ZipMasterD11.dpk(57) 
+19173 lines, 1.98 seconds, 641 bytes code, 0 bytes data.
+
+
+Compiling C++Builder Files
+
+Config.ini -JL Switch: 
+Config.ini -U Switch: C:\PROGRA~1\CodeGear\RADSTU~1\5.0\lib;$(BDSUSERDIR)\Imports;C:\PROGRA~1\CodeGear\RADSTU~1\5.0\Imports;C:\PROGRA~1\CodeGear\RADSTU~1\5.0\Lib\Indy10;C:\Users\Public\DOCUME~1\RADSTU~1\5.0\Dcp;c:\STARPE~1\source\voyager\COMPON~1;
+Config.ini -I Switch: ..\
+Config.ini -LE Switch: C:\Users\Public\DOCUME~1\RADSTU~1\5.0\Bpl
+Config.ini -LN Switch: C:\Users\Public\DOCUME~1\RADSTU~1\5.0\Dcp
+Config.ini -N Switch: C:\Users\darren\AppData\Local\Temp\ESetup
+
+Compiling....
+
+Redirector Working Dir: C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\Delphi
+Redirector CreateProcess command: "C:\PROGRA~1\CodeGear\RADSTU~1\5.0\Bin\DCC32.exe" ZipmasterD11.dpk
+
+
+CodeGear Delphi for Win32 compiler version 18.5
+Copyright (c) 1983,2007 CodeGear
+ZipMasterD11.dpk(1) ZipMasterD11.dpk(31) ZipMasterD11.dpk(33) ZipMasterD11.dpk(33) ZipMasterD11.dpk(33) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\DZUtils.pas(1) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\DZUtils.pas(21) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\DZUtils.pas(21) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\DZUtils.pas(21) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\DZUtils.pas(21) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\DZUtils.pas(21) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\DZUtils.pas(21) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\DZUtils.pas(21) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\DZUtils.pas(21) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\DZUtils.pas(21) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\DZUtils.pas(21) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\DZUtils.pas(21) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\DZUtils.pas(21) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\DZUtils.pas(21) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\DZUtils.pas(21) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\DZUtils.pas(21) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\DZUtils.pas(21) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\DZUtils.pas(21) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\DZUtils.pas(21) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\DZUtils.pas(21) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\DZUtils.pas(21) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipMsg.pas(1)   C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipMsg.pas(236) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\DZUtils.pas(21) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\SFXStructs.pas(1) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\DELVER.INC(176)   
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\missing_types.inc(118) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\SFXStructs.pas(28) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\SFXStructs.pas(129) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\DZUtils.pas(21) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\DZUtils.pas(21) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\DZUtils.pas(21) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMXcpt.pas(1)   C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMXcpt.pas(33) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMMsgStr.pas(1) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipConfig.inc(25) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipVers.inc(185) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMMsgStr.pas(38) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMMsgStr.pas(67) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMMsgStr.pas(67) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(1)   C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipVers.inc(185) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(97) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMStructs.pas(1) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipVers.inc(185) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMStructs.pas(44) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMStructs.pas(303) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(97) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(97) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(97) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(97) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(97) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(97) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(97) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(97) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(97) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(97) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(97) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(97) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(97) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(97) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(97) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(97) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(97) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(97) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(97) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(97) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(97) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(97) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(97) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(97) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(97) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(97) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(97) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(97) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(97) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(97) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(97) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(97) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(97) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(97) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(97) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(100) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(328) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMUtils.pas(725) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMMsgStr.pas(67) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMMsgStr.pas(67) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMDefMsgs.pas(1) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipConfig.inc(25) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipVers.inc(185) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMDefMsgs.pas(304) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMDefMsgs.pas(431) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMDefMsgs.pas(611) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMMsgStr.pas(67) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMExtrLZ77.pas(1) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMExtrLZ77.pas(37) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMExtrLZ77.pas(127) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMMsgStr.pas(69) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMMsgStr.pas(304) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMMsgStr.pas(571) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMXcpt.pas(35) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMXcpt.pas(60) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMXcpt.pas(62) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMXcpt.pas(159) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\DZUtils.pas(21) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\DELVER.INC(176) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\DZUtils.pas(26) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\missing_types.inc(118) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\DZUtils.pas(153) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\DZUtils.pas(220) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\DZUtils.pas(732) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\DZUtils.pas(880) 
+ZipMasterD11.dpk(54) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\SFXInterface.pas(1) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\SFXInterface.pas(25) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\SFXInterface.pas(211) 
+ZipMasterD11.dpk(54) ZipMasterD11.dpk(54) ZipMasterD11.dpk(54) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipMstr.pas(1) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipConfig.inc(25) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipVers.inc(185) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipMstr.pas(39) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipMstr.pas(39) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipMstr.pas(39) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipMstr.pas(39) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipMstr.pas(39) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipMstr.pas(39) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipMstr.pas(43) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipSFX.pas(1)   C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipSFX.pas(15) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipSFX.pas(15) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipSFX.pas(15) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipSFX.pas(15) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipSFX.pas(19) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipSFX.pas(19) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipSFX.pas(19) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipSFX.pas(19) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\DELVER.INC(176) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\SFXVER.INC(1) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\SFXVER.INC(5) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\lang2.inc(6) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipSFX.pas(328) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipSFX.pas(347) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipSFX.pas(840) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipSFX.pas(1352) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipSFX.pas(1476) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipMstr.pas(43) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipMstr.pas(43) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipMstr.pas(43) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipMstr.pas(43) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipMstr.pas(50) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipMstr.pas(304) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipMstr.pas(806) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMCore.pas(1)    C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipConfig.inc(25) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipVers.inc(185) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMCore.pas(37) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMCore.pas(37) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMCore.pas(37) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMCore.pas(37) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMCore.pas(38) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMCore.pas(38) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMCore.pas(38) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMCore.pas(38) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMDelZip.pas(1) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMDelZip.pas(34) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMDelZip.pas(260) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMCore.pas(41) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMCore.pas(186) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMCore.pas(186) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMDlg.pas(1)    C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMDlg.pas(34) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMDlg.pas(34) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMDlg.pas(34) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMDlg.pas(34) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMDlg.pas(34) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMDlg.pas(34) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMDlg.pas(34) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMDlg.pas(37) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMDlg.pas(67) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMDlg.pas(67) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMDlg.pas(67) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMDlg.pas(67) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMDlg.pas(69) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMDlg.pas(308) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMCore.pas(186) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMCore.pas(186) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMCtx.pas(1)    C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMCtx.pas(55) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMCore.pas(188) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMCore.pas(304) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMCore.pas(816) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMCore.pas(832) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipMstr.pas(806) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipMstr.pas(806) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipMstr.pas(806) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(1)    C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipConfig.inc(25) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipVers.inc(185) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(45) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(45) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(45) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(46) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(46) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(47) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(47) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(47) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(47) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(47) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(51) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(51) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(51) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(51) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(51) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMHash.pas(1)  C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMHash.pas(35) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMHash.pas(78) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMHash.pas(80) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMHash.pas(289) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(55) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMDBind.pas(1) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMDBind.pas(33) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMDBind.pas(33) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMDBind.pas(33) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMDBind.pas(33) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMDBind.pas(35) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMDBind.pas(87) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMDBind.pas(87) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMDBind.pas(87) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMDBind.pas(87) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMDBind.pas(87) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMDBind.pas(87) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMDBind.pas(89) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMDBind.pas(483) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(57) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(57) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(57) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(60) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(304) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(318) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(318) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(318) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(318) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(318) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(318) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMCompat.pas(1) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMCompat.pas(53) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMCompat.pas(77) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(322) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(816) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(1328) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(1840) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(2352) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(2864) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(3376) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(3888) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(4400) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(4912) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(5424) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(5936) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(6448) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMWrkr.pas(6463) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipMstr.pas(808) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipMstr.pas(816) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipMstr.pas(1328) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipMstr.pas(1840) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipMstr.pas(2321) 
+ZipMasterD11.dpk(54) ZipMasterD11.dpk(54) ZipMasterD11.dpk(54) ZipMasterD11.dpk(54) ZipMasterD11.dpk(54) ZipMasterD11.dpk(54) ZipMasterD11.dpk(54) ZipMasterD11.dpk(54) ZipMasterD11.dpk(54) ZipMasterD11.dpk(54) ZipMasterD11.dpk(54) ZipMasterD11.dpk(54) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMSBind.pas(1) C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipConfig.inc(25) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZipVers.inc(185) 
+C:\Users\darren\DOCUME~1\RADSTU~1\Projects\ZIPMAS~1\ZMSBind.pas(194) 
+ZipMasterD11.dpk(54) ZipMasterD11.dpk(54) ZipMasterD11.dpk(54) ZipMasterD11.dpk(54) ZipMasterD11.dpk(54) ZipMasterD11.dpk(56) ZipMasterD11.dpk(57) 
+19173 lines, 2.20 seconds, 112544 bytes code, 4756 bytes data.
+
+
+Found compiled BPL file: C:\Users\Public\Documents\RAD Studio\5.0\Bpl\ZipmasterD11.bpl
+
+
+ 
+Adding Package BPL to Registry
+Adding: $(BDSCOMMONDIR)\Bpl\ZipmasterD11.bpl
+***************************************
+END: Compiling Component Package
+***************************************
+
+***************************************
+BEGIN: Registering Component Package Paths
+***************************************
+
+Reading Search Path Registry Entry
+Search Path Registry Entry Read...
+C:\Program Files\CodeGear\RAD Studio\5.0\lib
+$(BDSUSERDIR)\Imports
+C:\Program Files\CodeGear\RAD Studio\5.0\Imports
+C:\Program Files\CodeGear\RAD Studio\5.0\Lib\Indy10
+C:\Users\Public\Documents\RAD Studio\5.0\Dcp
+c:\starpeace\source\voyager\components
+ 
+Adding Package source path:
+   C:\Users\darren\Documents\RAD Studio\Projects\ZipMaster
+
+Reading Extra Paths from Setup.ini
+   C:\Users\darren\Documents\RAD Studio\Projects\ZipMaster
+
+    
+Writing Search Path Registry Entry
+Removing extra characters and blank lines
+Formatting.....
+$(BDS)\lib
+$(BDSUSERDIR)\Imports
+$(BDS)\Imports
+$(BDS)\Lib\Indy10
+$(BDSCOMMONDIR)\Dcp
+c:\starpeace\source\voyager\components
+C:$(HOMEPATH)\Documents\RAD Studio\Projects\ZipMaster
+Writing to Key: Software\Borland\BDS\5.0\Library  Value: Search Path
+Search Path Registry Entry written
+
+***************************************
+END: Registering Component Package Paths
+***************************************
+

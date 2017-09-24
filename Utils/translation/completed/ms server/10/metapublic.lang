@@ -1,0 +1,11 @@
+﻿Projects.Wealth.Name=Riqueza econômica
+Target=PublicFacilities
+LangId=10
+PublicFacilities.College.Name=Faculdades
+PublicFacilities.Disposal.Name=Triturador
+PublicFacilities.Fire.Name=Cobertura do fogo
+PublicFacilities.Health.Name=Cobertura de saúde
+PublicFacilities.Jail.Name=Cadeias
+PublicFacilities.Museum.Name=Museus
+PublicFacilities.Police.Name=Cobertura da polícia
+PublicFacilities.School.Name=Cobertura da escola

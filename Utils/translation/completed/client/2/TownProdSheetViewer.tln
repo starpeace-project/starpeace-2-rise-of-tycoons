@@ -1,0 +1,11 @@
+lvServices.Columns.7=Qualité
+lvProducts.Columns=10
+lvProducts.Columns.0=Nom
+lvProducts.Columns.1=Produit
+lvProducts.Columns.2=Acheté
+lvProducts.Columns.3=Aiguillon. Capacité
+lvProducts.Columns.4=Acheter la capacité
+lvProducts.Columns.5=Vendre le prix
+lvProducts.Columns.6=Vendre le Q.
+lvProducts.Columns.7=Acheter le prix
+lvProducts.Columns.8=Acheter le Q.

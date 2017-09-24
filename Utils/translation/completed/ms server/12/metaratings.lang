@@ -1,0 +1,17 @@
+﻿PublicFacilities.Sport.Name=Rekreationlättheter
+Target=Värderingar
+LangId=12
+Ratings.CampaignAccuracy.Name=Aktionprestation
+Ratings.College.Name=Högskolar
+Ratings.Disposal.Name=Avskrädeförfogande
+Ratings.Fire.Name=Avfyra täckning
+Ratings.Health.Name=Vård- täckning
+Ratings.Jail.Name=Arrester
+Ratings.Museum.Name=Museer
+Ratings.Police.Name=Polistäckning
+Ratings.PopGrowth.Name=Stadstillväxt
+Ratings.School.Name=Skola täckning
+Ratings.Services.Name=Servar och munterhet
+Ratings.Sport.Name=Rekreationlättheter
+Ratings.Taxes.Name=Skatter
+Ratings.Unemployment.Name=Anställning

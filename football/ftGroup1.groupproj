@@ -1,0 +1,49 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{4d5bda44-77c7-4fae-8321-84642fe2ed40}</ProjectGuid>
+  </PropertyGroup>
+  <ItemGroup />
+  <ItemGroup />
+  <ProjectExtensions>
+    <Borland.Personality>Default.Personality</Borland.Personality>
+    <Borland.ProjectType />
+    <BorlandProject>
+<BorlandProject xmlns=""><Default.Personality></Default.Personality></BorlandProject></BorlandProject>
+  </ProjectExtensions>
+  <Target Name="football">
+    <MSBuild Projects="client\football.dproj" Targets="" />
+  </Target>
+  <Target Name="football:Clean">
+    <MSBuild Projects="client\football.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="football:Make">
+    <MSBuild Projects="client\football.dproj" Targets="Make" />
+  </Target>
+  <Target Name="ftserver">
+    <MSBuild Projects="server\ftserver.dproj" Targets="" />
+  </Target>
+  <Target Name="ftserver:Clean">
+    <MSBuild Projects="server\ftserver.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="ftserver:Make">
+    <MSBuild Projects="server\ftserver.dproj" Targets="Make" />
+  </Target>
+  <Target Name="FIVEVoyager">
+    <MSBuild Projects="..\freeVoyager\FIVEVoyager.dproj" Targets="" />
+  </Target>
+  <Target Name="FIVEVoyager:Clean">
+    <MSBuild Projects="..\freeVoyager\FIVEVoyager.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="FIVEVoyager:Make">
+    <MSBuild Projects="..\freeVoyager\FIVEVoyager.dproj" Targets="Make" />
+  </Target>
+  <Target Name="Build">
+    <CallTarget Targets="football;ftserver;FIVEVoyager" />
+  </Target>
+  <Target Name="Clean">
+    <CallTarget Targets="football:Clean;ftserver:Clean;FIVEVoyager:Clean" />
+  </Target>
+  <Target Name="Make">
+    <CallTarget Targets="football:Make;ftserver:Make;FIVEVoyager:Make" />
+  </Target>
+</Project>

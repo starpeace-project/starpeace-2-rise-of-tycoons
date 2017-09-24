@@ -1,0 +1,17 @@
+Label2.Caption=주제:
+Marquee.Caption=새로운 수로를 창조하십시오
+Marquee.Hint=새로운 수로를 창조하십시오
+btnCreate.Hint=새로운 수로를 창조하기 위하여 누르십시오
+btnCreate.Text=창조하십시오
+btnCancel.Text=취소하십시오
+Label1.Caption=새로운 수로의 이름을 선택하십시오:
+Label2.Caption=당신은 암호를 가진 수로를 보호할 수 있다:
+Label3.Caption=암호를 재입력하십시오:
+ChannelName.Hint=수로 이름을 여기에서 입력하십시오
+Password.Hint=수로 암호를 여기에서 입력하십시오
+PasswordCheck.Hint=자신의 암호를 여기에서 검사하십시오
+Label4.Caption=게임을 선택하십시오:
+Label5.Caption=허용되는 선수의 최대:
+Edit1.Text=0
+Tabs.TabNames=2
+Tabs.TabNames.0=잡담 수로

@@ -1,0 +1,5 @@
+lbBankResult.Caption=La banque n'a aucun assez fonde pour payer maintenant.
+lvLoans.Columns=4
+lvLoans.Columns.0=Débiteur
+lvLoans.Columns.1=Quantité
+lvLoans.Columns.2=Intérêt

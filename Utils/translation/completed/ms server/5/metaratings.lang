@@ -1,0 +1,17 @@
+﻿PublicFacilities.Sport.Name=休闲设施
+Target=规定值
+LangId=5
+Ratings.CampaignAccuracy.Name=竞选成就
+Ratings.College.Name=学院
+Ratings.Disposal.Name=垃圾处置
+Ratings.Fire.Name=火覆盖面
+Ratings.Health.Name=健康保险
+Ratings.Jail.Name=监狱
+Ratings.Museum.Name=博物馆
+Ratings.Police.Name=警察覆盖面
+Ratings.PopGrowth.Name=城市成长
+Ratings.School.Name=学校覆盖面
+Ratings.Services.Name=服务和娱乐
+Ratings.Sport.Name=休闲设施
+Ratings.Taxes.Name=税
+Ratings.Unemployment.Name=就业

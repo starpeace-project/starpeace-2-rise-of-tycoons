@@ -1,0 +1,11 @@
+﻿Projects.Wealth.Name=Хозяйственное богатство
+Target=PublicFacilities
+LangId=11
+PublicFacilities.College.Name=Коллежи
+PublicFacilities.Disposal.Name=Избавление отброса
+PublicFacilities.Fire.Name=Охват пожара
+PublicFacilities.Health.Name=Охват здоровья
+PublicFacilities.Jail.Name=Тюрьмы
+PublicFacilities.Museum.Name=Музеи
+PublicFacilities.Police.Name=Охват полиций
+PublicFacilities.School.Name=Охват школы

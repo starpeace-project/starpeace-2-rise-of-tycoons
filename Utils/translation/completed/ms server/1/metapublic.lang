@@ -1,0 +1,11 @@
+﻿Projects.Wealth.Name=Abundancia económica
+Target=PublicFacilities
+LangId=1
+PublicFacilities.College.Name=Universidades
+PublicFacilities.Disposal.Name=Disposición de basura
+PublicFacilities.Fire.Name=Cobertura del fuego
+PublicFacilities.Health.Name=Cobertura de salud
+PublicFacilities.Jail.Name=Cárceles
+PublicFacilities.Museum.Name=Museos
+PublicFacilities.Police.Name=Cobertura de la policía
+PublicFacilities.School.Name=Cobertura de la escuela

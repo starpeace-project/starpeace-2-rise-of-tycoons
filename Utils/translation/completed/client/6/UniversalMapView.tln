@@ -1,0 +1,16 @@
+=
+lbName.Caption=Universele Kaart
+Tabs.TabNames=3
+Tabs.TabNames.0=Officiële Werelden
+Tabs.TabNames.1=De Werelden van toernooien
+Tabs.TabNames.2=De Werelden van de speler
+Label11.Caption= Werelden die op dit gebied worden gevonden:
+Label9.Caption=Soort door:
+RadioButton1.Caption=Knal
+RadioButton2.Caption=Investeerders
+RadioButton3.Caption=Jaar
+RadioButton4.Caption=PINGEL
+Ticker.Caption=Onthaal aan de Kaart Univesal. Klik hierboven op om het even welke werelden aan vertoning uitgebreide informatie.
+Jump.Hint=Sprong aan de momenteel geselecteerde planeet
+Jump.Text=SPRONG AAN PLANEET
+Refresh.Hint=Verfris hierboven getoonde planeetlijst

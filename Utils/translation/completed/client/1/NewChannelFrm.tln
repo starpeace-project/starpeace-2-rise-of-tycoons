@@ -1,0 +1,17 @@
+Label2.Caption=Tema:
+Marquee.Caption=CREAR EL NUEVO CANAL
+Marquee.Hint=CREAR EL NUEVO CANAL
+btnCreate.Hint=Chascar para crear un nuevo canal
+btnCreate.Text=Crear
+btnCancel.Text=Cancelar
+Label1.Caption=Elegir un nombre para el nuevo canal:
+Label2.Caption=Usted puede proteger el canal con una contraseña:
+Label3.Caption=Entrar la contraseña de nuevo:
+ChannelName.Hint=Incorporar el nombre del canal aquí
+Password.Hint=Incorporar la contraseña del canal aquí
+PasswordCheck.Hint=Comprobar su contraseña aquí
+Label4.Caption=Elegir un juego:
+Label5.Caption=Máximo de los jugadores permitidos:
+Edit1.Text=0
+Tabs.TabNames=2
+Tabs.TabNames.0=CANAL DE LA CHARLA

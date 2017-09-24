@@ -1,0 +1,4 @@
+btnModify.Text=変更しなさい
+lvAntennas.Columns=3
+lvAntennas.Columns.0=名前
+lvAntennas.Columns.1=町

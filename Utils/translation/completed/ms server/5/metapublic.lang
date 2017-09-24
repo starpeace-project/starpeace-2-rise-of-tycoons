@@ -1,0 +1,11 @@
+﻿Projects.Wealth.Name=经济健康
+Target=PublicFacilities
+LangId=5
+PublicFacilities.College.Name=学院
+PublicFacilities.Disposal.Name=垃圾处置
+PublicFacilities.Fire.Name=火覆盖面
+PublicFacilities.Health.Name=健康保险
+PublicFacilities.Jail.Name=监狱
+PublicFacilities.Museum.Name=博物馆
+PublicFacilities.Police.Name=警察覆盖面
+PublicFacilities.School.Name=学校覆盖面

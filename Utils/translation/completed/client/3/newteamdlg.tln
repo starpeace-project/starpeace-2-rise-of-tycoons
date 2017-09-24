@@ -1,0 +1,17 @@
+Tabs.TabNames.1=SPIEL-KANAL
+NewTeamDlg.Caption=NewTeamDlg
+NewTeamDlg.Hint=
+CloseBtn.Hint=Nahes Fenster
+CloseBtn.Text=x
+Shape1.Hint=
+Label4.Caption=Mannschaft-Name:
+Label4.Hint=
+btCreate.Hint=Anzeigentestblatt-Diagrammwerkzeuge
+btCreate.Text=Neue Mannschaft
+btCancel.Hint=Anzeigentestblatt-Diagrammwerkzeuge
+btCancel.Text=Löschen
+HintText.Caption=EINE MANNSCHAFT HERSTELLEN
+HintText.Hint=EINE MANNSCHAFT HERSTELLEN
+edTeamName.Hint=
+edTeamName.Text=
+pnError.Caption=STÖRUNG!

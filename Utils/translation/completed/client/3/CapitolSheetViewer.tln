@@ -1,0 +1,15 @@
+lvLoans.Columns.3=Ausdruck
+Label9.Caption=Präsident:
+xfer_ActualRuler.Caption=Kein
+Label2.Caption=Populäre Bewertung:
+Label3.Caption=Industriemagnat-Veranschlagen:
+Label4.Caption=Vollmacht Nº:
+Label5.Caption=Jahre zu den Wahlen:
+xfer_RulerRating.Caption=Kein
+xfer_TycoonsRating.Caption=Kein
+xfer_CampaignCount.Caption=Kein
+xfer_YearsToElections.Caption=Kein
+btnVisitPolitics.Hint=Klicken zum Besuchen die Präsidentenpolitikseite
+btnVisitPolitics.Text=Besuchs-Präsident Politics Page
+Label8.Caption=QOL:
+xfer_QOL.Caption=100

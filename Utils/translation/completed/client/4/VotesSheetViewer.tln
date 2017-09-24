@@ -1,0 +1,6 @@
+Speaker.Caption=Nessuno
+lvVotes.Columns=4
+lvVotes.Columns.0=Candidato
+lvVotes.Columns.1=Valutazione
+lvVotes.Columns.2=Voti validi
+lvVotes.Columns.3=Punti

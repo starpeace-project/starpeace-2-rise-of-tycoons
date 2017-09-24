@@ -1,0 +1,11 @@
+Button2.Caption=취소하십시오
+Label1.Caption=제목:
+btnLaunch.Text=발사
+NameLabel.Caption=n/a
+Label2.Caption=시간:
+Label3.Caption=예산:
+btnCancelFilm.Text=취소
+btnReleaseFilm.Text=방출
+xfer_FilmBudget.Text=$10,000,000
+cbAutoRelease.Caption=자동 방출
+xfer_FilmTime.Text=12

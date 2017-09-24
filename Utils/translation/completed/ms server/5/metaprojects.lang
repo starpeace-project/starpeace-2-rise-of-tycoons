@@ -1,0 +1,14 @@
+﻿Ministries.Ministry8.Name=住房
+Target=Projects
+LangId=5
+Projects.College.Name=学院
+Projects.Disposal.Name=垃圾处置
+Projects.Fire.Name=火覆盖面
+Projects.Health.Name=健康保险
+Projects.Jail.Name=监狱
+Projects.Museum.Name=博物馆
+Projects.Police.Name=警察覆盖面
+Projects.School.Name=学校覆盖面
+Projects.Services.Name=服务和娱乐
+Projects.Sport.Name=休闲设施
+Projects.Unemployment.Name=失业

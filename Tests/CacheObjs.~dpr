@@ -1,0 +1,16 @@
+program CacheObjs;
+
+uses
+  Forms,
+  TestProxyFrm in 'TestProxyFrm.pas' {TestCacheProxy},
+  CacheObjs_TLB in 'CacheObjs_TLB.pas';
+
+{$R *.RES}
+
+{$R *.TLB}
+
+begin
+  Application.Initialize;
+  Application.CreateForm(TTestCacheProxy, TestCacheProxy);
+  Application.Run;
+end.

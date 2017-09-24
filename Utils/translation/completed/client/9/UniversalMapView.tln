@@ -1,0 +1,16 @@
+=
+lbName.Caption=Ogólnoludzki Mapa
+Tabs.TabNames=3
+Tabs.TabNames.0=Oficjalny Świat
+Tabs.TabNames.1=Turniej Świat
+Tabs.TabNames.2=Gracz Świat
+Label11.Caption= Świat znajdować w ten teren:
+Label9.Caption=Rodzaj obok:
+RadioButton1.Caption=Wystrzał
+RadioButton2.Caption=Inwestor
+RadioButton3.Caption=Rok
+RadioButton4.Caption=ŚWIST
+Ticker.Caption=Powitanie the Univesal Mapa. Stuknięcie na jakikolwiek świat jakikolwiek rozszerzony informacja.
+Jump.Hint=Skok the planeta obecnie wybierać
+Jump.Text=SKOK
+Refresh.Hint=Odświeżać planeta lista wystawiać wystawiać

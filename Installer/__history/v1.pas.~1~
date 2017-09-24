@@ -1,0 +1,104 @@
+unit v1;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs, jpeg, ExtCtrls, ZipMstr, HTTPGet, StdCtrls, ShellApi;
+
+type
+  TForm1 = class(TForm)
+    HTTPGet1: THTTPGet;
+    ZipMaster1: TZipMaster;
+    Image1: TImage;
+    Label1: TLabel;
+    HTTPGet2: THTTPGet;
+    procedure FormCreate(Sender: TObject);
+    procedure HTTPGet1DoneFile(Sender: TObject; FileName: String;
+      FileSize: Integer);
+    procedure HTTPGet2DoneFile(Sender: TObject; FileName: String;
+      FileSize: Integer);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Form1: TForm1;
+  gf:integer;
+
+implementation
+
+{$R *.dfm}
+
+procedure TForm1.FormCreate(Sender: TObject);
+var
+  t1:textfile;
+  t2:string;
+begin
+  label1.Caption:= 'Please wait while we check if an update is available';
+  AssignFile(t1, ExtractFilePath( paramstr(0) ) + 'update.txt');
+        reset(t1);
+        readln(t1,t2);
+        CloseFile(t1);
+  HTTPGet1.URL:=t2 + 'version.txt';
+  httpget1.FileName:= 'v1.txt';
+  gf:=1;
+  httpget1.GetFile;
+end;
+
+procedure TForm1.HTTPGet1DoneFile(Sender: TObject; FileName: String;
+  FileSize: Integer);
+var
+  t1:textfile;
+  t2,t3:string;
+begin
+  case gf of
+    1:
+      begin
+        AssignFile(t1, ExtractFilePath( paramstr(0) ) + 'version.txt');
+        reset(t1);
+        readln(t1,t2);
+        CloseFile(t1);
+        AssignFile(t1, ExtractFilePath( paramstr(0) ) + 'v1.txt');
+        reset(t1);
+        readln(t1,t3);
+        CloseFile(t1);
+        deletefile('v1.txt');
+        if t2 = t3 then
+          begin
+             ShellExecute(Handle, 'open', 'FIVEVoyager.exe', nil, nil, SW_SHOWNORMAL) ;
+             close;
+          end
+        else
+          begin
+             gf:=2;
+             label1.Caption:= 'Downloading patch for the game now';
+             HTTPGet2.URL:='http://www.starpeace.net46.net/update/' + t2 + '.zip';
+             httpget2.FileName:= 'u.zip';
+             httpget2.GetFile;
+          end;
+      end;
+    2:
+      begin
+       
+      end;
+   end;
+end;
+
+procedure TForm1.HTTPGet2DoneFile(Sender: TObject; FileName: String;
+  FileSize: Integer);
+  var
+    a:integer;
+begin
+   label1.Caption:= 'Patch downloaded, Now applying the patch';
+   ZipMaster1.ZipFileName:='u.zip';
+   ZipMaster1.Extract;
+   deletefile('u.zip');
+   label1.Caption:= 'Patch Applied, Starting client';
+   ShellExecute(Handle, 'open', 'FIVEVoyager.exe', nil, nil, SW_SHOWNORMAL) ;
+   close;
+end;
+
+end.

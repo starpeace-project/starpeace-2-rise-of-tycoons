@@ -1,0 +1,16 @@
+N2.Caption=Cancellazione
+Label1.Caption=Comunicando con voi:
+OnlineList.Columns=3
+OnlineList.Columns.0=Altrimenti detto
+OnlineList.Columns.1=Livello
+OnlineList.Columns.2=Mondo
+Label2.Caption=Aspettandolo:
+WaitingList.Columns=3
+WaitingList.Columns.0=Altrimenti detto
+WaitingList.Columns.1=Livello
+WaitingList.Columns.2=Mondo
+File1.Caption=&File
+EXitMnu.Caption=E&xit
+Shortcuts1.Caption=Scorciatoie
+Minimize1.Caption=Minimizzare
+Chat1.Caption=Chiacchierata!

@@ -1,0 +1,10 @@
+ChannelName.Caption=秘密会议
+Label1.Caption=闲谈
+IgnoreUser.Hint=点击忽略用户当前选择
+IgnoreUser.Text=忽略用户
+ChatOverMap.Hint=点击聊天，当浏览这张地图时
+ChatOverMap.Text=聊天在地图
+FollowUser.Hint=点击跟随这名选择的用户
+FollowUser.Text=跟随用户
+VoiceChat.Hint=点击得到声音闲谈盘区
+VoiceChat.Text=谈盘区

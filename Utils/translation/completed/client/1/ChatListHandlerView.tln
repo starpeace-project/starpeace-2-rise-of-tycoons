@@ -1,0 +1,10 @@
+ChannelName.Caption=Reunión secreta
+Label1.Caption=Charla
+IgnoreUser.Hint=Chascar para no hacer caso del usuario seleccionado actual
+IgnoreUser.Text=No hacer caso del usuario
+ChatOverMap.Hint=Chascar para charlar mientras que hojea el mapa
+ChatOverMap.Text=Charlar sobre mapa
+FollowUser.Hint=Chascar para seguir al usuario seleccionado
+FollowUser.Text=Seguir a usuario
+VoiceChat.Hint=Chascar para conseguir el panel de la charla de la voz
+VoiceChat.Text=Hablar el panel

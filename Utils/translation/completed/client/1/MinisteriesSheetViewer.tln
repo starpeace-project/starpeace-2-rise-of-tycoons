@@ -1,0 +1,10 @@
+btnCancel.Text=Cancelar la trascendencia
+lvMinisteries.Columns=4
+lvMinisteries.Columns.0=El ministerio
+lvMinisteries.Columns.1=Ministro
+lvMinisteries.Columns.2=Grado
+lvMinisteries.Columns.3=Presupuesto
+lbBudget.Caption=Presupuesto del próximo año:
+btnSetBudget.Text=Fijar el presupuesto
+btnDeposeClick.Test=Deponer
+lbMinister.Caption=Ministro:

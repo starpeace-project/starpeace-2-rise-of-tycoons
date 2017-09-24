@@ -1,0 +1,10 @@
+﻿TycoonLevels.BeyondLegend.Cond=您必须支付%s对IFEL。 您必须让一个一般的赢利比率优胜者对%s/h.维护您的声望很大地比15000。
+Target=Ministries
+LangId=5
+Ministries.Ministry1.Name=健康
+Ministries.Ministry2.Name=教育
+Ministries.Ministry3.Name=防御
+Ministries.Ministry4.Name=农业
+Ministries.Ministry5.Name=轻工业
+Ministries.Ministry6.Name=重工业
+Ministries.Ministry7.Name=商务

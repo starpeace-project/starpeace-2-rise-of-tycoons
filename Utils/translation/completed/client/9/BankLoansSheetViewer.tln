@@ -1,0 +1,5 @@
+lbBankResult.Caption=The bank mieć żadny dosyć zakładać teraz.
+lvLoans.Columns=4
+lvLoans.Columns.0=Dłużnik
+lvLoans.Columns.1=Kwota
+lvLoans.Columns.2=Interes

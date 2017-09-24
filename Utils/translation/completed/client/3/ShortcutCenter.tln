@@ -1,0 +1,14 @@
+=
+ShortcutCenter.Caption=Tastaturabkürzungen
+Label1.Caption=Geregistrierte Tastaturabkürzungen
+ListView1.Columns=3
+ListView1.Columns.0=Beschreibung
+ListView1.Columns.1=Abkürzung
+ListView1.Columns.2=Text
+Button1.Caption=Hinzufügen…
+Button1.Hint=Klicken, um eine Abkürzung zu addieren
+Button2.Caption=Redigieren…
+Button2.Hint=Klicken, um ein shorcut zu redigieren
+Button3.Caption=Löschung
+Button3.Hint=Klicken, um eine Abkürzung zu beseitigen
+Button4.Caption=Schließen

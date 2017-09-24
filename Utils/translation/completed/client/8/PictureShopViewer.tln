@@ -1,0 +1,14 @@
+btnCancel.Text=취소
+btnLoad.Hint=디스크 파일에서 당신의 그림을 적재하십시오
+btnLoad.Text=짐
+btnPreview.Hint=당신의 그림을 시사하십시오
+btnPreview.Text=시사
+btnSend.Hint=당신의 그림을 보내십시오
+btnSend.Text=보내십시오
+btnCancel.Text=닫히십시오
+ZoomIn.Hint=확대하십시오
+ZoomIn.Text=+
+ZoomOut.Hint=밖으로 급상승
+ZoomOut.Text=-
+Marquee.Caption=당신의 그림을 보내십시오
+Marquee.Hint=당신의 그림을 보내십시오

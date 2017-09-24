@@ -1,0 +1,17 @@
+Tabs.TabNames.1=КАНАЛ ИГРЫ
+NewTeamDlg.Caption=NewTeamDlg
+NewTeamDlg.Hint=
+CloseBtn.Hint=Близкое окно
+CloseBtn.Text=x
+Shape1.Hint=
+Label4.Caption=Имя команды:
+Label4.Hint=
+btCreate.Hint=Инструменты карты верхнего слоя индикации
+btCreate.Text=Новая команда
+btCancel.Hint=Инструменты карты верхнего слоя индикации
+btCancel.Text=Cancel
+HintText.Caption=СОЗДАЙТЕ КОМАНДУ
+HintText.Hint=СОЗДАЙТЕ КОМАНДУ
+edTeamName.Hint=
+edTeamName.Text=
+pnError.Caption=ОШИБКА!

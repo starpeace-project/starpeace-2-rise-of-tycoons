@@ -1,0 +1,17 @@
+Label2.Caption=Objet :
+Marquee.Caption=CRÉER LE NOUVEAU CANAL
+Marquee.Hint=CRÉER LE NOUVEAU CANAL
+btnCreate.Hint=Cliquer pour créer un nouveau canal
+btnCreate.Text=Créer
+btnCancel.Text=Décommander
+Label1.Caption=Choisir un nom pour le nouveau canal :
+Label2.Caption=Vous pouvez protéger le canal avec un mot de passe :
+Label3.Caption=Réintroduire le mot de passe :
+ChannelName.Hint=Écrire le nom de canal ici
+Password.Hint=Entrer le mot de passe de canal ici
+PasswordCheck.Hint=Vérifier votre mot de passe ici
+Label4.Caption=Choisir un jeu :
+Label5.Caption=Maximum des joueurs permis :
+Edit1.Text=0
+Tabs.TabNames=2
+Tabs.TabNames.0=CANAL DE CAUSERIE

@@ -1,0 +1,10 @@
+btnCancel.Text=超越を取り消しなさい
+lvMinisteries.Columns=4
+lvMinisteries.Columns.0=大臣
+lvMinisteries.Columns.1=大臣
+lvMinisteries.Columns.2=評価
+lvMinisteries.Columns.3=予算
+lbBudget.Caption=来年の予算:
+btnSetBudget.Text=予算を置きなさい
+btnDeposeClick.Test=解任しなさい
+lbMinister.Caption=大臣:

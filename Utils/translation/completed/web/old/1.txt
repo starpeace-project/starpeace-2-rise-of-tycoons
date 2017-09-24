@@ -1,0 +1,751 @@
+
+“cliente”
+“Clientes”
+“clientes”
+“Para vender a los clientes seleccionados”
+“surtidor”
+“Surtidores”
+“surtidores”
+“Compra a surtidores seleccionados”
+“Búsqueda para”
+“de”
+“Nombre de compañía”
+“Nombre de la ciudad”
+“Búsqueda”
+"RESET"
+“Parado”
+“Almacenes de la importación”
+“Almacenes”
+“Almacenes de la exportación”
+“Centros comerciales de la ciudad”
+“Almacenes regulares”
+“Fábricas”
+“Límite de la lista”
+La “búsqueda resulta”
+“fueron encontrados”
+“Usted puede seleccionar alguno de la lista abajo y comenzar relaciones con ellas chascando en”
+“No”
+“Usted especificó probablemente las condiciones demasiado restrictivas que se satisfarán. Intentar por favor una búsqueda más amplia, dejando algunos campos vacian”
+“Facilidad”
+“Compañía”
+“Ciudad”
+“Precio”
+“Calidad”
+“Seleccionar todos”
+“Unselect todo”
+“Instrucciones de la búsqueda”
+“Para buscar para”
+“rellenar el impreso arriba y después chascar encendido “la búsqueda””
+“VistaGrande”
+“buscará para la información que usted quiere. Usted puede dejar todos los campos vacíos para alcanzar la búsqueda más general”
+
+
+“ACEPTABLE”
+“No puede atar para oponerse”
+“No puede conectar con el servidor”
+“Apesadumbrado, este sitio está bajo construcción”
+
+
+“ERROR: No podía atar al magnate”
+“ERROR: No podía conectar”
+“Esto desmontará todas sus compañías e instalaciones. Usted conseguirá $100.000.000 del IFEL otra vez para comenzar encima. Está usted seguro esto es lo que usted quiere hacer?” 
+“Reajustar la cuenta”
+“Cancelar”
+“Apesadumbrado, no puede recuperar la información del magnate del servidor”
+“Usted no ha colocado a ninguna surtidores para” 
+“Chascar encendido <b>Add</b> para agregar alguno”
+“También emplear un centro comercial”
+“Auto-incluir solamente los almacenes”
+“Agregar”
+“Suprimir”
+Colocan a los “surtidores iniciales simplemente en la lista de surtidores cuando usted primero crea una facilidad. Si usted no conecta una facilidad con otros surtidores, los surtidores iniciales abarcarán la lista del surtidor de la facilidad. Todas sus instalaciones se incorporan automáticamente como surtidores iniciales a menos que usted restrinja su selección debajo” 
+“Apesadumbrado, no puede recuperar la información del magnate del servidor”
+“Cuenta bancaria”
+“Fecha”
+“Equilibrio actual” 
+La “información de las actividades bancarias se pone al día en tiempo real. El "" del tecleo restaura el "" en la barra de la herramienta para las últimas figuras”
+“Banco de IFEL”
+“El banco rechazó su petición. Usted ha pedido prestado ya el máximo que usted puede.”
+“ERROR: No puede realizar la operación”
+“Pedir prestada”
+“Interés anual. Para ser pagado en %1 años”
+“Enviar el dinero”
+“ERROR: Magnate no encontrado”
+“ERROR: Cantidad de dinero inválida”
+“ERROR: No puede transferir el dinero”
+“Enviar a”
+“Cantidad”
+“Enviar”
+“Usted no puede enviar el <br> del dinero que usted recibió con el <br> de los préstamos o como parte de su visa del inversionista” 
+“Usted no tiene ninguÌn dinero a enviar”
+Los “funcionarios públicos no pueden transferir el dinero”
+“Préstamos”
+“Nombre de banco”
+“Tipo de interés”
+“Término”
+“Pago siguiente”
+“Usted no debe el dinero a ninguÌn banco. Si usted quiere pedir prestado el dinero del <br> del banco del IFEL, incorporar la cantidad que usted quiere el <br> en la caja de la entrada arriba y chascar <b>Borrow</b>”
+“Apesadumbrado, no puede recuperar la información del magnate del servidor”
+“Pagar apagado”
+“<b>NOTE:</b> puesto que esto es una cuenta de <b>DEMO</b>, <br>you no puede transferir <br>to del dinero otros jugadores o figuras políticas”
+Las “transferencias monetarias no se permiten en planetas del torneo”
+“Usted ha colocado a compañías siguientes. El <br> elige uno de la lista o crea un nuevo”
+“Más Info”
+“Crear nuevo”
+“No ejecutado!”
+“<b>Note:Los valores de </b> demostrados en esta página podían ser diferentes ahora”
+“(este año)”
+“Ventas del producto”
+“Mantener las ventas”
+“Alquila”
+“Otro”
+“Fuentes”
+“Remunera”
+“Mantenimiento”
+“Construcción”
+“Investigación”
+“Otro”
+“Opciones de la compañía”
+El “nombre de compañía no puede ser vacío ni contener los carácteres siguientes:  \/:¿*?<> del ""|el &+%”
+“Crear a nueva compañía”
+“Elegir un nombre para su compañía. Asociarse a una de las pedidos tecnológicas del alcalde”
+“Error”
+“Nombre de compañía”
+“Asociado con”
+“Chascar aquí para crear a la compañía”
+“Cancelar e ir a la página anterior”
+“Apesadumbrado, no puede recuperar la información del magnate del servidor”
+“Plan de estudios”
+“señala”
+“Reajustar la cuenta”
+“Nivel actual”
+“Mejora al nivel siguiente”
+“No podía aumentar llano el año pasado”
+“Nivel siguiente” 
+“Requiere”
+“en las graduaciones”
+“Artículo” 
+“Prestigio”
+“Apesadumbrado, no puede recuperar la información del magnate del servidor”
+“<b>NOTE:</b> puesto que esto es una cuenta de <b>DEMO</b>, usted no puede nivelar.”
+“lugar del th en la graduación de NTA”
+“Beneficio y pérdida”
+“Surtidores iniciales”
+“Compañías”
+“Estrategia”
+“Clase particular”
+“Chascar aquí para enviar su cuadro.”
+“ningunos”
+“en línea”
+“Nombre” 
+“Su política”
+“Su política”
+“Cambiar su política hacia un magnate” 
+“Apesadumbrado, no puede recuperar la información del magnate del servidor”
+“Apesadumbrado, ningunos ajustes comerciales de la estrategia permitidos en planetas del torneo.”
+Los “valores demostrados en esta página podían ser diferentes ahora”
+“surtidores locales para”
+“fueron encontrados” 
+“Facilidad”
+“Compañía”
+“Ciudad”
+“Precio”
+“Calidad”
+“Incluir seleccionado”
+“Búsqueda parada”
+La “prensa <b>SEARCH</b> para obtener una lista de licencia de suppliers.<br> toda coloca vacío para alcanzar el search<br> más general”
+“Búsqueda auto de las conexiones”
+“Opciones del magnate”
+“Beneficio y pérdida”
+“Observar”
+“Opciones de la estrategia del magnate”
+“Estrategia comercial”
+“Su estado actual de la estrategia:”
+“Nombre del magnate”
+“Aliado”
+“Neutral”
+“Enemigo”
+“Fijar la política”
+“Fortuna personal”
+“Beneficio medio (este año)”
+“Prestigio total”
+“Nobleza”
+“Capacidad”
+“de las graduaciones”
+“para estar en el del más alto nivel”
+“para tener préstamos”
+“Artículos del plan de estudios”
+“Disidentes”
+“PGI”
+“Empresas de Mariko”
+“Moab”
+“Almacenes universales”
+“Opciones de la compañía”
+“Rentas”
+“Gastos”
+“Volver”
+“Funcionar con esta compañía”
+“Disolver a esta compañía”
+“Apesadumbrado, no puede recuperar la información del magnate del servidor.”
+“Lista de la compañía”
+“Compañías”
+“Usted puede transferir hasta %1”
+“Conexiones autos”
+“Reajustar la cuenta”
+“ADVIRTIENDO!”
+“Dimitir”
+“Es usted que usted quiere sure renunciar sus actuales deberes políticos?”
+“Crear a una nueva compañía puede implicar la compra automática de una nueva licencia de la investigación. la licencia siguiente del <br>Your costará: ”
+“Las tareas preceptorales no avanzarán si le no abren una sesión como su compañía inicial. Le sugerimos completo la clase particular antes de crear a una nueva compañía. <br><br>If que usted quiere hacerlo de todos modos, se cerciora de que le abren una sesión como su primera compañía antes de que usted reasuma el preceptoral”
+
+
+“Usted puede enviar su cuadro de la página del perfil”
+“Visitar la lengüeta del anuncio en los ajustes de ayuntamiento para configurar sus abastecedores del anuncio”
+“Alcalde de”
+“Modificar los valores de prioridad abajo para distribuir su tiempo de la publicidad”
+golpes/hora de value>%1</span> de la publicidad.“
+“Lo más arriba posible”
+“Alto”
+“Normal”
+“Bajo”
+“Lo más bajo posible”
+“ningunos”
+“en línea”
+“Usted puede enviar su cuadro de la página del perfil”
+El “candidato más fuerte”
+“señala”
+“años a las elecciones”
+“año a las elecciones”
+“Ningunas elecciones en los planetas del torneo”
+“NinguÌn presidente”
+“NinguÌn alcalde”
+“Nombre”
+“Prestigio”
+“Grado popular”
+“Clasificación de los magnates”
+“Grado de IFEL”
+“No. del mandato”
+“en línea”
+“GRADO de POPULAR<br>”
+“GRADO de IFEL's<br>”
+“GRADOS del br> del TYCOONS'<”
+“ALCALDE”
+“PRESIDENTE”
+“PUBLICIDAD”
+De “campaña lanzamiento para %1 en %2…”
+“ERROR: No podía atar ayuntamiento”
+“ERROR: No podía conectar”
+“Retirar la campaña”
+“Nombre inválido del magnate”
+“Este magnate no puede actuar como ministro”
+“Esta oferta es ACEPTABLE!”
+“Comprobar los nombres del ministro”
+“Usted no está participando en las elecciones que vienen. Chascar encendido el botón abajo para poner en marcha su campaña política. Para ser aceptado, su prestigio debe ser más alto de %1 puntos”
+“Campaña del lanzamiento”
+“Usted es los %1. Usted no puede tener una campaña”
+Se ha negado “su uso. Nuestros expedientes demuestran que usted tiene ya una comisión pública”
+“Apesadumbrado, usted no satisface los requisitos para tener su propia campaña. Su prestigio debe ser más alto de %1 puntos” 
+“Es demasiado atrasado poner en marcha una campaña. Las campañas se pueden comenzar solamente durante la primera mitad del período político.”
+No se celebra “ningunas elecciones en planetas del torneo. Los valores de los impuestos son fijos y se proporciona la división necesaria cuando se abre el planeta. No hay salario mínimo y los jugadores tendrán que retransmitir en sí mismos para las instalaciones cívicas.”
+los “*Values demostrados en rojo son ésos que usted envió para el examen. Estos valores serán mezclados con ésos enviados por otros magnates dependiendo de prestigio personal.”
+“Nota: Chascar sobre un artículo para enviar su opinión. También observar eso que envía un nuevo valor eliminará un valor anterior enviado por usted”
+“Nota: Visitar el foro del diario local para fijar sus grados para este político”
+“Colocar”
+“Nombrar”
+“Grado”
+“Más que”
+“Menos que”
+“Nota: Chascar sobre un artículo para especificar sus ajustes.”
+“Ningunos”
+“ACEPTABLE”
+“Ningunos candidatos”
+“No hay elecciones <br> llevado a cabo en los planetas del torneo”
+“Cercano”
+“YOUR<br>CAMPAIGN”
+“ALL<br>CAMPAIGNS”
+“Alcalde”
+“Presidente”
+
+
+“La bóveda está funcionando normalmente”
+“La bóveda fue parada por el dueño”
+“La bóveda no está funcionando correctamente”
+“Uno o más fuentes básicas no se están recibiendo en absoluto”
+“No hay bastante dinero a funcionar”
+“La bóveda no se está suministrando mientras que necesita trabajar correctamente”
+
+
+“HOME PAGE”
+“Productos”
+“Fuentes”
+“Consumiendo”
+“Produciendo”
+“de”
+“posible”
+“Calidad”
+“Precio”
+“Facilidad”
+“Compañía”
+“Compras”
+“Ventas”
+“Agregar nuevo”
+“Suprimir seleccionado”
+“surtidor”
+“cliente”
+“surtidores”
+“clientes”
+“Dueño”
+“Beneficio”
+“el año pasado”
+“Coste”
+“Rédito”
+“Pagado en exceso”
+“cambiado”
+“Overprice”
+“conexión”
+“ha cambiado”
+“Trabajos”
+“Casero”
+“Fuerza de trabajo”
+“De clase superior”
+“Clase media”
+“Clase baja”
+“Trabajadores actuales”
+“Calidad de la fuerza de trabajo”
+“Remunera”
+“Los valores del sueldo del por ciento representan el cociente entre los sueldos actuales en esta facilidad y los precios estándar en la fuerza de trabajo ponen”
+“Conec”
+“Más sobre”
+“Más Info”
+“Habitantes”
+“Belleza”
+“Crimen”
+“Contaminación”
+“Calidad de vida”
+“Alquiler”
+“Mantenimiento”
+“Servicios”
+“Demanda”
+“Fuente”
+
+
+“Información de carácter general”
+“Clase de la facilidad”
+“Ciudad”
+“Racimo”
+“Compañía”
+“CEO”
+“Operación”
+“Mano de obra”
+“De clase superior”
+“trabajadores”
+“de”
+“Clase media”
+“Clase baja”
+
+
+“Estructura”
+“Fuerza de trabajo”
+“De clase superior”
+“Clase media”
+“Clase baja”
+“Remunera”
+“Chascar aquí para corregir nombre”
+“Buscar para”
+“ACEPTABLE”
+“Cancelar”
+“Apesadumbrado, no puede conectar con esta facilidad”
+“Esto establecerá contratos entre <b>%1</b> y todas las fábricas usted own.<br>Also, <b>%1</b> será agregada a su lista de surtidores del defecto.”
+“Esto establecerá contratos entre <b>%1</b> y todos los almacenes usted own.<br>Also, <b>%1</b> será agregada a su lista de surtidores del defecto.”
+“Esto establecerá contratos entre <b>%1</b> y todos los almacenes usted own.<br>Also, <b>%1</b> será agregada a su lista de surtidores del defecto.”
+“Esto romperá contratos entre <b>%1</b> y todas las instalaciones que usted tiene.”
+“El cursor del ratón cambiará su forma para permitir que usted seleccione a clientes para <b>%1</b> directo de la interrupción de map.<br>To este tecleo de la operación el ratón cuando exhibe el icono del forbiden.”
+“Nombre”
+“Compañía”
+“Opciones generales para hacer <b>%1</b> a un surtidor de otras instalaciones que usted posee.”
+“Opciones generales para contratar a surtidores para <b>%1</b>.”
+“Indirecta”
+“General”
+“Alquiler”
+“Mantenimiento”
+“Creó por %1, el dueño y el CEO de %2.”
+“Caminos”
+“Demoler”
+“Bajo construcción”
+“Apesadumbrado, este sitio está bajo construcción.”
+“Población”
+“Desempleo”
+“Calidad de vida”
+“Policía”
+“Salud”
+“Escuela”
+“Fuego”
+“Comenzó por %1, el dueño y el CEO de %2.”
+
+
+“Instalaciones”
+“Compañías”
+“Capitolio”
+“Ciudades”
+“Usted”
+“Gente”
+“Graduaciones”
+“Noticias”
+“Búsqueda”
+“Trasero”
+“Casero”
+“Poseído por %1”
+“Medios”
+“Beneficio neto”
+“Coste”
+“ROI”
+“Ya”
+“Nunca”
+“Enviar el correo”
+“Demostrar en mapa”
+“Graduación”
+“%1 que alinean”
+“No hay funcionamiento relevante al punto culminante en esta área.”
+“Habitantes”
+“Desempleo”
+“Calidad de vida”
+“Web site de la visita”
+“Fortuna”
+“Este año”
+“Graduación de NTA”
+“1r lugar.”
+“2do lugar.”
+“3ro lugar.”
+“lugar de %1th.”
+“Llano”
+“Prestigio”
+“%1 puntos.”
+“Demostrar el perfil”
+“Enviar el correo”
+“Gente”
+“Índice”
+“Ejerce la actividad bancaria”
+
+
+
+La “ayuda está bajo construcción!”
+“Usted ha colocado a compañías siguientes. Elegir uno de la lista o crear un nuevo.”
+“Compañías”
+“Usted ha colocado a compañías siguientes en %1.” 
+“Elegir uno de la lista o crear un nuevo.”
+“Privado”
+“más Info”
+“%1 instalaciones”
+“Crear nuevo!”
+“No hay expediente de usted en los archivos de IFEL para %1. Usted necesita una visa entrar en este mundo. Las oportunidades de inversión son sin fin para los sostenedores de las visas del magnate, mientras que los turistas pueden disfrutar de su estancia usar una visa del visitante.”
+¡“Parece que usted visitó ya la recepción %1. detrás! Como usted debe saber, las visas del visitante tienen que ser renovadas cada vez que usted pide entrar en este mundo. Es quizá hora de sentir bien a un inversionista!”
+“Visa del magnate”
+“Conseguir $100.000.000”
+“Crear a compañía”
+“Construir un imperio!”
+“Visa del visitante”
+“Nueva gente de la reunión”
+“Ver qué está sucediendo”
+“Se convierte un magnate más adelante”
+“Chascar sobre uno de los mundos enumerados abajo para ensamblar.”
+“%1 habitantes”
+“año %1”
+“%1 magnates”
+“%1 en línea”
+“Cancelar”
+“Ayudar”
+“Dueños grandes del sello”
+“PGI”
+“Disidentes”
+“Empresas de Mariko”
+“El Moab”
+“Dueños especiales del sello”
+“Almacenes universales”
+“Fundó por las organizaciones más ricas de Europa, PGI proporciona algunas de las mejores tecnologías disponibles hoy. Sin importar su nivel, si usted busca eficacia y la calidad PGI es la manera a las industrias de go.<p>PGI es eficiente y muestra la mejor calidad de la producción disponible, solamente sus instalaciones ser muy costoso. PGI es el único sello permitido producir los materiales del papel y de la impresión en los nuevos mundos. Los productos químicos, la ropa, los residentials y los centros del comercio son su fuerza.”
+“Pros”
+“Cons”
+“Industrias muy eficientes, con la mejor calidad de la producción disponible.”
+“Precios altos altos. Las industrias son demasiado grandes a veces.”
+Las “áreas más fuertes”
+Las “áreas más débiles”
+“Productos químicos, ropa, edificios residenciales, almacenes y otros centros del comercio.”
+“Ninguno sabida éste lejos.”
+“Introdujo por el Blomke-fundador de Markus del IFEL-a balance los edificios de las colonias' paisaje político, la mayor parte de la tecnología disidente fue diseñada para ser ideal para beginners.<p>Dissidents' se divierte precios bajos muy, no obstante la calidad de la producción es baja y el nivel de la eficacia no está el mejor disponible. Los disidentes tienen la exclusividad en la producción de licores, de juguetes y de madera. El mejor funcionamiento está en el cultivo, el software, barras y medios.”
+“Precios bajos muy. Niveles bajos de la contaminación. Pequeños diseños ideales para las áreas pobladas bajas.”
+“Baja calidad de la producción. Bajo rendimiento. Archiquecture es a veces torpe.”
+“Cultivo, software, barras y medios.”
+“Edificios de Residentials, explotación minera, metalúrgico y Heavy Industries.”
+Las “empresas de Mariko ofrecen alto - las soluciones competitivas basadas en el conocimiento desarrollado por el japonés en las industrias pasadas de century.<p>Since Mariko se automatizan alto, necesitan a pocos trabajadores y son muy eficientes. Sus estructuras más pequeñas son relativamente a precio bajo y garantizan menos contaminación. La producción plástica y los Cdes se reservan al sello de Mariko. Sus áreas comerciales más fuertes son componentes electrónicos, abogados, oficinas, aparatos electrodomésticos y máquinas de negocio.”
+“Niveles bajos de la contaminación. Industies automatizado alto. Niveles del efficency. Precios bajos relativamente.”
+“Resistencia baja al crimen y a la contaminación. La alta automatización puede aumentar el desempleo.”
+“Componentes electrónicos, abogados, edificios de oficinas, aparatos electrodomésticos y máquinas de negocio.”
+“Transformación de los alimentos, edificios de los residentials y medios.”
+“Una orden religiosa, el Moab fue fundada en Tejas por un inmigrante alemán rico. El Moab es un estado de ánimo que puede ser alcanzado solamente por un ritual del sadomasoquista revelador solamente a los que abracen el cult.<p>Thanks a la centralización de todos los edificios cívicos en el correccional, este sello es el mejores crimen y fuego de la lucha interna. Moab tiene la exclusividad de la cadena gasopetrolífera de la producción: plataformas petroleras, refinerías y gasolineras; la mejores explotación minera y productos químicos; buenos residentials de la clase del cielo y tierra.”
+El “lucha contra gran crimen y el fuego. Industrias muy eficientes. Precios moderados.”
+“Obscuridad y diseños a veces frighting.	Alguna gente no tiene gusto de trabajar en las industrias de Moab. Se ha dicho que los asesinatos extraños ocurren en sus edificios residenciales.”
+“La mejores explotación minera y productos químicos del mundo. Residentials de clase superior y bajos de la clase.”
+“Residentials y medios de la clase media. Los métodos de la transformación del cultivo y de los alimentos son sospechosos.”
+“Dueños especiales del sello”
+“Lista de la compañía”
+“Usted debe proporcionar un número de serie en línea de la herencia válida.”
+“Usted debe proporcionar un email address válido.”
+“Usted debe proporcionar su nombre completo en vida real.”
+“Las contraseñas que usted suministró no emparejan.”
+“Usted debe proporcionar una contraseña.”
+“Usted debe proporcionar un alias.”
+“Suministrar por favor la información siguiente.”
+“Error”
+“Alias”
+“Contraseña”
+“Entrar la contraseña de nuevo”
+“Número de serie”
+“Nombre completo”
+“Sexo”
+“Email address”
+“Email que sobre acontecimientos se relacionó con la herencia en línea o mi cuenta.”
+“Hace NO el email yo sobre los acontecimientos relacionados con la herencia en línea o mi cuenta.”
+“No publicar mi email address a otros jugadores.”
+“Publicar mi email address a otros jugadores.”
+“IMPORTANTE: El alias que usted elige aquí será utilizado para representarle en el universo en línea de la herencia entera. Usted no podrá cambiarlo más adelante a menos que usted dimita a todos sus possesions y logros en el juego.”
+“ACEPTABLE”
+Los “nombres de compañía no pueden ser vacíos o contener los carácteres siguientes”
+“Elegir un nombre para su compañía. También, elegir un abastecedor de la tecnología para asociarse a.”
+“Crear a compañía”
+“Nombre de compañía”
+“Apesadumbrado, usted necesita alcanzar el paradigma llano o tener por lo menos 100 puntos de la nobleza para tener acceso al sello del Magna.”
+“Asociado con”
+“Magna Corp”
+“El IFEL, referido sobre la superpoblación en las colonias, concedió un sello especial a Magna Corp de Earth.<p>Magna se especializa en estructuras muy grandes: Archologies (edificios residenciales masivos) y centros comerciales enormes. La única industria disponible para ellos es hasta ahora los estudios de la película. Este sello se puede autorizar solamente a los inversionistas que alcanzaron el nivel del paradigma.”
+“Esta tecnología se autoriza solamente a esos inversionistas que alcanzaron paradigma llano.”
+Los “almacenes universales proporcionan tecnología de almacenamiento excelente. El IFEL anima fuerte el uso de almacenes en las colonias. Ayudan a controlar la economía entera, y facilitan a gerencia de compañías grandes.”
+“Lista del mundo”
+La “herencia en línea está abajo de”
+““El nombre” y “la contraseña” campos no se pueden dejar vacía!”
+“Usted está a punto de introducir %1. incorpora su nombre y contraseña para este mundo. Si usted es un recién llegado el aviso que el nombre que usted incorpora aquí será su apodo en este mundo. También estar seguro de proporcionar una contraseña (y no olvidarla!)”
+“Nombrar”
+“Espera. Estableciendo el contacto con %1…”
+“Error de conexión”
+“Su petición era deuda rechazada al error.”
+“No podía abrir una sesión a la herencia en línea!”
+Los “servidores en línea apesadumbrados, pero de la herencia están abajo. el <br>You no puede ahora abrir una sesión. Intentar por favor más adelante.”
+“Servidor no encontrado. el <br>Please esté seguro que usted tiene una conexión activa a la red.”
+“<b>User inválido Name</b>.”
+“Hay alguien usar el nombre que usted especificó.”
+“Hay dos causas posibles para este error”
+“(a) usted está registrando por primera vez y usted eligió un nombre que se toma ya.”
+“(b) usted tiene ya una identidad en este mundo pero usted especificó un <b>password</b> inválido o deletreó su nombre mal. Sepamos en caso de que usted olvidara su contraseña. Podemos ayudarle a conseguirla detrás.”
+¡“Cómo lo hizo usted hace eso! Esto no es un error común. el <br>It puede suceder cuando dos personas intentan abrir una sesión usar el mismo <b>User Name</b> al mismo tiempo. el <br>The que el primer consigue la cuenta, segunda tendrá que abrir una sesión usar un diverso nombre. los <br>This son su caso.”
+“Algunos cómo el servidor no podría atar a los servicios repetidos del cliente.”
+“Usted no puede abrir una sesión usar ese nombre!”
+“Un error desconocido ocurrió.”
+“Si usted consigue esta clase de error a menudo satisfacer divulga a Oceanus.”
+“Salpicar”
+“Un juego por”
+“Chascar para entrar…”
+La “herencia en línea no podía almacenar su información de cuenta en el servidor. Intentar por favor otra vez y divulgar a Oceanus en caso de que falle otra vez.”
+“Esta cuenta es ya funcionando. Intentar por favor otro alias.”
+“Número de serie inválido”
+“No podía conectar con la herencia Online+servers”
+“Conexión CINCO”
+“Ahora usted puede proceder a firmar adentro. Chascar el botón ACEPTABLE abajo para volver el pantalla del sign-in.”
+“El nombre que usted proporcionó es inválido o hay ya una compañía usar ese nombre.”
+“Un problema desconocido ocurrió al intentar colocar a su compañía. Intentar por favor otra vez.”
+“NOTA: En el momento que solamente las visas del visitante se pueden conceder en este mundo porque ha alcanzado su capacidad máxima de los magnates.”
+“Carnas 0 de Tremendos”
+“Carnas 1 de Tremendos”
+“Carnas 2 de Tremendos”
+“Carnas 3 de Tremendos”
+“Carnas 4 de Tremendos”
+“NOTA: En el momento que solamente las visas del visitante se pueden conceder en este mundo porque ha alcanzado su capacidad máxima del magnate. Intentar su aventura del inversionista en uno de los otros mundos.”
+tidTycoonVisaNote
+“NOTA: En el momento que, usted no puede conseguir una visa del magnate para este mundo. Nuestra demostración de los expedientes que usted está jugando ya como magnate en el número máximo de mundos permitió por sus puntos de la nobleza.”
+
+
+
+“Alcalde de”
+“ACEPTABLE”
+“Grados de”
+“ERROR: No podía atar ayuntamiento”
+“ERROR: No podía conectar”
+“Usted debe suministrar un título para su columna”
+“Había un error mientras que fijaba su mensaje. Intentar por favor otra vez”
+“Chascar”
+“aquí”
+“para volver a su forma”
+“por”
+“Recepción a la sección editorial de %1”
+“Chascar encendido los acoplamientos en la izquierda para leer las columnas publicadas por sus inversionistas compañeros. Comprobar la forma abajo en caso de que usted quiera fijar su propia columna”
+“Fijar una columna”
+“Sujetar”
+“Clasificar”
+“Presidente”
+“Alcalde”
+“Contestación a esta columna”
+“Poste en hilo de rosca principal”
+“Columna del poste”
+“Reajustar la forma”
+“Proporcionar por favor un título a su declaración política”
+“Incorporar sus grados aquí. Licencia en espacio en blanco los valores que usted no quiere ser modificado”
+“Nota: Sus grados serán considerados dependiendo de su prestigio”
+“Sus comentarios sobre sus grados”
+“Someter los grados”
+“Reajustar la forma”
+“LEER LAS COLUMNAS”
+“LEER LAS NOTICIAS” 
+“CERCANO”
+“Conectando con %1 servidores…”
+“Último 10 columnas:”
+“Fijar una columna”
+“Contestaciones:”
+“Todas las columnas”
+“Último 3 columnas”
+“Ajuste”
+“a”
+
+
+“Funcionando normalmente”
+“Parado por el dueño”
+“Apuro de la operación”
+“Una fuente esencial (o más) no se está recibiendo”
+“No bastante dinero a funcionar”
+“No bastantes fuentes”
+
+
+“Volver en historia”
+“Entrar adelante en historia”
+“Restaurar todas las opiniónes”
+“Parar la navegación”
+“Home Page de Starpeace”
+“Menú de la estructura de la exhibición”
+“Conseguir una visa del inversionista”
+“Buscar el Web”
+“Perfil de usuario”
+“Opinión del mapa”
+“Opinión del universo”
+“Correo”
+“Charla”
+“Opciones”
+“Llamada GMs para la ayuda”
+
+
+“Opciones”
+“Estructura”
+“Trasero”
+“Casero”
+“Piel Info”
+“Más Info”
+“Lista de la facilidad”
+“NO DISPONIBLE”
+El “edificio se debe situar en zona verde clara o ninguna zona en absoluto”
+El “edificio se debe situar en mediados de zona verde o ninguna zona en absoluto”
+El “edificio se debe situar en zona verde oscuro o ninguna zona en absoluto”
+El “edificio se debe situar en zona amarilla o ninguna zona en absoluto”
+El “edificio se debe situar en zona azul o ninguna zona en absoluto”
+“Estructura ahora”
+“Caminos”
+“Alcalde”
+“Ministro”
+“Presidente”
+“de”
+“Usted no es el alcalde!”
+Los “aprendices no pueden construir el camino”
+“Salud”
+“Educación”
+“Defensa”
+“Agricultura”
+“Industria ligera”
+“Industria pesada”
+“Comercio”
+“Cubierta”
+“Planeamiento de ciudad”
+“Capitolio de la estructura”
+“Residencial de clase superior”
+“Clase media residencial”
+“Residencial Low-class”
+“Anuncio publicitario”
+“Civics”
+“Oficinas”
+“Industrial”
+“Reservó”
+“De-zona”
+“Opciones del camino”
+“Demoler”
+“Railroad”
+“Breves antecedentes históricos…”
+La “acción ocurre en un futuro próximo. La tierra está en el borde del derrumbamiento. La superpoblación y el abuso de la naturaleza han funcionado, un planeta una vez verde, seco. Los primeros países del mundo están consiguiendo listos para ir a la guerra contra los países del tercer mundo, esperando que éste aliviará la situación.”
+“Como alternativa a eso, el IFEL (fundación internacional para la vida extraterrestre) ofrece un programa revolucionario, <b>Legacy</b> nombrado código.”
+“Opinión de IFEL”
+“IFEL controla portales del origen misterioso. Estos portales se utilizan para poblar los nuevos mundos.”
+Los “Earthlings pueden solicitar una visa de IFEL y encontrar una nueva vida en uno de estos mundos. Conceden esos individuos excepcionales que califican una clase especial de visa: la visa del inversionista. Los inversionistas reciben 100 millones de dólares de IFEL para desarrollar a estas colonias. el <b>You puede ser uno de them.</b>”
+“El sello”
+“Un selecto pocas compañías en el mundo puede emparejar la flexibilidad y la energía requeridas ganar un sello de IFEL.”
+“El sello permite que una compañía proporcione soluciones de la tecnología a los inversionistas. Los dueños actuales del sello son: PGI, empresas de Mariko, Dissidents Inc, el Moab y Magna.”
+“Información sobre los precios”
+el “<b>Legacy Online</b> estará libre hasta nuevo aviso.”
+“Requisitos de sistema”
+“Para funcionar el <b>Legacy Online</b> que usted necesita”
+“Pentium II 500 megaciclos, RAM de 32 MBYTEs”
+“Windows 95, 98, NT 4.0, 2000, XP”
+“resolución del hicolor 800x600 o mayor”
+“Internet Explorer 5.5”
+De “espacio de disco duro 50 MBYTEs”
+“Conexión a internet activa”
+De “módem 28.8 Kb/s”
+“La velocidad de su tarjeta video en estos modos será determinante para su gameplay.”
+“Recepción a la herencia en línea”
+“Este programa instalará la herencia en línea en su computadora.”
+“Elegir uno de los acoplamientos siguientes si usted quiere saber más antes de que usted instale”
+“Requisitos”
+“Tasación”
+“Poniendo al día componentes…”
+el “<b>Legacy Online</b> está buscando para más nuevos componentes.”
+“Conexión CINCO”
+“Nuevo”
+“Cancelación”
+“Contestación”
+“Delantero”
+“Mensaje del correo”
+“Chascar encendido la lengüeta de <b>Inbox</b> para ver los mensajes que usted ha recibido.”
+“Chascar encendido la lengüeta de <b>Sent</b> para ver los mensajes que usted ha enviado.”
+“En <b>Draft</b> usted encontrará mensajes inacabados ahorrados por usted.”
+“Chascar %1here%2 para leer más sobre el correo del viajero.”
+“Enviar el mensaje”
+“Ningunos accesorios.”
+“Error: No puede abrir el mensaje…”
+“Cercano”
+“De”
+“”
+“Tema”
+“Fecha”
+“Recepción a %1!”
+“CERTIFICADO”
+De “alarma división en zonas!”
+“Algo de su edificio se ha dividido en zonas hacia fuera. Ésta es una lista de ellos. Chascar encendido el acoplamiento para tener el movimiento del mapa allí.”
+“Nombre:”
+“Compañía:”
+“Dividido en zonas cerca:”
+“Fecha de Demoliton:”
+“Transferencia monetaria acertada”
+“National Bank”
+“Cantidad”
+“Estimados %1:”
+“El gobierno federal independiente de %1 le da la recepción más caliente. Esperamos que usted multiplique su fortuna aquí en nuestro país, que ahora es el suyo. Pues un acto de la condolencia profunda nuestro gobierno es orgulloso darle la condición de la “huésped del honor”.”
+“Aquí están algunos acoplamientos útiles”
+“Cómo invertir su dinero”
+“%1, el país”
+“La constitución de %1”
+“Sobre la huésped de la concesión del honor”
+¡el feedback>your feedback</a> y usted podía afectar el juego! ¡Una nueva frontera emocionante ahora aguarda, va y prospera!“
+“Esta cuenta de correo electrónico fue creada en ninguna carga. Usted puede utilizarla para enviar y recibir mensajes con la otra gente que tiene ya una residencia en %1, sin embargo, él no trabajará para enviar mensajes a otros mundos, incluyendo la tierra. Como usted debe saber, el Internet Engineering Task Force todavía está desarrollando un protocolo que se pueda utilizar a través de portales.”
+“Pues un inversionista usted hace que la derecha a un email libre explique a cualquier compañía usted crea. Estas cuentas también serán creadas en %1.net, nuestro dominio principal.”
+“Buena suerte en negocio!”
+“Recepción a bordo,”
+“Global”
+Estrategia básica Page>Strategy Section</a>.<br><br>If que usted no desea aceptar este nombramiento o usted quisiera dimitir durante su término, cambiar al Minister Company, ir a la página del perfil y chascar encendido la dimisión Button.<br><br>Regards, consejo del <br>IFEL.“
+“Esperar por favor mientras que el <b>Legacy Online</b> transfiere nuevos archivos…”
+“NinguÌn dinero a investigar”
+“Estimado <b>%1</b>, <br> según nuestros expedientes, usted intentaba investigar <b>%2</b> en las jefaturas de la compañía <b>%3</b>.”
+“Desafortunadamente usted no tiene bastantes fondos para terminarlo sin el envío de su cuenta bajo escrutinio de la bancarrota. El <br><br> espera por favor hasta que usted tenga más dinero antes de investigarlo otra vez.”
+“Desafortunadamente, usted no tiene bastantes fondos para la licencia atada a ella, y la compra de tal licencia enviaría a su compañía bajo escrutinio de la bancarrota. El <br><br> espera hasta que usted tenga más dinero o considera por favor vender otra licencia antes de investigarla otra vez.”
+“Respetos, consejo del <br><br>IFEL”
+

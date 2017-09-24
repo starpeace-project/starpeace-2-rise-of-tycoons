@@ -1,0 +1,2766 @@
+Production de l'électronique
+Assimiler la connaissance pour contrôler la production de l'électronique.
+Industrie
+Production de l'électronique de large échelle
+Contrôler la production de l'électronique de large échelle.
+Industrie
+Le PC partie le remplacement automatique
+Un service qui embarque automatiquement composants du client les derniers pour leurs PCs dès qu'il produira. Ceci s'assure qu'ils ont toujours le PC le plus à jour.
+Industrie
+Théorème de puissance d'unité centrale de traitement
+Après la théorie que la puissance de l'unité centrale de traitement d'un PC double tous les trois ans, vos usines mettent en application en conséquence un plan à long terme de production.
+Industrie
+Gaufrettes réutilisant le programme
+Vos usines rassemblent de vieilles gaufrettes de cartes pour les réutiliser pour de nouveaux circuits.
+Industrie
+L'électricien de débutant
+Une manière astucieuse de se débarasser de l'excédent des composants électroniques : vendre un choix de eux dans une boîte pour les électriciens d'amateur.
+Industrie
+Chambres de Faraday
+Construire un camp de Faraday autour des maisons pour protéger des clients contre l'éclairage, ceci tue également la charge statique. Perçu comme mesure de sécurité.
+Industrie
+Encre électronique
+Encre électronique de produit : les particules magnétiques micro qui ont par le passé soumis à un champ magnétique particulier s'arrangent dans des lettres et des mots. La fin de l'ère des cahiers de papier.
+Industrie
+Plan global de câblage
+Mettre en application une stratégie pour établir un réseau Internet sur les mondes extraterrestres.
+Industrie
+Se réunir de vide
+Vos composantes électroniques sont assemblées dans les environnements serrés de vide. L'absence d'air empêche toutes les impuretés.
+Industrie
+Nano-circuits
+Établir les plus petits circuits électroniques possibles ; ils sont extrêmement précis et fiables, mais ils doivent être assemblés dans un environnement total de vide.
+Industrie
+Composant universel
+Tous vos composants électroniques évoluent d'un composant universel de base : rentable, mais la qualité des dérivés souffre.
+Industrie
+Détecteur de métaux de métaux
+Pour empêcher des ouvriers de voler les pièces coûteuses, vos usines ont des détecteurs de métaux de métaux aux entrées.
+Industrie
+Campagne d'Anti-Papier
+Pour favoriser l'encre électronique, vous lancez des médias d'un anti-papier faites campagne avec une pente écologique.
+Industrie
+Composants Self-Destructing
+Pour éviter le vol de votre technologie, vos composants sont détruits par l'acide si ouvert après qu'ils aient été scellés.
+Industrie
+Morceaux personnels d'identification
+Vous produisez un nouveau circuit à insérer sous la peau humaine qui servent d'identification une fois balayée par un dispositif externe. L'opinion publique craint des scénarios « de frère ».
+Industrie
+Surveillance magnétique
+Chaque fois qu'un fil suspendu est installé, un essai pour voir si le champ magnétique dérange les habitants des abords est réalisé.
+Industrie
+Métallurgie
+Production de base de métallurgie.
+Industrie
+Costumes de Automatique-Refroidissement
+Vos ouvriers portent les costumes qui ont l'eau doux fonctionner au-dessus de leur corps pour les maintenir frais dans l'environnement à hautes températures de l'usine. Malheureusement, les costumes rendent leur maladroit.
+Industrie
+Alliage titanique final
+Production de l'alliage le plus fort en métal jamais créé par l'homme ; utilisé principalement dans l'industrie aérospatiale.
+Industrie
+Refroidissement cryogénique d'acier
+L'acier que vous produisez est refroidi aux températures cryogéniques rendant le processus global plus efficace.
+Industrie
+Développements de nanotechnologie
+Vous produisez des micro-parties de metallics pour des usages de nanotechnologie. Elle force vos usines à mettre en application un processus de meilleure qualité.
+Industrie
+Alliages extraterrestres
+Les principes légèrement différents de chimie et de médicament sur les nouveaux mondes te permettent de créer les nouveaux alliages qui ne peuvent pas être produits sur terre.
+Industrie
+Criblage de minerai
+Vos usines mettent en application un procédé de dépistage additionnel sur le minerai extrait à partir des mines ; coûteux mais améliore la qualité.
+Industrie
+Traitement de métal précieux
+Vous réutilisez les impuretés extraites à partir du métal précieux de la production industrielle pour créer une ligne de bijoux.
+Industrie
+Production de supraconducteur
+Par l'utilisation la technologie à extrémité élevé a dû produire des supraconducteurs, vous augmentent la qualité de vos produits.
+Industrie
+Mécanisme s'effondrant de sécurité
+Vos grandes usines ont un système qui s'effondre le four dans une cavité souterraine au cas où la fuite en métal de fusible se produirait : très efficace dans les urgences.
+Industrie
+Émetteurs intégrés
+Les pièces en métal que vous produisez ont un émetteur intégré ce des alertes à quand la pièce est ruinée ; extrêmement utile pour les composants enterrés aimer les pipes.
+Industrie
+Formation de pesanteur nulle
+La formation du métal est exécutée dans une carlingue de chute libre spéciale au sein de votre usine. Le champ de zéro-pesanteur à l'intérieur elle permet un processus de meilleure qualité.
+Industrie
+Feuillards de taille d'atome
+L'utilisation de la zéro-pesanteur formant des laisux vous de créer les feuilles de métal qui sont seulement quelques atomes dans la largeur ; extrêmement utile dans des applications industrielles.
+Industrie
+Système d'autobus interne
+Les quarts vivants d'une usine métallurgique doivent loin enlevé de l'usine due à ses températures. À de grandes usines, un système d'autobus interne déplace efficacement des ouvriers.
+Industrie
+Art métallique
+Vous réutilisez les morceaux en métal jetés à partir du processus de fabrication en tant que sculptures artistiques créées par un artiste fictif de la terre. Vous gagnez une réputation en tant qu'expert en matière d'art.
+Industrie
+Musée de métallurgie
+Vous créez un musée de métallurgie dans vos sièges sociaux d'industrie. Regardant l'histoire du fonctionnement en métal motive vos employés.
+Industrie
+Agriculture
+Permis de construire des fermes.
+Industrie
+Grandes fermes
+Développer les qualifications de base nécessaires pour créer et contrôler de grandes fermes.
+Industrie
+Climat extraterrestre
+Apprendre comment les conditions climatiques de la planète peuvent affecter ou améliorer la production de ferme.
+Industrie
+Pompes à eau
+Écoulement nutritif de facilité dans la culture organoponic.
+Industrie
+Commande de l'eau
+Examiner l'eau de ferme pour déceler les micro-organismes nocifs.
+Industrie
+Sol synthétique
+Augmenter le domaine de la culture.
+Industrie
+Irrigation automatique
+Un système automatisé que les moniteurs débarquent et l'irrigue seulement si nécessaire.
+Industrie
+Photosynthèse induite
+Augmenter la capacité de produire de l'énergie aux usines, de ce fait en accélérant leur croissance.
+Industrie
+Aliments pour animaux synthétiques
+Bétail d'alimentation d'aides.
+Industrie
+Alimentation biogénique
+Le système digestif de l'animal est relié à un système centralisé qui pompe dehors la nourriture.
+Industrie
+La génétique avancée
+Les dernières découvertes de la génétique incorporée dans la recherche et le devleopment de votre compagnie.
+Industrie
+La génétique extraterrestre
+Étudier l'héritage génétique de la colonie.
+Industrie
+Usines de Colonial de mutant
+Développer les espèces d'un légume de mutant.
+Industrie
+Musique végétale
+Augmenter la croissance de plantes en créant un environnement musical riche.
+Industrie
+Porcs sans peau
+Les porcs sans la peau contiennent moins la graisse.
+Industrie
+Réutilisation de souris
+Des souris de ferme sont employées pour la nourriture de bétail.
+Industrie
+Lumière du soleil artificielle
+Développer un verre spécial de serre chaude qui replie les paramètres de la lumière du soleil de la terre.
+Industrie
+Système de contrôle de peste
+Des pestes sont détectées et automatiquement exterminées.
+Industrie
+Commande d'hygiène personnelle
+Des employés sont constamment nettoyés aux halls d'hygiène.
+Industrie
+Ingrédients frigorifiés
+Beaucoup meilleur marché que frais l'achat journaliers, elles ne goûtent pas comme bonnes cependant.
+Commerce
+Télévisions dans la salle à manger
+Nouvelles le matin, feuilletons l'après-midi.
+Commerce
+TV par câble
+Plus de choix de chaîne de télévision.
+Commerce
+Repas combinés
+Le nommé l'indique tout.
+Commerce
+Repas combinés de Supersize
+Permet à des clients d'upsize leur repas combiné.
+Commerce
+Specials quotidiens
+Offrir à un special différent chaque jour.
+Commerce
+Sandwichs à spécialité
+Offrir plus de variétés de sandwich.
+Commerce
+Double conduire-à travers la technologie
+Permet deux fois au nombre de conduire-à travers clients de passer commande immédiatement.
+Commerce
+Les repas de l'enfant
+Un menu spécial fait spécifiquement pour des enfants fait à votre restaurant un favori pour des familles.
+Commerce
+Au sol d'intérieur de jeu
+Le nommé l'indique.
+Commerce
+Réservations d'anniversaire
+Fêtes d'anniversaire d'offre pour des enfants.
+Commerce
+Boissons gelées
+Votre choix des boissons est considérablement amélioré.
+Commerce
+Tasses spéciales de logo
+Créer les tasses spéciales de logo que les clients peuvent réutiliser.
+Commerce
+Stationnement Handicapped
+Le nommé l'indique.
+Commerce
+Anneaux d'oignon
+Offrir les anneaux d'oignon à la place pour ceux qui ne veulent pas des fritures.
+Commerce
+Fondations d'engrais
+Permis de produire l'engrais.
+Industrie
+Grandes usines d'engrais
+Apprendre les qualifications de base pour créer et contrôler de grandes usines d'engrais.
+Industrie
+Protection de Plein-Corps
+Chaque employé d'usine doit porter une tenue de protection de plein-corps pour des raisons de sécurité.
+Industrie
+Réutilisation de la perte de produit chimique
+Si possible, toute la perte chimique produite est employée pour d'autres processus. La qualité est abaissée, mais elle démontre une attitude favorable à l'environnement.
+Industrie
+Pompes de vide superpuissantes
+Des usines sont équipées des pompes de vide superpuissantes pour assurer un meilleur environnement pour les réactions chimiques.
+Industrie
+Évacuation des déchets interne
+La perte des processus quittent jamais officiellement l'usine. Cependant, les méthodes de disposition sont peu claires et les écologistes expriment des inquiétudes.
+Industrie
+Évolution d'épurateur
+Vous utilisez les meilleurs épurateurs disponibles, constamment updgrading. Tandis que c'est quelque peu coûteux, il est bon pour l'opinion publique qu'est fortement en faveur de elle.
+Industrie
+Commande de matière première première
+Avant que n'importe quelle matière première première achetée soit employée pour vos usines processes', elle subit un interne vérifient.
+Industrie
+Stockage massif
+Ne résistant pas au fait ce processus peut être perçu en tant que dangereux, vos matières premières premières d'achat d'usines en vrac et maintenir un grand nombre dans les actions ; réduisant des coûts et éviter tous manques potentiels.
+Industrie
+Remplacement fréquent d'instrument
+Vos usines mettent en application une politique réclamant le remplacement forcé et fréquent de petits instruments jetables comme des becs Bunsen et des tubes à essai en verre.
+Industrie
+Production automatisée totale
+Vos usines sont complètement automatisées améliorant la sécurité, la qualité et l'efficacité. Les humains restent dus à la pression des syndicats et agissent en tant que contrôleurs.
+Industrie
+Contrôle des émissions de dioxine
+Vous avez un procédé spécial qui limite l'émission de la substance qui a causé les plus grands désastres chimiques en histoire du homme.
+Industrie
+Centre de surveillance de crise
+Vous établissez un groupe de travail dans votre siège social d'industrie qui surveille toutes vos usines et alerte des autorités en cas d'une crise. Ce procédé centralisé te permet d'épargner l'argent sur la sécurité
+Industrie
+Caserne interne d'hôpital et de pompiers
+Chaque grande usine a un petit hôpital interne et une caserne de pompiers. Ceci instille vos employés avec confiance, rendant leur le travail meilleur. Vous semblez comme vous vraiment soin.
+Industrie
+Système d'Anti-Espion
+Pour éviter le vol de la propriété intellectuelle, les usines ont très un système d'importantes mesures de sécurité en place. En conséquence vous pouvez améliorer des processus sans s'inquiéter de la concurrence volant les idées.
+Industrie
+Chimie extraterrestre
+Mettre à la terre et les autres mondes ont des lois légèrement différentes de chimie. En les étudiant vous améliorez la qualité de vos produits et l'efficacité de vos usines.
+Industrie
+Plan d'évacuation
+Chaque usine a un plan d'évacuation détaillé pour le secteur l'entourant immédiatement, en cas d'une urgence. Ce plan a comme conséquence le voisinage étant un peu plus welcoming de l'usine.
+Industrie
+Traitement des denrées alimentaires des produits alimentaires
+Permis de transformer la nourriture.
+Industrie
+Traitement des denrées alimentaires des produits alimentaires de large échelle
+Apprendre les qualifications de base pour créer et contrôler de grandes usines de traitement des denrées alimentaires des produits alimentaires.
+Industrie
+Production alimentaire récurrente
+Employer les secondaire-produits en tant que matières premières premières pour le traitement des denrées alimentaires des produits alimentaires.
+Industrie
+Réfrigération solaire
+Emploie l'énergie solaire non polluante pour refroidir la viande.
+Industrie
+Applications de l'eau
+L'eau peut être très utile en blancs de poulet de agrandissement et produits laitiers de élargissement.
+Industrie
+Applications de silicium
+Augmenter la production de viande. (Aucune autre explication requise.)
+Industrie
+Contrôle de qualité de nourriture
+Nourriture de tache d'aides dans l'état de décomposition.
+Industrie
+Correction de syndrome de Brume
+Détecte la nourriture capable de développer le syndrome du Brume.
+Industrie
+Correction de ROOG
+Détecte la nourriture avec la tendance de devenir ROOG.
+Industrie
+Amélioration de base de nourriture
+Fournit des frais supplémentaires traitant afin d'augmenter la qualité des produits alimentaires.
+Industrie
+Amélioration avancée de nourriture
+Fournit le traitement avancé par frais supplémentaires afin d'augmenter la qualité des produits alimentaires.
+Industrie
+Produits chimiques organiques
+Substituer quelques produits chimiques non-organiques par les subproducts traités.
+Industrie
+Agrandissements radioactifs
+Agrandir les légumes et la viande en l'exposant aux doses saines de radioactivité.
+Industrie
+Ligne à faible teneur en matière grasse
+Produits à faible teneur en matière grasse spéciaux pour les personnes de poids excessif.
+Industrie
+Repas ethniques
+Vous engagez des chefs de différentes nationalités pour préparer les repas ethniques congelés.
+Industrie
+Recette sur la boîte
+Tous vos produits ont une recette imprimée sur la boîte. Une suggestion à cuire pour vos clients.
+Industrie
+Produits de substitution
+Les produits alternatifs aiment le pain de maïs, le tofu et la laiterie à base de légumes : pour des clients avec des allergies et des problèmes digestifs.
+Industrie
+L'épicerie pare
+Ajouter les aliment cuits au choix d'épicerie de vos magasins.
+Commerce
+Les livraisons quotidiennes de ferme
+Les livraisons quotidiennes des légumes frais et du fruit directement des fermes ; la manière meilleure pour assurer la fraîcheur.
+Commerce
+Fleurs
+Les livraisons quotidiennes des fermes incluent les fleurs cultivées. Une autre branche d'activités pour vos magasins.
+Commerce
+Changement de date de péremption d'échéance
+Tout le monde sait que la nourriture peut être mangée même après sa date de péremption d'échéance. Changer la date sur les paquets qui sont sur le point d'expirer.
+Commerce
+Nourriture d'Aucun-Marque
+Nourriture de qualité des marques inconnues. Meilleur marché mais pas comme bon.
+Commerce
+Magasins spécialisés
+Au lieu de avoir chaque magasin vendre tous les types de nourriture, vous avez spécialisé des magasins comme des boulangeries, des boucheries, des magasins etc. de poissons.
+Commerce
+Option de paiement mensuel
+Vous offrez à vos clients réguliers la possibilité d'ouvrir un compte à votre magasin et devez seulement payer à la fin du mois.
+Commerce
+Ordres de partie
+Commandes importantes de nourriture pour des parties : tout est nécessaire, des morceaux aux desserts.
+Commerce
+Contrôles d'hygiène
+Fréquenter les contrôles hygiéniques pour assurer un environnement propre pour l'affichage et le stockage de la nourriture.
+Commerce
+Livraison à domicile libre de vieillard
+Service de courtoisie pour les clients retirés. Tout d'abord apprécié.
+Commerce
+Four
+Pains et pizzas cuits au four frais dans vos magasins. A fait chaque heure, là n'est cuire au four rien comme le pain qui est encore chaud du four.
+Commerce
+Légumes extraterrestres
+Vente des quelques légumes comestibles découverts sur les nouveaux mondes.
+Commerce
+Commandes quotidiennes d'intégrité de nourriture
+Journalier vos produits sont vérifiés, produit putréfié et des marchandises emballées endommagées sont jetées.
+Commerce
+Individu-Servir la cueillette végétale
+Les clients choisissent et les fruits et légumes de sélection qu'ils veulent acheter directement des étagères.
+Commerce
+Le déjeuner rapide de l'ouvrier
+Vos magasins préparent les sandwichs et les petits plats de repas qui peuvent être mangés tout en se tenant. Pour le bureau et les ouvriers voisins cette alternative est plus rapide et meilleur marché qu'allant aux restaurants et aux barres.
+Commerce
+Agriculture
+Permis de construire des fermes de fruit.
+Industrie
+Grandes fermes de fruit
+Développer les qualifications de base nécessaires pour créer et contrôler de grandes fermes de fruit.
+Industrie
+Climat extraterrestre
+Apprendre comment les conditions climatiques de la planète peuvent affecter ou améliorer la production.
+Industrie
+Pompes à eau
+Écoulement nutritif de facilité dans la culture organoponic.
+Industrie
+Commande de l'eau
+Examiner l'eau de ferme pour déceler les micro-organismes nocifs.
+Industrie
+Sol synthétique
+Augmenter le domaine de la culture.
+Industrie
+Irrigation automatique
+Un système automatisé que les moniteurs débarquent et l'irrigue seulement si nécessaire.
+Industrie
+Photosynthèse induite
+Augmenter la capacité de produire de l'énergie aux usines, de ce fait en accélérant leur croissance.
+Industrie
+Engrais synthétique
+Dit pour réduire l'utilisation d'engrais.
+Industrie
+Alimentation biogénique
+Le système digestif de l'animal est relié à un système centralisé qui pompe dehors la nourriture.
+Industrie
+La génétique avancée
+Les dernières découvertes de la génétique incorporée dans la recherche et le devleopment de votre compagnie.
+Industrie
+La génétique extraterrestre
+Étudier l'héritage génétique de la colonie.
+Industrie
+Usines de Colonial de mutant
+Développer les espèces d'un fruit de mutant.
+Industrie
+Musique de lieu de travail
+Augmenter la production et la qualité du swith de produit un environnement musical riche.
+Industrie
+Conférences de gestion
+Tous les 6 mois de gestion prend des classes sur des politiques et des procédures.
+Industrie
+Réutilisation de graine et de tige
+Les graines et les tiges sont comme si elles étaient les morceaux réels de fruit.
+Industrie
+Lumière du soleil artificielle
+Développer un verre spécial de serre chaude qui replie les paramètres de la lumière du soleil de la terre.
+Industrie
+Système de contrôle de peste
+Des pestes sont détectées et automatiquement exterminées.
+Industrie
+Commande d'hygiène personnelle
+Des employés sont constamment nettoyés aux halls d'hygiène.
+Industrie
+Fondations de salon funèbre
+Écritures pour contrôler les salons funèbres.
+Commerce
+Crématoire
+Vos salons funèbres ont les crématoires intégrés pour les personnes qui veulent être brûlées aux cendres après leur départ.
+Commerce
+Urnes de luxe
+Pour les clients qui veulent leurs cendres ont gardé dans au-dessus du - urnes précieuses supérieures.
+Commerce
+Département de réparation libre
+Parfois le cadavre n'est pas dans l'assez bonne forme à montrer. Vous payez des acteurs pour fixer dans le cercueil déguisé en tant que parti pour la réception funèbre.
+Commerce
+Vision de cercueil
+Certains ne peuvent pas vivre sans voir leur aimé chèrement parti. Vous mettez un appareil-photo à l'intérieur du cercueil relié à un moniteur que vos clients peuvent observer journalier. Le fait que le corps est slowl
+Commerce
+Embaumement
+Bourrer le corps du client et traiter leur peau pour empêcher la putréfaction. Certaines certains aiment préserver leur aimé pour l'éternité.
+Commerce
+Production de perruque
+Il est notoriété publique que les cheveux continuent à s'élever pendant un moment après que le corps soit mort. Employer la coupe de cheveux des cadavres pour créer des perruques et pour les vendre à la boutique de spécialités unknowing.
+Commerce
+Enterrements de conférence téléphonique
+Il peut être trop difficile d'assister à un enterrement, particulièrement sur une autre planète. Laisux d'une émission spéciale et d'arrangement de transmission aimé de dire à distance au revoir au chèrement parti.
+Commerce
+Appui verticaux de Veille de la toussaint
+Louer les meubles et les accessoires du salon pour des parties de Veille de la toussaint ; une manière créatrice de produire des revenus.
+Commerce
+Enterrements d'animal familier
+Pourquoi limiter le soin du parti seulement aux humains ? Un bon nombre d'amoureux animaux sont disposés à payer un plein emplument l'enterrement pour leurs animaux familiers aimés.
+Commerce
+Médias et Psychics
+Louer le psychics de sorte que les clients puissent discuter les arrangements funèbres avec leur chèrement décédé.
+Commerce
+Sentinelles d'hôpital
+Épargner l'argent sur des annonces en payant quelqu'un pour surveiller des hôpitaux. Quand a il y a une mort, vous contactez immédiatement le famille et leur offrez vos services.
+Commerce
+Cérémonies ethniques
+Des pyres flamboyants à la momification, vous offrez à des clients l'enterrement religieux et ethnique possible.
+Commerce
+Raccordement de musée de cire
+Quand les personnes célèbres meurent, vous vendez les mesures exactes de leur corps pour cirer des musées, de sorte qu'ils puissent créer une reproduction parfaite pour leur exposition.
+Commerce
+Alarme de cercueil
+Pour les personnes qui ont peur pour être vivantes enterré. Une alarme est installée à l'intérieur du cercueil, le long d'une réservation d'air. Si le défunt se réveille, lui ou elle peut déclencher l'alarme et être sauvé.
+Commerce
+Special de famille
+enterrements de Pré-livre pour tout le famille, aucune matière leur âge, épargne énorme pour tout le monde, les les deux les clients et vos salons.
+Commerce
+Production de meubles
+Obtenir le permis et la connaissance de base de contrôler des usines de meubles.
+Industrie
+Bois superbe
+Un processus qui te permet de se développer en bois directement dans la forme du produit. Les différences ne sont pas apparentes, mais les meubles sont à coupure encline une fois utilisés par les individus de poids excessif.
+Industrie
+Chaise psychique
+Des meubles sont formés d'une manière dont des laisux il de résonner avec les vagues psychiques universelles, faisant la sensation d'utilisateur reliée à l'univers.
+Industrie
+Meubles croissants
+Ajouter assez d'eau et de soleil, et vous pourrez transformer un lit de taille de reine en grand en une semaine.
+Industrie
+Meubles flexibles
+Des meubles sont préparés pour courber avec élégance sous le poids de l'utilisateur, conduisant à une expérience très confortable.
+Industrie
+Bureau intelligent
+Bureaux de produit avec un organisateur électronique intégré. Il maintiendra des papiers organisés et rappellera l'utilisateur des événements importants.
+Industrie
+Meubles de Lego
+Construire tous vos meubles de de différents morceaux.
+Industrie
+Colle superbe
+Développer la colle spéciale qui gardera des meubles rassemble pendant des siècles.
+Industrie
+Morceaux imperméables à l'eau
+Ceci permettra la production des meubles en bois sensibles qui pourra même supporter le temps dur (comme un barbecue de raffinage de Louis XIV réglé).
+Industrie
+Épines
+Produire les morceaux qui peuvent identifier les empreintes digitales criminelles et mouler de nombreuses épines dans un acte légitime d'autodéfense.
+Industrie
+Meubles de Barbra Streisand
+Obtenir un permis de copyright des meubles trouvés au musée de Barbara Streisand à Tel Aviv. Avertissement : Certains les percevront en tant que meubles véritablement horribles.
+Industrie
+Meubles de massage
+Produire les meubles qui peuvent fournir un massage relaxing. Très relaxing.
+Industrie
+Meubles personnalisés
+Meubles qui peuvent apprendre de l'utilisateur de sorte qu'ils puissent se rendre aussi utile comme possible.
+Industrie
+Ligne d'enfants
+Meubles miniatures de produit pour des enfants.
+Industrie
+Meubles non-combustibles
+Produire les meubles qui non seulement ne brûleront pas, il peut même être employé pour éteindre un feu.
+Industrie
+Chaise universelle
+Produire la chaise universelle célèbre, conçue par le défunt Michael Chang.
+Industrie
+Apporter--Maison
+Le magasin livrera des meubles à la maison de l'acheteur potentiel de sorte qu'il puisse être examiné par le famille entier.
+Commerce
+Programme de Sleepover
+Permettre aux clients de dormir dans le magasin pour une nuit ; une façon efficace aux bancs d'essai et aux matelas.
+Commerce
+Département de réparation
+Dans-stocker le centre de réparation pour vos clients.
+Commerce
+Cours d'Assemblée
+Créer un département qui enseigne à des clients comment assembler les meubles qu'ils achètent.
+Commerce
+Techniciens inexpérimentés
+Pour épargner l'argent, votre centre de réparation emploie seulement les techniciens très jeunes.
+Commerce
+Essai de dîner
+Dinant des ensembles sont présentés avec la nourriture de sorte que les clients puissent obtenir l'expérience entière.
+Commerce
+Formation d'hamac
+Offrir un cours pour enseigner à des clients l'art rusé du sommeil dans un hamac.
+Commerce
+Special de pleine Chambre
+Un escompte spécial pour les clients qui fournissent leur maison entière avec des articles de votre magasin.
+Commerce
+Vendeur-Comme-Clients
+Quand ils sont au commencement engagés, vos vendeurs conviennent qu'ils achèteront tous leurs meubles de votre magasin.
+Commerce
+Garantie de vie
+Garanties à vie d'offre sur les articles que vous vous vendez.
+Commerce
+Marché utilisé de meubles
+Lancer les meubles utilisés de votre magasin chaque semaine.
+Commerce
+Stockage vertical
+Tous les appareils que vous vous vendez sont dans des boîtes rectangulaires. En les stockant sur l'un l'autre vous sauf beaucoup d'espace, mais parfois des articles pouvez obtenir rayé.
+Commerce
+Lavage de voiture
+Vos stations ont un service de lavage de voiture.
+Commerce
+24 services d'heure
+Vos stations service sont toujours ouvertes - 24/7.
+Commerce
+Service d'individu seulement
+Service d'individu seulement à vos pompes.
+Commerce
+Carte de points
+Pour vos clients réguliers. Chaque fois qu'ils achètent le gaz, ils accumulent les points qui peuvent être employés vers les cadeaux libres.
+Commerce
+Pompes autonettoyantes
+Pompes spéciales ce périodiquement propre elles-mêmes.
+Commerce
+Magasin accessoire
+Tout qu'un conducteur peut avoir besoin : des verres de soleil au désodorisant.
+Commerce
+Paiement automatique de plat
+Un dispositif indique les plats de la carte grise quand à cette pompe et charge automatiquement le propriétaire par la carte de crédit : rapide et efficace.
+Commerce
+Stratégie marketing de plat
+Des plats vous pouvez obtenir des informations sur vos clients et pouvez mettre en application une stratégie marketing dirigée avec précision vers eux.
+Commerce
+Remplissage de valet
+Dès qu'un client écrira la station, lui ou elle laisse la voiture avec un employé qui prend soin de remplir le véhicule. En attendant, le client attend dans une salle confortable.
+Commerce
+Changement d'huile libre
+Avec un grand achat de gaz vous êtes offert un changement d'huile libre.
+Commerce
+Arrêt de mine
+Pour des fanatiques de course, vos stations offrent « course-comme-s'arrêtent » : une équipe succède et réapprovisionne en combustible rapidement votre voiture, tourne vos pneus et vérifie leur pression. Vous vous sentez comme un conducteur de voiture de course.
+Commerce
+Réparer le centre
+Vous avez un mécanicien à chaque station.
+Commerce
+Service de SOS
+Vous fournissez à l'aide emergency le remorquage et le service des réparations.
+Commerce
+Ordinateur directionnel et de temps
+À vos stations une machine automatisée informe des clients du meilleur itinéraire pour prendre et des conditions atmosphériques qu'ils rencontreront.
+Commerce
+Longs décalages
+Puisque votre station est toujours ouverte, vous forcez vos employés à travailler de longs postes afin d'épargner l'argent.
+Commerce
+Fondations de construction
+Assimiler la connaissance pour traiter des industries du bâtiment.
+Industrie
+Rotation de marbre
+Les détails ornementaux de vos bâtiments incluent le marbre, un contact coloré gentil.
+Industrie
+Plan étranger de conscience d'objets façonnés
+Les bases de creusement sur la nouvelle planète vous mènent découvrir quelques objets façonnés étrangers. Vous créez un département pour surveiller des excavations pour ces objets façonnés.
+Industrie
+Oreillettes de corporation
+Votre compagnie a une ligne des entrées extrêmement luxueuses pour les sociétés qui veulent faire un rapport sophistiqué aux clients de visite. Vous fournissez tout des matériaux précieux aux morceaux d'art.
+Industrie
+Chantier de construction automatisé
+Toutes les machines de construction sont actionnées par un ordinateur centralisé sur place. Tandis que c'est très efficace, des plaintes sont formulées par des syndicats.
+Industrie
+structures de Séismique-preuve
+Même s'il n'y a pas encore eu aucun tremblement de terre de large échelle dans les nouveaux mondes, pour être du côté sûr, vos bâtiments sont complètement séismique-preuve.
+Industrie
+Passages secrets
+Jamais rêvé de la vie dans un château médiéval avec tous ces passages secrets ? Maintenant vous pouvez. Indépendamment du type de bâtiment, il sera rempli de portes secrètes et de couloirs cachés.
+Industrie
+Monticules suspects
+Pour éliminer le grand nombre de perte de la construction et de la démolition, vos ouvriers la cachent en monticules qui apparaissent mystérieusement durant la nuit dans des secteurs vides.
+Industrie
+Planchers modulaires
+La manière la plus facile de construire des gratte-ciel : votre compagnie assemble chaque plancher au sol et puis les empile sur la base.
+Industrie
+Base de chambre forte
+Sur requête des clients, vos bâtiments incluent une chambre forte de sécurité dans la base : les clients peuvent sans risque stocker des objets de valeur de sorte.
+Industrie
+Stratégie de démolition
+Vos bâtiments sont construits de telle manière que permette le demolishion facile, si nécessaire. Un dispositif très maniable dans nouvelle l'économie mondiale toujours changeante et croissante.
+Industrie
+Dessiner votre propre Chambre
+Qui a besoin d'architectes ? Apporter un croquis de la maison de vos rêves et nous la construirons pour vous.
+Industrie
+Étude extraterrestre de pesanteur
+En étudiant comment du nouveau la pesanteur légèrement différente monde effectue des matériaux de construction, vous pouvez créer de meilleurs et plus durables bâtiments.
+Industrie
+Murs de sécurité
+Si vos bâtiments ont les besoins particuliers de sécurité, vous pouvez vouloir les murs spéciaux qui sont preuve de dynamite.
+Industrie
+Détails inspirés portiques
+Les portails sont la seule forme d'architecture étrangère que l'humanité a éprouvée. Ces portails fournissent un nouveau calibre révolutionnaire pour la conception : vous l'incorporez dans le décor des intérieurs.
+Industrie
+Aménagement des éléments
+Vous donnez aux bâtiments de votre client un contact spécial de conception, avec des fontaines, des sculptures et d'autres éléments architecturaux externes.
+Industrie
+GrainFarmA
+Permis de construire des fermes de grain.
+Industrie
+Largegrainfarma
+Développer les qualifications de base nécessaires pour créer et contrôler de grandes fermes de grain.
+Industrie
+Climat extraterrestre
+Apprendre comment les conditions climatiques de la planète peuvent affecter ou améliorer la production de ferme.
+Industrie
+Pompes à eau
+Écoulement nutritif de facilité dans la culture organoponic.
+Industrie
+Commande de l'eau
+Examiner l'eau de ferme pour déceler les micro-organismes nocifs.
+Industrie
+Sol synthétique
+Augmenter le domaine de la culture.
+Industrie
+Irrigation automatique
+Un système automatisé que les moniteurs débarquent et l'irrigue seulement si nécessaire.
+Industrie
+Photosynthèse induite
+Augmenter la capacité de produire de l'énergie aux usines, de ce fait en accélérant leur croissance.
+Industrie
+Engrais synthétique
+Permet au fruit de mûrir plus rapidement.
+Industrie
+Croissance biogénique
+Changer biogénétiquement les taux de croissance d'usine.
+Industrie
+La génétique avancée
+Les dernières découvertes de la génétique incorporée dans la recherche et le devleopment de votre compagnie.
+Industrie
+La génétique extraterrestre
+Étudier l'héritage génétique de la colonie.
+Industrie
+Usines de Colonial de mutant
+Développer les espèces d'une usine de mutant.
+Industrie
+Musique de ferme
+Augmenter la croissance de plantes en créant un environnement musical riche.
+Industrie
+Recrutement félin
+Permettre aux chats d'attraper des souris dans les domaines.
+Industrie
+Réutilisation de souris
+Des souris de ferme sont employées comme engrais.
+Industrie
+Lumière du soleil artificielle
+Développer un verre spécial de serre chaude qui replie les paramètres de la lumière du soleil de la terre.
+Industrie
+Système de contrôle de peste
+Des pestes sont détectées et automatiquement exterminées.
+Industrie
+Commande d'hygiène personnelle
+Des employés sont constamment nettoyés aux halls d'hygiène.
+Industrie
+Fondations d'exploitation
+Apprendre les qualifications de base pour traiter l'exploitation.
+Industrie
+Axes d'air supplémentaires
+Les axes d'air supplémentaires le facilitent pour des ouvriers aux mines, mais l'abondance de l'oxygène peut corrompre quelques minerais sensibles.
+Industrie
+Exercices de vapeur
+Employer les vapeur-faisceaux fortement denses pour fondre la roche et pour découvrir l'Oregon.
+Industrie
+Exploitation Droids
+Remplacer les humains par des droids pour travailler sur les tâches les plus dangereuses.
+Industrie
+Ascenseurs magnétiques
+Les ascenseurs fonctionnant avec des champs magnétiques normaux sont bien plus bloqués que des ascenseurs normalement.
+Industrie
+Sondes avancées
+Développer des méthodes plus efficaces pour détecter des impuretés en Oregon.
+Industrie
+Adultération minérale
+Apprendre comment présenter des doses de roches communes afin d'augmenter la production.
+Industrie
+Géologie avancée
+Étudier les matières les plus avancées dans la géologie extraterrestre. C'est obligatoire afin de conduire une recherche plus avancée dans ce domaine.
+Industrie
+Exploitation extraterrestre
+Cesser d'extraire la même manière que vous avez faite sur terre ; tirer profit des états spécifiques de planète.
+Industrie
+Sécurité avancée de mine
+Protéger vos ouvriers contre les émissions toxiques, indigènes à la planète.
+Industrie
+Dresser une carte souterrain
+Développer les diagrammes souterrains des secteurs où vos mines fonctionnent. Elle aide non seulement à contrôler vos opérations, mais elle augmente également la sensation de sécurité.
+Industrie
+Bactéries d'exploitation
+Créer les grandes populations de la roche mangeant des bactéries pour faciliter l'accès aux minerais. Cette pratique n'a pas été nocive prouvé aux humains. Cependant, les ouvriers restent sceptiques au sujet de ce fait.
+Industrie
+Chariots à télécommande
+Les chariots d'exploitation sont contrôlés par à télécommande d'un bureau centralisé.
+Industrie
+Microexplosions
+Au lieu de grandes explosions de mise en oeuvre dans vos mines, des centaines de petites explosions sont effectuées afin de découvrir des gisements de minerai.
+Industrie
+Exosquelettes
+Les mineurs emploient les exosquelettes hydrauliques pour extraire le minerai, cette méthode est très rapide mais pas comme précis.
+Industrie
+Repères de mineur
+Chaque mineur a un émetteur qui transmet toujours son endroit exact : principe fondamental dans les urgences.
+Industrie
+Fondations d'exploitation
+Apprendre les qualifications de base pour traiter l'exploitation.
+Industrie
+Axes d'air supplémentaires
+Les axes d'air supplémentaires le facilitent pour des ouvriers aux mines, mais l'abondance de l'oxygène peut corrompre quelques minerais sensibles.
+Industrie
+Exercices de vapeur
+Employer les vapeur-faisceaux fortement denses pour fondre la roche et pour découvrir l'Oregon.
+Industrie
+Exploitation Droids
+Remplacer les humains par des droids pour travailler sur les tâches les plus dangereuses.
+Industrie
+Ascenseurs magnétiques
+Les ascenseurs fonctionnant avec des champs magnétiques normaux sont bien plus bloqués que des ascenseurs normalement.
+Industrie
+Sondes avancées
+Développer des méthodes plus efficaces pour détecter des impuretés en Oregon.
+Industrie
+Adultération minérale
+Apprendre comment présenter des doses de roches communes afin d'augmenter la production.
+Industrie
+Géologie avancée
+Étudier les matières les plus avancées dans la géologie extraterrestre. C'est obligatoire afin de conduire une recherche plus avancée dans ce domaine.
+Industrie
+Exploitation extraterrestre
+Cesser d'extraire la même manière que vous avez faite sur terre ; tirer profit des états spécifiques de planète.
+Industrie
+Sécurité avancée de mine
+Protéger vos ouvriers contre les émissions toxiques, indigènes à la planète.
+Industrie
+Dresser une carte souterrain
+Développer les diagrammes souterrains des secteurs où vos mines fonctionnent. Elle aide non seulement à contrôler vos opérations, mais elle augmente également la sensation de sécurité.
+Industrie
+Bactéries d'exploitation
+Créer les grandes populations de la roche mangeant des bactéries pour faciliter l'accès aux minerais. Cette pratique n'a pas été nocive prouvé aux humains. Cependant, les ouvriers restent sceptiques au sujet de ce fait.
+Industrie
+Chariots à télécommande
+Les chariots d'exploitation sont contrôlés par à télécommande d'un bureau centralisé.
+Industrie
+Microexplosions
+Au lieu de grandes explosions de mise en oeuvre dans vos mines, des centaines de petites explosions sont effectuées afin de découvrir des gisements de minerai.
+Industrie
+Exosquelettes
+Les mineurs emploient les exosquelettes hydrauliques pour extraire le minerai, cette méthode est très rapide mais pas comme précis.
+Industrie
+Repères de mineur
+Chaque mineur a un émetteur qui transmet toujours son endroit exact : principe fondamental dans les urgences.
+Industrie
+Industrie de machines
+Assimiler la connaissance pour obtenir le permis de contrôler des usines de machines.
+Industrie
+Temporisateur de machine
+Un temporisateur arrête des machines après une certaine période d'une utilité continue. Cette mesure s'assure que les ouvriers ne travaillent pas trop d'heures dans une rangée.
+Industrie
+À télécommande
+Toutes vos machines peuvent être actionnées par à télécommande : maniable et très bloqué.
+Industrie
+Décorations externes
+Puisque les machines de construction lourde sont toujours une partie du panorama d'une ville, vous décidez de les couvrir de décorations gentilles. Les citoyens apprécient ceci.
+Industrie
+Sondes d'excavatrice
+Chaque fois que vos excavatrices creusent, une sonde les arrête automatiquement si elle sent le métal, ceci évite la rupture de toutes les canalisations enterrées.
+Industrie
+Machines assemblées sur place
+Vos machines sont transportées au chantier de construction dans les morceaux et sont assemblées là.
+Industrie
+Machines d'opération de vide
+Essentiel pour la construction de l'espace, machines de qualité qui peuvent fonctionner dans un vide et dans la pesanteur nulle.
+Industrie
+Grues modulaires
+Grues qui peuvent atteindre énorme grâce d'une taille aux composants modulaires qui peuvent être ajoutés à tout moment.
+Industrie
+Plan de transport
+Vous offrez un service de transport qui déplace les machines que vos clients ont achetées là où et toutes les fois qu'est nécessaire, même des années après l'achat.
+Industrie
+Machines robotiques
+Vos machines sont complètement robot actionné. Aucun besoin d'ouvriers humains.
+Industrie
+Service de pièces
+Vous avez un département de pièces très efficace qui change n'importe lequel de vos composants cassés par machines en un rien de temps. Vous pouvez sauver sur la qualité des pièces originales.
+Industrie
+Machines spécialisées par monument
+Puisqu'il n'y a aucun bâtiment historique dans les nouveaux mondes, tous les monuments doivent être construits à partir de zéro. Vous produisez des machines de construction de qualité particulièrement conçues à cette fin.
+Industrie
+Machine de Chambre
+Une petite machine en laquelle effectue tout le travail lourd et autour d'une maison : du creusement, à peller la neige, pour couvrir des réparations. C'est l'outil final pour n'importe quel bricoleur et très facile à construire.
+Industrie
+Moteur normalisé
+Toutes les machines que vous produisez sont actionnées par les moteurs semblables, dérivés d'un modèle unique simple.
+Industrie
+Opérateurs certifiés
+Quand vous vendez une machine, vous offrez à votre client un cours qui enseigne à ses ouvriers comment l'employer. Ils obtiennent un certificat déclarant qu'ils sont qualifiés aux opérateurs de la machine.
+Industrie
+Silencieux de machine
+Vos machines font beaucoup moins de bruit que les machines normales. Ceci crée bien mieux un milieu de travail pour les ouvriers de l'acheteur.
+Industrie
+Production d'appareils
+Assimiler la connaissance pour obtenir le permis de contrôler des usines d'appareils électroménagers.
+Industrie
+Production d'appareils de large échelle
+Apprendre les qualifications de base pour contrôler la production des appareils électroménagers de large échelle.
+Industrie
+Réutilisation utilisée d'unité
+Vous donnez à des clients un escompte pour acheter de nouveaux produits quand ils te restituent utilisés. Vous pouvez encore réutiliser des parties dans la bonne forme.
+Industrie
+Extérieur général
+Tous les appareils dans la maison du client sont actionnés par on à télécommande.
+Industrie
+Fentes de pièce de monnaie
+Les appareils qui fonctionnent seulement à côté d'insérer l'argent, le client obtient la clef de rassembler l'argent. Utile pour que les grandes familles épargnent l'argent ; des appareils sont employés moins et dernier plus long.
+Industrie
+Casiers de désintégration
+Fatigué d'éteindre les ordures ? Ces casiers vaporisent des ordures dans l'atmosphère.
+Industrie
+Machine à laver d'ultrason
+Aucun détergent n'est nécessaire, grâce aux vagues d'ultrason. Écologiquement bruit et pratique.
+Industrie
+Machine universelle
+Unifier tous les appareils de cuisine les plus communs dans une machine simple. Il n'est pas aussi bon que les d'une seule pièce séparément, mais vos usines sont beaucoup plus efficaces.
+Industrie
+TV ultra mince
+Le produit TV amincissent comme peintures. La qualité d'image est excellente.
+Industrie
+Animaux familiers artificiels
+Petits robots qui ressemblent aux chats, au chien ou aux oiseaux, avantage d'éprouver seulement la partie positive de avoir un animal familier : perçu en tant qu'artificiel et malade par certains.
+Industrie
+Alarme étrangère
+Vous créez une alarme qui mesure la température et des émissions de produit chimique de celui qui entre dans la maison. S'il n'est pas humain, l'alarme alerte automatiquement la police.
+Industrie
+Composants non abrités
+Pour épargner l'argent, vos produits ne sont pas correctement examinés pour l'interférence électromagnétique externe.
+Industrie
+Haut-parleurs directionnels de haute fidélité
+Special ventriloquist-comme les haut-parleurs qui projettent la musique directement dans les oreilles de l'auditeur.
+Industrie
+Activateur de voix
+Tous vos appareils peuvent être actionnés par des commandes vocales.
+Industrie
+TV olographe
+3D révolutionnaire TV. Avec les visionneuses de cette la technologie olographe TV n'ont pas besoin de porter les lunettes 3D ennuyeux.
+Industrie
+Cheminée fausse
+La cheminée est montrée sur une vidéo cependant, il s'est reliée au système du chauffage de la maison de sorte que quand le client l'allume, la température dans la maison augmente automatiquement.
+Industrie
+Animal familier Morphing
+Choisir l'animal domestique que vous voulez quotidiennement avec ce robot forme-changeant spécial : d'un chien de garde à un chat velu, il se transformera sur demande.
+Industrie
+Théâtre à la maison
+Construire la salle parfaite pour écouter la musique et la TV de observation dans la maison du client. Fournir tout qui est nécessaire : du bruit quadraphonique aux chaises ergonomiques.
+Commerce
+Pièce de haute fidélité
+Il y a une salle dans le magasin avec le meilleur environnement de écoute possible, spécifiquement à essayer tous les différents systèmes stéréo.
+Commerce
+Département de réparation
+Dans-stocker le centre de réparation pour vos clients.
+Commerce
+L'inspection annuelle et accordent vers le haut
+L'équipement acheté par vos clients est habilité à un contrôle annuel vers le haut au dans-stockent le centre de réparation.
+Commerce
+Techniciens inexpérimentés
+Pour épargner l'argent, votre centre de réparation emploie seulement les techniciens très jeunes.
+Commerce
+Garantie à vie
+Les gens tendent à oublier pour combien de temps leur garantie est et tendre à supposer qu'elle a expiré. En conséquence, la fourniture d'une garantie à vie n'est pas beaucoup plus coûteuse que fournissant une garantie de trois ans.
+Commerce
+Parc de divertissements complet
+Les multimédia finaux machine, tout est reliés à un ordinateur qui agit en tant que station centrale : TV, stéréo, Internet, jeux vidéo tous ensemble.
+Commerce
+Special de Chambre
+Un escompte spécial aux clients qui achètent tous leurs appareils de votre magasin. Etant donné le nombre élevé d'achats, vous pouvez partir furtivement dans quelques morceaux de qualité inférieure.
+Commerce
+Vendeur-Comme-Client
+Quand ils sont loués, vos vendeurs acceptent d'acheter seulement leurs appareils de votre magasin.
+Commerce
+24 services techniques d'heure
+Votre TV se casse au début des parties de football. Votre climatiseur explose au milieu du jour le plus chaud de l'année. Appeler nos techniciens et dans une demi-heure quelqu'un sera à votre maison ! !
+Commerce
+Cours de technologie jour
+Vos enfants font-ils l'amusement de vous parce que vous ne savez pas actionner un magnétoscope ou un lecteur de CD ? Un un jour dans-stockent le cours indique le mystère de la technologie au client plus traditionnel.
+Commerce
+Location de machine
+Pour les personnes qui se déplacent beaucoup, vous louez chaque appareil : des grille-pain à 50 pouces TV.
+Commerce
+Marché utilisé de machine
+Un marché hebdomadaire, en dehors de votre magasin, des appareils utilisés. Te permet de réutiliser de vieilles machines.
+Commerce
+Stockage vertical
+Tous les appareils que vous vous vendez sont dans des boîtes rectangulaires. En les stockant sur l'un l'autre vous sauf beaucoup d'espace, mais parfois la substance obtient rayé.
+Commerce
+Appareils cachés
+Pour les personnes qui ne veulent pas voir les appareils dans leur maison, les panneaux mobiles et les murs faux les cachent.
+Commerce
+Fondations d'industrie d'automobile
+Qualifications de base exigées de contrôler des usines d'automobile.
+Industrie
+Sac d'air final
+Un sac à air massif, fait avec un tissu extrêmement extensible qui effectivement entoure et protège tout à l'intérieur du véhicule en cas d'un accident, améliorant considérablement la sûreté.
+Industrie
+Sondes de tache aveugle
+Les petites sondes ont placé sur les alertes de miroirs de côté le conducteur de n'importe quel obstacle dans ses taches aveugle, réduisant brusquement des accidents.
+Industrie
+Réutilisation d'épave
+Vos usines rassemblent les voitures d'occasion pour réutiliser les pièces utilisables pour de nouveaux modèles. Vous épargnez l'argent, mais la qualité globale souffre.
+Industrie
+Étalonnage massif de dispositif
+Vos usines subissent un étalonnage massif des dispositifs de tous les différents modèles. Il est très rentable mais maintenant vos voitures toutes regardent très semblables.
+Industrie
+Intérieurs ergonomiques
+Les intérieurs de vos voitures sont conçus pour s'assurer que l'expérience d'entraînement est aussi confortable comme possible.
+Industrie
+Moteur électrique et de gaz
+Vos voitures ont un moteur électrique pour des voyages courts, et un moteur de gaz pour de plus longs voyages qui recharge également les batteries ; réduit la consommation et la pollution de carburant.
+Industrie
+Pneus de colle
+Les trous micro et un distributeur permettent à la colle spéciale de couvrir des pneus de voiture, rendant le véhicule plus stable. La colle laissée sur la route s'évapore ; les écologistes se plaignent.
+Industrie
+Peinture de qualité
+Vos usines emploient la peinture bon marché sur sa voiture, comme rouille de voitures de résultat d'A. plus facilement.
+Industrie
+Voitures de lavage automatiques
+Un circuit hydraulique est établi dans le châssis de la voiture, lavant automatiquement la voiture avec l'eau et le savon quand une sonde indique qu'elle est sale. Vos voitures semblent toujours nouvelles.
+Industrie
+Démarreur d'analyseur de souffle
+Avant de mettre en marche la voiture, les coups de conducteur dans une paille en plastique fixée à la roue, si leur niveau de sang-alcool est trop élevé, la voiture ne commenceront pas. Les parents sont éternellement reconnaissants.
+Industrie
+Réutilisation en caoutchouc
+Vos usines réutilisent le caoutchouc de vieux pneus pour créer des neufs. La qualité de pneu est seulement légèrement affectée et le public vous perçoit en tant qu'étant écologiquement conscient.
+Industrie
+Politique de garantie
+Vos voitures viennent avec un de trois ans, garantie de 100.000 kilomètres.
+Industrie
+Ordinateur directionnel
+Vos voitures viennent avec un ordinateur intégré qui indique immédiatement au conducteur le meilleur itinéraire entre le point démarrant et de arrivée.
+Industrie
+Sièges durs
+Pour épargner l'argent, vous installez les sièges durs meilleur marché dans des vos voitures. Les conducteurs peuvent seulement noter la différence dans des leurs dos après de longs voyages.
+Industrie
+Approvisionnement à l'extérieur de conception
+Vos conceptions de voiture sont externalisées à une société très prestigieuse de conception. Les voitures regardent très luisantes et vous sauf sur les coûts de maintenir un département entier.
+Industrie
+Crédit-bail et financement
+Vous fournissez vos clients plus d'options de paiement.
+Commerce
+Commande étendue d'essai
+Vos clients peuvent essayer vos voitures, pour tant que une semaine, avant la décision pour l'acheter.
+Commerce
+Politique de ventes impitoyable
+Vous fixez des buts très difficiles de ventes pour vos vendeurs et leur mettez le feu s'ils ne les atteignent pas. C'est survie du plus convenable et seul le meilleur survivent.
+Commerce
+Cours de formation de vendeurs
+Améliore vendre l'efficacité par correctement chemin de fer de vos vendeurs.
+Commerce
+Transfert de voiture d'Interworld
+Manipuler le visage des clients ennuyants de bureaucratie en transférant un véhicule entre les mondes.
+Commerce
+Centre interne de réparation
+Vos magasins de voiture ont un centre de réparation de voiture pour les réparations de la voiture de vos clients et l'entretien a besoin pendant leur vie de voitures.
+Commerce
+Choix modèle limité
+Vos magasins portent seulement un nombre limité de modèles. C'est très rentable mais vous ne pouvez pas satisfaire chaque client potentiel.
+Commerce
+Atelier de carrosserie
+Votre centre de réparation répare également des dommages au châssis de voiture.
+Commerce
+Bureau luxueux
+Enchanter vos clients avec un bureau très luxueux ; ils se sentent comme ils sont traités comme la redevance.
+Commerce
+Département de voiture d'occasion
+Un grand pourcentage de vos clients potentiels ne peut pas se permettre d'acheter une nouvelle voiture, ainsi vos magasins ont également un choix de employé.
+Commerce
+Nouveau jet d'odeur de voiture
+Mettre l'odeur caractéristique d'une nouvelle voiture et la pulvériser en bouteille dans votre utilisée. Vos clients achèteront des épaves pensant qu'ils ne sont pas dans une telle mauvaise forme.
+Commerce
+Stratégie marketing de famille
+Une fois qu'un membre de la famille achète une de vos voitures, votre équipe de vente vise tous les autres membres de la famille, essayant de les convaincre d'acheter une autre voiture.
+Commerce
+Vérification des antécédents étrangère
+Dans un effort de bloquer a déguisé des étrangers, chaque personne de nouveau à la laquelle veut acheter une voiture est sujet à une vérification des antécédents étendue, traçant toute la manière quand ses ancêtres sont venus la première fois de la terre.
+Commerce
+Gaz libre
+Vous offrez six mois de gaz libre à n'importe qui qui achète une de vos voitures.
+Commerce
+Mise au point élogieuse
+La mise au point périodique de nouvelles voitures est libre à vos clients.
+Commerce
+Mine de fer
+Apprendre les qualifications de base pour traiter l'exploitation de fer.
+Industrie
+Exploitation de large échelle
+Apprendre les qualifications de base pour contrôler de grandes mines.
+Industrie
+Axes d'air supplémentaires
+Les axes d'air supplémentaires le facilitent pour des ouvriers aux mines, mais l'abondance de l'oxygène peut corrompre quelques minerais sensibles.
+Industrie
+Exercices de vapeur
+Employer les vapeur-faisceaux fortement denses pour fondre la roche et pour découvrir l'Oregon.
+Industrie
+Exploitation Droids
+Remplacer les humains par des droids pour travailler sur les tâches les plus dangereuses.
+Industrie
+Ascenseurs magnétiques
+Les ascenseurs fonctionnant avec des champs magnétiques normaux sont bien plus bloqués que des ascenseurs normalement.
+Industrie
+Sondes avancées de fer
+Développer des méthodes plus efficaces pour détecter des impuretés en fer.
+Industrie
+Adultération de fer
+Apprendre comment présenter des doses de roche commune afin d'augmenter la production.
+Industrie
+Géologie avancée
+Étudier les matières les plus avancées dans la géologie extraterrestre. C'est obligatoire afin de conduire une recherche plus avancée dans ce domaine.
+Industrie
+Exploitation extraterrestre
+Cesser d'extraire la même manière que vous avez faite sur terre ; tirer profit des états spécifiques de planète.
+Industrie
+Sécurité avancée de mine
+Protéger vos ouvriers contre les émissions toxiques, indigènes à la planète.
+Industrie
+Dresser une carte souterrain
+Développer les diagrammes souterrains des secteurs où vos mines fonctionnent. Elle aide non seulement à contrôler vos opérations, mais elle augmente également la sensation de sécurité.
+Industrie
+Bactéries d'exploitation
+Créer les grandes populations de la roche mangeant des bactéries pour faciliter l'accès au fer. Cette pratique n'a pas été nocive prouvé aux humains. Cependant, les ouvriers restent sceptiques au sujet de ce fait.
+Industrie
+Chariots à télécommande
+Les chariots d'exploitation sont commandés éloigné d'un bureau centralisé.
+Industrie
+Microexplosions
+Au lieu de grandes explosions de mise en oeuvre dans vos mines, des centaines de petites explosions sont effectuées afin de découvrir des gisements de minerai.
+Industrie
+Exosquelettes
+Les mineurs emploient les exosquelettes hydrauliques pour extraire le minerai, cette méthode est très rapide mais pas comme précis.
+Industrie
+Repères de mineur
+Chaque mineur a un émetteur qui transmet toujours son endroit exact : principe fondamental dans les urgences.
+Industrie
+Production en cuir
+Obtenir le permis et la connaissance de base de contrôler les usines en cuir.
+Industrie
+Fabrication en cuir de large échelle
+Apprendre les qualifications de base exigées de contrôler la fabrication en cuir de large échelle.
+Industrie
+Cuir superbe
+Un processus qui te permet de produire le cuir directement dans la forme du produit. Les différences ne sont pas apparentes, mais le cuir est à fissures enclines et étirage une fois utilisé par les individus de poids excessif.
+Industrie
+Cuir psychique
+Le cuir est formé d'une manière dont des laisux il de résonner avec les vagues psychiques universelles, faisant la sensation d'utilisateur reliée à l'univers.
+Industrie
+Cuir coloré
+Développer un système pour teindre le cuir.
+Industrie
+Cuir flexible supplémentaire
+La nouvelle méthode de fabrication permet à votre cuir de devenir si flexible son caoutchouc presque similaire.
+Industrie
+Cuir futé
+Permet à votre cuir flexible de retourner toujours à sa taille manufacturée.
+Industrie
+Couvertures en cuir de meubles
+Faire les couvertures en cuir pour adapter la plupart des besoins de meubles.
+Industrie
+Colle en cuir superbe
+Développer la colle spéciale qui gardera les couvertures en cuir de meubles dessus pendant des siècles.
+Industrie
+Cuir imperméable à l'eau
+Ceci permettra la production du cuir sensible qui pourra même supporter le temps dur.
+Industrie
+Épines en cuir
+Produire le cuir qui peut identifier les empreintes digitales criminelles et mouler de nombreuses épines dans un acte légitime d'autodéfense.
+Industrie
+Production en série en cuir
+Développer la connaissance de base pour produire les feuilles en cuir.
+Industrie
+Cuir de massage
+Produire le cuir qui peut fournir un massage relaxing. Très relaxing.
+Industrie
+Cuir personnalisé
+Vous pouvez pré imprimer un logo sur les grandes feuilles de cuir.
+Industrie
+Cuir ultra-mince
+Feuilles en cuir ultra-minces de produit.
+Industrie
+Cuir non-combustible
+Produire le cuir qui non seulement ne brûlera pas, il peut même être employé pour éteindre un feu.
+Industrie
+Cuir mou superbe
+Produire le cuir célèbre de contact doux, conçu par le défunt Michael Chang.
+Industrie
+Fabrication de veste en cuir
+Permis de contrôler des usines de veste en cuir.
+Industrie
+Fabrication de veste en cuir de large échelle
+Apprendre les qualifications de base exigées de contrôler la fabrication de veste en cuir de large échelle.
+Industrie
+Histoire de cuir
+Une large connaissance de cuir tout au long des âges tient compte de meilleures conceptions.
+Industrie
+Histoire des vestes en cuir
+Une large connaissance de l'évolution des vestes en cuir tout au long des âges tient compte des conceptions supérieures.
+Industrie
+Couture automatique de laser
+Les points de laser remplacent la couture, alors que le processus est les vêtements tout à fait efficaces peut parfois sembler mat.
+Industrie
+Collage de veste en cuir
+Des morceaux de cuir sont collés ensemble ; les vêtements deviennent encombrants.
+Industrie
+Fondations supérieures de conception
+Rechercher les fondations de la façon faire Leatherwear fin.
+Industrie
+Conception supérieure avancée
+Rechercher ceci pour avoir accès aux meilleures techniques de conception disponibles.
+Industrie
+Vestes d'Antialien
+C'est une précaution puisque personne n'a jamais vu un étranger.
+Industrie
+Chapeaux en cuir
+Les chapeaux en cuir sont rapides et faciles pour produire, mais plus de travail pour faire la combinaison réduit la qualité.
+Industrie
+Vêtement hypnotique
+Apprendre comment produire les vestes en cuir qui est le centre de l'attention.
+Industrie
+Conceptions gaies
+Concevoir et produire les vêtements spécifiquement pour les goûts d'homosexuel ou de femme.
+Industrie
+Veste en cuir jetable
+Vestes de qualité qui sont jetées au lieu de laver.
+Industrie
+Qualité
+Vestes de qualité supérieure pour des directeurs et le PRÉSIDENT.
+Industrie
+Vestes en cuir traditionnelles
+Apporter les vieilles traditions de la terre aux nouveaux mondes en reproduisant les équipements ethniques.
+Industrie
+Vestes sans couture
+Produire une ligne des vestes sans couture.
+Industrie
+Vestes de commanditaire
+Les diverses sociétés commissionnent des vestes de vous avec leur logo, pour la publicité.
+Industrie
+Mise sur pied en temps réel
+Peu d'ajustement sont effectués juste après l'achat.
+Commerce
+Salles de petit changement
+Pour accélérer les clients paresseux et gagner plus d'espace d'affichage.
+Commerce
+La livraison de compliment
+Un de vos employés de magasin pose comme client et compliments occasionnels de baisses aux clients qui décident si acheter les articles qu'ils essayent.
+Commerce
+Changement des miroirs
+Les miroirs spéciaux qui font des clients semblent plus minces.
+Commerce
+Sélection de format limitée
+Vos magasins portent seulement les tailles plus communes. Vous ne pouvez pas satisfaire tout le monde mais elle est plus rentable.
+Commerce
+Goût de client et base de données de mesures
+Stocker les mesures et les goûts de vos clients dans une base de données ; les appeler à la maison quand votre magasin reçoit quelque chose qu'ils peuvent aimer.
+Commerce
+Service de reprise
+Les clients mettent en boîte de vieilles vestes de reprise pour un escompte sur leur nouvel achat.Vous donnez ceux à la charité pour un impôt amortissez.
+Commerce
+Rénovation utilisée de veste
+Au lieu de donner les vestes utilisées aux charités, vos tailleurs internes les réparent et vous les éteignez en vente encore.
+Commerce
+Ordres spéciaux
+Permettre aux clients de concevoir leurs propres vestes.
+Commerce
+Service de nettoyage
+Service sur place de nettoyage pour des vestes achetées dans vos magasins.
+Commerce
+Consultants en matière de mode
+Employés particulièrement qualifiés qui conseillent des clients au sujet des dernières tendances et modes.
+Commerce
+Grandes tailles
+Certains de vos magasins se spécialisent dans des vestes pour les personnes de poids excessif.
+Commerce
+Actions Out-of-Fashion 
+Puisque la mode est cyclique, vous stockez les vestes qui ne sont plus dans le modèle, jusqu'à ce qu'elles soient de mode encore.
+Commerce
+Choix en cuir de chapeau
+Chapeaux en cuir pour les clients riches.
+Commerce
+Accessoires en cuir
+Des accessoires tels que des ceintures et des gants sont donnés au client comme cadeau quand ils dépensent beaucoup d'argent.
+Commerce
+Fondations de services juridiques
+Assimiler la connaissance pour contrôler un cabinet juridique.
+Généralités
+Travail de charité
+Chaque avocat doit travailler pour libre sur quelques cas chaque année ; pour les personnes qui ne peuvent pas se permettre de payer des honoraires.
+Généralités
+Vautours d'hôpital
+Avoir vos centres de trauma d'hôpital de patrouille d'avocats pour approcher des victimes des accidents et pour les parler dans poursuivre la partie responsable de l'accident.
+Généralités
+Loi extraterrestre
+Avocats qui se spécialisent dans des issues du commerce et d'extradition entre les mondes.
+Généralités
+Consultants en matière de juge
+Juges retirés par location à travailler comme conseillers.
+Généralités
+Réseau d'avocat des mondes
+Participer à un réseau légal d'interworld qui surveille tous les cas, en s'assurant qu'aucuns précédents qui peuvent être utiles pour vos cas est manqué.
+Généralités
+Bibliothèque de Digitals seulement
+Aucun besoin d'employer ces volumes monstrueusement grands pour consulter, toute l'information légale n'est sur les dispositifs numériques. Parfois les virus peuvent détruire de l'information, mais à la fin vous sauf beaucoup d'arbres.
+Généralités
+Internat de la terre
+Tous vos avocats vont brièvement travailler à la terre, pour voir où le code de la loi humaine a été créé la première fois.
+Généralités
+Longues heures de politique
+On le comprend implicitement que pour avoir une bonne carrière à votre société, vos avocats doivent travailler au moins 12 heures par jour.
+Généralités
+But d'associé
+Vos avocats peuvent devenir des associés s'ils travaillent de longues heures pendant beaucoup d'années.
+Généralités
+Recrutement d'école de droit
+Au lieu des avocats chevronnés de location, vos sociétés vont aux écoles de droit et recrutent de nouveaux diplômés.
+Généralités
+Voitures de corporation
+Vous fournissez à vos avocats les voitures de fonction luxueuses.
+Généralités
+Quote-part forcée
+Vos avocats doivent gagner une quote-part fixe de cas chaque année ou ils sont mis le feu.
+Généralités
+Codes de sécurité
+Chaque document dans votre bureau est protégé par des codes de sécurité connus seulement par l'avocat travaillant au cas et à son personnel. Ces mesures de sécurité sont appréciées par vos clients.
+Généralités
+Exploitation de paralégal
+On s'attend à ce que vos paralégaux travaillent de longues heures, même si leurs salaires sont bas. Dans votre vue c'est une étape formatrice nécessaire à aller bien à un avocat.
+Généralités
+Campagne de Pro-Avocat
+Puisque des avocats sont souvent perçus en tant que figures gluantes qui exploitent les malheurs de d'autres, votre société lance des médias font campagne pour souligner les aspects nobles de la profession.
+Généralités
+Fondations d'exploitation
+Apprendre les qualifications de base pour traiter l'exploitation.
+Industrie
+Axes d'air supplémentaires
+Les axes d'air supplémentaires le facilitent pour des ouvriers aux mines, mais l'abondance de l'oxygène peut corrompre quelques minerais sensibles.
+Industrie
+Exercices de vapeur
+Employer les vapeur-faisceaux fortement denses pour fondre la roche et pour découvrir l'Oregon.
+Industrie
+Exploitation Droids
+Remplacer les humains par des droids pour travailler sur les tâches les plus dangereuses.
+Industrie
+Ascenseurs magnétiques
+Les ascenseurs fonctionnant avec des champs magnétiques normaux sont bien plus bloqués que des ascenseurs normalement.
+Industrie
+Sondes avancées
+Développer des méthodes plus efficaces pour détecter des impuretés en Oregon.
+Industrie
+Adultération minérale
+Apprendre comment présenter des doses de roches communes afin d'augmenter la production.
+Industrie
+Géologie avancée
+Étudier les matières les plus avancées dans la géologie extraterrestre. C'est obligatoire afin de conduire une recherche plus avancée dans ce domaine.
+Industrie
+Exploitation extraterrestre
+Cesser d'extraire la même manière que vous avez faite sur terre ; tirer profit des états spécifiques de planète.
+Industrie
+Sécurité avancée de mine
+Protéger vos ouvriers contre les émissions toxiques, indigènes à la planète.
+Industrie
+Dresser une carte souterrain
+Développer les diagrammes souterrains des secteurs où vos mines fonctionnent. Elle aide non seulement à contrôler vos opérations, mais elle augmente également la sensation de sécurité.
+Industrie
+Bactéries d'exploitation
+Créer les grandes populations de la roche mangeant des bactéries pour faciliter l'accès aux minerais. Cette pratique n'a pas été nocive prouvé aux humains. Cependant, les ouvriers restent sceptiques au sujet de ce fait.
+Industrie
+Chariots à télécommande
+Les chariots d'exploitation sont contrôlés par à télécommande d'un bureau centralisé.
+Industrie
+Microexplosions
+Au lieu de grandes explosions de mise en oeuvre dans vos mines, des centaines de petites explosions sont effectuées afin de découvrir des gisements de minerai.
+Industrie
+Exosquelettes
+Les mineurs emploient les exosquelettes hydrauliques pour extraire le minerai, cette méthode est très rapide mais pas comme précis.
+Industrie
+Repères de mineur
+Chaque mineur a un émetteur qui transmet toujours son endroit exact : principe fondamental dans les urgences.
+Industrie
+Production de boisson alcoolisée
+Apprendre comment produire des boissons alcoolisées.
+Industrie
+Produits sans alcool
+Créer les solutions de rechange vierges pour vos clients par la production sans alcool : Tequila, whiskey, rhum etc. Ceci vous force à améliorer la qualité pour s'assurer que ces boissons alcoolisées vierges goûtent réellement bonnes.
+Industrie
+Produits légers
+L'alcool te fait la graisse, mais ces boissons alcoolisées ont peu de calories et moins graisse.
+Industrie
+Équipe de goûteur
+Vous engagez une équipe de goûteurs experts de boisson alcoolisée pour être sûr que vos produits sont toujours de bonne qualité.
+Industrie
+Saveurs extraterrestres
+Employer les usines locales pour créer de nouvelles saveurs de boisson alcoolisée. Elle sera exotique et sauf vous argent sur les importations traditionnelles de la terre.
+Industrie
+Réutilisation d'alcool
+Installer un passage de machine au-dessus de vos distillateurs qui rassemble tout l'alcool qui s'évapore, le stockant pour la future réutilisation.
+Industrie
+Distillation organique universelle
+N'importe quel matériel organique peut être distillé pour créer l'alcool. Vos usines emploient n'importe quoi produire des boissons alcoolisées : de la perte de ferme au caoutchouc. La qualité globale n'est pas car bon mais vous sauf beaucoup l'argent.
+Industrie
+Mal de tête et drogue d'estomac
+Vous ajoutez des médecines pour la douleur d'estomac et des maux de tête à vos boissons alcoolisées. Ceci aide l'affaire avec la gueule de bois. Vos boissons alcoolisées vont bien au favori des buveurs lourds de partie.
+Industrie
+Cocktails
+Vous lancez une ligne des produits de cocktail. Les ingrédients sont séparés dans des bouteilles compartimentées spéciales, mais sont mélangés quand la bouteille est vigoureusement secouée.
+Industrie
+Boisson alcoolisée bon marché et forte
+Vos usines produisent les boissons alcoolisées très bon marché et fortes pour l'alcoolique qui ne s'inquiète pas de la qualité, mais veulent juste une dose robuste d'alcool. L'opinion publique n'est pas terminée favorable.
+Industrie
+Bouteille en verre incassable
+Vos bouteilles en verre ont un enduit externe spécial qui tiennent le verre rassemblent quand la bouteille est heurtée. Plus de morceaux lâches de verre avec lesquels les clients ivres peuvent se couper.
+Industrie
+Boisson alcoolisée volatile superpuissante
+Plus de boisson alcoolisée de preuve 90 à apprécier en reniflant ses vapeurs de évaporation ou diluée dans l'eau. Une goutte de la substance est suffisante pour obtenir quelqu'un suffisamment bu.
+Industrie
+L'eau épurée
+Faire une remarque de using seulement l'eau supplémentaire-épurée pour la production de vos boissons alcoolisées.
+Industrie
+Joint de Breathalyzer
+Pour ouvrir la bouteille, le client doit lécher un joint sur le dessus. Si la salive montre un niveau d'alcool dans le sang qui est trop haut, une poudre aigre se laisse tomber dans la bouteille, rendant la boisson alcoolisée undrinkable.
+Industrie
+Histoire de production de boisson alcoolisée
+En étudiant les traditions antiques de produire des boissons alcoolisées, elle vous aide à améliorer la qualité et l'efficacité de vos processus.
+Industrie
+Choix ethnique de boissons
+Puisque les immigrés des mondes extraterrestres viennent de toute la terre, il est important de fournir un choix large de leurs spiritueux indigènes : d'Ouzo grec au Grappa italien au rhum cubain.
+Industrie
+Industrie de machines
+Assimiler la connaissance pour obtenir le permis de contrôler des usines de machines.
+Industrie
+Temporisateur de machine
+Un temporisateur arrête des machines après une certaine période d'une utilité continue. Cette mesure s'assure que les ouvriers ne travaillent pas trop d'heures dans une rangée.
+Industrie
+À télécommande
+Toutes vos machines peuvent être actionnées par à télécommande : maniable et très bloqué.
+Industrie
+Décorations externes
+Puisque les machines de construction lourde sont toujours une partie du panorama d'une ville, vous décidez de les couvrir de décorations gentilles. Les citoyens apprécient ceci.
+Industrie
+Sondes d'excavatrice
+Chaque fois que vos excavatrices creusent, une sonde les arrête automatiquement si elle sent le métal, ceci évite la rupture de toutes les canalisations enterrées.
+Industrie
+Machines assemblées sur place
+Vos machines sont transportées au chantier de construction dans les morceaux et sont assemblées là.
+Industrie
+Machines d'opération de vide
+Essentiel pour la construction de l'espace, machines de qualité qui peuvent fonctionner dans un vide et dans la pesanteur nulle.
+Industrie
+Grues modulaires
+Grues qui peuvent atteindre énorme grâce d'une taille aux composants modulaires qui peuvent être ajoutés à tout moment.
+Industrie
+Plan de transport
+Vous offrez un service de transport qui déplace les machines que vos clients ont achetées là où et toutes les fois qu'est nécessaire, même des années après l'achat.
+Industrie
+Machines robotiques
+Vos machines sont complètement robot actionné. Aucun besoin d'ouvriers humains.
+Industrie
+Service de pièces
+Vous avez un département de pièces très efficace qui change n'importe lequel de vos composants cassés par machines en un rien de temps. Vous pouvez sauver sur la qualité des pièces originales.
+Industrie
+Machines spécialisées par monument
+Puisqu'il n'y a aucun bâtiment historique dans les nouveaux mondes, tous les monuments doivent être construits à partir de zéro. Vous produisez des machines de construction de qualité particulièrement conçues à cette fin.
+Industrie
+Machine de Chambre
+Une petite machine en laquelle effectue tout le travail lourd et autour d'une maison : du creusement, à peller la neige, pour couvrir des réparations. C'est l'outil final pour n'importe quel bricoleur et très facile à construire.
+Industrie
+Moteur normalisé
+Toutes les machines que vous produisez sont actionnées par les moteurs semblables, dérivés d'un modèle unique simple.
+Industrie
+Opérateurs certifiés
+Quand vous vendez une machine, vous offrez à votre client un cours qui enseigne à ses ouvriers comment l'employer. Ils obtiennent un certificat déclarant qu'ils sont qualifiés aux opérateurs de la machine.
+Industrie
+Silencieux de machine
+Vos machines font beaucoup moins de bruit que les machines normales. Ceci crée bien mieux un milieu de travail pour les ouvriers de l'acheteur.
+Industrie
+Appartements mobiles
+Les appartements sont construits sur les énormes rails qui déplacent tous les quelques jours. Les résidants ont un point de vue toujours changeant et obtiennent une chance de changer souvent leur voisinage.
+Immobiliers
+Planchers de haute sécurité
+Quelques planchers sont fermés et patrouillés par des gardes : la meilleure manière d'assurer le niveau de la sécurité maximum pour des résidants.
+Immobiliers
+Terrasse de suicide
+Sur le bâtiment, une terrasse spéciale fournit un endroit tranquille pour ceux qui veulent mourir. Ils tombent sur un secteur consacré pour les raisons, sans causer n'importe quel mal à d'autres.
+Immobiliers
+Saut à  l'élastique
+Les gens qui veulent essayer cette forme de divertissement extrême peuvent faire ainsi à partir du dessus de vos bâtiments.
+Immobiliers
+Parachutage Emergency
+Dans un tel bâtiment massif, using les escaliers est en cas d'urgence inefficace. Chaque locataire a un parachute de sorte qu'ils puissent se lancer une fois nécessaires.
+Immobiliers
+Alimentations en air
+Des livraisons à domicile sont exécutées en les mini-hélicoptères spéciaux qui viennent aux fenêtres de l'appartement : beaucoup plus vite que la méthode traditionnelle de la livraison.
+Immobiliers
+Colosse
+Une statue géante dans l'entrée principale augmente la beauté de votre bâtiment : beau mais des étrangers venir pour la voir.
+Immobiliers
+Diffuseurs de parfum
+Les distributeurs spéciaux répandent les parfums chimiques parfum-libres dans le ciel pour satisfaire et calmer vos locataires.
+Immobiliers
+Centres de vacances
+Ressources intégrées spéciales, disponibles exclusivement à vos résidants. Certains ne laissent jamais le bâtiment.
+Immobiliers
+Recrutement de Hobo
+Plusieurs communautés des parias prennent naissance dans les cavités cachées de ces bâtiments énormes. Vous décidez de les engager pour remplir des fonctions de concierge.
+Immobiliers
+Robots de nettoyage de fenêtre
+Les petits robots s'élèvent à travers votre bâtiment pour s'assurer que les fenêtres sont toujours propres.
+Immobiliers
+Loyer de tolérance zéro 
+Vos locataires sont immédiatement expulsés s'ils ne payent pas le loyer.
+Immobiliers
+Système de surveillance de nettoyage
+Les moniteurs de système d'appareil-photo les secteurs communs de votre bâtiment et envoie des décapants seulement si nécessaire.
+Immobiliers
+Peintures de Digitals
+Au lieu de vraies peintures, vos vestibules ont les écrans ultra-plats avec des images des peintures célèbres dans la rotation lourde.
+Immobiliers
+Voitures élogieuses
+Au lieu de avoir leurs propres voitures, vos résidants utilisent des voitures offertes par l'administration.
+Immobiliers
+Feng Shui
+Les secteurs communs du bâtiment sont décorés accordant cette discipline orientale.
+Immobiliers
+Service d'escorte
+Pour éviter des muggings dans les vestibules, vos locataires, par demande, sont escortés par des gardes à et de leur appartement à l'entrée de bâtiment.
+Immobiliers
+Directeur d'AI
+Le bâtiment est complètement couru par un ordinateur.
+Immobiliers
+Environnement scellé
+Le bâtiment est autoclavé de l'extérieur, réduisant rigoureusement la pollution.
+Immobiliers
+Les Communautés
+Quelques planchers de votre bâtiment sont loués seulement aux gens partageant un style de vie semblable, comme des homosexuels, des punks, des ravers, etc.
+Immobiliers
+Zoo interne
+Pour les enfants, votre bâtiment a un zoo interne,
+Immobiliers
+Arbres de vestibule
+Les vestibules plus grands du bâtiment sont garnis des arbres. Ils semblent gentils et épurent l'air, mais pourraient fournir à des criminels une cachette.
+Immobiliers
+Émeutes commandées
+Pour atténuer la pression sociale sur les planchers les plus serrés, votre personnel organisent des émeutes commandées dans les secteurs du bâtiment avec peu qui peut obtenir trashed.
+Immobiliers
+Campagne d'Adopter-UN-Plancher
+Vos résidants peuvent adopter un plancher et participer à son entretien. Leur nom sera sur une plaque sur leur plancher respectif.
+Immobiliers
+Ascenseurs à grande vitesse
+L'utilisateur entre dans une boule qui les enveloppe complètement et adhère à leur corps et est puis propulsés vers le haut ou vers le bas par un projectile à haute pression d'air : efficace et amusement.
+Immobiliers
+Fondations de location de bureau
+Écritures pour construire et louer des bureaux de Magna.
+Immobiliers
+Soins de jour
+Chaque immeuble de bureaux a un service de soins de jour pour les parents qui travaillent là.
+Immobiliers
+Pièce de chiot et de chaton
+On l'a montré que le jeu avec des chiots et des chatons soulage l'effort. Vos immeubles de bureaux ont une salle de chiot et de chaton où les ouvriers peuvent aller quand ils doivent calmer vers le bas.
+Immobiliers
+Stand de garde
+Pour des raisons de sécurité, à l'entrée de l'immeuble de bureaux, il y a les gardes armés.
+Immobiliers
+Axes d'air autonettoyants
+Les axes d'air du bâtiment sont nettoyés quotidiennement par un robot spécial.
+Immobiliers
+Salles de bains unisexes
+Chaque plancher a seulement une salle de bains à partager par tous les employés là-dessus.
+Immobiliers
+Appareils-photo robotiques de vol
+Les ronds de sécurité sont exécutés par de petits robots de vol avec des appareils-photo reliés à la salle de garde.
+Immobiliers
+Murs et portes insonorisés
+Murs et portes complètement insonorisés. Plus d'intimité, mais personne ne peut entendre que se passe-t-il.
+Immobiliers
+Les espaces ouverts
+Planchers entiers sans diviser des murs : vous pouvez rendre service à plus de personnes dans le même espace.
+Immobiliers
+Politique non-fumeurs
+Les immeubles de bureaux sont complètement sans fumée.
+Immobiliers
+Salles légères de thérapie
+Une autre façon efficace de soulager l'effort est d'exposer votre corps à une lumière uniforme douce. Tous vos bâtiments ont une salle particulièrement conçue à cette fin.
+Immobiliers
+Accès universel
+Vos bâtiments n'ont pas un coin simple qui n'est pas accessible en la chaise de roue.
+Immobiliers
+Détecteurs de métaux de métaux
+Pour éviter la présence de toutes les armes, des détecteurs de métaux de métaux sont attachés au stand de garde.
+Immobiliers
+Appareil de mesure de pollution
+Chaque entrée de votre bâtiment a un dispositif qui mesure le niveau de pollution immédiatement à l'extérieur du bâtiment. Les gens peuvent attendre une basse lecture avant l'extinction.
+Immobiliers
+Tapis mous
+Les tapis très mous couvrent les planchers et les couloirs : très gentil de marcher dessus.
+Immobiliers
+Jardins d'intérieur
+Beaucoup de secteurs verts sont dispersés dans tous les secteurs communs de vos bâtiments : belles usines et air pur.
+Immobiliers
+Lumière-Sur la politique
+Les lumières ont lieu toujours dessus, même la nuit. Plus bloqué et personne peut dire qui est dedans et qui est dehors.
+Immobiliers
+Individu-Ombrage Windows
+Windows a fait du verre spécial qui obscurcissent automatiquement une fois exposé à la lumière intense : réduit la lueur.
+Immobiliers
+Musique en direct
+Un petit ensemble musical joue la musique classique dans l'entrée principale du bâtiment : une scène très welcoming pour celui qui entre dans le bâtiment.
+Immobiliers
+La police alarme
+Une alarme est directement reliée au commissariat de police, idéal pour une urgence.
+Immobiliers
+Greeter officiel
+Un greeter officiel dans l'uniforme se tient en dehors de l'entrée principale et salue et dirige des visiteurs ; ceci s'assure également que des weirdoes et d'autres undesirables sont gardés dehors.
+Immobiliers
+Production de puce de mémoire
+Assimiler la connaissance pour contrôler la production des puces de mémoire.
+Industrie
+Production de puce de mémoire de large échelle
+Contrôler la production de puces de mémoire de large échelle.
+Industrie
+Remplacement d'automobile de puce de mémoire
+Un service qui embarque automatiquement puces de mémoire du client les plus défuntes. Ceci s'assure qu'elles ont toujours le produit le plus à jour.
+Industrie
+Réduction de la taille de puces de mémoire
+Après la théorie que les puces de mémoire de taille réduit 50% tous les trois ans, vos usines mettent en application en conséquence un plan à long terme de production.
+Industrie
+Gaufrettes réutilisant le programme
+Vos usines rassemblent de vieilles gaufrettes de cartes pour les réutiliser pour de nouveaux circuits.
+Industrie
+L'électricien de débutant
+Une manière astucieuse de se débarasser de l'excédent des puces de mémoire : vendre un choix de elles dans une boîte pour les électriciens d'amateur.
+Industrie
+Chambres de Faraday
+Construire un camp de Faraday autour de votre usine pour protéger des employés contre l'éclairage, ceci tue également la charge statique. Perçu comme mesure de sécurité.
+Industrie
+Diagonostics d'individu de morceau
+Vos puces de mémoire courent les tests de diagnostic à chaque lancement du système.
+Industrie
+Plan global de câblage
+Mettre en application une stratégie pour établir un réseau Internet sur les mondes extraterrestres.
+Industrie
+Se réunir de vide
+Vos puces de mémoire sont assemblées dans les environnements serrés de vide. L'absence d'air empêche toutes les impuretés.
+Industrie
+Nano-circuits
+Construire les plus petites puces de mémoire possibles ; elles sont extrêmement précises et fiables, mais elles doivent être assemblées dans un environnement total de vide.
+Industrie
+Composant universel
+Toutes vos puces de mémoire évoluent d'un composant universel de base : rentable, mais la qualité des dérivés souffre.
+Industrie
+Détecteur de morceau
+Pour empêcher des ouvriers de voler les puces de mémoire coûteuses, vos usines ont des détecteurs de morceau aux entrées.
+Industrie
+Campagne d'Anti-Papier
+Pour favoriser l'encre électronique, vous lancez des médias d'un anti-papier faites campagne avec une pente écologique.
+Industrie
+Composants Self-Destructing
+Pour éviter le vol de votre technologie, vos composants sont détruits par l'acide si ouvert après qu'ils aient été scellés.
+Industrie
+Morceaux personnels d'identification
+Vous produisez un nouveau circuit à insérer sous la peau humaine qui servent d'identification une fois balayée par un dispositif externe. L'opinion publique craint des scénarios « de frère ».
+Industrie
+Surveillance magnétique
+Chaque fois qu'un fil suspendu est installé, un essai pour voir si le champ magnétique dérange les habitants des abords est réalisé.
+Industrie
+Métallurgie
+Production de base de métallurgie.
+Industrie
+Production de métallurgie de large échelle
+Apprendre les qualifications de base pour contrôler la production de métallurgie de large échelle.
+Industrie
+Costumes de Automatique-Refroidissement
+Vos ouvriers portent les costumes qui ont l'eau doux fonctionner au-dessus de leur corps pour les maintenir frais dans l'environnement à hautes températures de l'usine. Malheureusement, les costumes rendent leur maladroit.
+Industrie
+Alliage titanique final
+Production de l'alliage le plus fort en métal jamais créé par les hommes. Utilisé principalement dans l'industrie aérospatiale.
+Industrie
+Refroidissement cryogénique d'acier
+L'acier que vous produisez est refroidi aux températures cryogéniques rendant le processus global plus efficace.
+Industrie
+Développements de nanotechnologie
+Vous produisez le metallics les pièces micro pour des usages de nanotechnologie. Elle force vos usines à mettre en application un processus de meilleure qualité.
+Industrie
+Alliages extraterrestres
+La chimie et la physique légèrement différentes des nouveaux mondes te permet de créer les nouveaux alliages qui ne peuvent pas être produits sur terre.
+Industrie
+Criblage de minerai
+Vos usines mettent en application un criblage ultérieur du minerai acheté des mines. Coûteux mais améliorer la qualité.
+Industrie
+Traitement de métal précieux
+Vous réutilisez l'impureté du métal précieux non employée dans la production industrielle pour créer une ligne de bijoux.
+Industrie
+Production de supraconducteur
+En employant la technologie à extrémité élevé requise pour produire des supraconducteurs, vous améliore votre qualité des produits.
+Industrie
+Mécanisme s'effondrant de sécurité
+Vos grandes usines ont un système qui s'effondre le four dans une cavité souterraine en cas de fuite en métal de fusible. Très efficace dans les urgences.
+Industrie
+Émetteurs intégrés
+Les pièces en métal que vous produisez ont établi dans le transmittor ce des alertes quand la pièce est ruinée.Extrêmement utile pour les composants enterrés aimer les pipes.
+Industrie
+Formation de pesanteur nulle
+La formation du métal est exécutée dans une carlingue de chute libre spéciale au sein de votre usine. Le champ de zéro-pesanteur à l'intérieur elle permet un processus de meilleure qualité.
+Industrie
+Feuillards de taille d'atome
+L'utilisation de la zéro-pesanteur formant des laisux vous de créer les feuilles de métal qui sont seulement quelques atomes dans la largeur ; extrêmement utile dans des applications industrielles.
+Industrie
+Système d'autobus interne
+Les quarts de vie et le milieu de travail dans les usines métallurgiques doivent être éloignés en raison de la température. À de grandes usines, un système d'autobus interne améliore l'efficacité du travail.
+Industrie
+Art métallique
+Vous réutilisez les morceaux en métal gâchés par le processus de fabrication en tant que sculptures artistiques créées par un artiste unexistent de la terre. Vous gagnez de la réputation en tant qu'expert en matière d'art.
+Industrie
+Musée de métallurgie
+Vous créez un musée de métallurgie dans votre siège social d'industrie. Observant l'histoire du fonctionnement en métal motive vos employés.
+Industrie
+Costumes de Automatique-Refroidissement
+Vos ouvriers portent les costumes qui ont l'eau doux fonctionner au-dessus de leur corps pour les maintenir frais dans l'environnement à hautes températures de l'usine. Malheureusement, les costumes rendent leur maladroit.
+Industrie
+Alliage titanique final
+Production de l'alliage le plus fort en métal jamais créé par l'homme ; utilisé principalement dans l'industrie aérospatiale.
+Industrie
+Refroidissement cryogénique d'acier
+L'acier que vous produisez est refroidi aux températures cryogéniques rendant le processus global plus efficace.
+Industrie
+Développements de nanotechnologie
+Vous produisez des micro-parties de metallics pour des usages de nanotechnologie. Elle force vos usines à mettre en application un processus de meilleure qualité.
+Industrie
+Alliages extraterrestres
+Les principes légèrement différents de chimie et de médicament sur les nouveaux mondes te permettent de créer les nouveaux alliages qui ne peuvent pas être produits sur terre.
+Industrie
+Criblage de minerai
+Vos usines mettent en application un procédé de dépistage additionnel sur le minerai extrait à partir des mines ; coûteux mais améliore la qualité.
+Industrie
+Traitement de métal précieux
+Vous réutilisez les impuretés extraites à partir du métal précieux de la production industrielle pour créer une ligne de bijoux.
+Industrie
+Production de supraconducteur
+Par l'utilisation la technologie à extrémité élevé a dû produire des supraconducteurs, vous augmentent la qualité de vos produits.
+Industrie
+Mécanisme s'effondrant de sécurité
+Vos grandes usines ont un système qui s'effondre le four dans une cavité souterraine au cas où la fuite en métal de fusible se produirait : très efficace dans les urgences.
+Industrie
+Émetteurs intégrés
+Les pièces en métal que vous produisez ont un émetteur intégré ce des alertes à quand la pièce est ruinée ; extrêmement utile pour les composants enterrés aimer les pipes.
+Industrie
+Formation de pesanteur nulle
+La formation du métal est exécutée dans une carlingue de chute libre spéciale au sein de votre usine. Le champ de zéro-pesanteur à l'intérieur elle permet un processus de meilleure qualité.
+Industrie
+Feuillards de taille d'atome
+L'utilisation de la zéro-pesanteur formant des laisux vous de créer les feuilles de métal qui sont seulement quelques atomes dans la largeur ; extrêmement utile dans des applications industrielles.
+Industrie
+Système d'autobus interne
+Les quarts vivants d'une usine métallurgique doivent loin enlevé de l'usine due à ses températures. À de grandes usines, un système d'autobus interne déplace efficacement des ouvriers.
+Industrie
+Art métallique
+Vous réutilisez les morceaux en métal jetés à partir du processus de fabrication en tant que sculptures artistiques créées par un artiste fictif de la terre. Vous gagnez une réputation en tant qu'expert en matière d'art.
+Industrie
+Musée de métallurgie
+Vous créez un musée de métallurgie dans vos sièges sociaux d'industrie. Regardant l'histoire du fonctionnement en métal motive vos employés.
+Industrie
+Moulin
+Permis d'actionner un moulin à farine.
+Industrie
+Moulin à farine de large échelle
+Apprendre les qualifications de base pour créer et contrôler un moulin à farine de large échelle.
+Industrie
+Production alimentaire récurrente
+Employer les secondaire-produits en tant que matières premières premières pour le traitement.
+Industrie
+Réfrigération solaire
+Emploie l'énergie solaire non polluante pour refroidir des produits.
+Industrie
+Applications de l'eau
+L'eau peut être très utile en maintenant des machines propres.
+Industrie
+Applications de silicium
+Augmenter la production. (Aucune autre explication requise.)
+Industrie
+Contrôle de qualité de nourriture
+Nourriture de tache d'aides dans l'état de décomposition.
+Industrie
+Correction de syndrome de Brume
+Détecte la nourriture capable de développer le syndrome du Brume.
+Industrie
+Correction de ROOG
+Détecte la tendance de produits de devenir ROOG.
+Industrie
+Amélioration de base
+Fournit des frais supplémentaires traitant afin d'augmenter la qualité.
+Industrie
+Amélioration avancée
+Fournit le traitement avancé par frais supplémentaires afin d'augmenter la qualité.
+Industrie
+Produits chimiques organiques
+Substituer quelques produits chimiques non-organiques par les subproducts traités.
+Industrie
+Agrandissements radioactifs
+Agrandir le blé en l'exposant aux doses saines de radioactivité.
+Industrie
+Ligne à faible teneur en matière grasse
+Produits à faible teneur en matière grasse spéciaux pour les personnes de poids excessif.
+Industrie
+Farine de blé entier
+Farine de blé entier mieux pour les marchandises cuites au four.
+Industrie
+Recette sur la boîte
+Tous vos produits ont une recette imprimée sur la boîte. Une suggestion pour vos clients.
+Industrie
+Produits de substitution
+pour des clients avec des allergies et des problèmes digestifs.
+Industrie
+Fondations d'exploitation
+Apprendre les qualifications de base pour traiter l'exploitation.
+Industrie
+Exploitation de large échelle
+Apprendre les qualifications de base pour contrôler de grandes mines.
+Industrie
+Axes d'air supplémentaires
+Les axes d'air supplémentaires le facilitent pour des ouvriers aux mines, mais l'abondance de l'oxygène peut corrompre quelques minerais sensibles.
+Industrie
+Exercices de vapeur
+Employer les vapeur-faisceaux fortement denses pour fondre la roche et pour découvrir l'Oregon.
+Industrie
+Exploitation Droids
+Remplacer les humains par des droids pour travailler sur les tâches les plus dangereuses.
+Industrie
+Ascenseurs magnétiques
+Les ascenseurs fonctionnant avec des champs magnétiques normaux sont bien plus bloqués que des ascenseurs normalement.
+Industrie
+Sondes avancées
+Développer des méthodes plus efficaces pour détecter des impuretés en Oregon.
+Industrie
+Adultération minérale
+Apprendre comment présenter des doses de roches communes afin d'augmenter la production.
+Industrie
+Géologie avancée
+Étudier les matières les plus avancées dans la géologie extraterrestre. C'est obligatoire afin de conduire une recherche plus avancée dans ce domaine.
+Industrie
+Exploitation extraterrestre
+Cesser d'extraire la même manière que vous avez faite sur terre ; tirer profit des états spécifiques de planète.
+Industrie
+Sécurité avancée de mine
+Protéger vos ouvriers contre les émissions toxiques, indigènes à la planète.
+Industrie
+Dresser une carte souterrain
+Développer les diagrammes souterrains des secteurs où vos mines fonctionnent. Elle aide non seulement à contrôler vos opérations, mais elle augmente également la sensation de sécurité.
+Industrie
+Bactéries d'exploitation
+Créer les grandes populations de la roche mangeant des bactéries pour faciliter l'accès aux minerais. Cette pratique n'a pas été nocive prouvé aux humains. Cependant, les ouvriers restent sceptiques au sujet de ce fait.
+Industrie
+Chariots à télécommande
+Les chariots d'exploitation sont contrôlés par à télécommande d'un bureau centralisé.
+Industrie
+Microexplosions
+Au lieu de grandes explosions de mise en oeuvre dans vos mines, des centaines de petites explosions sont effectuées afin de découvrir des gisements de minerai.
+Industrie
+Exosquelettes
+Les mineurs emploient les exosquelettes hydrauliques pour extraire le minerai, cette méthode est très rapide mais pas comme précis.
+Industrie
+Repères de mineur
+Chaque mineur a un émetteur qui transmet toujours son endroit exact : principe fondamental dans les urgences.
+Industrie
+Fondations de chimie d'exploitation
+Permis de produire des produits chimiques d'exploitation.
+Industrie
+Grandes usines de produit chimique d'exploitation
+Apprendre les qualifications de base pour créer et contrôler de grandes usines chimiques.
+Industrie
+Protection de Plein-Corps
+Chaque employé d'usine doit porter une tenue de protection de plein-corps pour des raisons de sécurité.
+Industrie
+Réutilisation de la perte de produit chimique
+Si possible, toute la perte chimique produite est employée pour d'autres processus chimiques. La qualité est abaissée, mais elle démontre une attitude favorable à l'environnement.
+Industrie
+Pompes de vide superpuissantes
+Des usines sont équipées des pompes de vide superpuissantes pour assurer un meilleur environnement pour les réactions chimiques.
+Industrie
+Évacuation des déchets interne
+La perte des processus chimiques quitte jamais officiellement l'usine. Cependant, les méthodes de disposition sont peu claires et les écologistes expriment des inquiétudes.
+Industrie
+Évolution d'épurateur
+Vous utilisez les meilleurs épurateurs disponibles, constamment updgrading. Tandis que c'est quelque peu coûteux, il est bon pour l'opinion publique qu'est fortement en faveur de elle.
+Industrie
+Commande de matière première première
+Avant que n'importe quelle matière première première achetée soit employée pour vos usines processes', elle subit un interne vérifient.
+Industrie
+Stockage chimique massif
+Malgré le fait ce processus peut être perçu en tant que dangereux, vos produits chimiques d'achat d'usines en vrac et maintenir un grand nombre dans les actions ; réduisant des coûts et éviter tous manques potentiels.
+Industrie
+Remplacement fréquent d'instrument
+Vos usines mettent en application une politique réclamant le remplacement forcé et fréquent de petits instruments jetables comme des becs Bunsen et des tubes à essai en verre.
+Industrie
+Production automatisée totale
+Vos usines sont complètement automatisées améliorant la sécurité, la qualité et l'efficacité. Les humains restent dus à la pression des syndicats et agissent en tant que contrôleurs.
+Industrie
+Contrôle des émissions de dioxine
+Vous avez un procédé spécial qui limite l'émission de la substance qui a causé les plus grands désastres chimiques en histoire du homme.
+Industrie
+Centre de surveillance de crise
+Vous établissez un groupe de travail dans votre siège social d'industrie qui surveille toutes vos usines et alerte des autorités en cas d'une crise. Ce procédé centralisé te permet d'épargner l'argent sur la sécurité
+Industrie
+Caserne interne d'hôpital et de pompiers
+Chaque grande usine a un petit hôpital interne et une caserne de pompiers. Ceci instille vos employés avec confiance, rendant leur le travail meilleur. Vous semblez comme vous vraiment soin.
+Industrie
+Système d'Anti-Espion
+Pour éviter le vol de la propriété intellectuelle, les usines ont très un système d'importantes mesures de sécurité en place. En conséquence vous pouvez améliorer des processus sans s'inquiéter de la concurrence volant les idées.
+Industrie
+Chimie extraterrestre
+Mettre à la terre et les autres mondes ont des lois légèrement différentes de chimie. En les étudiant vous améliorez la qualité de vos produits et l'efficacité de vos usines.
+Industrie
+Plan d'évacuation
+Chaque usine a un plan d'évacuation détaillé pour le secteur l'entourant immédiatement, en cas d'une urgence. Ce plan a comme conséquence le voisinage étant un peu plus welcoming de l'usine.
+Industrie
+Production d'appareils
+Assimiler la connaissance pour obtenir le permis de contrôler des usines d'appareils électroménagers.
+Industrie
+Production d'appareils de large échelle
+Apprendre les qualifications de base pour contrôler la production des appareils électroménagers de large échelle.
+Industrie
+Réutilisation utilisée d'unité
+Vous donnez à des clients un escompte pour acheter de nouveaux produits quand ils te restituent utilisés. Vous pouvez encore réutiliser des parties dans la bonne forme.
+Industrie
+Extérieur général
+Tous les appareils dans la maison du client sont actionnés par on à télécommande.
+Industrie
+Fentes de pièce de monnaie
+Les appareils qui fonctionnent seulement à côté d'insérer l'argent, le client obtient la clef de rassembler l'argent. Utile pour que les grandes familles épargnent l'argent ; des appareils sont employés moins et dernier plus long.
+Industrie
+Casiers de désintégration
+Fatigué d'éteindre les ordures ? Ces casiers vaporisent des ordures dans l'atmosphère.
+Industrie
+Machine à laver d'ultrason
+Aucun détergent n'est nécessaire, grâce aux vagues d'ultrason. Écologiquement bruit et pratique.
+Industrie
+Machine universelle
+Unifier tous les appareils de cuisine les plus communs dans une machine simple. Il n'est pas aussi bon que les d'une seule pièce séparément, mais vos usines sont beaucoup plus efficaces.
+Industrie
+TV ultra mince
+Le produit TV amincissent comme peintures. La qualité d'image est excellente.
+Industrie
+Animaux familiers artificiels
+Petits robots qui ressemblent aux chats, au chien ou aux oiseaux, avantage d'éprouver seulement la partie positive de avoir un animal familier : perçu en tant qu'artificiel et malade par certains.
+Industrie
+Alarme étrangère
+Vous créez une alarme qui mesure la température et des émissions de produit chimique de celui qui entre dans la maison. S'il n'est pas humain, l'alarme alerte automatiquement la police.
+Industrie
+Composants non abrités
+Pour épargner l'argent, vos produits ne sont pas correctement examinés pour l'interférence électromagnétique externe.
+Industrie
+Haut-parleurs directionnels de haute fidélité
+Special ventriloquist-comme les haut-parleurs qui projettent la musique directement dans les oreilles de l'auditeur.
+Industrie
+Activateur de voix
+Tous vos appareils peuvent être actionnés par des commandes vocales.
+Industrie
+TV olographe
+3D révolutionnaire TV. Avec les visionneuses de cette la technologie olographe TV n'ont pas besoin de porter les lunettes 3D ennuyeux.
+Industrie
+Cheminée fausse
+La cheminée est montrée sur une vidéo cependant, il s'est reliée au système du chauffage de la maison de sorte que quand le client l'allume, la température dans la maison augmente automatiquement.
+Industrie
+Animal familier Morphing
+Choisir l'animal domestique que vous voulez quotidiennement avec ce robot forme-changeant spécial : d'un chien de garde à un chat velu, il se transformera sur demande.
+Industrie
+Théâtre à la maison
+Construire la salle parfaite pour écouter la musique et la TV de observation dans la maison du client. Fournir tout qui est nécessaire : du bruit quadraphonique aux chaises ergonomiques.
+Commerce
+Pièce de haute fidélité
+Il y a une salle dans le magasin avec le meilleur environnement de écoute possible, spécifiquement à essayer tous les différents systèmes stéréo.
+Commerce
+Département de réparation
+Dans-stocker le centre de réparation pour vos clients.
+Commerce
+L'inspection annuelle et accordent vers le haut
+L'équipement acheté par vos clients est habilité à un contrôle annuel vers le haut au dans-stockent le centre de réparation.
+Commerce
+Techniciens inexpérimentés
+Pour épargner l'argent, votre centre de réparation emploie seulement les techniciens très jeunes.
+Commerce
+Garantie à vie
+Les gens tendent à oublier pour combien de temps leur garantie est et tendre à supposer qu'elle a expiré. En conséquence, la fourniture d'une garantie à vie n'est pas beaucoup plus coûteuse que fournissant une garantie de trois ans.
+Commerce
+Parc de divertissements complet
+Les multimédia finaux machine, tout est reliés à un ordinateur qui agit en tant que station centrale : TV, stéréo, Internet, jeux vidéo tous ensemble.
+Commerce
+Special de Chambre
+Un escompte spécial aux clients qui achètent tous leurs appareils de votre magasin. Etant donné le nombre élevé d'achats, vous pouvez partir furtivement dans quelques morceaux de qualité inférieure.
+Commerce
+Vendeur-Comme-Client
+Quand ils sont loués, vos vendeurs acceptent d'acheter seulement leurs appareils de votre magasin.
+Commerce
+24 services techniques d'heure
+Votre TV se casse au début des parties de football. Votre climatiseur explose au milieu du jour le plus chaud de l'année. Appeler nos techniciens et dans une demi-heure quelqu'un sera à votre maison ! !
+Commerce
+Cours de technologie jour
+Vos enfants font-ils l'amusement de vous parce que vous ne savez pas actionner un magnétoscope ou un lecteur de CD ? Un un jour dans-stockent le cours indique le mystère de la technologie au client plus traditionnel.
+Commerce
+Location de machine
+Pour les personnes qui se déplacent beaucoup, vous louez chaque appareil : des grille-pain à 50 pouces TV.
+Commerce
+Marché utilisé de machine
+Un marché hebdomadaire, en dehors de votre magasin, des appareils utilisés. Te permet de réutiliser de vieilles machines.
+Commerce
+Stockage vertical
+Tous les appareils que vous vous vendez sont dans des boîtes rectangulaires. En les stockant sur l'un l'autre vous sauf beaucoup d'espace, mais parfois la substance obtient rayé.
+Commerce
+Appareils cachés
+Pour les personnes qui ne veulent pas voir les appareils dans leur maison, les panneaux mobiles et les murs faux les cachent.
+Commerce
+Fondations d'industrie d'automobile
+Qualifications de base exigées de contrôler des usines d'automobile.
+Industrie
+Sac d'air final
+Un sac à air massif, fait avec un tissu extrêmement extensible qui effectivement entoure et protège tout à l'intérieur du véhicule en cas d'un accident, améliorant considérablement la sûreté.
+Industrie
+Sondes de tache aveugle
+Les petites sondes ont placé sur les alertes de miroirs de côté le conducteur de n'importe quel obstacle dans ses taches aveugle, réduisant brusquement des accidents.
+Industrie
+Réutilisation d'épave
+Vos usines rassemblent les voitures d'occasion pour réutiliser les pièces utilisables pour de nouveaux modèles. Vous épargnez l'argent, mais la qualité globale souffre.
+Industrie
+Étalonnage massif de dispositif
+Vos usines subissent un étalonnage massif des dispositifs de tous les différents modèles. Il est très rentable mais maintenant vos voitures toutes regardent très semblables.
+Industrie
+Intérieurs ergonomiques
+Les intérieurs de vos voitures sont conçus pour s'assurer que l'expérience d'entraînement est aussi confortable comme possible.
+Industrie
+Moteur électrique et de gaz
+Vos voitures ont un moteur électrique pour des voyages courts, et un moteur de gaz pour de plus longs voyages qui recharge également les batteries ; réduit la consommation et la pollution de carburant.
+Industrie
+Pneus de colle
+Les trous micro et un distributeur permettent à la colle spéciale de couvrir des pneus de voiture, rendant le véhicule plus stable. La colle laissée sur la route s'évapore ; les écologistes se plaignent.
+Industrie
+Peinture de qualité
+Vos usines emploient la peinture bon marché sur sa voiture, comme rouille de voitures de résultat d'A. plus facilement.
+Industrie
+Voitures de lavage automatiques
+Un circuit hydraulique est établi dans le châssis de la voiture, lavant automatiquement la voiture avec l'eau et le savon quand une sonde indique qu'elle est sale. Vos voitures semblent toujours nouvelles.
+Industrie
+Démarreur d'analyseur de souffle
+Avant de mettre en marche la voiture, les coups de conducteur dans une paille en plastique fixée à la roue, si leur niveau de sang-alcool est trop élevé, la voiture ne commenceront pas. Les parents sont éternellement reconnaissants.
+Industrie
+Réutilisation en caoutchouc
+Vos usines réutilisent le caoutchouc de vieux pneus pour créer des neufs. La qualité de pneu est seulement légèrement affectée et le public vous perçoit en tant qu'étant écologiquement conscient.
+Industrie
+Politique de garantie
+Vos voitures viennent avec un de trois ans, garantie de 100.000 kilomètres.
+Industrie
+Ordinateur directionnel
+Vos voitures viennent avec un ordinateur intégré qui indique immédiatement au conducteur le meilleur itinéraire entre le point démarrant et de arrivée.
+Industrie
+Sièges durs
+Pour épargner l'argent, vous installez les sièges durs meilleur marché dans des vos voitures. Les conducteurs peuvent seulement noter la différence dans des leurs dos après de longs voyages.
+Industrie
+Approvisionnement à l'extérieur de conception
+Vos conceptions de voiture sont externalisées à une société très prestigieuse de conception. Les voitures regardent très luisantes et vous sauf sur les coûts de maintenir un département entier.
+Industrie
+Crédit-bail et financement
+Vous fournissez vos clients plus d'options de paiement.
+Commerce
+Commande étendue d'essai
+Vos clients peuvent essayer vos voitures, pour tant que une semaine, avant la décision pour l'acheter.
+Commerce
+Politique de ventes impitoyable
+Vous fixez des buts très difficiles de ventes pour vos vendeurs et leur mettez le feu s'ils ne les atteignent pas. C'est survie du plus convenable et seul le meilleur survivent.
+Commerce
+Cours de formation de vendeurs
+Améliore vendre l'efficacité par correctement chemin de fer de vos vendeurs.
+Commerce
+Transfert de voiture d'Interworld
+Manipuler le visage des clients ennuyants de bureaucratie en transférant un véhicule entre les mondes.
+Commerce
+Centre interne de réparation
+Vos magasins de voiture ont un centre de réparation de voiture pour les réparations de la voiture de vos clients et l'entretien a besoin pendant leur vie de voitures.
+Commerce
+Choix modèle limité
+Vos magasins portent seulement un nombre limité de modèles. C'est très rentable mais vous ne pouvez pas satisfaire chaque client potentiel.
+Commerce
+Atelier de carrosserie
+Votre centre de réparation répare également des dommages au châssis de voiture.
+Commerce
+Bureau luxueux
+Enchanter vos clients avec un bureau très luxueux ; ils se sentent comme ils sont traités comme la redevance.
+Commerce
+Département de voiture d'occasion
+Un grand pourcentage de vos clients potentiels ne peut pas se permettre d'acheter une nouvelle voiture, ainsi vos magasins ont également un choix de employé.
+Commerce
+Nouveau jet d'odeur de voiture
+Mettre l'odeur caractéristique d'une nouvelle voiture et la pulvériser en bouteille dans votre utilisée. Vos clients achèteront des épaves pensant qu'ils ne sont pas dans une telle mauvaise forme.
+Commerce
+Stratégie marketing de famille
+Une fois qu'un membre de la famille achète une de vos voitures, votre équipe de vente vise tous les autres membres de la famille, essayant de les convaincre d'acheter une autre voiture.
+Commerce
+Vérification des antécédents étrangère
+Dans un effort de bloquer a déguisé des étrangers, chaque personne de nouveau à la laquelle veut acheter une voiture est sujet à une vérification des antécédents étendue, traçant toute la manière quand ses ancêtres sont venus la première fois de la terre.
+Commerce
+Gaz libre
+Vous offrez six mois de gaz libre à n'importe qui qui achète une de vos voitures.
+Commerce
+Mise au point élogieuse
+La mise au point périodique de nouvelles voitures est libre à vos clients.
+Commerce
+Fondations de salle de cinéma
+Écritures pour les salles de cinéma de gestion.
+Commerce
+Bruit quadraphonique
+Le meilleur système de son de haute fidélité disponible : conduit à une expérience de écoute véritablement étonnante.
+Commerce
+Chaises impériales
+Vos clients aimeront ces fauteuils extrêmement grands et confortables.
+Commerce
+Magasin de dispositif
+Un magasin mensuel qui favorise des films prochains de dispositif dans vos théâtres.
+Commerce
+Films interdits aux moins de 18 ans
+Certains de vos théâtres comportent des films d'adulte seulement.
+Commerce
+Odorama
+Avec les images et le bruit, vos théâtres ont des machines spéciales qui émanent des parfums et des odeurs selon les événements du film, plaçant vraiment des clients « dans la scène ».
+Commerce
+Messages subliminaux
+Influencer vos clients pour acheter plus de nourriture ou pour revenir encore avec les messages cachés inclus dans le film.
+Commerce
+Surcharge sensorielle
+Dans des cinémas de théâtre, des clients sont exposés à la stimulation excessive de lumière et de bruit, masquée comme annonces. Ils glissent dans un état engourdi et sont plus enclins dépensent.
+Commerce
+Jour d'escompte
+Une fois par semaine, un jour fixe, le prix des billets est divisé en deux.
+Commerce
+Festival annuel
+Chaque année vos théâtres comportent un festival de film de thème.
+Commerce
+Machines automatiques de projecteur
+Aucun besoin d'opérateurs de projecteur. Les syndicats se plaint.
+Commerce
+Bas de page à emporter
+Distribution des vidéos libres des bas de page prochains de film, pour le visionnement à la maison du client.
+Commerce
+Variations de la température
+La chaleur et les dispositifs climatiques de climatisation varient la température du théâtre selon les endroits montrés dans le film : conduit à une expérience plus intense et plus réaliste.
+Commerce
+Jeux électroniques
+Vos théâtres sont remplis de jeux vidéo et de flippers.
+Commerce
+Stimulation de contact
+Les dispositifs sur des accoudoirs appliquent la pression sur des doigts et des paumes de stimuler les mêmes émotions et efforts dans le film.
+Commerce
+Politique de Superproduction-Seulement
+Aucuns films culturels artsy-fartsy à vos théâtres. Vérifier votre cerveau à l'entrée.
+Commerce
+Studios de film
+Assimiler la connaissance pour obtenir le permis de contrôler des studios de film.
+Industrie
+Ressource d'acteur
+Pour attirer les meilleurs acteurs et actrices, établir une ressource luxueuse à l'intérieur de vos studios où ils peuvent vivre et être choyés tout en tirant vos films.
+Industrie
+Excursion de studio
+Offrir une excursion de studio à payer des visiteurs. Une autre source de revenu et les gens sont heureux de prendre un coup d'oeil à leurs étoiles préférées.
+Industrie
+Département d'effets spéciaux
+Engager un groupe d'artistes particulièrement consacrés aux effets spéciaux : idéal pour la science-fiction et des films d'horreur.
+Industrie
+Réalisateurs de cgi
+Votre département d'effets spéciaux a une batterie des artistes d'ordinateur. Produire les images artificielles pour vos films qui semblent vrais à l'assistance.
+Industrie
+Exploitation de Gore
+Faire à bas budget les films sanglants pour une assistance garantie de noyau. Cette assistance ne s'inquiète pas de la qualité : les bons retours sont une certitude.
+Industrie
+Grandes étoiles seulement
+Vos films ont seulement les plus grandes étoiles dans les rôles de principe. Est ce ce que les cinéphiles veulent.
+Industrie
+Au sol d'AnimalTraining
+Construire les écuries et les camps sur vos sorts de studio pour former et employer des animaux dans vos films. Vous faites une remarque de les traiter le mieux possible pour des raisons de relations publiques.
+Industrie
+Suites et remakes
+Les suites et les remakes des films réussis sont un revenu-fabricant garanti. Une approche conservatrice au cinéma, mais lui éponge à la caisse.
+Industrie
+Section adulte de film
+Consacrer une partie de votre studio aux films adultes : industrie très bon marché qui garantit un retour régulier.
+Industrie
+Préexamen d'assistance
+Avant qu'embarquant vos films aux théâtres vous avez les criblages internes pour voir si l'assistance va l'aimer. Il évite des effondrements et maintient la qualité de vos films à une norme acceptable.
+Industrie
+Politique de Droit-à-Vidéo
+Si vos bombes de film pendant le préexamen, vous l'envoient directement à la vidéo. Aucun point en ruinant la réputation de votre studio avec ce qui est sûr d'être un effondrement.
+Industrie
+Stratégie de incitation de récompense
+Faire pression sur les organisateurs des expositions célèbres de récompense comme le « oscar d'Intraworld » pour avoir vos films nommés dans toutes les catégories.
+Industrie
+Exploitation de frais supplémentaires
+Sous-payer les frais supplémentaires dans vos films. Après que tous qu'ils veulent juste être proches de leurs étoiles préférées.
+Industrie
+Dispositifs de DVD
+Tandis que votre film est tiré, produire les divers dispositifs supplémentaires pour le DVD. Le film polit l'amour l'entrevue avec le directeur et la longueur clandestine semblable.
+Industrie
+Département de doublage
+Doubler vos films afin d'atteindre une plus large assistance. Quelques personnes sont trop paresseuses pour lire des sous-titres.
+Industrie
+Films culturelement orientés
+Westerns de gaine, action de modèle de Hong Kong, films japonais de produit des monstres etc. qui font appel aux cultures particulières.
+Industrie
+Auteurs internes
+Souvent les manuscrits ont besoin de changements de dernière minute. Vous avez un groupe d'auteurs expérimentés dans le studio prêt à réaliser le travail.
+Industrie
+Édition de la dictature
+Visser le directeur, car le producteur vous ont la parole finale sur la façon dont le film est coupe éditée-le de finale.
+Industrie
+Cinéma expérimental
+Directeurs inconnus de location avec des idées révolutionnaires. L'art est plus important que la caisse, parfois.
+Industrie
+Programmes de tir serrés
+Il est impératif que vos équipages restent sur la date-limite. Vous ne voulez pas que le budget de film éclate.
+Industrie
+Production de machines commerciales
+Qualifications de base pour contrôler des usines de machines commerciales.
+Industrie
+Meubles modulaires
+La manière parfaite de fournir les espaces ouverts, les morceaux tout le sembler semblable et d'offrir la grande efficacité.
+Industrie
+Distributeurs de nourriture et de boissons
+Vous produisez la nourriture spéciale et buvez des distributeurs de sorte que vous puissiez diminuer le nombre de heures d'utilisation des employés pour le déjeuner.
+Industrie
+Souris de choc
+Une souris spéciale qui, des mesures le battement de coeur de l'utilisateur, et émet un petit choc électrique quand il commence à tomber endormi. Peu un barbare mais efficace.
+Industrie
+Processus de réparation d'imprimeur
+Un émetteur a construit dans l'imprimeur alerte automatiquement vos usines quand une réparation est exigée.
+Industrie
+Meubles de bureau exécutif
+Extrêmement les meubles de bureau de luxes ont produit pour particulièrement pour des cadres. Cet ameublement crée un milieu de travail très plaisant et donne à vos usines une aura sophistiquée.
+Industrie
+Système de réutilisation de papier
+Vous offrez une solution de réutilisation integrated qui produit le nouveau papier à partir des produits de papier jetés, dans le bureau.
+Industrie
+Windows faux
+Pour un bureau qui n'a pas de vraies fenêtres, vous fournissez à des écrans différentes vues. L'utilisateur peut choisir d'une série de panoramas.
+Industrie
+Réseau de réserve général
+Une unité qui soutient périodiquement tous les disques durs dans le bureau.
+Industrie
+Accès d'empreinte digitale
+Une mesure de sécurité qui exige d'un employé de presser son empreinte digitale gauche de pouce sur un dispositif spécial afin de vérifier leur identité et accéder au poste de travail.
+Industrie
+Écrans à effleurement
+La dactylographie est faite en touchant des icônes sur l'écran. Il est difficile de s'habituer, mais elle te permet d'éviter d'acheter des claviers pour vos ordinateurs.
+Industrie
+Générateur de mot de passe
+Les applications de chaque informatique exige un mot de passe. Il est facile les oublier ; ce dispositif spécial examine votre cerveau et identifie les mots de passe que vous ne pouvez pas oublier.
+Industrie
+Usines fausses
+Elles sont aussi gentilles que vraies celles et elles n'exigent aucun entretien. La manière la plus facile de créer un milieu de travail plaisant.
+Industrie
+Système de livraison robotique
+Si vous devez fournir des notes et des documents de bureau au bureau, il n'y a rien comme ces petits robots mignons qui expédient par les couloirs.
+Industrie
+Optimisation légère de bureau
+L'optimisation des sources lumineuses dans le bureau améliore la qualité du travail et l'économise sur l'électricité.
+Industrie
+Système de surveillance de logiciel
+Effrayé que vos employés utiliseront leurs ordinateurs pour jouer des jeux vidéo et la pornographie de vue ? Les moniteurs de ce système et les annulations non-en travaillent le logiciel relatif de leurs disques durs.
+Industrie
+Production en nylon
+Qualifications de base de production en nylon.
+Industrie
+Usine de nylon de large échelle
+La connaissance pour créer et contrôler de grandes usines en nylon.
+Industrie
+La connaissance en nylon de base
+La recherche fournit la connaissance de base de la production en nylon.
+Industrie
+La connaissance en nylon avancée
+Apprendre ce que rend une conception bonne et comment répondre aux besoins de chaque classe sociale, utilisation en nylon.
+Industrie
+Modes en nylon supérieures
+Vouloir produire le meilleur nylon sur votre monde ? Inciter les personnes à les croire aiment ce que vous concevez : posséder leurs esprits pour devenir une force d'entraînement de mode.
+Industrie
+Longévité en nylon améliorée
+Créer les conceptions pour le nylon fortement durable.
+Industrie
+Plan de rebut de réduction de nylon
+Réunions mensuelles de la gestion supérieure pour réduire des coûts dus à la perte.
+Industrie
+Commandes de qualité de matière première première
+Développer les normes de contrôle de qualité.
+Industrie
+Additifs synthétiques
+Remplacer quelques matériaux par les composants synthétiques.
+Industrie
+Silencieux de machines
+Installer les bruit-mangeurs énormes près des machines.
+Industrie
+Machines verticales
+Développer les machines empilables, qui vous sauvent beaucoup d'espace.
+Industrie
+Contrôle de qualité en nylon continu
+Créer une équipe de chercheurs pour rechercher continuellement les techniques en nylon de qualité.
+Industrie
+Étirage en nylon
+Élaborer un procédé qui étire le nylon.
+Industrie
+Nylon r3fléchissant
+Développer le nylon qui reflète certaines couleurs selon son endroit d'utilisation.
+Industrie
+Nylon biodégradable
+Développer le nylon qui est facilement assimilé par la nature une fois jetée.
+Industrie
+Nylon rapide de colorant
+Une manière simple de teindre le nylon en appliquant l'aquarelle, using les turbines sèches.
+Industrie
+Nylon se reliant facile
+Ce type nylon est gardé très près de l'un l'autre en employant un champ électrique statique.
+Industrie
+nylon 3D
+Plusieurs études d'université ont pour mener à la conclusion que le nylon 3D est supérieur au 2D nylon. Les raisons pour lesquelles être encore indéterminé.
+Industrie
+Nylon subissant une mutation
+Produire le nylon qui subira une mutation la couleur selon l'environnement.
+Industrie
+Nylon subissant une mutation
+Être parfois juste différent n'est pas assez. Le besoin en nylon de subir une mutation la couleur et les modèles selon ce que la mode stipule.
+Industrie
+Fondations de location de bureau
+Écritures pour construire et louer des bureaux.
+Immobiliers
+Soins de jour
+Chaque immeuble de bureaux a un service de soins de jour pour les parents qui travaillent là.
+Immobiliers
+Pièce de chiot et de chaton
+On l'a montré que le jeu avec des chiots et des chatons soulage l'effort. Vos immeubles de bureaux ont une salle de chiot et de chaton où les ouvriers peuvent aller quand ils doivent calmer vers le bas.
+Immobiliers
+Stand de garde
+Pour des raisons de sécurité, à l'entrée de l'immeuble de bureaux, il y a les gardes armés.
+Immobiliers
+Axes d'air autonettoyants
+Les axes d'air du bâtiment sont nettoyés quotidiennement par un robot spécial.
+Immobiliers
+Salles de bains unisexes
+Chaque plancher a seulement une salle de bains à partager par tous les employés là-dessus.
+Immobiliers
+Appareils-photo robotiques de vol
+Les ronds de sécurité sont exécutés par de petits robots de vol avec des appareils-photo reliés à la salle de garde.
+Immobiliers
+Murs et portes insonorisés
+Murs et portes complètement insonorisés. Plus d'intimité, mais personne ne peut entendre que se passe-t-il.
+Immobiliers
+Les espaces ouverts
+Planchers entiers sans diviser des murs : vous pouvez rendre service à plus de personnes dans le même espace.
+Immobiliers
+Politique non-fumeurs
+Les immeubles de bureaux sont complètement sans fumée.
+Immobiliers
+Salles légères de thérapie
+Une autre façon efficace de soulager l'effort est d'exposer votre corps à une lumière uniforme douce. Tous vos bâtiments ont une salle particulièrement conçue à cette fin.
+Immobiliers
+Accès universel
+Vos bâtiments n'ont pas un coin simple qui n'est pas accessible en la chaise de roue.
+Immobiliers
+Détecteurs de métaux de métaux
+Pour éviter la présence de toutes les armes, des détecteurs de métaux de métaux sont attachés au stand de garde.
+Immobiliers
+Appareil de mesure de pollution
+Chaque entrée de votre bâtiment a un dispositif qui mesure le niveau de pollution immédiatement à l'extérieur du bâtiment. Les gens peuvent attendre une basse lecture avant l'extinction.
+Immobiliers
+Tapis mous
+Les tapis très mous couvrent les planchers et les couloirs : très gentil de marcher dessus.
+Immobiliers
+Jardins d'intérieur
+Beaucoup de secteurs verts sont dispersés dans tous les secteurs communs de vos bâtiments : belles usines et air pur.
+Immobiliers
+Lumière-Sur la politique
+Les lumières ont lieu toujours dessus, même la nuit. Plus bloqué et personne peut dire qui est dedans et qui est dehors.
+Immobiliers
+Individu-Ombrage Windows
+Windows a fait du verre spécial qui obscurcissent automatiquement une fois exposé à la lumière intense : réduit la lueur.
+Immobiliers
+Musique en direct
+Un petit ensemble musical joue la musique classique dans l'entrée principale du bâtiment : une scène très welcoming pour celui qui entre dans le bâtiment.
+Immobiliers
+La police alarme
+Une alarme est directement reliée au commissariat de police, idéal pour une urgence.
+Immobiliers
+Greeter officiel
+Un greeter officiel dans l'uniforme se tient en dehors de l'entrée principale et salue et dirige des visiteurs ; ceci s'assure également que des weirdoes et d'autres undesirables sont gardés dehors.
+Immobiliers
+Production de pétrole
+Apprendre comment créer et exploiter les plates-formes pétrolières.
+Industrie
+Valves Emergency
+Pour des raisons de sécurité, toutes vos installations ont des valves qui coupent automatiquement en cas d'un accident.
+Industrie
+Personnalisation extraterrestre de foret
+Les exercices sur vos installations sont adaptés aux besoins du client selon l'uniformité du sol, qui est légèrement différente de la terre.
+Industrie
+Contrôle de qualité centralisé
+Votre siège social industriel a un centre de contrôle de qualité qui analyse le pétrole brut extrait à partir de vos installations et varie la quote-part de production en conséquence. Votre huile est toujours vendue à la même qualité.
+Industrie
+Impureté mangeant des bactéries
+Afin d'épurer le pétrole brut, une colonie spéciale des bactéries est présentée dans vos silos.
+Industrie
+24 productions d'heure
+Vos installations ne cessent jamais de fonctionner. Plus efficace mais du souci est exprimé par des syndicats au sujet des longs décalages.
+Industrie
+Analyses de tremblement de terre 
+En analysant les petits mouvements séismiques des mondes extraterrestres, vous pouvez trouver le meilleur modèle drilling pour atteindre les gisements d'huile.
+Industrie
+Procédé de nettoyage courant de pièces
+Le nettoyage général courant de l'installation et de toutes ses pièces.
+Industrie
+Gaz volatil
+Vous rassemblez le gaz produit par le pétrole brut. Par la compression, vous pouvez augmenter votre production. Les écologistes félicitent les émissions volatiles réduites.
+Industrie
+Stockage d'huile massif
+Pour optimiser les livraisons, vous stockez l'huile, en masse, à l'emplacement d'extraction. C'est plus rentable, mais quelque peu dangereux.
+Industrie
+Stockage d'huile plein
+L'huile extraite est stockée au-dessous du son « le point de congélation » : la température à laquelle elle est pleine. Moins dangereux et beaucoup moins d'espace mémoire est nécessaire.
+Industrie
+Stratégie écologique de prévention des catastrophes
+Tous les tiers qui transportent votre huile doivent souscrire aux règles générales du transport afin d'empêcher la dispersion d'huile dans l'environnement.
+Industrie
+Roche serrant le processus
+En vos installations, les roches autour des gisements d'huile sont extraites et brisées afin d'obtenir les sédiments incorporés d'huile.
+Industrie
+Boue Drilling de qualité
+Une combinaison spéciale des produits chimiques et de l'argile est employée comme lubrifiant pour vos exercices.
+Industrie
+Quantification de dépôt d'onde choc
+Des explosions périodiques sont effectuées sur les frontières des gisements d'huile, par les microphones qui reçoivent les ondes chocs et les analysent, vous peuvent déterminer les dépôts forment et classent.
+Industrie
+Porcs intelligents
+Vos installations utilisent des dispositifs avec des sondes, appelées « les porcs intelligents », pour examiner des canalisations pour la corrosion et les défauts. Elles sont périodiquement envoyées en bas des pipes pour exécuter de petites réparations.
+Industrie
+Fondations chimiques organiques
+Permis de produire les produits chimiques organiques.
+Industrie
+Grandes usines chimiques organiques
+Apprendre les qualifications de base pour créer et contrôler de grandes usines chimiques.
+Industrie
+Protection de Plein-Corps
+Chaque employé d'usine doit porter une tenue de protection de plein-corps pour des raisons de sécurité.
+Industrie
+Réutilisation de la perte de produit chimique
+Si possible, toute la perte chimique produite est employée pour d'autres processus chimiques. La qualité est abaissée, mais elle démontre une attitude favorable à l'environnement.
+Industrie
+Pompes de vide superpuissantes
+Des usines sont équipées des pompes de vide superpuissantes pour assurer un meilleur environnement pour les réactions chimiques.
+Industrie
+Évacuation des déchets interne
+La perte des processus chimiques quitte jamais officiellement l'usine. Cependant, les méthodes de disposition sont peu claires et les écologistes expriment des inquiétudes.
+Industrie
+Évolution d'épurateur
+Vous utilisez les meilleurs épurateurs disponibles, constamment updgrading. Tandis que c'est quelque peu coûteux, il est bon pour l'opinion publique qu'est fortement en faveur de elle.
+Industrie
+Commande de matière première première
+Avant que n'importe quelle matière première première achetée soit employée pour vos usines processes', elle subit un interne vérifient.
+Industrie
+Stockage chimique massif
+Malgré le fait ce processus peut être perçu en tant que dangereux, vos produits chimiques d'achat d'usines en vrac et maintenir un grand nombre dans les actions ; réduisant des coûts et éviter tous manques potentiels.
+Industrie
+Remplacement fréquent d'instrument
+Vos usines mettent en application une politique réclamant le remplacement forcé et fréquent de petits instruments jetables comme des becs Bunsen et des tubes à essai en verre.
+Industrie
+Production automatisée totale
+Vos usines sont complètement automatisées améliorant la sécurité, la qualité et l'efficacité. Les humains restent dus à la pression des syndicats et agissent en tant que contrôleurs.
+Industrie
+Contrôle des émissions de dioxine
+Vous avez un procédé spécial qui limite l'émission de la substance qui a causé les plus grands désastres chimiques en histoire du homme.
+Industrie
+Centre de surveillance de crise
+Vous établissez un groupe de travail dans votre siège social d'industrie qui surveille toutes vos usines et alerte des autorités en cas d'une crise. Ce procédé centralisé te permet d'épargner l'argent sur la sécurité
+Industrie
+Caserne interne d'hôpital et de pompiers
+Chaque grande usine a un petit hôpital interne et une caserne de pompiers. Ceci instille vos employés avec confiance, rendant leur le travail meilleur. Vous semblez comme vous vraiment soin.
+Industrie
+Système d'Anti-Espion
+Pour éviter le vol de la propriété intellectuelle, les usines ont très un système d'importantes mesures de sécurité en place. En conséquence vous pouvez améliorer des processus sans s'inquiéter de la concurrence volant les idées.
+Industrie
+Chimie extraterrestre
+Mettre à la terre et les autres mondes ont des lois légèrement différentes de chimie. En les étudiant vous améliorez la qualité de vos produits et l'efficacité de vos usines.
+Industrie
+Plan d'évacuation
+Chaque usine a un plan d'évacuation détaillé pour le secteur l'entourant immédiatement, en cas d'une urgence. Ce plan a comme conséquence le voisinage étant un peu plus welcoming de l'usine.
+Industrie
+Fondations de produits organiques
+Apprendre les qualifications de base pour contrôler la production de produits organiques.
+Industrie
+Production de produits organiques de large échelle
+Apprendre les qualifications de base pour contrôler l'usine de produits organiques de large échelle.
+Industrie
+Axes d'air supplémentaires
+Les axes d'air supplémentaires le facilitent pour des ouvriers aux mines, mais l'abondance de l'oxygène peut corrompre quelques minerais sensibles.
+Industrie
+Exercices de vapeur
+Employer les vapeur-faisceaux fortement denses pour séparer des produits organiques des non-produits organiques.
+Industrie
+Collection Droids
+Remplacer les humains par des droids pour travailler sur les tâches les plus dangereuses.
+Industrie
+Ascenseurs magnétiques
+Les ascenseurs fonctionnant avec des champs magnétiques normaux sont bien plus bloqués que des ascenseurs normalement.
+Industrie
+Sondes organiques avancées
+Développer des méthodes plus efficaces pour détecter des impuretés en produits organiques.
+Industrie
+Adultération organique
+Apprendre comment présenter des doses de non-produits organiques afin d'augmenter la production.
+Industrie
+Produits organiques avancés
+Étudier les matières les plus avancées dans la géologie extraterrestre. C'est obligatoire afin de conduire une recherche plus avancée dans ce domaine.
+Industrie
+Produits organiques extraterrestres
+Collection organique d'arrêt la même manière que vous avez faite sur terre ; tirer profit des états spécifiques de planète.
+Industrie
+Sécurité avancée d'usine
+Protéger vos ouvriers contre les émissions toxiques indigènes à la planète.
+Industrie
+Dresser une carte au sol
+Développer les diagrammes au sol des secteurs où vos usines fonctionnent. Elle aide non seulement à contrôler vos opérations, mais elle augmente également la sensation de sécurité.
+Industrie
+Bactéries organiques
+Créer les grandes populations de la matière non-Organique mangeant des bactéries pour faciliter l'accès aux produits organiques. Cette pratique n'a pas été nocive prouvé aux humains. Cependant, les ouvriers restent sceptiques au sujet de ce fait.
+Industrie
+Chariots à télécommande
+Les chariots sont contrôlés par à télécommande d'un bureau centralisé.
+Industrie
+Casiers de rebut de nourriture
+Vous distribuez des casiers de collecte des déchets de nourriture aux restaurants locaux.
+Industrie
+Exosquelettes
+Les ouvriers emploient les exosquelettes hydrauliques pour extraire des produits organiques, cette méthode est très rapide mais pas comme précis.
+Industrie
+Repères de mineur
+Chaque ouvrier a un émetteur qui transmet toujours son endroit exact : principe fondamental dans les urgences.
+Industrie
+Fondations d'industrie du papier
+Qualifications de base pour contrôler la fabrication de papier.
+Industrie
+Parchemin
+Papier antique de modèle de produit avec l'équipement moderne. Très gentil de regarder et se perfectionner pour des diplômes ou des certificats.
+Industrie
+Réutilisation du service
+Établir un service de réutilisation à l'intérieur de vos usines de sorte que vous pour employer le vieux papier vers faire vos nouveaux produits : très rentable et favorable à l'environnement.
+Industrie
+Papier fait main
+Artisans de location capables créer le beau papier fait main : pour le client le plus exigeant. Ce document n'est pas bon marché, mais la qualité de ce produit est nettement augmentée.
+Industrie
+Kit de papier de bricolage
+Faire préparer à vos artisans un kit spécial, pour être vendu dans les magasins, pour les personnes qui veulent créer leur propre papier : une nouvelle ligne d'affaires.
+Industrie
+Campagne de sac de papier
+Lancer une campagne massive pour favoriser l'utilisation des sacs en papier au lieu du plastique ceux dans les magasins. Augmenter la demande pour vos produits, tout en trouvant par hasard à mesure que favorables à l'environnement.
+Industrie
+Sources alternatives
+Employer les matières premières premières alternatives comme le chanvre et le kénaf pour produire le papier. Sauver quelques arbres et améliorer l'efficacité.
+Industrie
+Production de tissu
+Ajouter une ligne de nettoyage à votre offre de produit : les serviettes de papier et d'autres produits d'entretien sur papier conduisent à des affaires très lucratives.
+Industrie
+Papier de caméléon
+Basé selon le principe du papier tournesol, produire les feuilles de papier spéciales qui peuvent changer la couleur une fois immergé dans différentes solutions liquides : vos clients aiment le fantaisie de lui.
+Industrie
+Coupe-papiers
+Tout le monde sait méchant un papier a coupé soit : créer une ligne des couteaux avec les lames de papier, idéale pour les matériaux mous de découpage.
+Industrie
+Empaquetage 
+Boîtes en carton de produit et tout autre empaquetage sur papier : très dans la demande.
+Industrie
+Vêtements de papier
+Produit bon marché mais vêtement attrayant, complètement fabriqué à partir de le papier de qualité.
+Industrie
+Histoire de papier
+Étudier comment le papier a été fait sur la terre tôt ; il te fournira des perspicacités sur la façon dont améliorer la qualité de votre papier.
+Industrie
+Contrat de billet de banque
+Fournir le papier de qualité à la menthe aux billets de banque d'impression : très un contrat de profil haut.
+Industrie
+Récipients de nourriture
+Le produit a particulièrement conçu les récipients hygiéniques pour le stockage de nourriture : il fait appel au consommateur sensibilisé à la sécurité.
+Industrie
+Fibres extraterrestres
+Le bois extraterrestre peut être légèrement différent du bois de la terre. Étudier ces différences pour améliorer la production de papier.
+Industrie
+Production de PCs
+Qualifications de base pour contrôler des usines de PC.
+Industrie
+Production de PCs de large échelle
+Contrôler la production de PCs de large échelle.
+Industrie
+Meubles modulaires
+La manière parfaite de fournir les espaces ouverts, les morceaux tout le sembler semblable et d'offrir la grande efficacité.
+Industrie
+Distributeurs de nourriture et de boissons
+Vous produisez la nourriture spéciale et buvez des distributeurs de sorte que vous puissiez diminuer le nombre de heures d'utilisation des employés pour le déjeuner.
+Industrie
+Souris de choc
+Une souris spéciale qui, des mesures le battement de coeur de l'utilisateur, et émet un petit choc électrique quand il commence à tomber endormi. Peu un barbare mais efficace.
+Industrie
+Processus de réparation d'imprimeur
+Un émetteur a construit dans l'imprimeur alerte automatiquement vos usines quand une réparation est exigée.
+Industrie
+Meubles de bureau exécutif
+Extrêmement les meubles de bureau de luxes ont produit pour particulièrement pour des cadres. Cet ameublement crée un milieu de travail très plaisant et donne à vos usines une aura sophistiquée.
+Industrie
+Système de réutilisation de papier
+Vous offrez une solution de réutilisation integrated qui produit le nouveau papier à partir des produits de papier jetés, dans le bureau.
+Industrie
+Windows faux
+Pour un bureau qui n'a pas de vraies fenêtres, vous fournissez à des écrans différentes vues. L'utilisateur peut choisir d'une série de panoramas.
+Industrie
+Réseau de réserve général
+Une unité qui soutient périodiquement tous les disques durs dans le bureau.
+Industrie
+Accès d'empreinte digitale
+Une mesure de sécurité qui exige d'un employé de presser son empreinte digitale gauche de pouce sur un dispositif spécial afin de vérifier leur identité et accéder au poste de travail.
+Industrie
+Écrans à effleurement
+La dactylographie est faite en touchant des icônes sur l'écran. Il est difficile de s'habituer, mais elle te permet d'éviter d'acheter des claviers pour vos ordinateurs.
+Industrie
+Générateur de mot de passe
+Les applications de chaque informatique exige un mot de passe. Il est facile les oublier ; ce dispositif spécial examine votre cerveau et identifie les mots de passe que vous ne pouvez pas oublier.
+Industrie
+Usines fausses
+Elles sont aussi gentilles que vraies celles et elles n'exigent aucun entretien. La manière la plus facile de créer un milieu de travail plaisant.
+Industrie
+Système de livraison robotique
+Si vous devez fournir des notes et des documents de bureau au bureau, il n'y a rien comme ces petits robots mignons qui expédient par les couloirs.
+Industrie
+Optimisation légère de bureau
+L'optimisation des sources lumineuses dans le bureau améliore la qualité du travail et l'économise sur l'électricité.
+Industrie
+Système de surveillance de logiciel
+Effrayé que vos employés utiliseront leurs ordinateurs pour jouer des jeux vidéo et la pornographie de vue ? Les moniteurs de ce système et les annulations non-en travaillent le logiciel relatif de leurs disques durs.
+Industrie
+Production pharmaceutique
+Apprendre comment produire des pharmaceutiques.
+Industrie
+Chapeau de Childrenproof
+Les chapeaux sur vos produits ne peuvent pas être ouverts par des enfants.
+Industrie
+Adjonction d'antidote
+Chaque formulation galénique que vous vous vendez vient avec une petite bouteille d'antidote, en cas le client a un surdosage.
+Industrie
+Capsules fluorescentes
+Avoir le problème trouver vos pillules sur votre table de nuit ? C'est la solution parfaite ! !
+Industrie
+Vitamines extraterrestres
+Les nouveaux mondes offrent une large variété de nouvelles vitamines qui une fois correctement préparées sont très salutaires aux humains. Vous économisez également sur la production plus coûteuse des vitamines de la terre.
+Industrie
+Essai humain
+Vous lancez un projet d'essai de drogue using les volontaires payés. Tandis que très utile à votre recherche, l'opinion publique voit ceci comme aberration.
+Industrie
+Interdiction de vivisection
+Des expériences ne sont plus effectuées sur des animaux.
+Industrie
+Drogues futées
+Vos bouteilles de drogue ont un petit émetteur intégré qui appelle le bipeur ou le téléphone portable du client quand il est temps de prendre leur médecine.
+Industrie
+Cocktail médicinal
+Certains doivent prendre beaucoup de différentes drogues journalières. Sur demande, vos usines peuvent préparer une pillule simple contenant tous les besoins médicinaux quotidiens d'un client dans le dosage simple parfait.
+Industrie
+Kit de bricolage
+Quelques drogues peuvent être préparées par un processus de distillation normal très simple. Votre compagnie fournit les kits de bricolage pour de nouveaux clients d'âge ou pharmaciens aspirants.
+Industrie
+Contrôle des naissances masculin et pillule de Viagra
+La pillule de contrôle des naissances masculine est déjà employée couramment, mais un de vos génies de vente a eu l'idée de la combiner avec Viagra, le propulseur sexuel. Le succès du produit est massif et instantané.
+Industrie
+Réutilisation de drogue
+Votre compagnie met en application une drogue réutilisant la politique.
+Industrie
+Centre d'hibernation
+Créer un centre d'hibernation, sous le siège social d'industrie, pour stocker cryogénique les personnes terminalement malades qui ne peuvent pas être guéries par votre médecine.
+Industrie
+Interdiction de suppositoire
+Personne n'aime employer cette manière inconfortable de prendre la médecine. Vos usines la remplacent avec succès par une forme orale plus plaisante, qui est juste comme rapide.
+Industrie
+Essai forcé d'allergie
+Avant d'acheter n'importe laquelle de vos drogues, vos clients sont examinés pour voir s'ils sont allergiques à elle. Cet essai évite des réactions anaphylactiques dangereuses.
+Industrie
+Campagne de sexe sûr
+Périodiquement, vous stockez vers le haut dans le contrôle des naissances et puis lancez une campagne massive de sexe sûr. Ceci s'avère être une stratégie marketing et vous très réussis semblent socialement conscient.
+Industrie
+Usine de pâté en croûte
+Permis de transformer des pâtés en croûte.
+Industrie
+Production de pâté en croûte de large échelle
+Apprendre les qualifications de base pour créer et contrôler des usines de pâté en croûte de large échelle.
+Industrie
+Production récurrente de pâté en croûte
+Employer les subproducts en tant que matières premières premières pour la production de pâté en croûte.
+Industrie
+Réfrigération solaire
+Utilisations polluant non l'énergie solaire pour refroidir des produits.
+Industrie
+Applications de l'eau
+L'eau peut être très utile dans les produits de agrandissement de fruit.
+Industrie
+Applications de silicium
+Augmenter la production using les meathods dubeious.
+Industrie
+Contrôle de qualité de pâté en croûte
+Produits de tache d'aides dans l'état de décomposition.
+Industrie
+Correction de syndrome de Brume
+Détecte des produits capables de développer le syndrome du Brume.
+Industrie
+Correction de ROOG
+Détecte des produits avec la tendance de devenir ROOG.
+Industrie
+Amélioration de base
+Fournit des frais supplémentaires traitant afin d'augmenter la qualité.
+Industrie
+Amélioration avancée
+Fournit des frais supplémentaires avancés traitant la qualité d'accroissement plus ultérieur.
+Industrie
+Produits chimiques organiques
+Substituer quelques produits chimiques non-organiques par les subproducts traités.
+Industrie
+Agrandissements radioactifs
+Agrandir les fruits en l'exposant aux doses saines de radioactivité.
+Industrie
+Ligne à faible teneur en matière grasse
+Produits à faible teneur en matière grasse spéciaux pour les personnes de poids excessif.
+Industrie
+Pâtés en croûte ethniques
+Vous engagez des chefs de différentes nationalités pour préparer les pâtés en croûte congelés.
+Industrie
+Ingrédients sur la boîte
+Tous vos produits ont des ingrédients imprimés sur la boîte.
+Industrie
+Produits de substitution
+Quelques produits alternatifs sont employés pendant la production. Pour des clients avec des allergies et des problèmes digestifs.
+Industrie
+Fondations de magasin de pâté en croûte de fruit
+Écritures pour contrôler un magasin de pâté en croûte de fruit.
+Commerce
+Ingrédients frigorifiés
+Beaucoup meilleur marché que frais l'achat journaliers, elles ne goûtent pas comme bonnes cependant.
+Commerce
+Salon romantique
+Pour les couples qui apprécient la musique et la lueur de chandelle romantiques.
+Commerce
+Joueur de violon
+Il n'y a rien plus romantique qu'un joueur de violon de tzigane pour votre salon.
+Commerce
+Pâtés en croûte ethniques
+Pâtés en croûte nationalement spécialisés : Chaque magasin a leurs propres types authentiques.
+Commerce
+Pâtés en croûte Non-Authentiques
+Bientôt vous réalisez que vos magasins ethniques n'ont pas besoin nécessairement des pâtés en croûte authentiques de serveur. Les pâtés en croûte que le regard et le goût authentiques fonctionneront très bien et eux ont coûté beaucoup moins.
+Commerce
+Pâtés en croûte extraterrestres
+Pâtés en croûte faits using Ingrediants trouvé sur les nouveaux mondes extraterrestres.
+Commerce
+Apporter-Votre-Propres écrimages
+Vos clients peuvent apporter le long quelques ingrédients et les faire mettre sur vos pâtés en croûte, ceci sont tout d'abord appréciés par des clients avec beaucoup d'allergies et d'estomacs sensibles.
+Commerce
+Microphones de Tableau
+Commander votre nourriture de petits microphones sur la table : jeûnent et l'amusement.
+Commerce
+Les pâtés en croûte de l'enfant
+Un menu spécial fait spécifiquement pour des enfants font à vos magasins un favori pour des familles.
+Commerce
+Serveurs professionnels
+Engager les serveurs et les serveuses professionnels au lieu des étudiants recherchant de l'argent comptant rapide. Ils coûtent plus mais le service est bien mieux.
+Commerce
+Réservations forcées
+Pour donner une aura d'élite à vos magasins, vous rendez des réservations obligatoires. Elle est efficace, mais vous perdez dehors sur les clients impulsifs.
+Commerce
+Cave
+Le vin disparaît grand avec le pâté en croûte. (si vos riches qui est)
+Commerce
+Sommelier
+Le conseiller expert à assurer pour la combinaison parfaite du pâté en croûte et du vin, il prend également soin de la cave.
+Commerce
+Abonnement de pâté en croûte
+Pour ceux comme qui pour acheter régulièrement vos pâtés en croûte : prix réduits des clients fidèles.
+Commerce
+À emporter
+Les pâtés en croûte à emporter pour les personnes occupées avec le bon goût, elles appellent en avant et vous livrez à leur voiture.
+Commerce
+Fondations d'huile de pin
+Apprendre les qualifications de base pour avoir affaire avec le pin Oilery.
+Industrie
+Huile de pin de large échelle
+Apprendre les qualifications de base pour contrôler le grand oilery de pin.
+Industrie
+Axes d'air supplémentaires
+Les axes d'air supplémentaires le facilitent pour des ouvriers aux mines, mais l'abondance de l'oxygène peut corrompre quelques minerais sensibles.
+Industrie
+Exercices de vapeur
+Employer les vapeur-faisceaux fortement denses pour fondre la roche et pour découvrir l'Oregon.
+Industrie
+Exploitation Droids
+Remplacer les humains par des droids pour travailler sur les tâches les plus dangereuses.
+Industrie
+Ascenseurs magnétiques
+Les ascenseurs fonctionnant avec des champs magnétiques normaux sont bien plus bloqués que des ascenseurs normalement.
+Industrie
+Sondes avancées de silicium
+Développer des méthodes plus efficaces pour détecter des impuretés en silicium.
+Industrie
+Adultération de silicium
+Apprendre comment présenter des doses de roche commune afin d'augmenter la production.
+Industrie
+Géologie avancée
+Étudier les matières les plus avancées dans la géologie extraterrestre. C'est obligatoire afin de conduire une recherche plus avancée dans ce domaine.
+Industrie
+Exploitation extraterrestre
+Cesser d'extraire la même manière que vous avez faite sur terre ; tirer profit des états spécifiques de planète.
+Industrie
+Sécurité avancée de mine
+Protéger vos ouvriers contre les émissions toxiques, indigènes à la planète.
+Industrie
+Dresser une carte souterrain
+Développer les diagrammes souterrains des secteurs où vos mines fonctionnent. Elle aide non seulement à contrôler vos opérations, mais elle augmente également la sensation de sécurité.
+Industrie
+Bactéries d'exploitation
+Créer les grandes populations de la roche mangeant des bactéries pour faciliter l'accès au silicium. Cette pratique n'a pas été nocive prouvé aux humains. Cependant, les ouvriers restent sceptiques au sujet de ce fait.
+Industrie
+Chariots à télécommande
+Les chariots d'exploitation sont commandés éloigné d'un bureau centralisé.
+Industrie
+Microexplosions
+Au lieu de grandes explosions de mise en oeuvre dans vos mines, des centaines de petites explosions sont effectuées afin de découvrir des gisements de minerai.
+Industrie
+Exosquelettes
+Les mineurs emploient les exosquelettes hydrauliques pour extraire le minerai, cette méthode est très rapide mais pas comme précis.
+Industrie
+Repères de mineur
+Chaque mineur a un émetteur qui transmet toujours son endroit exact : principe fondamental dans les urgences.
+Industrie

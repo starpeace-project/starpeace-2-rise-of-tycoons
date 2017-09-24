@@ -1,0 +1,452 @@
+unit cache;
+
+interface
+  uses
+    Windows, Messages, SysUtils,Classes,Controls,logs,StrUtils,RDOObjectProxy,
+    WinSockRDOConnection,RDOInterfaces,variants;
+
+  //standard functions
+    function getfile(thefile:string): olevariant;
+    function loadcluster : boolean;
+    function loadrank : boolean;
+    function GetSubDirectories(const directory : string):TStrings ;
+    function connectms(port:integer;addr:string):integer;
+    function RenewCache(ctype, username:widestring):integer;
+    Function GetFilenames(Path: string ):tstrings;
+  //specfic functions
+    function resetaccount(usr,passw:widestring):integer;
+    function advancelevel(av:integer; tid:integer):integer;
+    function bankloanget(av:widestring; tid:integer):integer;
+    function bankloanpay(av:integer; tid:integer):integer;
+    function banksend(av,am:widestring; tid:integer):integer;
+
+  //specfic var's
+    type
+    tclusterlist = record
+      name : string;
+      count:integer;
+      list : tstringlist;
+    end;
+
+    type
+    tclusterkind = record
+      name : string;
+      info : tstringlist;
+      count : integer;
+      kinds : array[0..100] of tclusterlist;
+    end;
+
+    var
+    tcluster : array[0..20,0..20] of tclusterkind;
+    tclustername : array[0..20] of string;
+    tclustercount : array[0..20] of integer;
+    tcount : integer;
+    tcache : string;
+    tworld : string;
+    tcbport : integer;
+    tcbport2 : integer;
+    trankings: tstringlist;
+    fISProxy            : OleVariant;
+    fWSISCnx            : TWinSockRDOConnection;
+    fISCnx              : IRDOConnectionInit;
+
+implementation
+
+  function getfile(thefile:string): olevariant;
+    var
+      list:tstringlist;
+    begin
+      logs.log('cachetest', '0 - ' + tcache + ' - ' + tworld + ' - ' + thefile);
+      list:= TStringList.Create;
+      list.LoadFromFile(tcache + 'Worlds\' + tworld + '\' + thefile);
+      logs.log('cachetest', '1 - ' );
+      list.SaveToFile('cachetest.txt');
+      result:= list.Text;
+      list.Free;
+    end;
+
+   Function GetFilenames(Path: string ):tstrings;
+    var
+      SR: TSearchRec;
+      Dest: TStrings;
+      path2: string;
+    begin
+      dest := tstringlist.Create;
+      path2:= tcache + 'Worlds\' + tworld + '\' + path;
+      if FindFirst(Path2+'*.five', faAnyFile, SR) = 0 then
+      repeat
+        Dest.Add(SR.Name);
+      until FindNext(SR) <> 0;
+      FindClose(SR);
+      result := dest;
+      dest:=nil;
+    end;
+
+  function loadrank : boolean;
+  var
+      clusterloc:string;
+      a1,a2,a3,a4:string;
+      list1,list2,list3 : tstrings;
+      i,j,k,l:integer;
+      cfile:tstringlist;
+  begin
+     i:=0;
+     clusterloc :=tcache + 'worlds\' + tworld + '\rankings\nta.five\';
+     trankings:= tstringlist.Create;
+     cfile:= tstringlist.Create;
+     cfile.LoadFromFile(clusterloc + 'object.five');
+     trankings.Add('name' + inttostr(i) + '=' + cfile.Values['RankingName0']);
+     trankings.Add('path' + inttostr(i) + '=' + cfile.Values['Path']);
+     trankings.Add('level' + inttostr(i) + '=' + cfile.Values['0']);
+  end;
+
+  function loadcluster : boolean;
+    var
+      clusterloc:string;
+      a1,a2,a3,a4:string;
+      list1,list2,list3 : tstrings;
+      i,j,k,l:integer;
+    begin
+      //setup
+      //list1 := tstringlist.Create;
+      //list2 := tstringlist.Create;
+      //list3 := tstringlist.Create;
+      //load classes into IF server
+      clusterloc :=tcache + 'classes\' + tworld + '\clusters\';
+      //logs.log('cachetest', '0 - start = ' + clusterloc);
+      list1 := getsubdirectories(clusterloc);
+      tcount := list1.count;
+      //logs.log('cachetest', '0 - ' + inttostr(list1.count));
+      for i := 0 to List1.Count - 1 do
+        begin
+          //get clusters
+          a1:=clusterloc + list1.Strings[i] + '\Facilities\';
+          tclustername[i]:= list1.Strings[i];
+          list2 := getsubdirectories(a1);
+          tclustercount[i] := list2.count;
+          //logs.log('cachetest', '1 - ' + a1);
+          for j := 0 to List2.Count - 1 do
+            begin
+              //get kind
+              a2:= a1 + list2.Strings[j] + '\';
+              tcluster[i][j].name := list2.Strings[j];
+              tcluster[i][j].info := tstringlist.Create;
+              tcluster[i][j].info.LoadFromFile(a2 + 'object.five'); //load kind file
+              list3 := getsubdirectories(a2);
+              tcluster[i][j].count := list3.count;
+              //logs.log('cachetest', '2 - ' + list2.Strings[j]);
+              for k := 0 to List3.Count - 1 do
+                begin
+                  //get list
+                  a3 := a2 + list3.Strings[k] + '\';
+                  tcluster[i][j].kinds[k].name := list3.Strings[k];
+                  tcluster[i][j].kinds[k].list := tstringlist.create;
+                  tcluster[i][j].kinds[k].list.LoadFromFile(a3 + 'object.five');
+                  //logs.log('cachetest', '3 - ' + list3.Strings[k]);
+                end;
+            end;
+        end;
+      //logs.log('cachetest', '4 - ');
+      //list1.Free;
+      //list2.Free;
+      //list3.Free;
+      list1:= nil;
+      list2:= nil;
+      list3:= nil;
+      //logs.log('cachetest', '5 - ');
+    end;  
+
+ function GetSubDirectories(const directory : string):TStrings ;
+     var
+       sr : TSearchRec;
+       list : tstrings;
+       i : integer;
+    begin
+      //logs.log('getsubdir','1');
+      list:= TStringList.Create;
+      try
+         if FindFirst(IncludeTrailingPathDelimiter(directory) + '*.*', faDirectory, sr) < 0 then
+          begin
+            //logs.log('getsubdir','2');
+            Exit
+          end
+        else
+        repeat
+          if ((sr.Attr and faDirectory <> 0) AND (sr.Name <> '.') AND (sr.Name <> '..')) then
+             begin
+               //logs.log('getsubdir','3 - ' + sr.Name);
+               i := List.Add(sr.Name);
+               //logs.log('getsubdir','3.1');
+             end;
+             
+         until FindNext(sr) <> 0;
+      finally
+        SysUtils.FindClose(sr) ;
+      end;
+      //logs.log('getsubdir','4');
+      result:=list;
+      ///t.Free;
+      list:= nil;
+    end;   
+
+  function connectms(port:integer;addr:string):integer;
+    begin
+      fWSISCnx      := TWinSockRDOConnection.Create('mscache3');
+                    logs.log('wlogin','connection1');
+                    fISCnx        := fWSISCnx;
+                    logs.log('wlogin','connection1.1');
+                    fISCnx.Server := addr;
+                    logs.log('wlogin','connection1.2 ' + inttostr(port) + ' - ' + addr);
+                    fISCnx.Port   := port;
+                    logs.log('wlogin','connection2');
+                    fISProxy      := TRDOObjectProxy.Create as IDispatch;
+                    logs.log('wlogin','connection3');
+                    try
+                      if fISCnx.Connect( 20000 )
+                        then
+                          begin
+                            fISProxy.SetConnection( fISCnx );
+                            logs.log('wlogin','connection4');
+                            //fISProxy.BindTo( strtoint(clientviewid) );
+       fISProxy.BindTo( 'MSObjectCacher' );
+       logs.log('wlogin','connection5');
+       result:=1;
+                          end;
+      except
+                      fISCnx   := nil;
+                      //fISProxy := nil;
+                      result:=0
+      end;
+    end;
+
+  function resetaccount(usr,passw:widestring):integer;
+    var
+      efISProxy            : OleVariant;
+      efWSISCnx            : TWinSockRDOConnection;
+      efISCnx              : IRDOConnectionInit;
+      x1:olevariant;
+      al1:widestring;
+    begin
+       efWSISCnx      := TWinSockRDOConnection.Create('mscac4');
+                    logs.log('rset','connection1');
+                    efISCnx        := efWSISCnx;
+                    logs.log('rset','connection1.1');
+                    efISCnx.Server := 'localhost';
+                    logs.log('rset','connection1.2 ' + inttostr(tcbport) + ' - ' + 'localhost');
+                    efISCnx.Port   := tcbport2;
+                    logs.log('rset','connection2' + inttostr(tcbport2));
+                    efISProxy      := TRDOObjectProxy.Create as IDispatch;
+                    logs.log('rset','connection3');
+                    try
+                      if efISCnx.Connect( 60000 )
+                        then
+                          begin
+                            efISProxy.SetConnection( fISCnx );
+                            logs.log('rset','connection4');
+                            //fISProxy.BindTo( strtoint(clientviewid) );   al1
+
+       efISProxy.BindTo( 'World' );
+       //efISProxy.WaitForAnswer := true ;
+       logs.log('rset','connection5 ' + usr + '-' + passw);   
+       // do reset             widestring(usr),widestring(passw)
+           //x1:=efISProxy.RDOResetTycoonEx(usr,passw);
+           x1:=efISProxy.RDODelTycoon(usr,passw);
+           logs.log('rset','connection6');
+       //close connection
+          efISProxy := null;
+          efWSISCnx := nil;
+          efISCnx   := nil;
+       result:=1;
+                          end;
+       except
+          on E : Exception do  begin
+           logs.log('rset',E.ClassName+' exception ' + E.Message);
+                      efISProxy := null;
+          efWSISCnx := nil;
+          efISCnx   := nil;
+                      //fISProxy := nil;
+                      result:=0
+          end;
+      end;
+    end;
+
+  function advancelevel(av:integer; tid:integer):integer;
+  var
+      efISProxy            : OleVariant;
+      efWSISCnx            : TWinSockRDOConnection;
+      efISCnx              : IRDOConnectionInit;
+      x1:olevariant;
+    begin
+       efWSISCnx      := TWinSockRDOConnection.Create('mscache4');
+                    efISCnx        := efWSISCnx;
+                    efISCnx.Server := 'localhost';
+                    logs.log('wlogin','av start ' + inttostr(tcbport) + ' - ' + 'localhost');
+                    efISCnx.Port   := tcbport;
+                    efISProxy      := TRDOObjectProxy.Create as IDispatch;
+                    try
+                      if efISCnx.Connect( 20000 )
+                        then
+                          begin
+                            efISProxy.SetConnection( fISCnx );
+                            //fISProxy.BindTo( strtoint(clientviewid) );
+       efISProxy.BindTo( tid );
+       logs.log('wlogin','av - 1' + inttostr(tid) + ' --- ' + inttostr(av));
+       // do reset x1:=
+           efISProxy.RDOSetAdvanceToNextLevel(av);
+           logs.log('wlogin','av - 2');
+       //close connection
+          efISProxy := null;
+          efWSISCnx := nil;
+          efISCnx   := nil;
+          logs.log('wlogin','av - 3');
+       result:=1;
+                          end;
+       except
+                      logs.log('wlogin','av - except');
+                      efISProxy := null;
+          efWSISCnx := nil;
+          efISCnx   := nil;
+                      //fISProxy := nil;
+                      result:=0
+      end;
+    end;
+
+  function banksend(av,am:widestring; tid:integer):integer;
+  var
+      efISProxy            : OleVariant;
+      efWSISCnx            : TWinSockRDOConnection;
+      efISCnx              : IRDOConnectionInit;
+      x1:olevariant;
+    begin
+       efWSISCnx      := TWinSockRDOConnection.Create('mscache4');
+                    efISCnx        := efWSISCnx;
+                    efISCnx.Server := 'localhost';
+                    logs.log('wlogin','av start ' + inttostr(tcbport) + ' - ' + 'localhost');
+                    efISCnx.Port   := tcbport;
+                    efISProxy      := TRDOObjectProxy.Create as IDispatch;
+                    try
+                      if efISCnx.Connect( 20000 )
+                        then
+                          begin
+                            efISProxy.SetConnection( fISCnx );
+                            //fISProxy.BindTo( strtoint(clientviewid) );
+       efISProxy.BindTo( tid );
+       logs.log('wlogin','av - 1' + inttostr(tid) + ' --- ' + av);
+       // do reset
+           x1:=efISProxy.RDOSendMoney( av, '', am );
+           logs.log('wlogin','av - 2');
+       //close connection
+          efISProxy := null;
+          efWSISCnx := nil;
+          efISCnx   := nil;
+          logs.log('wlogin','av - 3');
+       result:=1;
+                          end;
+       except
+                      logs.log('wlogin','av - except');
+                      efISProxy := null;
+          efWSISCnx := nil;
+          efISCnx   := nil;
+                      //fISProxy := nil;
+                      result:=0
+      end;
+    end;
+
+  function bankloanget(av:widestring; tid:integer):integer;
+  var
+      efISProxy            : OleVariant;
+      efWSISCnx            : TWinSockRDOConnection;
+      efISCnx              : IRDOConnectionInit;
+      x1:olevariant;
+    begin
+       efWSISCnx      := TWinSockRDOConnection.Create('mscache4');
+                    efISCnx        := efWSISCnx;
+                    efISCnx.Server := 'localhost';
+                    logs.log('wlogin','av start ' + inttostr(tcbport) + ' - ' + 'localhost');
+                    efISCnx.Port   := tcbport;
+                    efISProxy      := TRDOObjectProxy.Create as IDispatch;
+                    try
+                      if efISCnx.Connect( 20000 )
+                        then
+                          begin
+                            efISProxy.SetConnection( fISCnx );
+                            //fISProxy.BindTo( strtoint(clientviewid) );
+       efISProxy.BindTo( tid );
+       logs.log('wlogin','av - 1' + inttostr(tid) + ' --- ' + av);
+       // do reset
+           x1:=efISProxy.RDOAskLoan(av);
+           logs.log('wlogin','av - 2');
+       //close connection
+          efISProxy := null;
+          efWSISCnx := nil;
+          efISCnx   := nil;
+          logs.log('wlogin','av - 3');
+       result:=1;
+                          end;
+       except
+                      logs.log('wlogin','av - except');
+                      efISProxy := null;
+          efWSISCnx := nil;
+          efISCnx   := nil;
+                      //fISProxy := nil;
+                      result:=0
+      end;
+    end;
+
+  function bankloanpay(av:integer; tid:integer):integer;
+  var
+      efISProxy            : OleVariant;
+      efWSISCnx            : TWinSockRDOConnection;
+      efISCnx              : IRDOConnectionInit;
+      x1:olevariant;
+    begin
+       efWSISCnx      := TWinSockRDOConnection.Create('mscache4');
+                    efISCnx        := efWSISCnx;
+                    efISCnx.Server := 'localhost';
+                    logs.log('wlogin','av start ' + inttostr(tcbport) + ' - ' + 'localhost');
+                    efISCnx.Port   := tcbport;
+                    efISProxy      := TRDOObjectProxy.Create as IDispatch;
+                    try
+                      if efISCnx.Connect( 20000 )
+                        then
+                          begin
+                            efISProxy.SetConnection( fISCnx );
+                            //fISProxy.BindTo( strtoint(clientviewid) );
+       efISProxy.BindTo( tid );
+       logs.log('wlogin','av - 1' + inttostr(tid) + ' --- ' );
+       // do reset 
+           x1:=efISProxy.RDOPayOff(av);
+           logs.log('wlogin','av - 2');
+       //close connection
+          efISProxy := null;
+          efWSISCnx := nil;
+          efISCnx   := nil;
+          logs.log('wlogin','av - 3');
+       result:=1;
+                          end;
+       except
+                      logs.log('wlogin','av - except');
+                      efISProxy := null;
+          efWSISCnx := nil;
+          efISCnx   := nil;
+                      //fISProxy := nil;
+                      result:=0
+      end;
+    end;
+
+  function RenewCache(ctype, username:widestring):integer;
+    var
+      i:integer;
+      s1:string;
+    begin
+      i:=2;
+      //if (fISProxy = nil) or not (fISProxy as IRDOConnection).Alive  then i:= connectms(tcbport,'localhost');
+      if VarIsEmpty(fISProxy) then i:= connectms(tcbport,'localhost');
+      logs.Log('mscache','it is - ' + inttostr(i));
+      logs.Log('mscache',ctype + ' - ' + username);
+      s1:=fISProxy.RenewCache(ctype, username);
+      logs.Log('mscache',s1);
+      result:=1;
+    end;
+
+end.

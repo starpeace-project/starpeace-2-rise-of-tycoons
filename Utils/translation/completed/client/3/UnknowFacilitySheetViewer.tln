@@ -1,0 +1,17 @@
+Refresh.Text=PLANETEN-LISTE ERNEUERN
+Label1.Caption=Name:
+Label2.Caption=Schöpfer:
+xfer_Creator.Caption=n/a
+Label6.Caption=Alter:
+xfer_MetaFacilityName.Caption=n/a
+btnClose.Hint=Klicken, zum dieser Anlage zu schließen
+btnClose.Text=Abschluss
+btnDemolish.Hint=Klicken, um diese Anlage zu demolieren
+btnDemolish.Text=Demolieren
+NameLabel.Caption=n/a
+btnConnect.Hint=Klicken, um diese Anlage an andere im Diagramm anzuschließen
+btnConnect.Text=Anschließen
+Label8.Caption=Kosten:
+lbCost.Caption=n/a
+Label9.Caption=ROI:
+lbROI.Caption=n/a

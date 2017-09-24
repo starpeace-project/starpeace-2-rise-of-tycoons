@@ -1,0 +1,10 @@
+ChannelName.Caption=秘密の会合
+Label1.Caption=雑談
+IgnoreUser.Hint=現在選ばれるユーザーを無視するためにかちりと鳴らしなさい
+IgnoreUser.Text=ユーザーを無視しなさい
+ChatOverMap.Hint=地図を拾い読みしている間雑談するためにかちりと鳴らしなさい
+ChatOverMap.Text=地図に雑談しなさい
+FollowUser.Hint=指定ユーザーに続くためにかちりと鳴らしなさい
+FollowUser.Text=ユーザーに続きなさい
+VoiceChat.Hint=声の雑談のパネルを得るためにかちりと鳴らしなさい
+VoiceChat.Text=パネルを話しなさい

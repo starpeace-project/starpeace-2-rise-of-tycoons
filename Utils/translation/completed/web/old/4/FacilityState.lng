@@ -1,0 +1,8 @@
+=
+=
+strOperatingNormally=“La cupola sta funzionando normalmente„
+strStopped=“La cupola è stata arrestata dal proprietario„
+strNotFunctioning=“La cupola non sta funzionando correttamente„
+strNeedsSuppliers=“Uni o più rifornimenti di base non stanno ricevendi affatto„
+strNeedsBudget=“Ci non sono abbastanza soldi da funzionare„
+strNotEnoughSupplies=“La cupola non sta fornenda mentre deve funzionare correttamente„

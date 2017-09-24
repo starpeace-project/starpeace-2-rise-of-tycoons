@@ -1,0 +1,10 @@
+﻿TycoonLevels.BeyondLegend.Cond=Usted tiene que pagar %s al IFEL. Usted debe tener un superior medio del cociente del beneficio a %s/h. mantener su prestigio mayor de 15000.
+Target=Ministries
+LangId=1
+Ministries.Ministry1.Name=Salud
+Ministries.Ministry2.Name=Educación
+Ministries.Ministry3.Name=Defensa
+Ministries.Ministry4.Name=Agricultura
+Ministries.Ministry5.Name=Industria ligera
+Ministries.Ministry6.Name=Industria pesada
+Ministries.Ministry7.Name=Comercio

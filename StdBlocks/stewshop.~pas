@@ -1,0 +1,122 @@
+unit stewShop;
+
+interface
+
+  uses
+    Kernel, Surfaces, WorkCenterBlock, StdFluids, ServiceBlock;
+
+  const
+    tidService_stew = tidFluid_stew + '_Market';
+
+  type
+    TMetastewShopBlock =
+      class(TMetaServiceBlock)
+        public
+          constructor Create(anId          : string;
+                             aCapacities   : array of TFluidValue;
+                             aCustomerMax  : TFluidValue;
+                             aPricePerc    : TPercent;
+                             EvlBuyProb    : array of TBuyProbability;
+                             aMaxAd        : TFluidValue;
+                             aBlockClass   : CBlock);
+      end;
+
+    TstewShopBlock =
+      class(TServiceBlock)
+        private
+          fstew : TInputData;
+      end;
+
+  procedure RegisterBackup;
+
+implementation
+
+  uses
+    ClassStorage, PyramidalModifier, Classes, BackupInterfaces,
+    Population, MathUtils, StdAccounts;
+
+  // TMetaClothesShopBlock
+
+  constructor TMetastewShopBlock.Create(anId          : string;
+                                           aCapacities   : array of TFluidValue;
+                                           aCustomerMax  : TFluidValue;
+                                           aPricePerc    : TPercent;
+                                           EvlBuyProb    : array of TBuyProbability;
+                                           aMaxAd        : TFluidValue;
+                                           aBlockClass   : CBlock);
+    var
+      Sample         : TpieShopBlock;
+      stewService : TMetaService;
+    begin
+      inherited Create(anId,
+        aCapacities,
+        accIdx_stewShop_Supplies,
+        accIdx_stewShop_Salaries,
+        accIdx_stewShop_Sales,
+        aMaxAd,
+        aBlockClass);
+      Sample  := nil;
+      // Clothes Service
+      stewService := TMetaService(TheClassStorage.ClassById[tidClassFamily_Services, tidService_stew]);
+      // Inputs
+      MetaInputs.Insert(
+        TMetaInput.Create(
+          tidGate_stew,
+          inputZero,
+          InputData(aCustomerMax, 100),
+          inputZero,
+          qIlimited,
+          TPullInput,
+          TMetaFluid(TheClassStorage.ClassById[tidClassFamily_Fluids, tidFluid_stew]),
+          5,
+          mglBasic,
+          [mgoptCacheable, mgoptEditable],
+          sizeof(Sample.fstew),
+          Sample.Offset(Sample.fstew)));
+
+      // Service: Clothes
+      with TMetaServiceEvaluator.Create(
+        stewService,
+        'stew',
+        aPricePerc,
+        aCustomerMax,
+        100,
+        EvlBuyProb) do
+        begin
+          {
+          RegisterInput(
+            TMetaServiceEvaluatorInput.Create(
+              InputByName[PeopleKindPrefix[pkHigh] + tidGate_WorkForce],
+              1,
+              10));
+          RegisterInput(
+            TMetaServiceEvaluatorInput.Create(
+              InputByName[PeopleKindPrefix[pkMiddle] + tidGate_WorkForce],
+              1,
+              15));
+          RegisterInput(
+            TMetaServiceEvaluatorInput.Create(
+              InputByName[PeopleKindPrefix[pkLow] + tidGate_WorkForce],
+              1,
+              12));
+          }
+          RegisterInput(
+            TMetaServiceEvaluatorInput.Create(
+              InputByName[tidGate_stew],
+              1,
+              100));
+          Register(self);
+        end;
+    end;
+
+
+  // Backup
+
+  procedure RegisterBackup;
+    begin
+      BackupInterfaces.RegisterClass(TstewShopBlock);
+    end;
+
+
+end.
+

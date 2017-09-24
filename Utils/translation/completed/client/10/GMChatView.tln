@@ -1,0 +1,9 @@
+btnConnect.Text=SALTAR AO MUNDO
+ChatLine.Lines=1
+ChatLine.Lines.0=Incorporar o texto do bate-papo aqui…
+btnConnect.Hint=Chamar um mestre de jogo
+btnConnect.Text=CHAMAR O MESTRE DE JOGO
+btGMOptions.Hint=Indicar opções
+btGMOptions.Text=OPÇÕES
+btClose.Text=FIM
+Label8.Caption=Fala ao GM:

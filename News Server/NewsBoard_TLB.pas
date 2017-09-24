@@ -1,0 +1,164 @@
+unit NewsBoard_TLB;
+
+// ************************************************************************ //
+// WARNING                                                                    
+// -------                                                                    
+// The types declared in this file were generated from data read from a       
+// Type Library. If this type library is explicitly or indirectly (via        
+// another type library referring to this type library) re-imported, or the   
+// 'Refresh' command of the Type Library Editor activated while editing the   
+// Type Library, the contents of this file will be regenerated and all        
+// manual modifications will be lost.                                         
+// ************************************************************************ //
+
+// $Rev: 5081 $
+// File generated on 07/11/2008 02:03:52 from Type Library described below.
+
+// ************************************************************************  //
+// Type Lib: C:\starpeace\Source\News Server\NewsBoard.tlb (1)
+// LIBID: {DB9412F0-CEA7-11D3-B5CA-00A0CC2C4AEF}
+// LCID: 0
+// Helpfile: 
+// HelpString: NewsBoard Library
+// DepndLst: 
+//   (1) v1.0 stdole, (C:\Windows\system32\stdole32.tlb)
+// ************************************************************************ //
+{$TYPEDADDRESS OFF} // Unit must be compiled without type-checked pointers. 
+{$WARN SYMBOL_PLATFORM OFF}
+{$WRITEABLECONST ON}
+{$VARPROPSETTER ON}
+interface
+
+uses Windows, ActiveX, Classes, Graphics, StdVCL, Variants;
+  
+
+// *********************************************************************//
+// GUIDS declared in the TypeLibrary. Following prefixes are used:        
+//   Type Libraries     : LIBID_xxxx                                      
+//   CoClasses          : CLASS_xxxx                                      
+//   DISPInterfaces     : DIID_xxxx                                       
+//   Non-DISP interfaces: IID_xxxx                                        
+// *********************************************************************//
+const
+  // TypeLibrary Major and minor versions
+  NewsBoardMajorVersion = 1;
+  NewsBoardMinorVersion = 0;
+
+  LIBID_NewsBoard: TGUID = '{DB9412F0-CEA7-11D3-B5CA-00A0CC2C4AEF}';
+
+  IID_INewsObject: TGUID = '{DB9412F1-CEA7-11D3-B5CA-00A0CC2C4AEF}';
+  CLASS_NewsObject: TGUID = '{DB9412F2-CEA7-11D3-B5CA-00A0CC2C4AEF}';
+type
+
+// *********************************************************************//
+// Forward declaration of types defined in TypeLibrary                    
+// *********************************************************************//
+  INewsObject = interface;
+  INewsObjectDisp = dispinterface;
+
+// *********************************************************************//
+// Declaration of CoClasses defined in Type Library                       
+// (NOTE: Here we map each CoClass to its Default Interface)              
+// *********************************************************************//
+  NewsObject = INewsObject;
+
+
+// *********************************************************************//
+// Interface: INewsObject
+// Flags:     (4432) Hidden Dual OleAutomation Dispatchable
+// GUID:      {DB9412F1-CEA7-11D3-B5CA-00A0CC2C4AEF}
+// *********************************************************************//
+  INewsObject = interface(IDispatch)
+    ['{DB9412F1-CEA7-11D3-B5CA-00A0CC2C4AEF}']
+    function Author: WideString; safecall;
+    function Date: WideString; safecall;
+    function Body: WideString; safecall;
+    function ReplyCount: Integer; safecall;
+    function ReplyAuthor(index: Integer): WideString; safecall;
+    function ReplyDate(index: Integer): WideString; safecall;
+    function ReplySubject(index: Integer): WideString; safecall;
+    function ReplyAuthorDesc(index: Integer): WideString; safecall;
+    function ReplySummary(index: Integer): WideString; safecall;
+    function Importance: Integer; safecall;
+    function AuthorDesc: WideString; safecall;
+    function Open(const path: WideString): Integer; safecall;
+    function OpenReply(index: Integer): Integer; safecall;
+    function ReplyPath(index: Integer): WideString; safecall;
+    function NewMessage(const Parent: WideString; const Author: WideString; 
+                        const AuthorD: WideString; const Date: WideString; 
+                        const Subject: WideString; const Body: WideString): Integer; safecall;
+    function Subject: WideString; safecall;
+    function FolderOnly: WordBool; safecall;
+    function BodyHTML: WideString; safecall;
+    function GlobalMsgCount: Integer; safecall;
+    function GlobalMsgPath(index: Integer): WideString; safecall;
+    procedure SetRootPath(const RootPath: WideString); safecall;
+    procedure SetIndexSize(size: Integer); safecall;
+    function ParentPath: WideString; safecall;
+    function Summary: WideString; safecall;
+    procedure SetLangId(const aLangId: WideString); safecall;
+  end;
+
+// *********************************************************************//
+// DispIntf:  INewsObjectDisp
+// Flags:     (4432) Hidden Dual OleAutomation Dispatchable
+// GUID:      {DB9412F1-CEA7-11D3-B5CA-00A0CC2C4AEF}
+// *********************************************************************//
+  INewsObjectDisp = dispinterface
+    ['{DB9412F1-CEA7-11D3-B5CA-00A0CC2C4AEF}']
+    function Author: WideString; dispid 1;
+    function Date: WideString; dispid 2;
+    function Body: WideString; dispid 3;
+    function ReplyCount: Integer; dispid 4;
+    function ReplyAuthor(index: Integer): WideString; dispid 5;
+    function ReplyDate(index: Integer): WideString; dispid 6;
+    function ReplySubject(index: Integer): WideString; dispid 7;
+    function ReplyAuthorDesc(index: Integer): WideString; dispid 8;
+    function ReplySummary(index: Integer): WideString; dispid 9;
+    function Importance: Integer; dispid 10;
+    function AuthorDesc: WideString; dispid 11;
+    function Open(const path: WideString): Integer; dispid 12;
+    function OpenReply(index: Integer): Integer; dispid 13;
+    function ReplyPath(index: Integer): WideString; dispid 14;
+    function NewMessage(const Parent: WideString; const Author: WideString; 
+                        const AuthorD: WideString; const Date: WideString; 
+                        const Subject: WideString; const Body: WideString): Integer; dispid 16;
+    function Subject: WideString; dispid 15;
+    function FolderOnly: WordBool; dispid 17;
+    function BodyHTML: WideString; dispid 18;
+    function GlobalMsgCount: Integer; dispid 19;
+    function GlobalMsgPath(index: Integer): WideString; dispid 20;
+    procedure SetRootPath(const RootPath: WideString); dispid 21;
+    procedure SetIndexSize(size: Integer); dispid 22;
+    function ParentPath: WideString; dispid 23;
+    function Summary: WideString; dispid 24;
+    procedure SetLangId(const aLangId: WideString); dispid 25;
+  end;
+
+// *********************************************************************//
+// The Class CoNewsObject provides a Create and CreateRemote method to          
+// create instances of the default interface INewsObject exposed by              
+// the CoClass NewsObject. The functions are intended to be used by             
+// clients wishing to automate the CoClass objects exposed by the         
+// server of this typelibrary.                                            
+// *********************************************************************//
+  CoNewsObject = class
+    class function Create: INewsObject;
+    class function CreateRemote(const MachineName: string): INewsObject;
+  end;
+
+implementation
+
+uses ComObj;
+
+class function CoNewsObject.Create: INewsObject;
+begin
+  Result := CreateComObject(CLASS_NewsObject) as INewsObject;
+end;
+
+class function CoNewsObject.CreateRemote(const MachineName: string): INewsObject;
+begin
+  Result := CreateRemoteComObject(MachineName, CLASS_NewsObject) as INewsObject;
+end;
+
+end.

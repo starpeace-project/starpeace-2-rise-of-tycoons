@@ -1,0 +1,10 @@
+﻿TycoonLevels.BeyondLegend.Cond=당신은 IFEL에 %s를 지불해야 한다. 당신은 %s/h.에 일반 이익 비율 상사에게 당신의 명성 15000 이상 유지해 달라고 해야 한다.
+Target=Ministries
+LangId=8
+Ministries.Ministry1.Name=건강
+Ministries.Ministry2.Name=교육
+Ministries.Ministry3.Name=방위
+Ministries.Ministry4.Name=농업
+Ministries.Ministry5.Name=경공업
+Ministries.Ministry6.Name=중고업
+Ministries.Ministry7.Name=상업

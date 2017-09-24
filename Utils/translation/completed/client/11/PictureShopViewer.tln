@@ -1,0 +1,14 @@
+btnCancel.Text=Cancel
+btnLoad.Hint=Нагрузите ваше изображение от архива диска
+btnLoad.Text=Нагрузка
+btnPreview.Hint=Предварительно просмотрите ваше изображение
+btnPreview.Text=Предваротельный просмотр
+btnSend.Hint=Пошлите ваше изображение
+btnSend.Text=Пошлите
+btnCancel.Text=Закройте
+ZoomIn.Hint=Просигнальте внутри
+ZoomIn.Text=+
+ZoomOut.Hint=Сигнал вне
+ZoomOut.Text=-
+Marquee.Caption=ПОШЛИТЕ ВАШЕ ИЗОБРАЖЕНИЕ
+Marquee.Hint=ПОШЛИТЕ ВАШЕ ИЗОБРАЖЕНИЕ

@@ -1,0 +1,11 @@
+lvServices.Columns.7=质量
+lvProducts.Columns=10
+lvProducts.Columns.0=名字
+lvProducts.Columns.1=生产
+lvProducts.Columns.2=买
+lvProducts.Columns.3=刺。 容量
+lvProducts.Columns.4=买容量
+lvProducts.Columns.5=卖价格
+lvProducts.Columns.6=卖Q。
+lvProducts.Columns.7=买价格
+lvProducts.Columns.8=买Q。

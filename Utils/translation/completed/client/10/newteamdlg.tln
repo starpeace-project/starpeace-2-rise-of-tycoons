@@ -1,0 +1,17 @@
+Tabs.TabNames.1=CANALETA DO JOGO
+NewTeamDlg.Caption=NewTeamDlg
+NewTeamDlg.Hint=
+CloseBtn.Hint=Janela próxima
+CloseBtn.Text=x
+Shape1.Hint=
+Label4.Caption=Nome da equipe:
+Label4.Hint=
+btCreate.Hint=Ferramentas do mapa da folha de prova da exposição
+btCreate.Text=Equipe nova
+btCancel.Hint=Ferramentas do mapa da folha de prova da exposição
+btCancel.Text=Cancelamento
+HintText.Caption=CRIAR UMA EQUIPE
+HintText.Hint=CRIAR UMA EQUIPE
+edTeamName.Hint=
+edTeamName.Text=
+pnError.Caption=ERRO!

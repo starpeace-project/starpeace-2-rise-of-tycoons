@@ -1,0 +1,11 @@
+btClose.Text=关闭
+Panel4.Caption=这里键入您的评论：
+NoChannels.Caption=没有显示的渠道
+CreateChannel.Hint=点击创造渠道
+CreateChannel.Text=创造海峡
+JoinChannel.Hint=点击加入渠道
+JoinChannel.Text=加入海峡
+LeaveChannel.Hint=点击留下渠道
+LeaveChannel.Text=留下海峡
+Marquee.Caption=欢迎到Starpeace闲谈。
+Marquee.Hint=欢迎到Starpeace闲谈。

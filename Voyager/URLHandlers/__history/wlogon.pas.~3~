@@ -1,0 +1,30 @@
+unit wlogon;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs, ComCtrls, ImgList, ExtCtrls;
+
+type
+  Ttwlogon = class(TForm)
+    logon: TPanel;
+    Panel2: TPanel;
+    Panel3: TPanel;
+    Panel4: TPanel;
+    companyimage: TImageList;
+    companylist: TListView;
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  twlogon: Ttwlogon;
+
+implementation
+
+{$R *.dfm}
+
+end.

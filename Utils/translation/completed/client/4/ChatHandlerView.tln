@@ -1,0 +1,11 @@
+btClose.Text=FINE
+Panel4.Caption=Scriv le vostre osservazioni a macchina qui:
+NoChannels.Caption=Nessun scanalature da mostrare
+CreateChannel.Hint=Scattar per generare una scanalatura
+CreateChannel.Text=Generare la Manica
+JoinChannel.Hint=Scattar per unire una scanalatura
+JoinChannel.Text=Unire la Manica
+LeaveChannel.Hint=Scattar per lasciare la scanalatura
+LeaveChannel.Text=Lasciare la Manica
+Marquee.Caption=BENVENUTO a CHIACCHIERATA di Starpeace.
+Marquee.Hint=BENVENUTO a CHIACCHIERATA di Starpeace.

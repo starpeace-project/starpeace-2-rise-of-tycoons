@@ -1,0 +1,32 @@
+unit fvlaunch;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs, ShellApi;
+
+type
+  TForm3 = class(TForm)
+    procedure FormCreate(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Form3: TForm3;
+
+implementation
+
+{$R *.dfm}
+
+procedure TForm3.FormCreate(Sender: TObject);
+begin
+// launch game for now, add checks later
+ShellExecute(Handle, 'open', 'FIVEVoyager2.exe', nil, nil, SW_SHOWNORMAL) ;
+close;
+end;
+
+end.

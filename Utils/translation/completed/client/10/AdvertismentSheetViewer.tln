@@ -1,0 +1,17 @@
+lvConnections.Columns=6
+lvConnections.Columns.0=Publicitário
+lvConnections.Columns.1=Proprietário
+lvConnections.Columns.2=Preço
+lvConnections.Columns.3=Pagado em excesso
+lvConnections.Columns.4=Último
+lvConnections.Columns.5=Qualidade
+Label1.Caption=Último valor:
+xfer_FluidValue.Caption=n/a
+Label2.Caption=Custo:
+xfer_LastCost.Caption=n/a
+Label3.Caption=Propaganda:
+xfer_AdPerc.Hint=0%
+lbAdPerc.Caption=0
+btnHireSuppliers.Hint=Estalar aqui para empregar clientes novos
+btnHireSuppliers.Text=Aluguer
+btnModify.Hint=Estalar aqui para modificar a conexão selecionada

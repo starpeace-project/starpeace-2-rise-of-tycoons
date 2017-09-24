@@ -1,0 +1,17 @@
+lvConnections.Columns=6
+lvConnections.Columns.0=Annonsör
+lvConnections.Columns.1=Ägare
+lvConnections.Columns.2=Prissätta
+lvConnections.Columns.3=Overpaid
+lvConnections.Columns.4=Jumbo
+lvConnections.Columns.5=Kvalitets-
+Label1.Caption=Jumbon värderar:
+xfer_FluidValue.Caption=n/a
+Label2.Caption=Kosta:
+xfer_LastCost.Caption=n/a
+Label3.Caption=Annonsering:
+xfer_AdPerc.Hint=0%
+lbAdPerc.Caption=0
+btnHireSuppliers.Hint=Klicka här för att hyra nya beställare
+btnHireSuppliers.Text=Hyra
+btnModify.Hint=Klicka här för att ändra den utvalda anslutningen

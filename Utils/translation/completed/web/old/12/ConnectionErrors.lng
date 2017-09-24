@@ -1,0 +1,6 @@
+=
+=
+strOk=”REKO”,
+strCannotBind=”Kan inte röran anmärka”,
+strCannotConnect=”Kan inte förbinda till serveren”,
+strSorry=”Ledset, denna plats är under konstruktion”,

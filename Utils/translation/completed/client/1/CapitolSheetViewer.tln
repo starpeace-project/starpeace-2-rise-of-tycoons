@@ -1,0 +1,15 @@
+lvLoans.Columns.3=Término
+Label9.Caption=Presidente:
+xfer_ActualRuler.Caption=Ninguno
+Label2.Caption=Grado popular:
+Label3.Caption=Clasificación de los magnates:
+Label4.Caption=Mandato Nº:
+Label5.Caption=Años a las elecciones:
+xfer_RulerRating.Caption=Ninguno
+xfer_TycoonsRating.Caption=Ninguno
+xfer_CampaignCount.Caption=Ninguno
+xfer_YearsToElections.Caption=Ninguno
+btnVisitPolitics.Hint=Tecleo para visitar la página de la política del presidente
+btnVisitPolitics.Text=Presidente Politics Page de la visita
+Label8.Caption=QOL:
+xfer_QOL.Caption=100

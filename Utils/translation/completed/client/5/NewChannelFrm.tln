@@ -1,0 +1,17 @@
+Label2.Caption=主题：
+Marquee.Caption=创造新的渠道
+Marquee.Hint=创造新的渠道
+btnCreate.Hint=点击创造一种新的渠道
+btnCreate.Text=创造
+btnCancel.Text=取消
+Label1.Caption=选择一个名字对于新的渠道：
+Label2.Caption=您能保护渠道与密码：
+Label3.Caption=再进入这个密码：
+ChannelName.Hint=这里输入渠道名字
+Password.Hint=这里输入渠道密码
+PasswordCheck.Hint=这里检查您的密码
+Label4.Caption=选择比赛：
+Label5.Caption=球员最大值允许：
+Edit1.Text=0
+Tabs.TabNames=2
+Tabs.TabNames.0=闲谈渠道

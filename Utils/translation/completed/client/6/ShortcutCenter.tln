@@ -1,0 +1,14 @@
+=
+ShortcutCenter.Caption=De kortere weg van het toetsenbord
+Label1.Caption=De geregistreerde kortere weg van het Toetsenbord
+ListView1.Columns=3
+ListView1.Columns.0=Beschrijving
+ListView1.Columns.1=Kortere weg
+ListView1.Columns.2=Tekst
+Button1.Caption=Voeg… toe
+Button1.Hint=Klik om een kortere weg toe te voegen
+Button2.Caption=Geef… uit
+Button2.Hint=Klik om een shorcut uit te geven
+Button3.Caption=Schrap
+Button3.Hint=Klik om een kortere weg te elimineren
+Button4.Caption=Sluit

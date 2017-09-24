@@ -1,0 +1,16 @@
+=
+lbName.Caption=Programma universale
+Tabs.TabNames=3
+Tabs.TabNames.0=Mondi ufficiali
+Tabs.TabNames.1=Mondi di torneo
+Tabs.TabNames.2=Mondi del giocatore
+Label11.Caption= Mondi trovati in questa zona:
+Label9.Caption=Specie vicino:
+RadioButton1.Caption=Schiocco
+RadioButton2.Caption=Investitori
+RadioButton3.Caption=Anno
+RadioButton4.Caption=PING
+Ticker.Caption=Benvenuto al programma di Univesal. Scattare sopra c'è ne dei mondi qui sopra per visualizzare le informazioni estese.
+Jump.Hint=Saltare al pianeta attualmente selezionato
+Jump.Text=SALTARE AL PIANETA
+Refresh.Hint=Rinfrescare la lista del pianeta visualizzata sopra

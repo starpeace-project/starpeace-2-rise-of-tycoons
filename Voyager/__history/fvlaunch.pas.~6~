@@ -1,0 +1,60 @@
+unit fvlaunch;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs, ShellApi, FramedButton,HTTPGet, StdCtrls;
+
+type
+  TForm3 = class(TForm)
+    FramedButton8: TFramedButton;
+    FramedButton1: TFramedButton;
+    HTTPGet1: THTTPGet;
+    Label1: TLabel;
+    Label2: TLabel;
+    procedure FormCreate(Sender: TObject);
+    procedure FramedButton8Click(Sender: TObject);
+    procedure FramedButton1Click(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Form3: TForm3;
+  gf:integer;
+
+implementation
+
+{$R *.dfm}
+
+procedure TForm3.FormCreate(Sender: TObject);
+var
+  t1:textfile;
+  t2:string;
+begin
+  label1.Caption:= 'Please wait while we check if an update is available';
+  AssignFile(t1, ExtractFilePath( paramstr(0) ) + 'update.txt');
+        reset(t1);
+        readln(t1,t2);
+        CloseFile(t1);
+  HTTPGet1.URL:=t2 + 'version.txt';
+  httpget1.FileName:= 'v1.txt';
+  gf:=1;
+  httpget1.GetFile;
+end;
+
+procedure TForm3.FramedButton1Click(Sender: TObject);
+begin
+  ShellExecute(Handle, 'open', 'FIVEVoyager2.exe', nil, nil, SW_SHOWNORMAL) ;
+Close;
+end;
+
+procedure TForm3.FramedButton8Click(Sender: TObject);
+begin
+close;
+end;
+
+end.

@@ -1,0 +1,11 @@
+Label14.Caption=%
+lvTowns.Columns=6
+lvTowns.Columns.0=이름
+lvTowns.Columns.1=인구
+lvTowns.Columns.2=QOL
+lvTowns.Columns.3=상업
+lvTowns.Columns.4=부
+lvTowns.Columns.5=세금
+lbTax.Caption=세금: 0%
+pbTax.Hint=0%
+btnElect.Text=선임하십시오

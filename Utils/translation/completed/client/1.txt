@@ -1,0 +1,2228 @@
+6
+Publicista
+Dueño
+Precio
+Pagado en exceso
+Último
+Calidad
+Valor pasado:
+n/a
+Coste:
+n/a
+Anuncio:
+el 0%
+0
+Chascar aquí para contratar a nuevos clientes
+Alquiler
+Chascar aquí para modificar la conexión seleccionada
+Modificarse
+3
+Nombre
+Ciudad
+Espectadores
+
+
+El panel
+
+
+el 0%
+Presupuesto:
+el 0%
+Interés:
+el 0%
+el 0%
+Prestar a los neutrales
+Prestar a los enemigos
+Término (años):
+el 30%
+20
+Dinero del préstamo del banco
+Préstamo
+Demoler esta facilidad
+Demoler
+Cerrar esta facilidad
+Cerrarse
+Cantidad:
+Dinero del préstamo aquí:
+Nombre:
+El banco no tiene ninguÌn bastante funda ahora para pagar.
+4
+Deudor
+Cantidad
+Interés
+Término
+Presidente:
+Ninguno
+Grado popular:
+Clasificación de los magnates:
+Mandato Nº:
+Años a las elecciones:
+Ninguno
+Ninguno
+Ninguno
+Ninguno
+Tecleo para visitar la página de la política del presidente
+Presidente Politics Page de la visita
+QOL:
+100
+%
+6
+Nombre
+Población
+QOL
+Comercio
+Abundancia
+Impuesto
+Impuesto: el 0%
+el 0%
+Elegir
+Alcalde:
+ChangeLogView
+
+
+GradientBox1
+Chascar aquí para hacer que estas noticias no aparecen otra vez
+SÉ
+Demostrar estas noticias otra vez, más adelante
+MÁS ADELANTE
+Noticias en línea de la herencia
+
+Panel1
+
+Panel1
+
+
+1
+No hay nuevos acontecimientos a divulgar
+Información de la carta de la transferencia…
+Apesadumbrado: No hay información de la historia disponible hasta el final de este año.
+Cerrar esta ventana
+CIERRE
+Mecanografiar sus comentarios aquí:
+Ningunos canales a demostrar
+Chascar para crear un canal
+Crear el canal
+Chascar para ensamblar un canal
+Ensamblar el canal
+Chascar para dejar el canal
+Dejar el canal
+RECEPCIÓN a la CHARLA de Starpeace.
+RECEPCIÓN a la CHARLA de Starpeace.
+Reunión secreta
+Charla
+Chascar para no hacer caso del usuario seleccionado actual
+No hacer caso del usuario
+Chascar para charlar mientras que hojea el mapa
+Charlar sobre mapa
+Chascar para seguir al usuario seleccionado
+Seguir a usuario
+Chascar para conseguir el panel de la charla de la voz
+Hablar el panel
+Registro
+Registro
+Ventana cercana
+Ninguna información…
+Recepción:
+n/a
+n/a
+Petición:
+Cociente:
+n/a
+el 0%
+Confirmar la contraseña
+Éste es la primera vez usted registro en dominio paralelo.
+Confirmar por favor su contraseña:
+Contraseña:
+Confirmar la contraseña:
+Incorporar la contraseña aquí
+Confirmar la contraseña aquí
+AUTORIZACIÓN
+Cancelación
+Conexión…
+Esperar por favor…
+
+
+
+GradientBox1
+Desconocido
+
+Reputación:
+
+Dinero:
+
+n/a
+
+Costos:
+
+n/a
+
+n/a
+
+Uso cercano
+x
+
+2
+EQUIPOS
+HISTORIA
+
+Conexión
+
+NewId
+
+Equipos
+
+Historia
+
+Esperar por favor mientras que Starpeace conecta con el Crimininal archiva…
+
+Usted no tiene una identidad criminal. Si usted quiere crear uno, usted debe elegir un criminal alias. Este alias es único y secreto. Será utilizado para identificar sus acciones en este planeta.
+
+Incorporar su alias criminal aquí:
+
+Exhibir las herramientas del mapa del recubrimiento
+Crear la identificación criminal
+NOTA: Si usted se aburre de este alias, usted tiene que reajustar su perfil criminal entero. Intentar escoger un alias que usted guardaría para su toda la vida.
+
+
+
+¡ERROR!
+
+Equipo:
+
+Herramientas del mapa del recubrimiento de la exhibición
+Disolver a equipo
+Exhibir las herramientas del mapa del recubrimiento
+M I S S I O N
+Herramientas del mapa del recubrimiento de la exhibición
+Fijar las jefaturas
+Exhibir las herramientas del mapa del recubrimiento
+Ir a las jefaturas
+Exhibir las herramientas del mapa del recubrimiento
+Nuevo equipo
+n/a
+
+Coste:
+
+Beneficio neto:
+
+n/a
+
+Años de funcionamiento:
+
+n/a
+
+Herramientas del mapa del recubrimiento de la exhibición
+Lista del criminal de la visión
+Herramientas del mapa del recubrimiento de la exhibición
+Historia del equipo
+
+
+
+
+Chascar aquí para contratar a un criminal
+
+
+¡ALISTAR!
+¡ALISTAR!
+…
+
+
+
+Slot2
+
+Panel5
+
+Chascar aquí para contratar a un criminal
+
+
+¡ALISTAR!
+¡ALISTAR!
+…
+
+Panel4
+
+Panel5
+
+Chascar aquí para contratar a un criminal
+
+
+¡ALISTAR!
+¡ALISTAR!
+…
+
+Panel4
+
+Panel5
+
+Chascar aquí para contratar a un criminal
+
+
+¡ALISTAR!
+¡ALISTAR!
+…
+
+Panel4
+
+Panel5
+
+Chascar aquí para contratar a un criminal
+
+
+¡ALISTAR!
+¡ALISTAR!
+…
+
+Panel4
+
+Panel5
+
+Chascar aquí para contratar a un criminal
+
+
+¡ALISTAR!
+¡ALISTAR!
+…
+
+Panel4
+
+Panel5
+
+Chascar aquí para contratar a un criminal
+
+
+¡ALISTAR!
+¡ALISTAR!
+…
+
+Panel4
+
+
+
+Chascar aquí para contratar a un criminal
+
+
+¡ALISTAR!
+¡ALISTAR!
+…
+
+
+
+
+
+
+
+Suprimir esta identidad
+INDIRECTA: Usted debe fijar las jefaturas para este equipo.
+INDIRECTA: Usted debe fijar las jefaturas para este equipo.
+Crimen
+
+Ventana cercana
+x
+HISTORIA
+HISTORIA
+
+
+
+
+
+
+2
+DISPONIBLE
+TERMINADO
+
+Disponible
+
+Completo
+
+
+
+
+Herramientas del mapa del recubrimiento de la exhibición
+T R A I N
+Herramientas del mapa del recubrimiento de la exhibición
+Cierre
+
+
+
+
+Herramientas del mapa del recubrimiento de la exhibición
+Cierre
+
+CriminalRosterView
+
+Criminales que quieren ensamblar a este equipo:
+
+Herramientas del mapa del recubrimiento de la exhibición
+< ANTERIOR
+Herramientas del mapa del recubrimiento de la exhibición
+MÁS >
+Herramientas del mapa del recubrimiento de la exhibición
+H I R E
+Uso cercano
+x
+Panel4
+
+Panel5
+
+
+Panel4
+
+Panel5
+
+
+Panel4
+
+Panel5
+
+
+Panel4
+
+Panel5
+
+
+CriminalView
+
+
+GradientBox1
+James Bulger
+
+Herramientas del mapa del recubrimiento de la exhibición
+¡Fuego!
+Herramientas del mapa del recubrimiento de la exhibición
+Tren
+Herramientas del mapa del recubrimiento de la exhibición
+Movimiento
+Herramientas del mapa del recubrimiento de la exhibición
+Historia
+el 0%
+Sueldo:
+
+n/a
+
+Papel en el equipo:
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+Uso cercano
+x
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+
+
+Panel3
+
+Panel4
+
+
+Ningunos comentarios
+Ningunos comentarios
+
+
+
+
+
+
+
+
+
+
+
+
+Descripción
+Incorporar la descripción del atajo aquí
+Atajo
+Seleccionar el atajo
+Texto
+Agregar
+Cancelar
+Título:
+Lanzamiento
+n/a
+Tiempo:
+Presupuesto:
+Cancelación
+Lanzamiento
+$10.000.000
+Lanzamiento auto
+12
+Producción recurrente de la película
+Saltar al mundo del cliente
+SALTAR AL MUNDO
+1
+Incorporar el texto de la charla aquí…
+Llamar un amo de juego
+LLAMAR EL AMO DE JUEGO
+Exhibir las opciones
+OPCIONES
+CIERRE
+El hablar con el GM:
+Ninguno
+Lista de amos de juego
+Mover el amo de juego para arriba en lista de prioridad
+LEVANTARSE
+Mover el amo de juego abajo en lista de prioridad
+BAJARSE
+Quitar el amo de juego de lista
+QUITAR
+Hacer el amo de juego uno de sus favoritos
+FAVORITO
+Dar el tratamiento del normal del amo de juego
+NORMAL
+No hacer caso de este amo de juego
+NO HECHO CASO
+Establecer la prioridad del GM:
+CIERRE
+Organizar los amos de juego en la lista abajo:
+Levantarse
+Bajarse
+-
+Prioridad
+Lo más arriba posible
+Normal
+¡No hecho caso!
+Cancelación
+El hablar con usted:
+3
+Alias
+Nivel
+Mundo
+Esperarle:
+3
+Alias
+Nivel
+Mundo
+&File
+E&xit
+Atajos
+Reducir al mínimo
+¡Charla!
+¡Espera!
+HintBoxWindow
+
+
+Texto de la indirecta
+
+Ventana cercana
+x
+Ventana cercana de la historia
+Cierre
+HISTORIA
+HISTORIA
+Nombre:
+Creador:
+n/a
+Edad:
+n/a
+Tecleo para cerrar esta facilidad
+Cierre
+Chascar para demoler esta facilidad
+Demoler
+n/a
+Chascar para conectar esta facilidad con otras en el mapa
+Conectar
+Coste:
+n/a
+ROI:
+n/a
+Nombre:
+Dueño:
+n/a
+Coste:
+n/a
+ROI:
+n/a
+Edad:
+n/a
+Tecleo para cerrar esta facilidad
+Cierre
+Clisk para demoler esta facilidad
+Demoler
+Chascar para conectar esta facilidad con otras en el mapa
+Conectar
+n/a
+Conecta esta facilidad con todos sus almacenes
+Venta a todos almacenes
+Conecta esta facilidad con todas sus fábricas
+Venta a todas las fábricas
+Conecta esta facilidad con todos sus almacenes
+Venta a todos los almacenes
+Desconecta esta facilidad de todos sus almacenes
+No vender a los almacenes
+Conecta esta facilidad con todas sus fábricas
+No vender a las fábricas
+Conecta esta facilidad con todos sus almacenes
+No vender a los almacenes
+Negociar el modo:
+Comercio con:
+3
+Almacén de la compañía
+Exportador
+Importador
+3
+Ninguno
+Aliados solamente
+Cualquier persona
+
+AUTORIZACIÓN
+Nombre:
+Compañía:
+Pago excesivo:
+x
+
+Cancelación
+Cancelación
+el 0%
+el 0%
+n/a
+n/a
+Dueño:
+Ciudad:
+Tecleo a buscar para los clientes para el producto seleccionado
+BÚSQUEDA >
+Cuenta:
+Incorporar un nombre de compañía para limitar la búsqueda para los clientes a las instalaciones de esa compañía solamente
+Importar los almacenes
+Comprobar si usted quiere incluir almacenes de la importación en la búsqueda para los clientes
+Almacenes regulares
+Comprobar si usted quiere incluir almacenes regulares en la búsqueda para los clientes
+Almacenes
+Comprobar si usted quiere incluir almacenes en la búsqueda para los clientes
+Fábricas
+Comprobar si usted quiere fábricas del cheque mientras que búsqueda para los clientes
+Máximo selecto de clientes que usted quiere buscar para
+20
+3
+Edificio
+Dueño
+Ciudad
+Seleccionar todos los clientes encontrados
+Seleccionar todos
+Unselect todo encontró a clientes
+Unselect todo
+Chascar para comenzar a vender a todos los clientes seleccionados
+VENDER A SELECCIONADO
+Cerrarse
+Incorporar el nombre de una ciudad aquí para limitar la búsqueda para los clientes a tal ciudad
+3
+DISPONIBLE
+INVESTIGACIÓN
+CONVERTIDO
+Chascar aquí para comenzar la investigación
+Investigación
+Chascar aquí para parar la investigación
+Parar
+Chascar aquí para vender la investigación
+Venta
+Cierre
+INVESTIGACIÓN
+Transferencia…
+n/a
+n/a
+Ningunos surtidores
+Abierto
+Cierre
+Cierre
+Abierto
+Cierre
+El préstamo fue concedido.
+El banco rechazó su petición.
+El banco no tiene bastantes funda ahora para pagar.
+Error desconocido.
+Transferencia…
+Ningunos préstamos…
+años de %s
+un año
+Ninguno
+Ninguno
+Ninguno
+Ninguno
+Comienzo
+Parada
+Comienzo
+Mapa de la transferencia…
+Abierto
+Cierre
+Ya
+años de %s
+Nunca
+n/a
+%s solamente
+Cierre
+Abierto
+Cierre
+Abierto
+Cierre
+Cierre
+Abierto
+Cierre
+Ninguno
+Transferencia…
+Transferencia…
+Venta (+%s)
+ninguÌn ministro
+Ninguno
+Transferencia…
+Parada
+Transferencia del cuadro parada.
+Parada
+Envío del cuadro.
+Usted está listo ahora para enviar este cuadro agradable, tecleo envía para proceder.
+Proceso de imagen.
+No podía enviado el cuadro, revisar por favor más adelante.
+El viajero está enviando el cuadro al servidor.
+No podía enviar el cuadro al servidor.
+Enviar
+Recomprobación
+años de %s
+un año
+puntos de %s
+Ninguno
+Ninguno
+Ninguno
+Ninguno
+Ninguno
+n/a
+Transferencia…
+Ningunos clientes
+Abierto
+Cierre
+Ya
+años de %s
+Nunca
+n/a
+n/a
+Cierre
+Abierto
+Cierre
+Abierto
+Cierre
+Ya
+años de %s
+Nunca
+Cierre
+Abierto
+Cierre
+n/a
+n/a
+Transferencia…
+Ninguno
+Ningunos surtidores
+años de %s
+un año
+puntos de %s
+Ninguno
+Ninguno
+Ninguno
+Ninguno
+Ninguno
+n/a
+n/a
+n/a
+n/a
+n/a
+Transferencia…
+Vacío
+Transferencia…
+Vacío
+Transferencia…
+Vacío
+Transferencia…
+Subvencionado
+Subvencionado
+Ninguno
+Impuesto: el %s%%
+Subvencionado
+Abierto
+Cierre
+Ya
+años de %s
+Nunca
+n/a
+Cierre
+Abierto
+Cierre
+Abierto
+Cierre
+Ya
+años de %s
+Nunca
+n/a
+Cierre
+Abierto
+Cierre
+Un error del unknow ocurrió al intentar transferir el mapa.
+La herencia en línea no podía escribir el archivo del mapa en su sistema.
+La herencia en línea no podía localizar el archivo del mapa en el servidor.
+La herencia en línea no podía descomprimir el mapa. Comprobar por favor para saber si hay el espacio adicional de la impulsión.
+Un error del unknow ocurrió al intentar transferir el mapa.
+Transferencia directa del mapa fallada.
+Transferencia directa abortada.
+¿%s usted quiere intentar otra vez?
+Poniendo al día el mapa…
+Marcos del correo del cargamento…
+Marcos cargados de la charla…
+Comenzando el sonido y la música…
+Marco de la barra de herramientas del cargamento…
+Imagen Info del cargamento…
+Mapa de incialización…
+Error
+Los datos de la conexión que usted especificó eran incorrectos o hay un problema en la comunicación con los servidores. Estar por favor seguro que usted tiene una conexión activa al Internet.
+Error
+Un error del unknow ocurrió en la comunicación con los servidores. Intentar por favor otra vez. Si sucede esto demasiado a menudo, divulgar por favor a Oceanus.
+Título
+Ninguno
+Ninguno
+Ninguno
+%s (de %s)
+Ninguno
+Ninguno
+Ninguno
+%s (de %s)
+Ninguno
+Ninguno
+Ninguno
+%s (de %s)
+%d (de %d)
+%d (de %d)
+%d (de %d)
+Fecha: %s
+Transferencia…
+Error: Nombre inválido del equipo
+Amo de juego:
+Servidor del amo de juego:
+El amo de juego está ocupado ahora, hay peticiones de %d pendientes, espera por favor o intenta llamar otro amo de juego.
+Servidor del amo de juego:
+El amo de juego está ausente ahora, espera por favor o intenta llamar otro amo de juego.
+Servidor del amo de juego:
+¡El amo de juego está en línea!
+Servidor del amo de juego:
+El amo de juego era disconnected, intenta por favor conectar con otro amo de juego.
+Llamada
+Llamada
+Colgar para arriba
+Costumer
+Ninguno
+Transferencia…
+Impuesto: el %d%%
+Impuesto: %s
+Lo más arriba posible
+Normal
+¡No hecho caso!
+No puede ensamblar el canal
+Este canal es lleno. Usted puede intentar más adelante, cuando algunos de los usuarios adentro allí se han ido.
+No puede ensamblar el canal
+Contraseña inválida.
+Incorporar el texto de la charla aquí…
+UN NUEVO CANAL (%S) FUE CREADO.
+EL CANAL %S ERA CERRADO.
+AHORA CHARLANDO EN %S
+DE NUEVO AL PASILLO.
+Títulos: %s
+puesta al día…
+Charla de plena pantalla
+Charla sobre mapa
+Tecleo sobre una facilidad en el mapa para establecer la conexión.
+Indirecta: Para abortar tecleo de la operación cuando se exhibe el cursor del forbiden.
+Indirecta: Utilizar un solo tecleo para seleccionar una facilidad en el mapa. La derecha - chascar para invocar las opciones de QuickWeb.
+Coste de construcción: %s
+Indirecta: La derecha del uso - tecleo para cancelar la operación.
+Tecleo sobre una facilidad en el mapa a la conexión del estabish.
+Indirecta: Para abortar tecleo de la operación cuando se exhibe el cursor del forbiden.
+Error
+Usted no tiene ninguna derecha de demoler este camino.
+Error
+No puede demoler el camino.
+PETICIÓN DE LA CONSTRUCCIÓN RECHAZADA
+El alcalde de la ciudad no permite un edificio de este tipo en esta localización. Observar por favor que la zona de esta localización (indicada por el color) tiene que emparejar con el tipo de la zona de la facilidad que usted se prepuso construir. El tipo de la zona de los edificios se demuestra además del icono de la facilidad en el panel de la estructura.
+PETICIÓN DE LA CONSTRUCCIÓN RECHAZADA
+Usted no puede construir allí. Área no clara.
+PETICIÓN DE LA CONSTRUCCIÓN RECHAZADA
+Usted ha alcanzado el límite de edificios que usted puede poseer. Demoler algunos edificios o intentar avanzar al nivel siguiente.
+CONSTRUCCIÓN FALLADA
+No puede construir la facilidad aquí. Cerciorarse de por favor que usted esté funcionando por lo menos a una compañía.
+Error
+No puede conectar instalaciones.
+Error
+No puede conectar instalaciones.
+Ninguna facilidad seleccionada.
+Indirecta: Utilizar un solo tecleo para seleccionar una facilidad en el mapa. La derecha - chascar para invocar las opciones de QuickWeb.
+RE:
+Re: %s
+Tema: %s
+De: %s
+FW:
+FW: %s
+Tema: %s
+De: %s
+Este mensaje no alcanzó ninguna dirección.
+No puede el perfom esta acción, mail server está abajo.
+No podía ahorrar el mensaje.
+No puede el perfom esta acción, mail server está abajo.
+Error: %s
+una línea
+líneas de %d
+Jefaturas principales
+Jefaturas de la industria
+Oficina y jefaturas residenciales
+Jefaturas del comercio
+Jefaturas de los asuntos oficiales
+Hola clase LoCost Residentials
+Clase media LoCost Residentials
+Clase baja LoCost Residentials
+Hola clase Residentials
+Clase media Residentials
+Clase baja Residentials
+Oficinas
+Granjas
+Procesadores de alimento
+Industrias químicas
+Minas
+Industrias textiles
+Industrias de metal
+Fábricas de los componentes electrónicos
+Fábricas de la ropa
+Fábricas de los aparatos electrodomésticos
+Fábricas de máquinas de negocio
+Heavy Industries
+Fábricas del coche
+Sectores de la construcción
+Industrias del producto farmacéutico
+Industrias de plásticos
+Fábricas del juguete
+Plataformas petroleras
+Refinerías
+Fábricas del licor
+Almacenes de alimento
+Almacenes de la ropa
+Almacenes de HHA
+Almacenes del coche
+Supermercados
+Barras
+Restaurantes
+Películas
+Almacenes de droga
+Almacenes de juguete
+Gasolineras
+Empresas de software
+Hospitales
+Escuelas
+Comisarías de policías
+Parques de bomberos
+Correctionals
+Parques
+Bancos
+Canales de televisión
+Antena de la TV
+Almacén frío
+Almacén químico
+Almacén general
+Almacén de las telas
+Almacén del mineral
+Monumentos
+%d bytes/s
+0 bytes/s
+%d bytes/s
+0 bytes/s
+Conexión con el mundo…
+SISTEMA
+No podía establecer la conexión con los servidores.
+Usted suministró un nombre inválido.
+Usted suministró una contraseña inválida.
+Había un error que intentaba conectar con el servidor. Estar por favor seguro que usted tiene una conexión activa al Internet.
+Había un error que intentaba conectar con el servidor. Estar por favor seguro que usted tiene una conexión activa al Internet.
+Había un error que intentaba conectar con el servidor. Su petición fue negada.
+Un error desconocido ha ocurrido. Divulgar por favor a Oceanus si sucede esto demasiado a menudo.
+Error
+SISTEMA
+Contraseña inválida
+¡Ambas contraseñas deben emparejar!
+SISTEMA
+La conexión al servidor ha caído. Esperar mientras que intentos del viajero a volver a conectar…
+SISTEMA
+Ahora usted está actuando como %s.
+Le volvieron a conectar con éxito.
+SISTEMA
+Había un error que cambiaba su identidad a %s.
+Tentativa de volver a conectar fall. El intentar otra vez…
+mensajes unread de %d.
+mensajes unread de %d.
+Indica llegada del nuevo correo
+AVISO DEL CIRUJANO: No realizar la cópula con una forma de vida extranjera, a menos que sea del sexo opuesto.
+AVISO DEL CIRUJANO: No funcionar con los objetos agudos. Funcionar siempre con los objetos embotados.
+AVISO DEL CIRUJANO: El cigarrillo puede matar a le, a su familia y a todos sus amigos.
+AVISO DEL CIRUJANO: Los contrarios no muerden.
+NOTICIAS: Museo escapado momia de Michael Jackson del Louvre.
+NOTICIAS: Ford anuncia que producirá los coches otra vez.
+AVISO DEL CIRUJANO: La dinamita consigue mejor con tiempo. Si usted encuentra la dinamita vieja en su llamada del refrigerador para la ayuda.
+NOTICIAS: El episodio XII, princesa Zuloo de la GUERRA DE LAS GALAXIAS finalmente consigue a muchacha.
+NOTICIAS: Los astrónomos y los médicos encuentran que la luna es la causa de la mayoría de los desordenes del estómago.
+AVISO DEL CIRUJANO: Los sombreros pueden causar pérdida de pelo y dolor de cabeza cronic. Los médicos recomiendan el uso de cascos.
+NOTICIAS: Lizzard gigante avistado encima del platillo volante. Los funcionarios dijeron que ambos podrían ser UFOs.
+NOTICIAS: La prohibición en los juegos video se retira en Inglaterra.
+NOTICIAS: Canadá retira a sus tropas de Washington después de la mediación acertada del rey de Arabia.
+NOTICIAS: La gente muerta de los nuevos estados federales de la ley es muerta hasta probado de otra manera.
+NOTICIAS: ¿Podía el helado del chocolate convertirse en la curación para el cáncer? Los expertos no dicen ninguna manera.
+NOTICIAS: Los paleontólogos descubren que toda la evidencia de T-Rex fue plantada en el siglo temprano XX por los productores CÓMICOS.
+NOTICIAS: El nuevo propulsor de la antimateria empuja tecnología del viaje espacial un pedacito más lejos.
+NOTICIAS: Una reproducción idéntica de la pirámide de Keops fue encontrada debajo de la pirámide de Keops.
+NOTICIAS: El estudio revela ranas se está multiplicando en las colonias humanas.
+NOTICIAS: Un trabajo derivado de la ley de Heinsenberg prueba que las robustezas no estarán siempre bien adaptadas para los usos domésticos.
+SISTEMA
+Localización de un amo de juego. Esperar por favor…
+SISTEMA
+Usted desconectó del amo de juego %s.
+Ninguno
+AMO DE JUEGO DE LA LLAMADA
+SISTEMA
+Usted está en línea con el amo de juego %s.
+SISTEMA
+El amo de juego %s ha aceptado su llamada. Su petición hizo el número %d. Esperar por favor hasta que el amo de juego esté listo para ayudarle.
+COLGAR PARA ARRIBA
+SISTEMA
+No hay amos de juego disponibles en este momento. Intento de Plase más adelante.
+SISTEMA
+Había un error que intentaba entrar en contacto con un amo de juego. Intento de Plase otra vez.
+SISTEMA
+Su mensaje no podía alcanzar el amo de juego.
+Todos los servidores abajo. Intento de Plase más adelante.
+Error
+No podía conectar con el servidor. Comprobar por favor su conexión a internet e intento otra vez.
+Conexión con %s…
+Firmar adentro fallado. El alias que usted suministró parece ser inválido. Intentar por favor otra vez.
+Firmar adentro fallado. La contraseña que usted suministró parece ser inválida. Intentar por favor otra vez.
+Firmar adentro fallado. Había un error que tenía acceso a los servidores. Comprobar por favor su conexión a internet e intento otra vez.
+Error
+Error
+La herencia en línea no podía saltar al mundo seleccionado. Le recomendamos para utilizar el procedimiento estándar del sign-in.
+Transferencia…
+América
+Firma en…
+Conexión para asegurar el servidor…
+Firma en…
+América
+Europa
+Asia
+Puesta al día…
+[ECLIPSADO]
+Ninguno.
+%s. Población: inversionistas de %s: año de %s: %s en línea: nobleza mínima de %s: fecha del reajuste de %s: %s
+Recepción al mapa de Univesal. Chascar encendido los mundos uces de los arriba para exhibir la información extendida.
+Puesta al día…
+Abierto
+Cierre
+Cierre
+Abierto
+Cierre
+n/a
+SISTEMA
+Exploración…
+Incorporar el texto de la charla aquí…
+Mapa de la transferencia %s. Esto puede tardar algunos segundos…
+Exploración…
+ACOPLAMIENTOS
+Lo más arriba posible
+Normal
+¡No hecho caso!
+Amo de juego:
+Servidor del amo de juego:
+El amo de juego está ocupado ahora, hay peticiones de %d pendientes, espera por favor o intenta llamar otro amo de juego.
+Servidor del amo de juego:
+El amo de juego está ausente ahora, espera por favor o intenta llamar otro amo de juego.
+Servidor del amo de juego:
+conectado con %s
+Servidor del amo de juego:
+¡El amo de juego está en línea!
+Servidor del amo de juego:
+El amo de juego está ocupado, espera por favor un pedacito él.
+Servidor del amo de juego:
+El amo de juego era disconnected, intenta por favor conectar con otro amo de juego.
+Llamada
+Llamada
+Colgar para arriba
+Costumer
+Autorización
+Agregar
+¡Hay conflictos!!
+¡Incorporar el nombre de GMS!
+¡Incorporar su nombre!
+No puede conectar con el servidor del GM, intentar otra vez más adelante o comprobar ajustes del servidor del GM
+El usuario ha sido ocioso: secs de %d
+El usuario ha estado esperando: secs de %d
+Compañía: dinero de %s: %s
+No puede conectar con el servidor del GM, intentar otra vez más adelante o comprobar ajustes del servidor del GM.
+Yo:
+CLIENTES
+COMERCIO
+GENERAL
+HISTORIA
+TRABAJOS
+PRÉSTAMOS
+GERENCIA
+MINISTERIES
+PRODUCTOS
+PUBLICIDAD
+INVESTIGA
+RESIDENTIALS
+SERVICIOS
+FUENTES
+IMPUESTOS
+Venta
+MAUSOLEO
+Su se requieren para suscribir al juego para continuar jugando. Chascar la AUTORIZACIÓN para cerrar esta ventana y para navegar a la página de la suscripción.
+Su cuenta en herencia en línea ha sido temporalmente congelada. Chascar la AUTORIZACIÓN para cerrar esta ventana y para navegar a una página donde usted recibirá la información con respecto a esta situación.
+Mejora
+Parada
+CIUDADES
+PELÍCULAS
+ANTENAS
+VOTOS
+Búsqueda…
+Servidor ocupado
+Le han desconectado del servidor.
+Compra
+La cuenta existe ya
+El nombre de pantalla o la contraseña de Sega.com que usted incorporó es incorrecta.
+Maxed serial
+Cuento por entregas inválido
+Identificación del suscriptor no encontrada
+Usted no puede construir allí. Esto buildning está demasiado cercano a otro edificio de la misma clase.
+Los servidores en línea de la herencia están creando los archivos de reserva para este mundo. Esto puede tomar a partir de segundos a los minutos dependiendo del tamaño del mundo. Mientras que dura usted puede continuar hojeando el mapa y examinando edificios, pero algunas opciones, como estructura, serán lisiadas. Observar que el icono del disco en su barra de herramientas se enciende para arriba durante respaldo. Usted verá solamente esta caja de mensaje este vez.
+RESPALDO DEL SERVIDOR
+RESPALDO DEL SERVIDOR TERMINADO
+Los servidores en línea de la herencia han acabado el respaldo. Usted puede continuar jugando sin la limitación.
+¿Está usted seguro usted quiere demoler su %s?
+¡Advertencia!
+La misma compañía
+La misma ciudad
+Chascar aquí para ver las reglas del torneo.
+Progreso total.   
+Kilobytes (de 
+Tiempo estimado: 
+horas. 
+hora. 
+minutos. 
+minuto. 
+No podía crear el directorio.
+Error
+Instalación fallada.
+No podido terminar la instalación.
+No podía funcionar el uso principal. Código de error: 
+No podido terminar la operación.
+ERROR: Deuda fall de la operación un error desconocido.
+Error que escribe al disco (
+ERROR: Archivo corrompido encontrado (
+ERROR: Descompresión fallada (
+). Comprobar para saber si hay el espacio adicional de la impulsión.
+ERROR: Archivo del índice corrompido. Divulgar por favor a Sega.
+ERROR: Transferencia directa del archivo fallada (
+¡HOLA! ESTE PROGRAMA INSTALARÁ LA HERENCIA EN LÍNEA EN SU COMPUTADORA. INCORPORAR POR FAVOR LA INFORMACIÓN REQUERIDA.
+No podía inicializar web client. Estar por favor seguro que usted ha instalado Internet Explorer 4.0 o mayor.
+SÍ
+NO
+Hecho
+Encontrar el recurso: 
+Transferencia: 
+Esperar por favor…
+Descompresión 
+organicwaste
+fert
+grainFarma
+molino
+algodón
+pantalón
+fruitFarma
+fruitpie
+rubbersap
+rubbertree
+rubberfact
+shoefact
+vegFarma
+stewfact
+organicMine
+polímero
+nilón
+camisa
+Cattlefarma
+burgerfact
+rawChemMine
+miningchem
+cuero
+leatherjacket
+Esto es una misión gmabling de la guarida
+esto es una misión del robo de un banco
+esto es un camino destruye la misión
+Un juego cerca
+Chascar aquí para comenzar
+NUEVA CUENTA
+FIRMAR ADENTRO
+CANCELACIÓN
+Username:
+Contraseña:
+Recepción a Starpeace. Proporcionar por favor su username y contraseña.
+Entrar en su Starpeace alias aquí
+Incorporar su contraseña de Starpeace aquí
+Ahora elegir el mundo que usted quiere entrar:
+ENTRAR EN EL MUNDO SELECCIONADO
+IR AL MAPA DEL UNIVERSO
+RESTAURAR TODOS
+RESTAURAR SELECCIONADO
+6
+Nombre
+Población
+Inversionistas
+En línea
+Año
+PING (milisegundo)
+Saltar a un mundo que usted ha visitado ya:
+Chascar para saltar al planeta seleccionado
+¡IR!
+Ajustes entrantes
+Comprobar esta caja para permitir que esta facilidad sea configurada basó en los ajustes de otra facilidad.
+Reproducir los ajustes
+Chascar para reproducir los ajustes de esta facilidad
+Copia
+Mejora
+Tecleo para aumentar esta facilidad.
+Downgrade
+Tecleo para retroceder esta facilidad.
+Aumento
+Nivel:
+Pendiente:
+Mejora siguiente:
+1
+Aceptar los ajustes entrantes.
+Comprobar si usted quiere configurar esta facilidad usar los ajustes de otra facilidad
+Solamente para las instalaciones en esta ciudad.
+Comprobar para limitar el efecto de la reproducción solamente para las instalaciones en esta ciudad
+Solamente para las instalaciones en esta compañía.
+Comprobar para limitar el efecto de la reproducción solamente para las instalaciones en esta compañía
+Indirecta: Utilizar un solo tecleo para seleccionar una facilidad en el mapa. La derecha - chascar para invocar las opciones de QuickWeb.
+Indirecta: Utilizar un solo tecleo para seleccionar una facilidad en el mapa. La derecha - chascar para invocar las opciones de QuickWeb.
+Ninguna facilidad seleccionada
+Ninguna facilidad seleccionada
+Volver a su localización anterior en el mapa
+< TRASERO
+Ir adelante a la localización siguiente que usted visitó
+DESPUÉS >
+Ir ayuntamiento más cercano
+VA AYUNTAMIENTO
+Conseguir más Info sobre el edificio seleccionado (igual que right-click sobre el edificio)
+EXAMINAR
+Exhibir las herramientas del mapa del recubrimiento
+RECUBRIMIENTO
+Encabritado
+Enfocar adentro
+ZoomOut
+Zumbido hacia fuera
+Demostrar el recubrimiento de las zonas de la ciudad
+ZONAS DE LA CIUDAD
+RotateCW
+Girar el CW
+RotateCCW
+Girar el CCW
+Fecha
+Enfocar adentro (el pequeño mapa)
++
+Zumbido hacia fuera (pequeño mapa)
+-
+Caja cercana de la charla
+x
+Demuestra
+Nombre de usuario
+Demuestra qué usuario usted está persiguiendo actual
+Lista de acoplamientos útiles a las instalaciones en el mapa
+Lista de acoplamientos útiles a las instalaciones en el mapa
+Chascar para agregar la facilidad seleccionada a los acoplamientos
+AGREGAR
+Chascar para quitar la facilidad de acoplamientos
+DEL
+Chascar para saltar al acoplamiento
+IR
+ACOPLAMIENTOS
+ACOPLAMIENTOS
+Las instalaciones que están perdiendo el dinero aparecen sombreadas en rojo
+Instalaciones perdidosas de la señal
+Recubrimiento activo:
+Demostrar a nombre qué recubrimiento es actual visible
+Elegir el mapa del recubrimiento que usted quiere demostrar
+48
+NINGUNOS
+Zonas del edificio
+Ciudades
+Belleza
+Población de clase superior
+Población de la clase media
+Población Low-class
+QOL
+Crimen
+Contaminación
+BAP
+Pantalones
+Panadería
+Zapatos
+Empanadas de la fruta
+Cuchillería
+Paño de tabla
+Bollos frescos
+Vidrios
+Placas
+Pequeño coche
+Televisiones
+Lazos
+Juegos
+Bajo desgaste
+Sombreros
+Calcetines
+Ropa interior
+Bufandas
+Pantalones de cuero
+Coches de deportes
+Jugadores MP3
+Impresoras
+Videocámara
+Aspiradoras
+Jugadores de DVD
+Caldera
+Microondas
+Tostadoras
+Cocinas
+Bicis del motor
+Teléfonos móviles
+Kit de la colada de coche
+Polaco del coche
+Ambientador de aire del coche
+Dados mullidos
+Humvee
+PC
+Instalaciones perdidosas de la señal
+Las instalaciones que están perdiendo la demostración del dinero sombrearon en rojo
+MapOptionsView
+
+
+Servicios de alimento procesados
+
+Servicios de alimento fresco
+
+2
+VISIBILIDAD
+MAPAS
+Panel1
+
+
+
+
+
+Visibilidad
+
+Mapas
+
+
+Piel Residentials de clase superior
+
+Mediados de-clase Residentials de la piel
+
+Piel Residentials Low-class
+
+Oficinas de la piel
+
+Almacenes de la piel
+
+Fábricas de la piel
+
+Ocultar todos
+
+Demostrar todos
+
+Ocultar los almacenes
+
+Valor de la belleza y de tierra
+
+Población
+
+Calidad de vida
+
+Crimen
+
+Contaminación
+
+Áreas de Bussines
+
+Alimento fresco
+
+Alimento procesado
+
+Ropa
+
+Asimiento de casa
+
+Coches
+
+Restaurantes
+
+Barras
+SERVICIOS
+
+GENERAL
+
+
+Normal
+
+
+
+
+
+CIERRE
+Fijar las palabras de la sabiduría
+Palabras de la sabiduría:
+Cancelar la trascendencia
+4
+El ministerio
+Ministro
+Grado
+Presupuesto
+Presupuesto del próximo año:
+Fijar el presupuesto
+Deponer
+Ministro:
+Elegir
+MisionView
+
+Elegir una misión
+
+Paso 1 de 3
+
+Uso cercano
+x
+
+1
+
+2
+
+3
+
+4
+
+Chascar encendido una misión para ver sus requisitos.
+
+Exhibir las herramientas del mapa del recubrimiento
+Elegir la misión
+Exhibir las herramientas del mapa del recubrimiento
+Camcel
+
+3
+Guarida de juego
+Robo de un banco
+El camino destruye
+Fraude
+Aterrorizar y degradarse
+Destrozar
+Robery
+Banco Robery
+Sabotaje
+Esta misión le requiere escoger un edificio en el mapa. Chascar encendido “el botón de la blanco de la selección” y el tecleo en el edificio que usted quiere ser la blanco de la misión.
+
+Exhibir las herramientas del mapa del recubrimiento
+Escoger la blanco
+Exhibir las herramientas del mapa del recubrimiento
+< TRASERO
+Herramientas del mapa del recubrimiento de la exhibición
+CONTINUAR >
+Planear la misión aquí. Una vez que usted ha asignado los papeles apropiados al miembro de equipo usted podrá comenzar la misión.
+
+Éste es el robo de un banco típico. El equipo recogerá todo el dinero de los contadores y los clientes y la cámara acorazada, si usted elige tan.
+
+Informe:
+
+Herramientas del mapa del recubrimiento de la exhibición
+S T A R T
+Herramientas del mapa del recubrimiento de la exhibición
+< TRASERO
+2
+Papel
+Nivel de formación
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Herramientas del mapa del recubrimiento de la exhibición
+Cierre
+Registro de la misión:
+
+
+
+
+El alcalde de la ciudad no permite un edificio de este tipo en esta localización. Observar por favor que la zona de esta localización (indicada por el color) tiene que emparejar con el tipo de la zona de la facilidad que usted se prepuso construir. Los tipos de la zona de los edificios se demuestran además del th 
+AUTORIZACIÓN
+CANCELACIÓN
+ERROR DESCONOCIDO
+Chascar para enviar su mensaje
+Enviar
+Chascar para ahorrar su mensaje
+Ahorrar
+Cerrar este mensaje
+Cerrarse
+Para:
+Tema:
+CREAR EL NUEVO CANAL
+CREAR EL NUEVO CANAL
+Chascar para crear un nuevo canal
+Crear
+Cancelar
+Elegir un nombre para el nuevo canal:
+Usted puede proteger el canal con una contraseña:
+Entrar la contraseña de nuevo:
+Incorporar el nombre del canal aquí
+Incorporar la contraseña del canal aquí
+Comprobar su contraseña aquí
+Elegir un juego:
+Máximo de los jugadores permitidos:
+0
+2
+CANAL DE LA CHARLA
+CANAL DEL JUEGO
+NewTeamDlg
+
+Ventana cercana
+x
+
+Nombre del equipo:
+
+Herramientas del mapa del recubrimiento de la exhibición
+Nuevo equipo
+Herramientas del mapa del recubrimiento de la exhibición
+Cancelación
+CREAR A EQUIPO
+CREAR A EQUIPO
+
+
+¡ERROR!
+
+
+
+
+
+
+
+
+
+
+
+
+
+Opciones
+5
+Gráficos
+Sonido
+Red
+Aislamiento
+Adicional
+instalaciones &Visible:
+Tecleo para ocultar todas las instalaciones
+&Hide todo
+Tecleo para demostrar todas las instalaciones
+&Show todo
+Utilizar la transparencia
+Comprobar para ver edificios transparentes
+Demostrar las animaciones del edificio
+Comprobar para ver edificios animated
+Demostrar los coches
+Comprobar para ver los coches
+Demostrar los planos
+Comprobar para ver los planos
+Lista de instalaciones disponibles
+recubrimientos &Transparent
+Comprobar para tener mapas transparentes del recubrimiento
+Sonar el volumen de FX:
+Regular el volumen de sonidos del mapa aquí
+el 50%
+Volumen de la música:
+Regular el volumen de la música aquí
+el 50%
+Lista de temas:
+Demuestra una lista de títulos seleccionados
+Chascar para agregar un archivo de la música a su lista de temas
+Agregar el archivo
+Chascar para agregar una carpeta entera
+Agregar el directorio
+Chascar para eliminar un archivo de la lista de temas
+Suprimir el archivo
+Chascar para transferir más música
+Transferir más música
+Permitir los sonidos
+Chascar para permitir sonidos del mapa
+Enviado:
+Recibido:
+Total enviado:
+0
+0
+0
+Tarifa de Avg:
+0 octetos/sec
+Total recibido:
+0 octetos/sec
+Tarifa:
+0
+Estado latente:
+0
+Utilizar la conexión rápida
+Comprobar para permitir la conexión rápida
+No hacer caso de la lista:
+Quitar de lista
+Incorporar automáticamente el canal en la conexión:
+Nombre del canal:
+Contraseña del canal:
+Ahorrar la sesión de la charla a un archivo
+Ahorrar
+Lengua:
+Tecleo para cambiar lengua
+Activar la lengua
+Resolución
+Frecuencia
+Aplicarse
+Dueño:
+Ciudad:
+Tecleo a buscar para los surtidores del producto seleccionado
+BÚSQUEDA >
+Cuenta:
+Incorporar un nombre de compañía para limitar la búsqueda para los surtidores a las instalaciones de esa compañía solamente
+Exportar los almacenes
+Comprobar para incluir almacenes de la exportación en la búsqueda para los surtidores
+Almacenes regulares
+Comprobar para incluir almacenes regulares en la búsqueda para los surtidores
+Centros comerciales de la ciudad
+Comprobar para incluir los centros comerciales en la búsqueda para los surtidores
+Fábricas
+Comprobar para incluir fábricas en la búsqueda para los surtidores
+5
+Edificio
+Dueño
+Ciudad
+Precio
+Calidad
+Seleccionar todos los surtidores encontrados
+Seleccionar todos
+Unselect todo encontró a surtidores
+Unselect todo
+Compra a surtidores seleccionados
+COMPRA DE SELECCIONADO
+Cierre
+Incorporar un nombre de la ciudad para limitar la búsqueda para los surtidores a las instalaciones de esa compañía solamente 
+Máximo selecto de surtidores que usted quiere buscar para
+20
+INCORPORAR LA CONTRASEÑA
+INCORPORAR LA CONTRASEÑA
+Incorporar la contraseña aquí:
+AUTORIZACIÓN
+Cancelación
+Cargar su cuadro de un archivo de disco
+Carga
+Ver su cuadro de antemano
+Inspección previo
+Enviar su cuadro
+Enviar
+Cerrarse
+Enfocar adentro
++
+Zumbido hacia fuera
+-
+ENVIAR SU CUADRO
+ENVIAR SU CUADRO
+Inspección previo
+
+
+
+
+2034
+
+35
+
+36
+
+37
+
+38
+
+39
+
+40
+
+41
+
+42
+
+43
+
+44
+
+2045
+
+v1
+
+v1
+
+v1
+
+v1
+
+v1
+
+v1
+
+v1
+
+v1
+
+v1
+
+v1
+
+v1
+
+v1
+
+Alcalde:
+n/a
+Prestigio de ayuntamiento:
+Grado popular:
+Clasificación de los magnates:
+Mandato Nº:
+Años a las elecciones:
+n/a
+n/a
+n/a
+n/a
+n/a
+Chascar para ir a la página de la política
+Visitar la página de la política
+QOL:
+100
+%
+Clasificar a alcalde
+Leer las noticias
+4
+Cliente
+Compañía
+Ventas
+T. Coste
+el 0%
+Precio:
+el 0%
+Chascar aquí para ofrecer su producto a los clientes
+Oferta
+Chascar aquí para suprimir a un cliente
+Cancelación
+Conexión rápida
+
+Nombre de usuario:
+
+Contraseña:
+
+
+NOTA: Si usted es un newcommer (ni su nombre aparece en la cancelación de la prensa de la lista arriba) apenas y no pasa con el procedimiento de conexión estándar. Usted puede permitir la conexión rápida más adelante de la página de las opciones.
+
+
+
+AUTORIZACIÓN
+
+Cancelación
+
+Utilizar la contraseña pasada
+
+Inhabilitar la conexión rápida en el futuro
+
+
+
+Nombre:
+Dueño:
+100%
+n/a
+Resistencia del crimen:
+n/a
+Resistencia de la contaminación:
+Aislamiento adicional:
+n/a
+n/a
+Belleza adicional:
+n/a
+Edad:
+n/a
+Alquiler:
+100%
+Mantenimiento:
+100%
+100%
+Tecleo para cerrar este edificio
+Cierre
+Tecleo para reparar este edificio
+Reparación
+Chascar para demoler este edificio
+Demoler
+n/a
+Coste:
+n/a
+ROI:
+n/a
+
+Nombre:
+Dueño:
+n/a
+Edad:
+n/a
+Tecleo para cerrar esta facilidad
+Cierre
+Chascar para demoler la facilidad de los thios
+Demoler
+Chascar para conectar esta facilidad con otras en el mapa
+Conectar
+n/a
+Coste:
+n/a
+ROI:
+n/a
+el 0%
+Fuente:
+n/a
+n/a
+Demanda local:
+Precio:
+n/a
+
+Atajos de teclado
+Atajos de teclado registrados
+3
+Descripción
+Atajo
+Texto
+Agregar…
+Chascar para agregar un atajo
+Corregir…
+Chascar para corregir un shorcut
+Cancelación
+Chascar para eliminar un atajo
+Cerrarse
+Chascar para cerrar esta ventana
+Trenes
+
+
+
+
+X:
+
+Y:
+
+_
+
+_
+
+Cuenta:
+
+_
+
+Ángulo:
+
+_
+
+Valor pasado:
+n/a
+Coste:
+n/a
+7
+Facilidad
+Dueño
+Precio
+Pagado en exceso
+Último
+Calidad
+T. Coste
+Calidad mínima:
+el 0%
+el 0%
+Precio máximo:
+el 0%
+el 0%
+Chascar aquí para contratar a nuevos clientes
+Alquiler
+Chascar aquí para modificar la conexión seleccionada
+Modificarse
+Ordenado por la calidad
+Comprar la fuente
+SurfaceViewer
+
+
+
+¡HACERLO!
+
+
+400
+
+400
+
+?. Nombre de usuario
+Demuestra su nombre y su posición en la graduación de NTA
+$000.000.000
+Demuestra cuánto dinero usted tiene
+Nombre de compañía
+Demuestra el nombre de la compañía activa
+($0/h)
+Demuestra cuánto usted está haciendo por hora
+n/a
+Demuestra la fecha actual del mundo
+0/0
+Demuestra el número de ranuras del edificio que usted tiene estructura y el número total de ranuras del edificio disponibles
+Demuestra el número de ranuras del edificio que usted tiene estructura y el número total de ranuras del edificio disponibles
+Indica que alguien está mirando la misma área que usted
+¡Usted tiene correo!
+Indica que alguien está intentando charlar con usted
+Advertencia de la bancarrota
+Indica que alguien está mirando la misma área que usted
+NinguÌn nuevo correo
+Indica que alguien está intentando charlar con usted
+Advertencia de la bancarrota
+El cubo hace girar cuando la herencia en línea está navegando
+Reducir al mínimo el uso
+-
+Cerrar el uso
+x
+Usted no está conectado con el servidor
+El servidor está ocupado el hacer de un respaldo
+Conectado con el servidor 
+Trabajadores
+el 0%
+0
+0
+100
+100
+el 0%
+%
+%
+Profesionales
+el 0%
+0
+0
+100
+100
+el 0%
+%
+%
+Ejecutivos
+0
+100
+100
+el 0%
+0
+el 0%
+%
+%
+Vacantes:
+Salario medio:
+Energía de gasto:
+Salario mínimo:
+Vacantes privadas:
+Vacantes privadas:
+Clase baja
+0
+0
+0
+%
+%
+Clase media
+0
+0
+0
+%
+%
+De clase superior
+0
+0
+0
+%
+%
+Vacantes:
+Índice de la calidad:
+Precio del alquiler:
+Índice general:
+0
+8
+Nombre
+Demanda
+Oferta
+Capacidad
+Cociente
+Precio de IFEL
+Avg. Precio
+Calidad
+10
+Nombre
+Producido
+Comprado
+Golpecito. Capacidad
+Comprar la capacidad
+Vender el precio
+Vender el Q.
+Comprar el precio
+Comprar el Q.
+Precio máximo
+3
+Nombre
+Valor
+El año pasado
+Impuesto
+Subvencionar
+PercPanel
+el 0%
+Impuesto: el 0%
+Valor:
+Sistema
+10000000
+Nombre:
+el 0%
+Horas en el aire:
+n/a
+Anuncio:
+el 0%
+el 0%
+Tecleo para cerrar la estación
+Cierre
+Chascar para demoler la estación
+Demoler
+el 0%
+Chascar para conectar la estación con las instalaciones en el mapa
+Conectar
+Creador:
+n/a
+Edad:
+n/a
+Coste:
+n/a
+ROI:
+n/a
+
+Mapa universal
+3
+Mundos oficiales
+Mundos del torneo
+Mundos del jugador
+ Mundos encontrados en esta área:
+Clase cerca:
+Estallido
+Inversionistas
+Año
+PING
+Recepción al mapa de Univesal. Chascar encendido los mundos uces de los arriba para exhibir la información extendida.
+Saltar al planeta seleccionado actual
+SALTAR AL PLANETA
+Restaurar la lista del planeta exhibida arriba
+RESTAURAR LA LISTA DEL PLANETA
+Nombre:
+Creador:
+n/a
+Edad:
+n/a
+Tecleo para cerrar esta facilidad
+Cierre
+Chascar para demoler esta facilidad
+Demoler
+n/a
+Chascar para conectar esta facilidad con otras en el mapa
+Conectar
+Coste:
+n/a
+ROI:
+n/a
+
+espera
+
+
+Cargamento
+
+NewInstallation
+
+Puesta al día
+
+Cargamento…
+
+
+
+La herencia en línea será instalada en el directorio siguiente:
+
+
+
+Reducir al mínimo
+
+Parar
+
+Hojear…
+
+Instalar
+
+de C:\Program Files\Oceanus\Legacy en línea \
+
+
+Búsqueda para los nuevos componentes…
+
+
+Reducir al mínimo
+
+Parar
+
+Recomprobación
+
+Prgress
+
+Comienzo
+
+Progreso total:
+
+
+Transferencia finished en línea de la herencia los componentes principales. Ahora la herencia en línea es imágenes de la pre-transferencia para apresurar funcionamiento. Usted puede comenzar a jugar en cualquier momento. 
+
+
+Juego ahora
+
+
+HTMLView
+
+¡HOLA!
+¡HOLA!
+MEJORA
+AUTORIZACIÓN
+Cancelación
+Coste:
+$25.000.000.000
+Niveles:
+Notificación, tecleo del doble a restaurar
+Ventana cercana
+x
+Reducir al mínimo la ventana
+-
+¡HOLA MUNDO!
+¡HOLA MUNDO!
+Cargamento…
+Mantener para hablar a través de su micrófono
+T A L K
+Altavoz pasado:
+Ninguno
+4
+Candidato
+Grado
+Votos válidos
+Puntos
+Voto
+Herencia en línea
+Nombre:
+Dueño:
+n/a
+Coste:
+n/a
+ROI:
+n/a
+Edad:
+n/a
+Tecleo para cerrar esta facilidad
+Cierre
+Clisk para demoler esta facilidad
+Demoler
+Chascar para conectar esta facilidad con otras en el mapa
+Conectar
+n/a
+Conecta esta facilidad con todos sus almacenes
+Venta a todos almacenes
+Conecta esta facilidad con todas sus fábricas
+Venta a todas las fábricas
+Conecta esta facilidad con todos sus almacenes
+Venta a todos los almacenes
+Desconecta esta facilidad de todos sus almacenes
+No vender a los almacenes
+Conecta esta facilidad con todas sus fábricas
+No vender a las fábricas
+Conecta esta facilidad con todos sus almacenes
+No vender a los almacenes
+Negociar el modo:
+Comercio con:
+3
+Almacén de la compañía
+Exportador
+Importador
+3
+Ninguno
+Aliados solamente
+Cualquier persona
+Uso cercano
+x
+Reducir al mínimo el uso
+-
+Trabajadores
+0 (de 0)
+el 50%
+1 (100%)
+100%
+Profesionales
+0 (de 0)
+el 50%
+5 (100%)
+100%
+Ejecutivos
+0 (de 0)
+el 50%
+1 (100%)
+100%
+Trabajadores actuales
+Calidad de la fuerza de trabajo
+Sueldos

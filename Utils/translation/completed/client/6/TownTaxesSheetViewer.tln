@@ -1,0 +1,12 @@
+lvProducts.Columns.9=Max. Prijs
+lvTaxes.Columns=3
+lvTaxes.Columns.0=Naam
+lvTaxes.Columns.1=Waarde
+lvTaxes.Columns.2=Vorig jaar
+rbTax.Caption=Belasting
+rbSubsidize.Caption=Subsidi?ër
+PercPanel.Caption=PercPanel
+pbTax.Hint=0%
+lbTax.Caption=Belasting: 0%
+Label1.Caption=Waarde:
+fbSet.Text=Reeks

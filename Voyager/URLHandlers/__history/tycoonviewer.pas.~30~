@@ -1,0 +1,193 @@
+unit tycoonviewer;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs,StrUtils,logs,VisualControls, protocol,SHDocVw, ActiveX,
+  VoyagerInterfaces, VoyagerServerInterfaces, OleCtrls, StdCtrls, GIFImg,
+  ExtCtrls, FramedButton;
+
+type
+  Ttycoonview = class(TVisualControl)
+    uimg: TWebBrowser;
+    Memo1: TMemo;
+    Memo2: TMemo;
+    Image1: TImage;
+    uname: TFramedButton;
+    cimg: TFramedButton;
+    bcur: TFramedButton;
+    bbank: TFramedButton;
+    bpl: TFramedButton;
+    bis: TFramedButton;
+    bcomp: TFramedButton;
+    bstrat: TFramedButton;
+    procedure cimgClick(Sender: TObject);
+    procedure bcurClick(Sender: TObject);
+    procedure bcompClick(Sender: TObject);
+    procedure bbankClick(Sender: TObject);
+    procedure bplClick(Sender: TObject);
+    procedure bisClick(Sender: TObject);
+    procedure bstratClick(Sender: TObject);
+  private
+    { Private declarations }
+  private
+    { Private declarations }
+    fClientView       : IClientView;
+    fMasterURLHandler : IMasterURLHandler;
+  private
+    procedure SetMasterURLHandler( aMasterURLHandler : IMasterURLHandler );
+  public
+    { Public declarations }
+    fCache            : string ;
+    property ClientView       : IClientView       write fClientView;
+    property MasterURLHandler : IMasterURLHandler write SetMasterURLHandler;
+    property Cache            : string            write fCache;
+  protected
+        procedure SetParent(which : TWinControl);  override;
+  published
+    function showimage:integer;
+  end;
+
+//var
+  //tycoonview: Ttycoonview;
+
+implementation
+
+{$R *.dfm}
+
+procedure Ttycoonview.bbankClick(Sender: TObject);
+var
+      url:string;
+    begin
+       //show options
+      url:='?frame_Id=tycoonshow&frame_Class=tycoonshow&frame_Action=bank&frame_Align=client&frame_Visibility=visible&frame_NoBorder=Yes&frame_KeepContent=yes';
+      fMasterURLHandler.HandleURL(url);
+    end;
+
+procedure Ttycoonview.bcompClick(Sender: TObject);
+var
+      url:string;
+    begin
+       //show options
+      url:='?frame_Id=tycoonshow&frame_Class=tycoonshow&frame_Action=comp&frame_Align=client&frame_Visibility=visible&frame_NoBorder=Yes&frame_KeepContent=yes';
+      fMasterURLHandler.HandleURL(url);
+    end;
+
+procedure Ttycoonview.bcurClick(Sender: TObject);
+    var
+      url:string;
+    begin
+       //show options
+      url:='?frame_Id=tycoonshow&frame_Class=tycoonshow&frame_Action=curr&frame_Align=client&frame_Visibility=visible&frame_NoBorder=Yes&frame_KeepContent=yes';
+      fMasterURLHandler.HandleURL(url);
+    end;
+
+procedure Ttycoonview.bisClick(Sender: TObject);
+    var
+      url:string;
+    begin
+       //show options
+      url:='?frame_Id=tycoonshow&frame_Class=tycoonshow&frame_Action=is&frame_Align=client&frame_Visibility=visible&frame_NoBorder=Yes&frame_KeepContent=yes';
+      fMasterURLHandler.HandleURL(url);
+    end;
+
+procedure Ttycoonview.bplClick(Sender: TObject);
+    var
+      url:string;
+    begin
+       //show options
+      url:='?frame_Id=tycoonshow&frame_Class=tycoonshow&frame_Action=pl&frame_Align=client&frame_Visibility=visible&frame_NoBorder=Yes&frame_KeepContent=yes';
+      fMasterURLHandler.HandleURL(url);
+    end;
+
+procedure Ttycoonview.bstratClick(Sender: TObject);
+    var
+      url:string;
+    begin
+       //show options
+      url:='?frame_Id=tycoonshow&frame_Class=tycoonshow&frame_Action=strat&frame_Align=client&frame_Visibility=visible&frame_NoBorder=Yes&frame_KeepContent=yes';
+      fMasterURLHandler.HandleURL(url);
+    end;
+
+procedure Ttycoonview.cimgClick(Sender: TObject);
+var
+    url: string;
+begin
+    url:= '?frame_Id=AppHandler&frame_Action=SendPicture';
+    fMasterURLHandler.HandleURL(url);
+end;
+
+procedure Ttycoonview.SetMasterURLHandler( aMasterURLHandler : IMasterURLHandler );
+    var
+      CachePath : string;
+    begin
+      fMasterURLHandler := aMasterURLHandler;
+      //fMasterURLHandler.HandleEvent( evnAnswerConfigHolder, fConfigHolder );
+     // fMasterURLHandler.HandleEvent( evnAnswerPrivateCache, CachePath );
+     // fLangList := TStringList.Create;
+     // try
+     //   fLangList.LoadFromFile( CachePath + 'lang.dat' );
+     // except
+     // end;
+    end;
+
+procedure Ttycoonview.SetParent(which: TWinControl);
+  begin
+    inherited;
+    //logs.log('wlogin','setparent');
+    {if which<>nil
+      then
+        begin
+          RulesTicker.Visible := false;
+          if InitSkinImage
+            then
+              begin
+                InitializeCoolSB(WorldList.Handle);
+                if hThemeLib <> 0
+                  then
+                    SetWindowTheme(WorldList.Handle, ' ', ' ');
+                CoolSBEnableBar(WorldList.Handle, false, true);
+              end;
+        end;  }
+  end;
+
+function Ttycoonview.showimage:integer;
+  var
+    sl: TStringList;
+    ms: TMemoryStream;
+    r1:string;
+  begin
+    //show the user's image
+    r1:= fClientView.getWorldAbsURL + '/fivedata/userinfo/' + fClientView.getWorldName + '/' + fClientView.getUserName + '/largephoto.jpg';
+    memo2.Text:=StringReplace(memo1.Text, '[treplace1]', r1, [rfReplaceAll, rfIgnoreCase]);
+    uimg.Navigate('about:blank') ;
+    uname.Text:=fClientView.getUserName;
+   //while uimg.ReadyState < READYSTATE_INTERACTIVE do
+   // Application.ProcessMessages;
+
+  // if Assigned(uimg.Document) then
+  // begin
+     sl := TStringList.Create;
+     try
+       ms := TMemoryStream.Create;
+       try
+         sl.Text := memo2.Text;
+         sl.SaveToStream(ms) ;
+         ms.Seek(0, 0) ;
+         (uimg.Document as IPersistStreamInit).Load(TStreamAdapter.Create(ms)) ;
+       finally
+         ms.Free;
+       end;
+     finally
+       sl.Free;
+     end;
+   //end;
+
+   uimg.OleObject.document.body.style.overflowX := 'hidden';
+   uimg.OleObject.document.body.style.overflowY := 'hidden';
+  end;
+
+
+  
+end.

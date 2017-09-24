@@ -1,0 +1,12 @@
+eTown.Hint=Впишите имя городка здесь для того чтобы ограничивать поиск для клиентов к такому городку
+ftInveKind.TabNames=3
+ftInveKind.TabNames.0=ИМЕЮЩЕСЯ
+ftInveKind.TabNames.1=ИССЛЕДОВАТЬ
+ftInveKind.TabNames.2=ПРЕВРАЩЕНО
+btnResearch.Hint=Щелкните здесь для того чтобы начать исследование
+btnResearch.Text=Исследование
+btnStop.Hint=Щелкните здесь для того чтобы остановить исследование
+btnStop.Text=Остановите
+btnSell.Hint=Щелкните здесь для того чтобы продать исследование
+btnSell.Text=Надувательство
+btnClose.Text=Конец

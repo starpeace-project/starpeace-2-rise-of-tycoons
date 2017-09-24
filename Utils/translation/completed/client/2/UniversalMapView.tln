@@ -1,0 +1,16 @@
+=
+lbName.Caption=Carte universelle
+Tabs.TabNames=3
+Tabs.TabNames.0=Mondes officiels
+Tabs.TabNames.1=Mondes de tournoi
+Tabs.TabNames.2=Mondes de joueur
+Label11.Caption= Mondes trouvés dans ce secteur :
+Label9.Caption=Sorte par :
+RadioButton1.Caption=Bruit
+RadioButton2.Caption=Investisseurs
+RadioButton3.Caption=Année
+RadioButton4.Caption=PING
+Ticker.Caption=Bienvenue à la carte d'Univesal. Cliquer dessus les mondes l'uns des ci-dessus pour montrer l'information prolongée.
+Jump.Hint=Sauter à la planète actuellement choisie
+Jump.Text=SAUTER À LA PLANÈTE
+Refresh.Hint=Régénérer la liste de planète montrée ci-dessus

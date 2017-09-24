@@ -1,0 +1,14 @@
+btnCancel.Text=Löschen
+btnLoad.Hint=Ihre Abbildung von einer Plattendatei laden
+btnLoad.Text=Last
+btnPreview.Hint=Ihre Abbildung vorher sehen
+btnPreview.Text=Vorbetrachtung
+btnSend.Hint=Ihre Abbildung senden
+btnSend.Text=Senden
+btnCancel.Text=Schließen
+ZoomIn.Hint=Innen laut summen
+ZoomIn.Text=+
+ZoomOut.Hint=Lautes Summen heraus
+ZoomOut.Text=-
+Marquee.Caption=IHRE ABBILDUNG SENDEN
+Marquee.Hint=IHRE ABBILDUNG SENDEN

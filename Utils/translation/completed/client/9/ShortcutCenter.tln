@@ -1,0 +1,14 @@
+=
+ShortcutCenter.Caption=Klawiaturowy skrót
+Label1.Caption=Rejestrowy Klawiaturowy skrót
+ListView1.Columns=3
+ListView1.Columns.0=Opis
+ListView1.Columns.1=Skrót
+ListView1.Columns.2=Tekst
+Button1.Caption=Dodawać…
+Button1.Hint=Klikać skrót
+Button2.Caption=Redagować…
+Button2.Hint=Klikać shorcut
+Button3.Caption=Deleatur
+Button3.Hint=Klikać skrót
+Button4.Caption=Zamykać

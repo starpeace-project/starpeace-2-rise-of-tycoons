@@ -1,0 +1,16 @@
+program CacheClient;
+
+uses
+  Forms,
+  TestClientFrm in 'TestClientFrm.pas' {ClientForm},
+  CacheObjs_TLB in 'CacheObjs_TLB.pas';
+
+{$R *.RES}
+
+{$R *.TLB}
+
+begin
+  Application.Initialize;
+  Application.CreateForm(TClientForm, ClientForm);
+  Application.Run;
+end.

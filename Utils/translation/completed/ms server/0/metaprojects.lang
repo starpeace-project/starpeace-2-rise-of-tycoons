@@ -1,0 +1,14 @@
+Target=Projects
+LangId=0
+Projects.College.Name=Colleges
+Projects.Disposal.Name=Garbage Disposal
+Projects.Fire.Name=Fire Coverage
+Projects.Health.Name=Health Coverage
+Projects.Jail.Name=Jails
+Projects.Museum.Name=Museums
+Projects.Police.Name=Police Coverage
+Projects.School.Name=School Coverage
+Projects.Services.Name=Services and Amusement
+Projects.Sport.Name=Recreation Facilities
+Projects.Unemployment.Name=Unemployment
+Projects.Wealth.Name=Economic Wealth

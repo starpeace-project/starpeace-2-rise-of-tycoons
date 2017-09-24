@@ -1,0 +1,12 @@
+ReadNews.Text=读新闻
+lvConnections.Columns=4
+lvConnections.Columns.0=顾客
+lvConnections.Columns.1=公司
+lvConnections.Columns.2=销售
+lvConnections.Columns.3=T.费用
+PricePc.Hint=0%
+Label3.Caption=价格：
+Price.Caption=0%
+btnHireSuppliers.Hint=这里点击为顾客提供您的产品
+btnHireSuppliers.Text=提议
+btnDelete.Hint=这里点击删除顾客

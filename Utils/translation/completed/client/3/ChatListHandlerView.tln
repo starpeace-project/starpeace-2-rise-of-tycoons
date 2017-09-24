@@ -1,0 +1,10 @@
+ChannelName.Caption=Geheime Sitzung
+Label1.Caption=Schwätzchen
+IgnoreUser.Hint=Klicken, um zu ignorieren den z.Z. vorgewählten Benutzer
+IgnoreUser.Text=Benutzer ignorieren
+ChatOverMap.Hint=Klicken, um beim Grasen des Diagramms zu plaudern
+ChatOverMap.Text=Über Diagramm plaudern
+FollowUser.Hint=Klicken, um dem vorgewählten Benutzer zu folgen
+FollowUser.Text=Benutzer folgen
+VoiceChat.Hint=Klicken, um Sprachschwätzchenverkleidung zu erhalten
+VoiceChat.Text=Verkleidung sprechen

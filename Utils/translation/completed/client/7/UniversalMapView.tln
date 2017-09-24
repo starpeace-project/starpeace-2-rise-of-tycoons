@@ -1,0 +1,16 @@
+=
+lbName.Caption=普遍的な地図
+Tabs.TabNames=3
+Tabs.TabNames.0=公式の世界
+Tabs.TabNames.1=トーナメントの世界
+Tabs.TabNames.2=プレーヤーの世界
+Label11.Caption= この区域で見つけられる世界:
+Label9.Caption=下記によって種類:
+RadioButton1.Caption=破裂音
+RadioButton2.Caption=投資家
+RadioButton3.Caption=年
+RadioButton4.Caption=PING
+Ticker.Caption=Univesalの地図への歓迎。 延長情報を表示するためにの世界上でつけなさい。
+Jump.Hint=現在選ばれる惑星に跳びなさい
+Jump.Text=惑星に跳びなさい
+Refresh.Hint=上で表示される惑星のリストを新たになりなさい

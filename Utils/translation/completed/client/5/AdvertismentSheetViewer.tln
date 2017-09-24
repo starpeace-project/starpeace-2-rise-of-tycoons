@@ -1,0 +1,17 @@
+lvConnections.Columns=6
+lvConnections.Columns.0=登广告者
+lvConnections.Columns.1=所有者
+lvConnections.Columns.2=价格
+lvConnections.Columns.3=多付
+lvConnections.Columns.4=为时
+lvConnections.Columns.5=质量
+Label1.Caption=前价值：
+xfer_FluidValue.Caption=n/a
+Label2.Caption=费用：
+xfer_LastCost.Caption=n/a
+Label3.Caption=广告：
+xfer_AdPerc.Hint=0%
+lbAdPerc.Caption=0
+btnHireSuppliers.Hint=这里点击雇用新的客户
+btnHireSuppliers.Text=聘用
+btnModify.Hint=这里点击修改选择的连接

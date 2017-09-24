@@ -1,0 +1,14 @@
+﻿Ministries.Ministry8.Name=Inhysa
+Target=Projects
+LangId=12
+Projects.College.Name=Högskolar
+Projects.Disposal.Name=Avskrädeförfogande
+Projects.Fire.Name=Avfyra täckning
+Projects.Health.Name=Vård- täckning
+Projects.Jail.Name=Arrester
+Projects.Museum.Name=Museer
+Projects.Police.Name=Polistäckning
+Projects.School.Name=Skola täckning
+Projects.Services.Name=Servar och munterhet
+Projects.Sport.Name=Rekreationlättheter
+Projects.Unemployment.Name=Arbetslöshet

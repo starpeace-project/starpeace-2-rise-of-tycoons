@@ -1,0 +1,15 @@
+lvLoans.Columns.3=言葉
+Label9.Caption=大統領:
+xfer_ActualRuler.Caption=どれも
+Label2.Caption=普及した評価:
+Label3.Caption=大君の評価:
+Label4.Caption=命令Nº:
+Label5.Caption=選挙への年:
+xfer_RulerRating.Caption=どれも
+xfer_TycoonsRating.Caption=どれも
+xfer_CampaignCount.Caption=どれも
+xfer_YearsToElections.Caption=どれも
+btnVisitPolitics.Hint=大統領の政治のページを訪問するかちりと言う音
+btnVisitPolitics.Text=Politics Page訪問の大統領
+Label8.Caption=QOL:
+xfer_QOL.Caption=100

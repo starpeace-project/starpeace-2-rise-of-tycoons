@@ -1,0 +1,10 @@
+btnCancel.Text=Odwoływać Transcendencja
+lvMinisteries.Columns=4
+lvMinisteries.Columns.0=Ministerstwo
+lvMinisteries.Columns.1=Minister
+lvMinisteries.Columns.2=
+lvMinisteries.Columns.3=Budżet
+lbBudget.Caption=Przyszły Rok Budżet:
+btnSetBudget.Text=Ustalony Budżet
+btnDeposeClick.Test=Obalać
+lbMinister.Caption=Minister:

@@ -1,0 +1,17 @@
+Label2.Caption=Onderwerp:
+Marquee.Caption=CRE?ëR NIEUW KANAAL
+Marquee.Hint=CRE?ëR NIEUW KANAAL
+btnCreate.Hint=Klik om een nieuw kanaal tot stand te brengen
+btnCreate.Text=Cre?ër
+btnCancel.Text=Annuleer
+Label1.Caption=Kies een naam voor het nieuwe kanaal:
+Label2.Caption=U kunt het kanaal met een wachtwoord beschermen:
+Label3.Caption=Geef het wachtwoord opnieuw in:
+ChannelName.Hint=Ga hier kanaalnaam in
+Password.Hint=Ga hier kanaalwachtwoord in
+PasswordCheck.Hint=Controleer hier uw wachtwoord
+Label4.Caption=Kies een spel:
+Label5.Caption=Het maximum spelers stond toe:
+Edit1.Text=0
+Tabs.TabNames=2
+Tabs.TabNames.0=HET KANAAL VAN HET PRAATJE

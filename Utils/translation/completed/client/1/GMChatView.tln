@@ -1,0 +1,9 @@
+btnConnect.Text=SALTAR AL MUNDO
+ChatLine.Lines=1
+ChatLine.Lines.0=Incorporar el texto de la charla aquí…
+btnConnect.Hint=Llamar un amo de juego
+btnConnect.Text=LLAMAR EL AMO DE JUEGO
+btGMOptions.Hint=Exhibir las opciones
+btGMOptions.Text=OPCIONES
+btClose.Text=CIERRE
+Label8.Caption=El hablar con el GM:

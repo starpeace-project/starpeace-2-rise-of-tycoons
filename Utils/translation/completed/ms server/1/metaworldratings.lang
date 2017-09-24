@@ -1,0 +1,17 @@
+﻿WorldProjects.Wealth.Name=Abundancia económica
+Target=WorldRatings
+LangId=1
+WorldRatings.CampaignAccuracy.Name=Realización de la campaña
+WorldRatings.College.Name=Universidades
+WorldRatings.Disposal.Name=Disposición de basura
+WorldRatings.Fire.Name=Cobertura del fuego
+WorldRatings.Health.Name=Cobertura de salud
+WorldRatings.Jail.Name=Cárceles
+WorldRatings.Museum.Name=Museos
+WorldRatings.Police.Name=Cobertura de la policía
+WorldRatings.PopGrowth.Name=Crecimiento de la ciudad
+WorldRatings.School.Name=Cobertura de la escuela
+WorldRatings.Services.Name=Servicios y diversión
+WorldRatings.Sport.Name=Instalaciones de la reconstrucción
+WorldRatings.Taxes.Name=Impuestos
+WorldRatings.Unemployment.Name=Empleo

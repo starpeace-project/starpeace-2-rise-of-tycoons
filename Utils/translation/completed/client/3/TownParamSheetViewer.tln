@@ -1,0 +1,11 @@
+Label3.Caption=Miete-Preis:
+Label9.Caption=Gesamtindex:
+xfer_GQOS.Caption=0
+lvServices.Columns=8
+lvServices.Columns.0=Name
+lvServices.Columns.1=Nachfrage
+lvServices.Columns.2=Angebot
+lvServices.Columns.3=Kapazität
+lvServices.Columns.4=Verhältnis
+lvServices.Columns.5=IFEL Preis
+lvServices.Columns.6=Avg. Preis

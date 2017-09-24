@@ -1,0 +1,16 @@
+=
+lbName.Caption=Universalen kartlägger
+Tabs.TabNames=3
+Tabs.TabNames.0=Officiella världar
+Tabs.TabNames.1=Turneringvärldar
+Tabs.TabNames.2=Spelarevärldar
+Label11.Caption= Världar som finnas i detta område:
+Label9.Caption=Sortera by:
+RadioButton1.Caption=Pop
+RadioButton2.Caption=Aktieägare
+RadioButton3.Caption=År
+RadioButton4.Caption=PING
+Ticker.Caption=Välkomnandet till Univesalen kartlägger. Klicka på några av världarna över för att visa fÃ¶rdjupad information.
+Jump.Hint=Hoppa till det för närvarande utvalda planet
+Jump.Text=HOPPA TILL PLANET
+Refresh.Hint=Förnya planet listar visat över

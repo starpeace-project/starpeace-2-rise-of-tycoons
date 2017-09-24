@@ -1,0 +1,17 @@
+﻿PublicFacilities.Sport.Name=Rekreacyjny Udostępnienie
+Target=Ocena
+LangId=9
+Ratings.CampaignAccuracy.Name=Kampania Osiągnięcie
+Ratings.College.Name=Szkoła wyższa
+Ratings.Disposal.Name=Śmieciarski Usuwanie
+Ratings.Fire.Name=Pożarniczy Sprawozdanie
+Ratings.Health.Name=Zdrowie Sprawozdanie
+Ratings.Jail.Name=Więzienie
+Ratings.Museum.Name=Muzeum
+Ratings.Police.Name=Milicyjny Sprawozdanie
+Ratings.PopGrowth.Name=Miasto Przyrost
+Ratings.School.Name=Szkolny Sprawozdanie
+Ratings.Services.Name=Usługa i Rozrywka
+Ratings.Sport.Name=Rekreacyjny Udostępnienie
+Ratings.Taxes.Name=Podatek
+Ratings.Unemployment.Name=Zatrudnienie

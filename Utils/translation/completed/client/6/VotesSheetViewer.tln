@@ -1,0 +1,6 @@
+Speaker.Caption=Niets
+lvVotes.Columns=4
+lvVotes.Columns.0=Kandidaat
+lvVotes.Columns.1=Classificatie
+lvVotes.Columns.2=Geldige Stemmen
+lvVotes.Columns.3=Punten

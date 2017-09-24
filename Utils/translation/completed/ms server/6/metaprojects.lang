@@ -1,0 +1,14 @@
+Ministries.Ministry8.Name=Huisvesting
+Target=Projects
+LangId=6
+Projects.College.Name=Universiteiten
+Projects.Disposal.Name=De Verwijdering van het huisvuil
+Projects.Fire.Name=De Dekking van de brand
+Projects.Health.Name=De Dekking van de gezondheid
+Projects.Jail.Name=Gevangenissen
+Projects.Museum.Name=Musea
+Projects.Police.Name=De Dekking van de politie
+Projects.School.Name=De Dekking van de school
+Projects.Services.Name=De diensten en Vermaak
+Projects.Sport.Name=De Faciliteiten van de recreatie
+Projects.Unemployment.Name=Werkloosheid

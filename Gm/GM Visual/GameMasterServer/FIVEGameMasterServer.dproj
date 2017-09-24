@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{bc9848de-4fa2-4393-b343-4e4354bf0ac2}</ProjectGuid>
+    <MainSource>FIVEGameMasterServer.dpr</MainSource>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <DCC_DCCCompiler>DCC32</DCC_DCCCompiler>
+    <DCC_DependencyCheckOutputName>..\..\..\..\Release\Servers\FIVEGameMasterServer.exe</DCC_DependencyCheckOutputName>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <Version>7.0</Version>
+    <DCC_DebugInformation>False</DCC_DebugInformation>
+    <DCC_WriteableConstants>True</DCC_WriteableConstants>
+    <DCC_LocalDebugSymbols>False</DCC_LocalDebugSymbols>
+    <DCC_SymbolReferenceInfo>0</DCC_SymbolReferenceInfo>
+    <DCC_ExeOutput>C:\starpeace\Release\Servers</DCC_ExeOutput>
+    <DCC_UnitSearchPath>..\..\..\RDO\Client;..\..\..\RDO\Common;..\..\..\utils\winutils;..\..\..\utils\misc;C:\starpeace\Source\Utils\Vcl</DCC_UnitSearchPath>
+    <DCC_ResourcePath>..\..\..\RDO\Client;..\..\..\RDO\Common;..\..\..\utils\winutils;..\..\..\utils\misc;C:\starpeace\Source\Utils\Vcl</DCC_ResourcePath>
+    <DCC_ObjPath>..\..\..\RDO\Client;..\..\..\RDO\Common;..\..\..\utils\winutils;..\..\..\utils\misc;C:\starpeace\Source\Utils\Vcl</DCC_ObjPath>
+    <DCC_IncludePath>..\..\..\RDO\Client;..\..\..\RDO\Common;..\..\..\utils\winutils;..\..\..\utils\misc;C:\starpeace\Source\Utils\Vcl</DCC_IncludePath>
+    <DCC_Define>USELogs;RELEASE</DCC_Define>
+    <DCC_UNSAFE_TYPE>True</DCC_UNSAFE_TYPE>
+    <DCC_UNSAFE_CODE>True</DCC_UNSAFE_CODE>
+    <DCC_UNSAFE_CAST>True</DCC_UNSAFE_CAST>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <Version>7.0</Version>
+    <DCC_DebugInformation>False</DCC_DebugInformation>
+    <DCC_WriteableConstants>True</DCC_WriteableConstants>
+    <DCC_LocalDebugSymbols>False</DCC_LocalDebugSymbols>
+    <DCC_ExeOutput>C:\starpeace\Release\Servers</DCC_ExeOutput>
+    <DCC_UnitSearchPath>$(DELPHI)\Source\Win32\rtl\common;$(DELPHI)\Source\Win32\rtl\win;$(DELPHI)\Source\Win32\vcl;..\..\..\Kernel;..\StdBlocks;..\..\..\Class Storage;..\..\..\Cache;..\..\..\RDO\Common;..\..\..\RDO\Server;..\..\..\Utils\Network;..\..\..\RDO\Client\;..\..\..\Persistence;..\..\..\Utils\Misc;..\..\..\Surfaces;..\..\..\Mail;..\..\..\Tasks;..\..\..\logs;..\..\..\Inventions;..\..\..\Circuits;C:\starpeace\Source\Utils\WinUtils</DCC_UnitSearchPath>
+    <DCC_ResourcePath>$(DELPHI)\Source\Win32\rtl\common;$(DELPHI)\Source\Win32\rtl\win;$(DELPHI)\Source\Win32\vcl;..\..\..\Kernel;..\StdBlocks;..\..\..\Class Storage;..\..\..\Cache;..\..\..\RDO\Common;..\..\..\RDO\Server;..\..\..\Utils\Network;..\..\..\RDO\Client\;..\..\..\Persistence;..\..\..\Utils\Misc;..\..\..\Surfaces;..\..\..\Mail;..\..\..\Tasks;..\..\..\logs;..\..\..\Inventions;..\..\..\Circuits;C:\starpeace\Source\Utils\WinUtils</DCC_ResourcePath>
+    <DCC_ObjPath>$(DELPHI)\Source\Win32\rtl\common;$(DELPHI)\Source\Win32\rtl\win;$(DELPHI)\Source\Win32\vcl;..\..\..\Kernel;..\StdBlocks;..\..\..\Class Storage;..\..\..\Cache;..\..\..\RDO\Common;..\..\..\RDO\Server;..\..\..\Utils\Network;..\..\..\RDO\Client\;..\..\..\Persistence;..\..\..\Utils\Misc;..\..\..\Surfaces;..\..\..\Mail;..\..\..\Tasks;..\..\..\logs;..\..\..\Inventions;..\..\..\Circuits;C:\starpeace\Source\Utils\WinUtils</DCC_ObjPath>
+    <DCC_IncludePath>$(DELPHI)\Source\Win32\rtl\common;$(DELPHI)\Source\Win32\rtl\win;$(DELPHI)\Source\Win32\vcl;..\..\..\Kernel;..\StdBlocks;..\..\..\Class Storage;..\..\..\Cache;..\..\..\RDO\Common;..\..\..\RDO\Server;..\..\..\Utils\Network;..\..\..\RDO\Client\;..\..\..\Persistence;..\..\..\Utils\Misc;..\..\..\Surfaces;..\..\..\Mail;..\..\..\Tasks;..\..\..\logs;..\..\..\Inventions;..\..\..\Circuits;C:\starpeace\Source\Utils\WinUtils</DCC_IncludePath>
+    <DCC_Define>USELogs</DCC_Define>
+    <DCC_UNSAFE_TYPE>True</DCC_UNSAFE_TYPE>
+    <DCC_UNSAFE_CODE>True</DCC_UNSAFE_CODE>
+    <DCC_UNSAFE_CAST>True</DCC_UNSAFE_CAST>
+  </PropertyGroup>
+  <ProjectExtensions>
+    <Borland.Personality>Delphi.Personality</Borland.Personality>
+    <Borland.ProjectType>VCLApplication</Borland.ProjectType>
+    <BorlandProject>
+<BorlandProject><Delphi.Personality><Parameters><Parameters Name="UseLauncher">False</Parameters><Parameters Name="LoadAllSymbols">True</Parameters><Parameters Name="LoadUnspecifiedSymbols">False</Parameters></Parameters><VersionInfo><VersionInfo Name="IncludeVerInfo">False</VersionInfo><VersionInfo Name="AutoIncBuild">False</VersionInfo><VersionInfo Name="MajorVer">1</VersionInfo><VersionInfo Name="MinorVer">0</VersionInfo><VersionInfo Name="Release">0</VersionInfo><VersionInfo Name="Build">0</VersionInfo><VersionInfo Name="Debug">False</VersionInfo><VersionInfo Name="PreRelease">False</VersionInfo><VersionInfo Name="Special">False</VersionInfo><VersionInfo Name="Private">False</VersionInfo><VersionInfo Name="DLL">False</VersionInfo><VersionInfo Name="Locale">1033</VersionInfo><VersionInfo Name="CodePage">1252</VersionInfo></VersionInfo><VersionInfoKeys><VersionInfoKeys Name="CompanyName"></VersionInfoKeys><VersionInfoKeys Name="FileDescription"></VersionInfoKeys><VersionInfoKeys Name="FileVersion">1.0.0.0</VersionInfoKeys><VersionInfoKeys Name="InternalName"></VersionInfoKeys><VersionInfoKeys Name="LegalCopyright"></VersionInfoKeys><VersionInfoKeys Name="LegalTrademarks"></VersionInfoKeys><VersionInfoKeys Name="OriginalFilename"></VersionInfoKeys><VersionInfoKeys Name="ProductName"></VersionInfoKeys><VersionInfoKeys Name="ProductVersion">1.0.0.0</VersionInfoKeys><VersionInfoKeys Name="Comments"></VersionInfoKeys></VersionInfoKeys><Source><Source Name="MainSource">FIVEGameMasterServer.dpr</Source></Source></Delphi.Personality></BorlandProject></BorlandProject>
+  </ProjectExtensions>
+  <Import Project="$(MSBuildBinPath)\Borland.Delphi.Targets" />
+  <ItemGroup>
+    <DelphiCompile Include="FIVEGameMasterServer.dpr">
+      <MainSource>MainSource</MainSource>
+    </DelphiCompile>
+    <DCCReference Include="..\..\..\Directory Server\DirectoryServerProtocol.pas" />
+    <DCCReference Include="..\..\..\Kernel\Collection.pas" />
+    <DCCReference Include="..\..\..\Kernel\SmartThreads.pas" />
+    <DCCReference Include="..\..\..\Logs\Logs.pas" />
+    <DCCReference Include="..\..\..\Rdo\Client\RDOMarshalers.pas" />
+    <DCCReference Include="..\..\..\Rdo\Client\RDOObjectProxy.pas" />
+    <DCCReference Include="..\..\..\Rdo\Client\WinSockRDOConnection.pas" />
+    <DCCReference Include="..\..\..\Rdo\Common\ErrorCodes.pas" />
+    <DCCReference Include="..\..\..\Rdo\Common\LogFile.pas" />
+    <DCCReference Include="..\..\..\Rdo\Common\RDOInterfaces.pas" />
+    <DCCReference Include="..\..\..\Rdo\Common\RDOProtocol.pas" />
+    <DCCReference Include="..\..\..\Rdo\Common\RDOUtils.pas" />
+    <DCCReference Include="..\..\..\Rdo\Server\RDOObjectRegistry.pas" />
+    <DCCReference Include="..\..\..\Rdo\Server\RDOObjectServer.pas" />
+    <DCCReference Include="..\..\..\Rdo\Server\RDOQueryServer.pas" />
+    <DCCReference Include="..\..\..\Rdo\Server\RDORootServer.pas" />
+    <DCCReference Include="..\..\..\Rdo\Server\RDOServer.pas" />
+    <DCCReference Include="..\..\..\Rdo\Server\WinSockRDOConnectionsServer.pas" />
+    <DCCReference Include="..\..\..\Rdo\Server\WinSockRDOServerClientConnection.pas" />
+    <DCCReference Include="..\..\..\Utils\CodeLib\AxlDebug.pas" />
+    <DCCReference Include="..\..\..\Utils\CodeLib\Threads.pas" />
+    <DCCReference Include="..\..\..\Utils\Misc\CompStringsParser.pas" />
+    <DCCReference Include="..\..\..\Utils\Misc\MathUtils.pas" />
+    <DCCReference Include="..\..\..\Utils\Network\HostNames.pas" />
+    <DCCReference Include="..\..\..\Utils\Network\SocketComp.pas" />
+    <DCCReference Include="..\..\..\Utils\Network\SpoolPackets.pas" />
+    <DCCReference Include="..\..\..\Utils\Serial\GenIdd.pas" />
+    <DCCReference Include="..\..\..\Utils\VCL\TypInfo.pas" />
+    <DCCReference Include="..\..\GMKernel.pas" />
+    <DCCReference Include="..\..\GMServer.pas" />
+    <DCCReference Include="..\GMList.pas" />
+    <DCCReference Include="GameMasterServerFrm.pas">
+      <Form>MainForm</Form>
+    </DCCReference>
+    <DCCReference Include="GMServerRDOMger.pas" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,15 @@
+=
+=
+strGeneralInformation=“Informação geral”
+strFacilityKind=Da “tipo facilidade”
+strTown=“Cidade”
+strCluster=“Conjunto”
+strCompany=“Companhia”
+strCEO=“CEO”
+strOperation=“Operação”
+strWorkforce=“Mão-de-obra”
+strHighClass=“Classe elevada”
+strWorkers=“trabalhadores”
+strOf=“de”
+strMiddleClass=“Classe média”
+strLowClass=“Baixa classe”

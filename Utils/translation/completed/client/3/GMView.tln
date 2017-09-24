@@ -1,0 +1,16 @@
+N2.Caption=Löschung
+Label1.Caption=Unterhaltung mit Ihnen:
+OnlineList.Columns=3
+OnlineList.Columns.0=Alias
+OnlineList.Columns.1=Niveau
+OnlineList.Columns.2=Welt
+Label2.Caption=Aufwartung Sie:
+WaitingList.Columns=3
+WaitingList.Columns.0=Alias
+WaitingList.Columns.1=Niveau
+WaitingList.Columns.2=Welt
+File1.Caption=&File
+EXitMnu.Caption=E&xit
+Shortcuts1.Caption=Abkürzungen
+Minimize1.Caption=Herabsetzen
+Chat1.Caption=Schwätzchen!

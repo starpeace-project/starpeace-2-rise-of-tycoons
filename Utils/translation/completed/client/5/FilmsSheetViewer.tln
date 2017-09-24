@@ -1,0 +1,11 @@
+Button2.Caption=取消
+Label1.Caption=标题：
+btnLaunch.Text=发射
+NameLabel.Caption=n/a
+Label2.Caption=时间：
+Label3.Caption=预算：
+btnCancelFilm.Text=取消
+btnReleaseFilm.Text=发行
+xfer_FilmBudget.Text=$10,000,000
+cbAutoRelease.Caption=自动发行
+xfer_FilmTime.Text=12

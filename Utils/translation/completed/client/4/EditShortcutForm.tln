@@ -1,0 +1,7 @@
+SkillBar4.Hint=
+Label1.Caption=Descrizione
+Label1.Hint=Fornire la descrizione della scorciatoia qui
+Label2.Caption=Scorciatoia
+Label2.Hint=Selezionare la scorciatoia
+Label3.Caption=Testo
+Button1.Caption=Aggiungere

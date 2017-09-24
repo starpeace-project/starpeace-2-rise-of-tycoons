@@ -1,0 +1,751 @@
+
+„Kunde“
+„Kunden“
+„Kunden“
+„An vorgewählte Kunden verkaufen“
+„Lieferant“
+„Lieferanten“
+„Lieferanten“
+„Kauf von vorgewählten Lieferanten“
+„Suche nach“
+„von“
+„Firmennamen“
+„Stadtname“
+„Suche“
+"RESET"
+„Beendigt“
+„Import-Lager“
+„Speicher“
+„Export-Lager“
+„Stadt-Geschäftsmitten“
+„Regelmäßige Lager“
+„Fabriken“
+„Listen-Begrenzung“
+„Suche resultiert“
+„wurden gefunden“
+„Sie können einiges von der Liste unten vorwählen und Verhältnisse zu ihnen beginnen, indem Sie klicken auf“
+„Nicht“
+„Vermutlich spezifizierten Sie die zu einschränkenden zufrieden gestellt zu werden Bedingungen. Eine breitere Suche bitte versuchen und einige Felder lassen, sich leeren“
+„Anlage“
+„Firma“
+„Stadt“
+„Preis“
+„Qualität“
+„Alle vorwählen“
+„Unselect alles“
+„Suchanweisungen“
+„Nach suchen“
+„die Form oben ausfüllen und „Suche“ dann an klicken“
+„VistaGrande“
+„sucht zu der Information, die Sie wünschen. Sie können alle Felder leer lassen, um die allgemeinste Suche zu erzielen“
+
+
+„OKAY“
+„Kann nicht binden, um einzuwenden“
+„Kann nicht an Bediener anschließen“
+„Traurig, ist dieser Aufstellungsort im Bau“
+
+
+„STÖRUNG: Konnte nicht an Industriemagnaten binden“
+„STÖRUNG: Konnte nicht anschließen“
+„Dieses baut alle Ihre Firmen und Anlagen ab. Sie erhalten $100.000.000 vom IFEL wieder, um vorbei zu beginnen. Sind Sie sicher dieses sind, was Sie tun möchten?“ 
+„Konto zurückstellen“
+„Annullieren“
+„Traurig, kann Industriemagnatinformationen nicht vom Bediener zurückholen“
+„Sie haben geregistriert keine Lieferanten für“ 
+„<b>Add</b> an klicken, um einiges zu addieren“
+„Eine Geschäftsmitte auch anstellen“
+„nur Lager Selbst-mit einschließen“
+„Hinzufügen“
+„Löschen“
+„Anfangslieferanten werden bloß auf die Liste der Lieferanten gesetzt, wenn Sie zuerst eine Anlage verursachen. Wenn Sie eine Anlage nicht an andere Lieferanten anschließen, enthalten Anfangslieferanten die Lieferantenliste von der Anlage. Alle Ihre Anlagen werden automatisch als Anfangslieferanten eingeführt, es sei denn Sie einschränken Ihre Vorwähler unter“ 
+„Traurig, kann Industriemagnatinformationen nicht vom Bediener zurückholen“
+„Bankkonto“
+„Datum“
+„Laufende Bilanz“ 
+„Bankverkehrsinformationen werden in der Realzeit aktualisiert. Klicken "" erneuern "" auf dem Werkzeugstab für die spätesten Abbildungen“
+„Bank von IFEL“
+„Die Bank wies Ihren Antrag zurück. Sie bereits haben das Maximum ausgeborgt, das Sie können.“
+„STÖRUNG: Kann Betrieb nicht durchführen“
+„Borgen“
+„Jährliches Interesse. Zu in %1 Jahren gezahlt werden“
+„Geld senden“
+„STÖRUNG: Industriemagnat nicht gefunden“
+„STÖRUNG: Unzulässiger Geldbetrag“
+„STÖRUNG: Kann Geld nicht bringen“
+„Zu senden“
+„Menge“
+„Senden“
+„Sie können Geld <br> nicht senden, das Sie empfingen mit Darlehen <br> oder als Teil Ihres Investor-Visum“ 
+„Sie haben kein zu senden Geld,“
+„Allgemeine Beamte können Geld nicht bringen“
+„Darlehen“
+„Bankadresse“
+„Zinssatz“
+„Ausdruck“
+„Folgende Zahlung“
+„Sie verdanken Geld nicht irgendeiner Bank. Wenn Sie <br> Geld von der Bank des IFELS borgen möchten, die Menge eintragen, die Sie <br> auf dem Eingangskasten oben wünschen und <b>Borrow</b> anklicken“
+„Traurig, kann Industriemagnatinformationen nicht vom Bediener zurückholen“
+„Sich auszahlen“
+„<b>NOTE:</b>, da dieses ein <b>DEMO</b> Konto ist, <br>you kann Geld <br>to nicht bringen andere Spieler oder Politische Figuren“
+„Geldüberweisung wird erlaubt nicht in den Turnierplaneten“
+„Sie haben die folgenden Firmen geregistriert. <br> wählen ein von der Liste oder verursachen ein Neues“
+„Mehr Info“
+„Neues verursachen“
+„Nicht eingeführt!“
+„<b>Note:Die </b> Werte, die in dieser Seite gezeigt wurden, konnten unterschiedlich im Augenblick sein“
+„(dieses Jahr)“
+„Produkt-Verkäufe“
+„Verkäufe instandhalten“
+„Mietet“
+„Anderes“
+„Versorgungsmaterialien“
+„Bezahlt“
+„Wartung“
+„Aufbau“
+„Forschung“
+„Anderes“
+„Firma-Wahlen“
+„Firmennamen kann leer nicht sein noch die folgenden Buchstaben enthalten:  \/:*?"" <>|&+%“
+„Eine neue Firma verursachen“
+„Einen Namen für Ihre Firma wählen. Mit einem der technologischen Aufträge des Bürgermeisters verbinden“
+„Störung“
+„Firmennamen“
+„Teilnehmer mit“
+„Hier klicken, um die Firma zu verursachen“
+„Zur vorigen Seite annullieren und gehen“
+„Traurig, kann Industriemagnatinformationen nicht vom Bediener zurückholen“
+„Lehrplan“
+„zeigt“
+„Konto zurückstellen“
+„Aktueller Stand“
+„Aufsteigen zum folgenden Niveau“
+„Konnte waagerecht ausgerichtetes nicht letztes Jahr verbessern“
+„Folgendes Niveau“ 
+„Erfordert“
+„in den Klassifizierungen“
+„Einzelteil“ 
+„Prestige“
+„Traurig, kann Industriemagnatinformationen nicht vom Bediener zurückholen“
+„<b>NOTE:</b>, da dieses ein <b>DEMO</b> Konto ist, können Sie nicht ebnen.“
+„Thplatz in der NTA Klassifizierung“
+„Profit u. Verlust“
+„Anfangslieferanten“
+„Firmen“
+„Strategie“
+„Tutorium“
+„Hier klicken, um Ihre Abbildung zu senden.“
+„keine“
+„inline“
+„Name“ 
+„Ihre Politik“
+„Seine Politik“
+„Ihre Politik in Richtung zu einem Industriemagnaten ändern“ 
+„Traurig, kann Industriemagnatinformationen nicht vom Bediener zurückholen“
+„Traurig, keine Handelsstrategieneinstellungen erlaubt in den Turnierplaneten.“
+„Die Werte, die in dieser Seite gezeigt wurden, konnten unterschiedlich im Augenblick sein“
+„lokale Lieferanten für“
+„wurden gefunden“ 
+„Anlage“
+„Firma“
+„Stadt“
+„Preis“
+„Qualität“
+„Einschließen vorgewählt“
+„Beendigte Suche“
+„Die Presse <b>SEARCH</b>, zum einer Liste des suppliers.<br> Urlaubs alle zu erhalten fängt leer auf, um das allgemeinste search<br> zu erzielen“
+„Selbstanschluß-Suche“
+„Industriemagnat-Wahlen“
+„Profit u. Verlust“
+„Merken“
+„Industriemagnat-Strategien-Wahlen“
+„Handelsstrategie“
+„Ihr gegenwärtiger Strategienstatus:“
+„Industriemagnat-Name“
+„Verbündeter“
+„Neutrale Person“
+„Feind“
+„Politik einstellen“
+„Persönliches Vermögen“
+„Durchschnittlicher Profit (dieses Jahr)“
+„Gesamtprestige“
+„Adel“
+„Fähigkeit“
+„von den Klassifizierungen“
+„für Sein auf dem höchsten Niveau“
+„für Haben von Darlehen“
+„Lehrplaneinzelteile“
+„Dissidenten“
+„PGI“
+„Mariko Unternehmen“
+„Moab“
+„Universallager“
+„Firma-Wahlen“
+„Einkommen“
+„Aufwendungen“
+„Zurück gehen“
+„Mit dieser Firma funktionieren“
+„Diese Firma auflösen“
+„Traurig, kann Industriemagnatinformationen nicht vom Bediener zurückholen.“
+„Firma-Liste“
+„Firmen“
+„Sie können bis %1 bringen“
+„Selbstanschlüsse“
+„Konto zurückstellen“
+„WARNEND!“
+„Abfinden“
+„Sind Sie, sure, das Sie auf Ihre anwesenden politischen Aufgaben verzichten möchten?“
+„Die Schaffung einer neuen Firma kann den automatischen Kauf einer neuen Forschung Lizenz mit einbeziehen. <br>Your folgende Lizenz kostet: “
+„Die Tutoraufgaben bringen nicht voran, wenn Sie nicht als Ihre Anfangsfirma angemeldet werden. Vor der Schaffung einer neuen Firma wir schlagen Sie komplett das Tutorium vor. <br><br>If, das Sie es irgendwie tun möchten, sicherstellen, dass Sie als Ihre erste Firma angemeldet werden, bevor Sie wieder aufnehmen das Tutor“
+
+
+„Sie können Ihre Abbildung von der Profil-Seite senden“
+„Den Reklameanzeige-Vorsprung an den Rathaus-Einstellungen besuchen, um Ihre Reklameanzeigeversorger zusammenzubauen“
+„Bürgermeister von“
+„Die Prioritätswerte unten ändern, um Ihre Werbezeit zu verteilen“
+value>%1</span> Schläge/Stunde der Werbung.„
+„Am höchsten“
+„Hoch“
+„Normal“
+„Niedrig“
+„Am niedrigsten“
+„keine“
+„inline“
+„Sie können Ihre Abbildung von der Profil-Seite senden“
+„Stärkster Anwärter“
+„zeigt“
+„Jahre zu den Wahlen“
+„Jahr zu den Wahlen“
+„Keine Wahlen auf Turnierplaneten“
+„Kein Präsident“
+„Kein Bürgermeister“
+„Name“
+„Prestige“
+„Populäre Bewertung“
+„Industriemagnat-Veranschlagen“
+„Bewertung IFELS“
+„Vollmachts-Nr.“
+„inline“
+„POPULAR<br> BEWERTUNG“
+„IFEL's<br> BEWERTUNG“
+„TYCOONS'< br> BEWERTUNGEN“
+„BÜRGERMEISTERS“
+„PRÄSIDENT“
+„WERBUNG“
+„Startende Kampagne für %1 in %2…“
+„STÖRUNG: Konnte nicht an Rathaus binden“
+„STÖRUNG: Konnte nicht anschließen“
+„Kampagne zurücknehmen“
+„Unzulässiger Industriemagnatname“
+„Dieser Industriemagnat kann nicht als ein Minister auftreten“
+„Dieser Antrag ist OKAY!“
+„Minister-Namen überprüfen“
+„Sie nehmen nicht an den kommenden Wahlen teil. Den Knopf an unten klicken, um Ihren Wahlkampf zu starten. Zu höher sein angenommen zu werden, sollte Ihr Prestige als %1 Punkte“
+„Produkteinführungs-Kampagne“
+„Sie sind die %1. Sie können eine Kampagne nicht haben“
+„Ihre Anwendung ist verweigert worden. Unsere Aufzeichnungen zeigen, dass Sie haben bereits eine allgemeine Verpflichtung“
+„Traurig, erfüllen Sie nicht die Erfordernisse für Haben Ihrer eigenen Kampagne. Ihr Prestige sollte als %1 Punkte höher sein“ 
+„Es ist zu spät, eine Kampagne zu starten. Kampagnen können während der ersten Hälfte des politischen Zeitraums nur begonnen werden.“
+„Keine Wahlen werden in den Turnierplaneten gehalten. Steuerwerte sind örtlich festgelegt und die notwendige Bodenordnung wird zur Verfügung gestellt, wenn der Planet geöffnet ist. Es gibt keinen Mindestlohn und Spieler müssen auf selbst für bürgerliche Anlagen neu legen.“
+„die *Values, die im Rot gezeigt werden, sind die, die Sie für die Übersicht sendeten. Diese Werte werden mit denen gemischt, die gesendet werden von anderen Industriemagnaten abhängig von persönlichem Prestige.“
+„Anmerkung: Über einem Einzelteil klicken, um Ihre Meinung zu senden. Das auch merken, das einen neuen Wert sendet, aufhebt einen vorhergehenden Wert, der gesendet wird von Ihnen“
+„Anmerkung: Das Forum der Lokalzeitung besuchen, um Ihre Bewertungen für diesen Politiker einzustellen“
+„Setzen“
+„Nennen“
+„Bewertung“
+„Mehr als“
+„Kleiner als“
+„Anmerkung: Über einem Einzelteil klicken, um Ihre Einstellungen zu spezifizieren.“
+„Keine“
+„OKAY“
+„Keine Anwärter“
+„Keine Wahlen sind gehaltenes <br> auf Turnierplaneten“
+„Nah“
+„YOUR<br>CAMPAIGN“
+„ALL<br>CAMPAIGNS“
+„Bürgermeister“
+„Präsident“
+
+
+„Die Haube funktioniert normalerweise“
+„Der Haube wurde kurz aufgehalten bei der Inhaber“
+„Die Haube arbeitet nicht richtig“
+„Eine oder mehrere Grundversorgungen werden nicht empfangen an allen“
+„Es gibt nicht genügend Geld, zum zu funktionieren“
+„Die Haube wird nicht geliefert, während sie richtig arbeiten muss“
+
+
+„HOME PAGE“
+„Produkte“
+„Versorgungsmaterialien“
+„Verbrauchend“
+„Produzierend“
+„von“
+„möglich“
+„Qualität“
+„Preis“
+„Anlage“
+„Firma“
+„Käufe“
+„Verkäufe“
+„Neues addieren“
+„Löschen vorgewählt“
+„Lieferant“
+„Kunde“
+„Lieferanten“
+„Kunden“
+„Inhaber“
+„Profit“
+„letztes Jahr“
+„Kosten“
+„Einkommen“
+„Überbezahlt“
+„geändert“
+„Overprice“
+„Anschluss“
+„hat geändert“
+„Jobs“
+„Haupt“
+„Belegschaft“
+„Erstklassig“
+„Mittelstand“
+„Niedrige Kategorie“
+„Gegenwärtige Arbeitskräfte“
+„Belegschaftqualität“
+„Bezahlt“
+„Prozentgehaltswerte stellt das Verhältnis zwischen gegenwärtigen Gehältern in dieser Anlage dar und Standardpreise in der Belegschaft vermarkten“
+„Anschl.“
+„Mehr über“
+„Mehr Info“
+„Einwohner“
+„Schönheit“
+„Verbrechen“
+„Verunreinigung“
+„Lebensqualität“
+„Miete“
+„Wartung“
+„Dienstleistungen“
+„Nachfrage“
+„Versorgungsmaterial“
+
+
+„Allgemeine Informationen“
+„Anlagenart“
+„Stadt“
+„Block“
+„Firma“
+„CEO“
+„Betrieb“
+„Arbeitskräfte“
+„Erstklassig“
+„Arbeitskräfte“
+„von“
+„Mittelstand“
+„Niedrige Kategorie“
+
+
+„Bau“
+„Belegschaft“
+„Erstklassig“
+„Mittelstand“
+„Niedrige Kategorie“
+„Bezahlt“
+„Hier klicken, um Namen zu redigieren“
+„Nach suchen“
+„OKAY“
+„Annullieren“
+„Traurig, kann nicht an diese Anlage anschließen“
+„Dieses stellt Verträge zwischen <b>%1</b> und allen Fabriken Sie own.<br>Also, <b>%1</b> wird hinzugefügt Ihrer Liste der Rückstellungslieferanten.“ her
+„Dieses stellt Verträge zwischen <b>%1</b> und allen Lagern Sie own.<br>Also, <b>%1</b> wird hinzugefügt Ihrer Liste der Rückstellungslieferanten.“ her
+„Dieses stellt Verträge zwischen <b>%1</b> und allen Speichern Sie own.<br>Also, <b>%1</b> wird hinzugefügt Ihrer Liste der Rückstellungslieferanten.“ her
+„Dieses bricht Verträge zwischen <b>%1</b> und allen Anlagen, die Sie haben.“
+„Der Mäuse-Cursor ändert seine Form, um Ihnen zu erlauben, Klienten für <b>%1</b> vorzuwählen direkt vom map.<br>To Abbruch dieses Betriebsklicken die Maus, wenn er anzeigt die forbiden Ikone.“
+„Name“
+„Firma“
+„Allgemeine Wahlen, zum <b>%1</b> eines Lieferanten von anderen Anlagen zu bilden, die Sie besitzen.“
+„Allgemeine Wahlen, zum der Lieferanten für <b>%1</b> einzustellen.“
+„Tipp“
+„General“
+„Miete“
+„Wartung“
+„Verursachte durch %1, Inhaber und CEO von %2.“
+„Straßen“
+„Demolieren“
+„Im Bau“
+„Traurig, ist dieser Aufstellungsort im Bau.“
+„Bevölkerung“
+„Arbeitslosigkeit“
+„Lebensqualität“
+„Polizei“
+„Gesundheit“
+„Schule“
+„Feuer“
+„Begann durch %1, Inhaber und CEO von %2.“
+
+
+„Anlagen“
+„Firmen“
+„Kapitol“
+„Städte“
+„Sie“
+„Leute“
+„Klassifizierungen“
+„Nachrichten“
+„Suche“
+„Rückseitig“
+„Haupt“
+„Besessen durch %1“
+„Mittel“
+„Reingewinn“
+„Kosten“
+„ROI“
+„Bereits“
+„Nie“
+„Post senden“
+„Im Diagramm zeigen“
+„Klassifizierung“
+„%1 ordnend“
+„Es gibt keine relevante Leistung zum Höhepunkt in diesem Bereich.“
+„Einwohner“
+„Arbeitslosigkeit“
+„Lebensqualität“
+„Besuchs-Web site“
+„Vermögen“
+„Dieses Jahr“
+„NTA Klassifizierung“
+„1. Platz.“
+„2. Platz.“
+„3. Platz.“
+„%1th Platz.“
+„Waagerecht ausgerichtet“
+„Prestige“
+„%1 Punkte.“
+„Profil zeigen“
+„Post senden“
+„Leute“
+„Index“
+„Hat“ Bankkonto
+
+
+
+„Hilfe ist im Bau!“
+„Sie haben die folgenden Firmen geregistriert. Ein von der Liste wählen oder ein Neues verursachen.“
+„Firmen“
+„Sie haben geregistriert die folgenden Firmen in %1.“ 
+„Ein von der Liste wählen oder ein Neues verursachen.“
+„Privat“
+„mehr Info“
+„%1 Anlagen“
+„Neues verursachen!“
+„Es gibt keine Aufzeichnung von Ihnen in den Akten IFELS für %1. Sie benötigen ein Visum, diese Welt zu kommen. Günstige Möglichkeiten der Geldanlage sind für Halter der Industriemagnat-Visa endlos, während Touristen ihren Aufenthalt using ein Besucher-Visum genießen können.“
+„Es scheint, dass Sie Willkommen bereits %1. zurück besuchten! Wie Sie wissen müssen, müssen Besucher-Visa erneuert werden, jedes Mal wenn Sie bitten, diese Welt zu betreten. Möglicherweise ist es Zeit, einem Investor zu stehen!“
+„Industriemagnat-Visum“
+„$100.000.000 erhalten“
+„Eine Firma verursachen“
+„Ein Reich errichten!“
+„Besucher-Visum“
+„Neue Leute des Treffens“
+„Sehen, was geschieht“
+„Werden ein Industriemagnat später“
+„Über einer der Welten klicken, die nachstehend aufgeführt werden, um zu verbinden.“
+„%1 Einwohner“
+„Jahr %1“
+„%1 Industriemagnaten“
+„%1 on-line“
+„Annullieren“
+„Helfen“
+„Grosse Dichtungsinhaber“
+„PGI“
+„Dissidenten“
+„Mariko Unternehmen“
+„Der Moab“
+„Spezielle Dichtungsinhaber“
+„Universallager“
+„Gründete durch die wohlhabendsten Organisationen in Europa, PGI zur Verfügung stellt einige der besten Technologien, die heute vorhanden sind. Unabhängig davon Ihr Niveau wenn Sie Leistungsfähigkeit suchen und Qualität PGI die Weise zu den go.<p>PGI Industrien sind leistungsfähig und zur Schau stellen die beste vorhandene Produktionsqualität ist, aber seine Anlagen sehr teuer sein. PGI ist die einzige Dichtung, die Papier-und Drucken-Materialien in den neuen Welten produzieren gelassen wird. Chemikalien, Kleidung, residentials und Handelsmitten sind seine Stärke.“
+„Pro“
+„Legt“ herein
+„Sehr leistungsfähige Industrien, mit der besten Produktionsqualität vorhanden.“
+„Hohe Preise. Industrien sind zu groß manchmal.“
+„Stärkste Bereiche“
+„Schwächste Bereiche“
+„Chemikalien, Kleidung, Wohngebäude, Speicher und andere Handelsmitten.“
+„Kein weit bekannt diesem.“
+„Führte durch Markus Blomke-Gründer von IFEL-zur Balance die Gebäude der Kolonien' politische Landschaft ein, war die meisten der abweichenden Technologie entworfen, um für beginners.<p>Dissidents ideal zu sein' sport sehr niedrige Preise, gleichwohl die Produktionsqualität niedrig ist und das Leistungsfähigkeits-Niveau nicht das beste vorhandene ist. Dissidenten haben die Exklusivität auf der Produktion der Alkohole, der Spielwaren und des Holzes. Beste Leistung ist in der Landwirtschaft, in der Software, in den Stäben und in den Mitteln.“
+„Sehr niedrige Preise. Niedrige Niveaus der Verunreinigung. Kleine Entwürfe ideal für niedrige bevölkerte Bereiche.“
+„Niedrige Qualität der Produktion. Niedrige Leistungsfähigkeit. Archiquecture ist manchmal unbeholfen.“
+„Landwirtschaft, Software, Stäbe und Mittel.“
+„Residentials Gebäude, Bergbau, metallurgisches und Heavy Industries.“
+„Mariko Unternehmen bietet in hohem Grade an - die konkurrierenden Lösungen, die auf dem Wissen entwickelt wird vom Japaner in den letzten century.<p>Since Mariko Industrien basieren, werden in hohem Grade automatisiert, benötigen sie wenige Arbeitskräfte und sind sehr leistungsfähig. Ihre kleineren Strukturen sind verhältnismäßig billig und garantieren weniger Verunreinigung. Plastikproduktion und Cd werden zur Mariko Dichtung aufgehoben. Seine stärksten Geschäftsbereiche sind elektronische Bauelemente, Rechtsanwälte, Büros, Haushaltsgeräte und Geschäftsmaschinen.“
+„Niedrige Niveaus der Verunreinigung. Industies in hohem Grade automatisiert. Hohe Stufen von efficency. Verhältnismäßig niedrige Preise.“
+„Niedriger Widerstand zum Verbrechen und zur Verunreinigung. Hohe Automatisierung kann Arbeitslosigkeit erhöhen.“
+„Elektronische Bauelemente, Rechtsanwälte, Bürohaus, Haushaltsgeräte und Geschäftsmaschinen.“
+„Nahrungsmittelverarbeitung, residentials Gebäude und Mittel.“
+„Ein frommer Auftrag, der Moab wurde in Texas von einem wohlhabenden deutschen Immigranten gegründet. Der Moab ist ein Geisteszustand, der durch ein Sadomasochistritual nur erzielt werden kann, das nur zu denen aufgedeckt wird, die das cult.<p>Thanks zur Zentralisierung aller bürgerlichen Gebäude im Korrektur umfassen, diese Dichtung ist das Beste im Fightingverbrechen und -feuer. Moab hat die Exklusivität der Öl-Gasproduktionskette: Ölplattformen, Raffinerien und Tankstellen; der beste Bergbau und die Chemikalien; gute Hochs und Tiefskategorie residentials.“
+„Feuerbekämpfung des großen Verbrechens und. Sehr leistungsfähige Industrien. Gemäßigte Preise.“
+„Dunkelheit und manchmal frighting Entwürfe.	Einige Leute mögen nicht in den Moab-Industrien arbeiten. Es ist erklärt worden, dass merkwürdige Morde auftreten in ihren Wohngebäuden.“
+„Der beste Bergbau und die Chemikalien in der Welt. Erstklassige und niedrige Kategorie residentials.“
+„Mittelstandresidentials und -mittel. Die Landwirtschaft und die Nahrungsmittelverarbeitungsmethoden sind- misstrauisch.“
+„Spezielle Dichtungsinhaber“
+„Firma-Liste“
+„Sie müssen eine on-line-Seriennummer des gültigen Vermächtnises zur Verfügung stellen.“
+„Sie müssen ein gültiges email address zur Verfügung stellen.“
+„Sie müssen Ihren vollständigen Namen im realen Leben angeben.“
+„Die Kennwörter, die Sie lieferten, passen nicht.“ zusammen
+„Sie müssen ein Kennwort zur Verfügung stellen.“
+„Sie müssen einen angenommenen Namen zur Verfügung stellen.“
+„Die folgenden Informationen bitte liefern.“
+„Störung“
+„Alias“
+„Kennwort“
+„Kennwort wiederbetreten“
+„Seriennummer“
+„Vollständiger Name“
+„Geschlecht“
+„Email address“
+„EMail, die ich über Ereignisse bezog auf Vermächtnis online oder meinem Konto.“
+„NICHT tun eMail ich über die Ereignisse, die online bezogen werden auf Vermächtnis oder meinem Konto.“
+„Mein email address NICHT zu anderen Spielern veröffentlichen.“
+„Mein email address zu anderen Spielern veröffentlichen.“
+„WICHTIG: Der angenommene Name, den Sie hier wählen, wird verwendet, um Sie im on-line-Universum des gesamten Vermächtnises darzustellen. Sie sind nicht in der Lage, ihn später zu ändern, es sei denn Sie zurücktreten zu allen Ihren possesions und zu Ausführungen im Spiel.“
+„OKAY“
+„Firmennamen können leer nicht sein oder die folgenden Buchstaben enthalten“
+„Einen Namen für Ihre Firma wählen. Auch einen Technologieversorger beschließen, um mit zu verbinden.“
+„Firma verursachen“
+„Firmennamen“
+„Traurig, müssen Sie das waagerecht ausgerichtete Paradigma erzielen oder mindestens 100 Adel-Punkte zum Haben Zugang zur Magna-Dichtung haben.“
+„Teilnehmer mit“
+„Magna Corp“
+„Das IFEL, betroffen über Überbevölkerung in den Kolonien, bewilligte eine spezielle Dichtung Magna Corp von Earth.<p>Magna sich spezialisiert auf sehr große Strukturen: Archologies (massive Wohngebäude) und sehr große Handelsmitten. Bis jetzt ist die einzige Industrie, die für sie vorhanden ist, die Film-Studios. Diese Dichtung kann zu den Investoren nur genehmigt werden, die erzielten Paradigmaniveau.“
+„Diese Technologie wird nur zu jenen Investoren genehmigt, die erzielten waagerecht ausgerichtetes Paradigma.“
+„Universallager liefern ausgezeichnete einlagerntechnologie. Das IFEL regt stark den Gebrauch der Lager in den Kolonien an. Sie helfen, die vollständige Wirtschaft zu steuern und erleichtern das Management der großen Firmen.“
+„Weltliste“
+„Vermächtnis online ist hinunter“
+„„Können Name“ und „Kennwort“ Felder nicht leer gelassen werden!“
+„Sie f imsind Begrif, %1. einzugeben eintragen Ihren Namen und Kennwort für diese Welt. Wenn Sie ein Neuling sind, Nachricht, dass der Name, den Sie hier eintragen, Ihr Spitzname in dieser Welt ist. Sicher auch sein, ein Kennwort zur Verfügung zu stellen (und es nicht vergessen!)“
+„Nennen“
+„Wartezeit. Kontakt mit %1 herstellen…“
+„LOGON-Störung“
+„Ihr Antrag war zurückgewiesene Schuld ein Störung.“
+„Konnte nicht zum Vermächtnis online anmelden!“
+„Traurige, aber Vermächtnison-line-Bediener sind unten. <br>You kann nicht jetzt anmelden. Bitte später versuchen.“
+„Bediener nicht gefunden. <br>Please ist sicher, dass Sie haben einen aktiven Anschluss zum Netz.“
+„Unzulässiges <b>User Name</b>.“
+„Es gibt jemand using den Namen, den Sie spezifizierten.“
+„Es gibt zwei mögliche Ursachen für diese Störung“
+„(a) loggen Sie zum ersten Mal und Sie wählten einen Namen, der wird bereits genommen.“
+„(b) haben Sie bereits eine Identität in dieser Welt, aber Sie spezifizierten ein unzulässiges <b>password</b> oder fehlbuchstabierten Ihren Namen. Uns informieren, falls Sie Ihr Kennwort vergaßen. Wir können Ihnen helfen, es zurückzubekommen.“
+„Wie tat, tun Sie das! Dieses ist nicht eine häufige Störung. <br>It kann geschehen, wenn zwei Leute versuchen, using das gleiche <b>User Name</b> gleichzeitig anzumelden. <br>The, das allererstes man das Konto, zweite erhält, muss using einen anderen Namen anmelden. <br>This ist Ihr Fall.“
+„Einige, wie der Bediener nicht an die Klientenwiederholungsbesuche binden könnte.“
+„Sie können nicht using diesen Namen anmelden!“
+„Eine unbekannte Störung trat.“ auf
+„Wenn Sie diese Art der Störung häufig erhalten, bitte berichten Oceanus.“
+„Spritzen“
+„Ein Spiel durch“
+„Klicken, um hereinzukommen…“
+„Vermächtnis online konnte Ihre Kontoinformationen nicht im Bediener speichern. Bitte noch einmal versuchen und Oceanus berichten, falls es ausfällt wieder.“
+„Dieses Konto ist bereits gebräuchlich. Einen anderen angenommenen Namen bitte versuchen.“
+„Unzulässige Seriennummer“
+„Konnte nicht an Vermächtnis Online+servers anschließen“
+„LOGON FÜNF“
+„Jetzt können Sie fortfahren, innen zu unterzeichnen. Den OKAYknopf unten klicken, um zum Sign-inschirm zurück zu gehen.“
+„Der Name, den Sie angaben, ist unzulässig, oder es gibt bereits eine Firma using diesen Namen.“
+„Ein unbekanntes Problem trat auf, als versuchend, Ihre Firma zu registrieren. Bitte noch einmal versuchen.“
+„ANMERKUNG: In dem Augenblick als nur Besucher-Visa in dieser Welt bewilligt werden können, weil sie hat erreicht seine maximale Industriemagnatkapazität.“
+„Tremendos carnas 0“
+„Tremendos carnas 1“
+„Tremendos carnas 2“
+„Tremendos carnas 3“
+„Tremendos carnas 4“
+„ANMERKUNG: In dem Augenblick als nur Besucher-Visa in dieser Welt bewilligt werden können, weil sie seine maximale Industriemagnatkapazität erreicht hat. Ihr Investorabenteuer in einer der anderen Welten versuchen.“
+tidTycoonVisaNote
+„ANMERKUNG: In dem Augenblick als, Sie ein Industriemagnat-Visum für diese Welt nicht erhalten können. Unser Aufzeichnungserscheinen, das Sie bereits als Industriemagnat in der Höchstzahl der Welten spielen, ließ durch Ihre Adelpunkte.“
+
+
+
+„Bürgermeister von“
+„OKAY“
+„Bewertungen von“
+„STÖRUNG: Konnte nicht an Rathaus binden“
+„STÖRUNG: Konnte nicht anschließen“
+„Sie müssen einen Titel für Ihre Spalte liefern“
+„Es gab eine Störung bei der Aufgabe Ihrer Mitteilung. Bitte noch einmal versuchen“
+„Klicken“
+„hier“
+„zu Ihrer Form zurück gehen“
+„durch“
+„Willkommen zum %1 redaktionellen Abschnitt“
+„Die Verbindungen am links an klicken, um die Spalten zu lesen, die von Ihren Mitinvestoren veröffentlicht werden. Die Form unten überprüfen, falls Sie Ihre eigene Spalte bekannt geben möchten“
+„Eine Spalte bekannt geben“
+„Unterwerfen“
+„Veranschlagen“
+„Präsident“
+„Bürgermeister“
+„Antwort auf diese Spalte“
+„Pfosten im Hauptgewinde“
+„Pfosten-Spalte“
+„Form zurückstellen“
+„Einen Titel zu Ihrer politischen Aussage bitte zur Verfügung stellen“
+„Ihre Bewertungen hier eintragen. Urlaub im freien Raum die Werte, die Sie nicht geändert werden möchten“
+„Anmerkung: Ihre Bewertungen werden geberücksichtigt abhängig von Ihrem Prestige“
+„Ihre Anmerkungen zu Ihren Bewertungen“
+„Bewertungen einreichen“
+„Form zurückstellen“
+„SPALTEN LESEN“
+„NACHRICHTEN LESEN“ 
+„NAH“
+„, anschließend an %1 Bediener…“
+„Spät 10 Spalten:“
+„Eine Spalte bekannt geben“
+„Antworten:“
+„Alle Spalten“
+„Spät 3 Spalten“
+„Einstellung“
+„zu“
+
+
+„Normalerweise funktionierend“
+„Hielt bei sich den Inhaber“ kurz auf
+„Betriebsmühe“
+„Ein wesentliches Versorgungsmaterial (oder mehr) werden nicht empfangen“
+„Nicht genügend Geld zum zu funktionieren“
+„Nicht genug Versorgungsmaterialien“
+
+
+„In Geschichte zurück gehen“
+„In Geschichte vorwärts gehen“
+„Alle Ansichten erneuern“
+„Navigation stoppen“
+„Starpeace Home Page“
+„Anzeigen-Baumenü“
+„Ein Investorvisum erhalten“
+„Das Netz suchen“
+„Benutzerprofil“
+„Diagrammansicht“
+„Universum-Ansicht“
+„Post“
+„Schwätzchen“
+„Wahlen“
+„Rufen GMs um Hilfe“
+
+
+„Wahlen“
+„Bau“
+„Rückseitig“
+„Haupt“
+„Fellinfo“
+„Mehr Info“
+„Anlagen-Liste“
+„NICHT VORHANDEN“
+„Gebäude muss in der hellgrünen Zone oder in keiner Zone an allen sich befinden“
+„Gebäude muss in der mittleren grünen Zone oder in keiner Zone an allen sich befinden“
+„Gebäude muss in der dunkelgrünen Zone oder in keiner Zone an allen sich befinden“
+„Gebäude muss in der gelben Zone oder in keiner Zone an allen sich befinden“
+„Gebäude muss in der blauen Zone oder in keiner Zone an allen sich befinden“
+„Bau jetzt“
+„Straßen“
+„Bürgermeister“
+„Minister“
+„Präsident“
+„von“
+„Sie sind nicht der Bürgermeister!“
+„Lehrlinge können Straße nicht errichten“
+„Gesundheit“
+„Ausbildung“
+„Verteidigung“
+„Landwirtschaft“
+„Helle Industrie“
+„Schwerindustrie“
+„Handel“
+„Gehäuse“
+„Stadtplanung“
+„Bau-Kapitol“
+„Erstklassiges Wohn“
+„Mittelstand Wohn“
+„Low-class Wohn“
+„Werbung“
+„Gemeinschaftskunde“
+„Büros“
+„Industriell“
+„Hob“ auf
+„De-Zone“
+„Straßenwahlen“
+„Demolieren“
+„Railroad“
+„Ein kurzer historischer Hintergrund…“
+„Tätigkeit findet in naher Zukunft statt. Masse ist auf der Kante des Einsturzes. Überbevölkerung und der Missbrauch der Natur sind, ein einmal grüner Planet gelaufen, trocken. Erste Weltländer werden fertig, gegen die Dritte-Welt-Länder in den Krieg zu gehen und hoffen, dass dieses vermindert die Situation.“
+„Als Alternative zu dem, bietet das IFEL (internationale Grundlage für außerirdisches Leben) ein revolutionäres Programm, mit Codename <b>Legacy</b>.“ an
+„Ansicht IFELS“
+„IFEL steuert Portale des geheimnisvollen Ursprung. Diese Portale werden benutzt, um die neuen Welten zu bevölkern.“
+„Erdenbürger können ein IFEL Visum beantragen und ein neues Leben in einer dieser Welten finden. Jenen hervorragenden Einzelpersonen, die qualifizieren, werden eine spezielle Art Visum bewilligt: das Investor-Visum. Investoren empfangen 100 Million Dollar von IFEL, um diese Kolonien zu entwickeln. <b>You kann eins von them.</b> sein“
+„Die Dichtung“
+„Ein auserwähltes wenige Firmen in der Welt kann die vielseitige Verwendbarkeit und die Energie zusammenbringen, die erfordert werden, eine IFEL Dichtung zu gewinnen.“
+„Die Dichtung erlaubt einer Firma, Technologielösungen zu den Investoren zur Verfügung zu stellen. Gegenwärtige Dichtungs-Inhaber sind: PGI, Mariko Unternehmen, Dissidents Inc, der Moab und Magna.“
+„Preiskalkulationsinformationen“
+„<b>Legacy Online</b> ist frei bis weitere Nachricht.“
+„Systemsanforderungen“
+„<b>Legacy Online</b> laufen lassen, das Sie benötigen“
+„Pentium II 500 MHZ, 32 MBYTEs RAM“
+„Windows 95, 98, NT 4.0, 2000, XP“
+„hicolor 800x600 Entschließung oder grösseres“
+„Internet Explorer 5.5“
+„50-MBYTE-Festplattenspeicher“
+„Aktiver Internetanschluss“
+„28.8 Kb/s Modem“
+„Die Geschwindigkeit Ihrer Videokarte in diesen Modi ist bestimmend für Ihr gameplay.“
+„Willkommen zum Vermächtnis online“
+„Dieses Programm bringt Vermächtnis online auf Ihren Computer.“ an
+„Eine der folgenden Verbindungen wählen, wenn Sie mehr wissen möchten, bevor Sie anbringen“
+„Anforderungen“
+„Preiskalkulation“
+„, Bestandteile aktualisierend…“
+„<b>Legacy Online</b> sucht nach neueren Bestandteilen.“
+„LOGON FÜNF“
+„Neu“
+„Löschung“
+„Antwort“
+„Vorwärts“
+„Post-Mitteilung“
+„Den <b>Inbox</b> Vorsprung an klicken, um die Mitteilungen zu sehen, die Sie haben empfangen.“
+„Den <b>Sent</b> Vorsprung an klicken, um die Mitteilungen zu sehen, die Sie haben gesendet.“
+„In <b>Draft</b> finden Sie unfertige Mitteilungen gespeichert von Ihnen.“
+„%1here%2 anklicken, um mehr über Post des Voyagers zu lesen.“
+„Mitteilung verschicken“
+„Keine Zubehöre.“
+„Störung: Kann die Mitteilung nicht öffnen…“
+„Nah“
+„Von“
+„“
+„Thema“
+„Datum“
+„Willkommen bis %1!“
+„BESCHEINIGUNG“
+„In Zonen aufteilender Alarm!“
+„Etwas von Ihrem Gebäude sind heraus in Zonen aufgeteilt worden. Dieses ist eine Liste von ihnen. Die Verbindung an dort klicken, um die Diagrammbewegung zu haben.“
+„Name:“
+„Firma:“
+„Vorbei in Zonen aufgeteilt:“
+„Demoliton Datum:“
+„Geldüberweisung erfolgreich“
+„National Bank“
+„Menge“
+„Liebe %1:“
+„Die unabhängige Bundesregierung von %1 gibt Ihnen das herzliche Willkommen. Wir hoffen, dass Sie Ihr Vermögen hier in unserem Land multiplizieren, das jetzt Ihr ist. Da eine Tat der profunden Sympathie unsere Regierung stolz ist, Ihnen den Zustand „des Gastes der Ehre“ zu geben.“
+„Sind hier einige nützliche Verbindungen“
+„, wie man investiert Ihr Geld“
+„%1, das Land“
+„Die Konstitution von %1“
+„Über den Gast des Ehrenpreises“
+feedback>your feedback</a> und Sie konnte das Spiel auswirken! Eine aufregende neue Grenze erwartet, jetzt geht und erweitert sich!„
+„Dieses E-Mail-Konto wurde an keiner Gebühr verursacht. Sie können es verwenden, um zu senden und Mitteilungen mit anderen Leuten zu empfangen, die bereits einen Wohnsitz in %1 jedoch es haben, arbeitet nicht, um Mitteilungen zu anderen Welten, einschließlich Masse zu schicken. Wie Sie wissen müssen, entwickelt das Internet Engineering Task Force noch ein Protokoll, das durch Portale verwendet werden kann.“
+„Da ein Investor Sie das Recht zu einer freien eMail jede mögliche Firma erklären lassen, verursachen Sie. Diese Konten werden auch verursacht an %1.net, unser Hauptgebiet.“
+„Gutes Glück im Geschäft!“
+„Willkommen an Bord,“
+„Global“
+Grundlegende Strategie Page>Strategy Section</a>.<br><br>If, das Sie nicht diese Nennung annehmen möchten, oder Sie möchten während Ihrer Zeitdauer zurücktreten, zu Minister Company schalten, zur Profil-Seite gehen und abfinden Button.<br><br>Regards, <br>IFEL Rat an klicken.„
+„Bitte warten, während <b>Legacy Online</b> herunterlädt neue Akten…“
+„Kein zu erforschen Geld“
+„Liebes <b>%1</b>, <br> entsprechend unseren Aufzeichnungen, versuchten Sie, <b>%2</b> an den Hauptsitzen der Firma <b>%3</b> zu erforschen.“
+„Leider haben Sie nicht genügende Kapital, zum es abzuschließen, ohne Ihr Konto unter Bankrott-genaue Untersuchung zu senden. <br><br> warten bitte, bis Sie mehr Geld haben, vor es wieder erforschen.“
+„Leider, haben Sie nicht genügende Kapital für die Lizenz, die zu ihr angebracht wird, und der Kauf solcher Lizenz würde Ihre Firma unter Bankrott-genaue Untersuchung senden. <br><br> bitte warten, bis Sie mehr Geld haben oder erwägen, eine andere Lizenz zu verkaufen, vor sie wieder erforschen.“
+„Respekt, <br><br>IFEL Rat“
+

@@ -1,0 +1,8 @@
+CaptionPanel.Caption=ERROR DESCONOCIDO
+SendBtn.Hint=Chascar para enviar su mensaje
+SendBtn.Text=Enviar
+SaveBtn.Hint=Chascar para ahorrar su mensaje
+SaveBtn.Text=Ahorrar
+CloseBtn.Hint=Cerrar este mensaje
+CloseBtn.Text=Cerrarse
+Label1.Caption=Para:

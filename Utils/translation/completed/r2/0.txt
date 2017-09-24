@@ -1,0 +1,2766 @@
+Electronics Production
+Assimilate the knowledge to manage the production of electronics.
+Industry
+Large Scale Electronics Production
+Manage large scale electronics production.
+Industry
+PC Parts Auto Replacement
+A service that automatically ships customer's the latest components for their personal computers as soon as it's produced. This ensures they always have the most up-to-date pc.
+Industry
+CPU Power Theorem
+Following the theory that the power of a PC's CPU doubles every three years, your factories accordingly implement a long term production plan.
+Industry
+Wafers Recycling Program
+Your factories collect old circuit boards wafers to recycle them for new circuits.
+Industry
+The Beginner Electrician
+A crafty way to get rid of the surplus of electronic components: sell a selection of them in a box for amateur electricians.
+Industry
+Faraday Houses
+Build a Faraday Cage around houses to protect customers from lighting, this also kills static. Perceived as a security measure.
+Industry
+Electronic Ink
+Produce electronic ink: micro magnetic particles that once subjected to a particular magnetic field arrange themselves into letters and words. The end of the era of paper notebooks.
+Industry
+Global Wiring Plan
+Implement a strategy to build an Internet Network on the extraterrestrial worlds.
+Industry
+Vacuum Assembling
+Your electronic parts are assembled in vacuum tight environments. The absence of air prevents any impurities.
+Industry
+Nano-circuits
+Build the smallest electronic circuits possible; they are extremely precise and reliable, but they have to be assembled in a total vacuum environment.
+Industry
+Universal Component
+All your electronic components evolve from a basic universal component: cost effective, but the quality of the derivates suffers.
+Industry
+Metal Detector
+To prevent workers from stealing costly parts, your plants have metal detectors at the entrances.
+Industry
+Anti-Paper Campaign
+To promote Electronic Ink, you launch a anti-paper media campaign with an ecological slant.
+Industry
+Self-Destructing Components
+To avoid the theft of your technology, your components are destroyed by acid if opened after they've been sealed.
+Industry
+Personal Id Chips
+You produce a new circuit to be inserted under human skin that serve as Id once scanned by an external device. The public opinion fears "Big Brother" scenarios.
+Industry
+Magnetic Monitoring
+Every time a suspended wire is installed, a test to see if the magnetic field disturbs the inhabitants of the surrounding area is performed.
+Industry
+Metallurgy
+Basic metallurgy production.
+Industry
+Auto-Cooling Suits
+Your workers wear suits that have fresh water running over their body to keep them cool in the plant's high temperature environment. Unfortunately, the suits make them a little clumsy.
+Industry
+Ultimate Titanium Alloy
+Production of the strongest metal alloy ever created by man; used mainly in the aerospace industry.
+Industry
+Cryogenic Steel Cooling
+The steel you produce is cooled at cryogenic temperatures making the overall process more efficient.
+Industry
+Nanotechnology Developments
+You produce metallics micro-parts for nanotechnology uses. It forces your plants to implement a better quality process.
+Industry
+Extraterrestrial Alloys
+The slightly different chemistry and physic's principles on the new worlds allow you to create new alloys that can't be produced on Earth.
+Industry
+Ore Screening
+Your plants implement an additional screening process on the ore extracted from mines; costly but improves quality.
+Industry
+Precious Metal Treatment
+You recycle the impurities extracted from precious metal from industrial production to create a jewellery line.
+Industry
+Superconductor Production
+By using the high-end technology needed to produce superconductors, you increase the quality of your products.
+Industry
+Security Collapsing Mechanism
+Your large plants have a system that collapses the furnace into an underground cavity in the event that fuse metal leakage occurs: very effective in emergencies.
+Industry
+Built-In Transmitters
+The metal parts you produce have a built-in transmitter that alerts to when the part is ruined; extremely useful for buried components like pipes.
+Industry
+Zero Gravity Shaping
+The shaping of metal is performed in a special free-falling cabin within your plant. The zero-gravity field inside it permits a better quality process.
+Industry
+Atom Size Metal Sheets
+The use of zero-gravity shaping permits you to create sheets of metal that are only a few atoms in width; extremely useful in industrial applications.
+Industry
+Internal Bus System
+A metallurgic plant's living quarters have to far removed from the plant due to its high temperatures. In large plants, an internal bus system efficiently moves workers.
+Industry
+Metallic Art
+You recycle the metal pieces thrown away from the production process as artistic sculptures created by a fictional artist from Earth. You gain a reputation as an art expert.
+Industry
+Metallurgy Museum
+You create a metallurgy museum in your industry headquarters. Viewing the history of metal working motivates your employees.
+Industry
+Farming
+License to build farms.
+Industry
+Large Farms
+Develop the basic skills necessary to create and manage large farms.
+Industry
+Extraterrestrial Climate
+Learn how the planet's climate conditions can affect or improve farm production.
+Industry
+Water Pumps
+Ease nutritious flow in organoponic cultivation.
+Industry
+Water Control
+Check farm water for harmful micro-organisms.
+Industry
+Synthetic Soil
+Expand the area of cultivation.
+Industry
+Automatic Irrigation
+An automated system that monitors land and only irrigates it when necessary.
+Industry
+Induced Photosynthesis
+Increase the ability to generate energy in plants, thus accelerating their growth.
+Industry
+Synthetic Animal Food
+Helps feed livestock.
+Industry
+Biogenic Feeding
+Animal's digestive system is connected to a centralized system which pumps out food.
+Industry
+Advanced Genetics
+Incorporate genetics' latest discoveries into your company's research and devleopment.
+Industry
+Extraterrestrial Genetics
+Study the colony's genetic heritage.
+Industry
+Mutant Colonial Plants
+Develop a mutant vegetable species.
+Industry
+Vegetable Music
+Increase plants growth by creating a rich musical environment.
+Industry
+Skinless Pigs
+Pigs with no skin contain less fat.
+Industry
+Mice Recycling
+Farm mice are used for livestock food.
+Industry
+Artificial Sunlight
+Develop a special greenhouse glass that replicates the parameters of earth's sunlight.
+Industry
+Plague Control System
+Plagues are detected and automatically exterminated.
+Industry
+Personal Hygiene Control
+Employees are constantly cleaned at hygiene halls.
+Industry
+Refrigerated Ingredients
+Much cheaper than buying fresh ones every day, they don't taste as good though.
+Commerce
+Televisions in the dining room
+News in the morning, soap operas in the afternoon.
+Commerce
+Cable TV
+More TV channel choices.
+Commerce
+Combo Meals
+The name says it all.
+Commerce
+Supersize combo meals
+Allows customers to upsize their combo meal .
+Commerce
+Daily Specials
+Offer a different special each day.
+Commerce
+Speciality sandwiches
+Offer more sandwich varities.
+Commerce
+Double drive-thru technology
+Allows twice the number of drive-thru customers to order at once.
+Commerce
+Kid's Meals
+A special menu made specifically for children makes your restaurant a favorite for families.
+Commerce
+Indoor play grounds
+The name says it.
+Commerce
+Birthday Reservations
+Offer birthday parties for children.
+Commerce
+Frozen Drinks
+Your choice of drinks is greatly improved.
+Commerce
+Special Logo cups
+Create special logo cups that customers can reuse.
+Commerce
+Handicapped Parking
+The name says it.
+Commerce
+Onion Rings
+Offer onion rings instead for those who dont care for fries.
+Commerce
+Fertiliser Basics
+License to produce Fertiliser.
+Industry
+Large Fertiliser Factories
+Learn the basic skills to create and manage large Fertiliser Factories.
+Industry
+Full-Body Protection
+Every plant employee must wear a full-body protective suit for security reasons.
+Industry
+Recycling Chemical Waste
+When possible, all chemical waste produced is used for other processes. The quality is lowered, but it demonstrates an environmentally friendly attitude.
+Industry
+Extra Strong Vacuum Pumps
+Plants are equipped with extra strong vacuum pumps to ensure a better environment for the chemical reactions.
+Industry
+In-House Waste Disposal
+Waste from processes never officially leave the plant. However, disposal methods are unclear and environmentalists express concern.
+Industry
+Purifier Upgrading
+You use the best purifiers available, constantly updgrading. While this is somewhat costly, it's good for public opinion that is strongly in favor of it.
+Industry
+Raw Material Control
+Before any purchased raw material is used for your factories processes', it undergoes an internal check.
+Industry
+Massive Storage
+Not withstanding the fact this process can be perceived as dangerous, your factories buy Raw Materials in bulk and keep a large amount in stock; reducing costs and avoiding any potential shortages.
+Industry
+Frequent Instrument Replacement
+Your factories implement a policy calling for the compulsory and frequent replacement of small disposable instruments like Bunsen burners and glass test tubes.
+Industry
+Total Plant Automation
+Your plants are completely automated improving security, quality and efficiency. Humans remain due to union pressure and act as controllers.
+Industry
+Dioxin Emission Control
+You have a special procedure that restricts the emission of the substance that has caused the largest chemical disasters in human history.
+Industry
+Crisis Monitoring Center
+You establish a task force in your industry headquarter that monitors all your plants and alerts authorities in the event of a crisis. This centralized procedure permits you to save money on security
+Industry
+Internal Hospital And Fire Station
+Every large plant has a small internal hospital and a fire station. This instills your employees with confidence, making them work better. You seem like you really care.
+Industry
+Anti-Spy System
+To avoid the theft of intellectual property, factories have a very tight security system in place. As a result you can improve processes without worrying about the competition stealing the ideas.
+Industry
+Extraterrestrial Chemistry
+Earth and the other worlds have slightly different chemistry laws. By studying them you improve the quality of your products and the efficiency of your plants.
+Industry
+Evacuation Plan
+Every plant has a detailed evacuation plan for the area immediately surrounding it, in the event of an emergency. This plan results in the neighborhood being a little more welcoming of the factory.
+Industry
+Food Processing
+License to process food.
+Industry
+Large Scale Food Processing
+Learn the basic skills to create and manage large food processing plants.
+Industry
+Recurrent Food Production
+Use sub-products as raw materials for food processing.
+Industry
+Solar Refrigeration
+Uses non-polluting solar energy to cool meat.
+Industry
+Water Applications
+Water can be very useful in enlarging chicken breasts and extending dairy products.
+Industry
+Silicon Applications
+Increase meat production. (No further explanation needed.)
+Industry
+Food Quality Control
+Helps spot food in state of decomposition.
+Industry
+Brume Syndrome Correction
+Detects food capable of developing Brume's Syndrome.
+Industry
+ROOG Correction
+Detects food with tendency to become ROOG.
+Industry
+Basic Food Refinement
+Provides extra processing in order to increase food quality.
+Industry
+Advanced Food Refinement
+Provides extra advanced processing in order to increase food quality.
+Industry
+Organic Chemicals
+Substitute some non-organic chemicals by processed subproducts.
+Industry
+Radioactive Enlargements
+Enlarge vegetables and meat by exposing it to healthy doses of radioactivity.
+Industry
+Low Fat Line
+Special low fat products for overweight people.
+Industry
+Ethnic Meals
+You hire chefs of different nationalities to prepare frozen ethnic meals.
+Industry
+Recipe on the Box
+All your products have a recipe printed on the box. A cooking suggestion for your customers.
+Industry
+Substitutive Products
+Alternative products like corn bread, tofu and vegetable based dairy: for customers with allergies and digestive problems.
+Industry
+Deli Counter
+Add cooked food to the deli selection of your stores.
+Commerce
+Daily Farm Deliveries
+Daily deliveries of fresh vegetables and fruit directly from farms; the way best to ensure freshness.
+Commerce
+Flowers
+The daily deliveries from farms include cultivated flowers. Another line of business for your stores.
+Commerce
+Expiry Date Altering
+Everybody knows that food can be eaten even after its expiry date. Change the date on the packages that are about to expire.
+Commerce
+No-Brand Food
+Low quality food of unknown brands. Cheaper but not as good.
+Commerce
+Specialized Stores
+Instead of having every store selling all types of food, you have specialized stores like bakeries, meat shops, fish shops etc.
+Commerce
+Monthly Payment Option
+You offer your regular customers the possibility of opening an account at your store and only having to pay at the end of the month.
+Commerce
+Party Orders
+Large food orders for parties: everything is needed, from chips to desserts.
+Commerce
+Hygiene Checks
+Frequent hygienic checks to ensure a clean environment for the display and storage of food.
+Commerce
+Senior Citizen Free Home Delivery
+Courtesy service for retired customers. Very much appreciated.
+Commerce
+Oven
+Fresh baked breads and pizzas in your stores. Baked every hour, there's nothing like bread that's still warm from the oven.
+Commerce
+Extraterrestrial Vegetables
+Selling of the few edible vegetables discovered on the new worlds.
+Commerce
+Food Integrity Daily Controls
+Every day your products are checked, rotten produce and damaged packaged goods are thrown away.
+Commerce
+Self-Serve Vegetable Picking
+Customers choose and pick fruits and vegetables they want to purchase directly from the shelves.
+Commerce
+Worker's Quick Lunch
+Your stores prepare sandwiches and small meal plates that can be eaten while standing. For nearby office and factory workers this alternative is faster and cheaper than going to restaurants and bars.
+Commerce
+Farming
+License to build Fruit farms.
+Industry
+Large Fruit Farms
+Develop the basic skills necessary to create and manage large Fruit farms.
+Industry
+Extraterrestrial Climate
+Learn how the planet's climate conditions can affect or improve production.
+Industry
+Water Pumps
+Ease nutritious flow in organoponic cultivation.
+Industry
+Water Control
+Check farm water for harmful micro-organisms.
+Industry
+Synthetic Soil
+Expand the area of cultivation.
+Industry
+Automatic Irrigation
+An automated system that monitors land and only irrigates it when necessary.
+Industry
+Induced Photosynthesis
+Increase the ability to generate energy in plants, thus accelerating their growth.
+Industry
+Synthetic Fertiliser
+Said to reduce Fertiliser usage.
+Industry
+Biogenic Feeding
+Animal's digestive system is connected to a centralized system which pumps out food.
+Industry
+Advanced Genetics
+Incorporate genetics' latest discoveries into your company's research and devleopment.
+Industry
+Extraterrestrial Genetics
+Study the colony's genetic heritage.
+Industry
+Mutant Colonial Plants
+Develop a mutant Fruit species.
+Industry
+Work place Music
+Increase production and Quality of product swith a rich musical environment.
+Industry
+Management Seminars
+Every 6 months Management takes classes on policies and procedures.
+Industry
+Seed and Stem Recycling
+Seeds and Stems are as if they were actual fruit pieces.
+Industry
+Artificial Sunlight
+Develop a special greenhouse glass that replicates the parameters of earth's sunlight.
+Industry
+Plague Control System
+Plagues are detected and automatically exterminated.
+Industry
+Personal Hygiene Control
+Employees are constantly cleaned at hygiene halls.
+Industry
+Funeral Parlour Basics
+Paperwork for managing funeral parlours.
+Commerce
+Crematory
+Your funeral parlors have built-in crematories for people who want to be burnt to ashes after their departure.
+Commerce
+Luxury Urns
+For clients that want their ashes kept in over-the-top precious urns.
+Commerce
+Free Repair Department
+Sometimes the corpse isn't in good enough shape to be displayed. You pay actors to lay down in the coffin disguised as the departed for the funeral reception.
+Commerce
+Coffin Vision
+Some people cannot live without seeing their dearly departed loved one. You put a camera inside the coffin connected to a monitor that your clients can watch every day. The fact that the body is slowl
+Commerce
+Embalming
+Stuff the client's body and treat their skin to prevent putrefaction. Some people like to preserve their beloved for eternity.
+Commerce
+Wig Production
+It's common knowledge that hair keeps growing for a while after the body has died. Use the hair cut from the corpses to create wigs and sell them to unknowing specialty shop.
+Commerce
+Conference Call Funerals
+It may be too difficult to attend a funeral, especially on another planet. A special broadcast and transmission arrangement permits loved ones to remotely say goodbye to the dearly departed.
+Commerce
+Halloween Props
+Rent the parlor's furniture and accessories for Halloween parties; a creative way to generate revenues.
+Commerce
+Pet Funerals
+Why limit the care of the departed only to humans? Lots of animal lovers are willing to pay for a full fledge funeral for their beloved pets.
+Commerce
+Mediums and Psychics
+Hire psychics so that clients can discuss the funeral arrangements with their dearly deceased.
+Commerce
+Hospital Sentinels
+Save money on ads by paying someone to monitor hospitals. When a there is a death, you immediately contact the family and offer them your services.
+Commerce
+Ethnic Ceremonies
+From flaming pyres to mummification, you offer clients any possible religious and ethnic funeral.
+Commerce
+Wax Museum Connection
+When famous people die, you sell the exact measurements of their body to wax museums, so that they can create a perfect replica for their exposition.
+Commerce
+Coffin Alarm
+For people who are afraid to be buried alive. An alarm is installed inside the coffin, along an air reserve. If the deceased wakes up, he or she can trigger the alarm and be rescued.
+Commerce
+Family Special
+Pre-book funerals for all the family, no matter their age, huge savings for everybody, both the clients and your parlors.
+Commerce
+Furniture Production
+Get the license and basic knowledge to manage furniture factories.
+Industry
+Super Wood
+A process that enables you to grow wood directly into the shape of the product. The differences are not noticeable, but furniture is prone to break when used by overweight individuals.
+Industry
+Psychic Chair
+Furniture is shaped in a way that permits it to resonate with universal psychic waves, making the user feel connected to the Universe.
+Industry
+Growing furniture
+Add enough water and sun, and you will be able to turn a queen size bed into a king size one in one week.
+Industry
+Flexible furniture
+Furniture is prepared to arc gracefully under the weight of the user, making for a very comfortable experience.
+Industry
+Smart Desk
+Produce desks with a built-in electronic organizer. It will keep papers organized and remind the user of important events.
+Industry
+Lego Furniture
+Build all your furniture from from individual pieces.
+Industry
+Super Glue
+Develop special glue that will keep furniture pieces together for centuries.
+Industry
+Waterproof pieces
+This will enable the production of delicate wood furniture that will even be able to endure harsh weather (like a refined Louis XIV barbecue set).
+Industry
+Thorns
+Produce pieces that can recognize criminal fingerprints and cast numerous thorns in a legitimate act of self defense.
+Industry
+Barbra Streisand furniture
+Get a copyright license of the furniture found at the Barbara Streisand Museum in Tel Aviv. Warning: Some people will perceive them as truly horrible pieces of furniture.
+Industry
+Massage Furniture
+Produce furniture that can deliver a relaxing massage. Very relaxing.
+Industry
+Personalized Furniture
+Furniture that can learn from the user so that it can make itself as useful as possible.
+Industry
+Kids Line
+Produce miniature furniture for kids.
+Industry
+Noncombustible furniture
+Produce furniture that not only won't burn, it can even be used to put out a fire.
+Industry
+Universal Chair
+Produce the famous universal chair, designed by the late Michael Chang.
+Industry
+Bring-It-Home
+The store will deliver furniture to the potential buyer's house so that it can be tested by the entire family.
+Commerce
+Sleepover Program
+Allow customers to sleep in the store for one night; an effective way to test beds and mattresses.
+Commerce
+Repair Department
+In-store repair center for your customers.
+Commerce
+Assembly courses
+Create a department that teaches customers how to assemble the furniture they buy.
+Commerce
+Inexperienced Technicians
+To save money, your repair center only employs very young technicians.
+Commerce
+Dinner Test
+Dining sets are showcased with food so that customers can get the entire experience.
+Commerce
+Hammock Training
+Offer a course to teach customers the tricky art of sleeping in a hammock.
+Commerce
+Full House Special
+A special discount for customers that furnish their entire home with items from your store.
+Commerce
+Salespeople-As-Customers
+When they are initially hired, your salespeople agree that they will buy all their furniture from your store.
+Commerce
+Lifetime Guarantee
+Offer lifetime warranties on the items you sell.
+Commerce
+Used Furniture Market
+Market your store's used furniture every week.
+Commerce
+Vertical Storage
+All the appliances you sell are in rectangular boxes. By storing them on top of each other you save a lot of space, but sometimes items may get a little scratched.
+Commerce
+Car Wash
+Your stations have a car washing facility.
+Commerce
+24 Hour Service
+Your gas stations are always opened - 24/7.
+Commerce
+Self Service Only
+Self service only at your pumps.
+Commerce
+Points Card
+For your regular customers. Every time they purchase gas, they accumulate points that can be used towards free gifts.
+Commerce
+Self-Cleaning Pumps
+Special pumps that periodically clean themselves.
+Commerce
+Accessory Shop
+Everything a driver may need: from sun glasses to deodorant.
+Commerce
+Automatic Plate Payment
+A device reads car's license plates when at that pump and automatically charges the owner's credit card: quick and efficient.
+Commerce
+Plate Marketing Strategy
+From the plates you are able to get information about your customers and can implement a marketing strategy directed precisely to them.
+Commerce
+Valet Refilling
+As soon as a customer enters the station, he or she leaves the car with an employee who takes care of refilling the vehicle. In the meanwhile, the customer waits in a comfortable room.
+Commerce
+Free Oil Change
+With a large gas purchase you are offered a free oil change.
+Commerce
+Pit Stop
+For race fanatics, your stations offer a "race-like-stop": a team takes over and quickly refuels your car, rotates your tires and checks their pressure. You feel like a race car driver.
+Commerce
+Repair Center
+You have a mechanic at every station.
+Commerce
+SOS Service
+You provide emergency assistance with towing and repair service.
+Commerce
+Directional and Weather Computer
+At your stations a computerized machine informs customers of the best route to take and the weather conditions they will encounter.
+Commerce
+Long Shifts
+Since your station is always open, you force your employees to work long shifts in order to save money.
+Commerce
+Construction Basics
+Assimilate the knowledge to deal with Construction industries.
+Industry
+Marble Refinishing
+The ornamental details of your buildings include marble, a nice colorful touch.
+Industry
+Alien Artifacts Awareness Plan
+Digging foundations on the new planet lead you to uncover some alien artifacts. You create a department to monitor excavations for these artifacts.
+Industry
+Corporate Atriums
+Your company has a line of extremely luxurious entrances for corporations that want to make a sophisticated statement to visiting clients. You provide everything from precious materials to art pieces.
+Industry
+Automated Construction Site
+All the construction machinery is operated by an on-site centralized computer. While this is very efficient, complaints are raised by unions.
+Industry
+Seismic-proof Structures
+Even if there haven't yet been any large scale earthquakes in the new worlds, to be on the safe side, your buildings are completely seismic-proof.
+Industry
+Secret Passageways
+Ever dreamt of living in a medieval castle with all those secret passageways? Now you can. Regardless of the type of building, it will be filled with secret doors and hidden corridors.
+Industry
+Suspect Mounds
+To eliminate the large amount of waste from construction and demolishing, your workers conceal it in mounds that mysteriously appear overnight in empty areas.
+Industry
+Modular Floors
+The easiest way to build skyscrapers: your company assembles each floor on the ground and then piles them on top of the foundation.
+Industry
+Vault Foundation
+Upon the request of clients, your buildings include a security vault in the foundation: clients can safely store valuables of any kind.
+Industry
+Demolition Strategy
+Your buildings are built in such a way that enables easy demolishion, if needed. A very handy feature in the ever-changing and growing new world economy.
+Industry
+Draw Your Own House
+Who needs architects? Bring a sketch of the house of your dreams and we will build it for you.
+Industry
+Extraterrestrial Gravity Study
+By studying how the new world's slightly different gravity impacts construction materials, you are able to create better and more durable buildings.
+Industry
+Security Walls
+If your buildings have particular security needs, you may want special walls that are dynamite proof.
+Industry
+Portal Inspired Details
+Portals are the only form of alien architecture that humanity has experienced. These portals provide a new revolutionary template for design: you incorporate it in the decor of interiors.
+Industry
+Landscaping Elements
+You give your client's buildings a special design touch, with fountains, sculptures and other external architectural elements.
+Industry
+GrainFarmA
+License to build Grain farms.
+Industry
+Largegrainfarma
+Develop the basic skills necessary to create and manage large Grain farms.
+Industry
+Extraterrestrial Climate
+Learn how the planet's climate conditions can affect or improve farm production.
+Industry
+Water Pumps
+Ease nutritious flow in organoponic cultivation.
+Industry
+Water Control
+Check farm water for harmful micro-organisms.
+Industry
+Synthetic Soil
+Expand the area of cultivation.
+Industry
+Automatic Irrigation
+An automated system that monitors land and only irrigates it when necessary.
+Industry
+Induced Photosynthesis
+Increase the ability to generate energy in plants, thus accelerating their growth.
+Industry
+Synthetic Fertiliser
+Allows fruit to mature faster.
+Industry
+Biogenic Growth
+Biogenetically change plant growth rates.
+Industry
+Advanced Genetics
+Incorporate genetics' latest discoveries into your company's research and devleopment.
+Industry
+Extraterrestrial Genetics
+Study the colony's genetic heritage.
+Industry
+Mutant Colonial Plants
+Develop a mutant Plant species.
+Industry
+Farm Music
+Increase plants growth by creating a rich musical environment.
+Industry
+Feline Recruiting
+Allow Cats to catch mice in the fields.
+Industry
+Mice Recycling
+Farm mice are used as Fertiliser.
+Industry
+Artificial Sunlight
+Develop a special greenhouse glass that replicates the parameters of earth's sunlight.
+Industry
+Plague Control System
+Plagues are detected and automatically exterminated.
+Industry
+Personal Hygiene Control
+Employees are constantly cleaned at hygiene halls.
+Industry
+Mining Basics
+Learn the basic skills to deal with mining.
+Industry
+Extra Air Shafts
+Extra air shafts make it easier for workers at the mines, but the abundance of oxygen can corrupt some delicate minerals.
+Industry
+Steam Drills
+Use highly dense steam-beams to melt rock and uncover ore.
+Industry
+Mining Droids
+Replace humans with droids to work on the most dangerous tasks.
+Industry
+Magnetic Elevators
+Elevators operating with natural magnetic fields are far more secure than normal elevators.
+Industry
+Advanced Sensors
+Develop more efficient methods to detect impurities in ore.
+Industry
+Mineral Adulteration
+Learn how to introduce doses of common rocks in order to increase production.
+Industry
+Advanced Geology
+Study the most advanced topics in extraterrestrial geology. This is mandatory in order to conduct more advanced research in this field.
+Industry
+Extraterrestrial Mining
+Stop mining the same way you did on earth; take advantage of specific planet conditions.
+Industry
+Advanced Mine Security
+Protect your workers from the toxic emissions, native to the planet.
+Industry
+Underground Charting
+Develop underground charts of the areas where your mines operate. It not only helps manage your operations, but it also increases the sense of security.
+Industry
+Mining Bacteria
+Create large populations of rock eating bacteria to facilitate access to minerals. This practice has not been proven harmful to humans. However, workers remain skeptical about this fact.
+Industry
+Remote Control Carts
+The mining carts are managed by remote control from a centralized office.
+Industry
+Microexplosions
+Instead of carrying out large explosions in your mines, hundreds of small explosions are carried out in order to uncover ore deposits.
+Industry
+Exoskeletons
+The miners use hydraulic exoskeletons to extract ore, this method is very fast but not as precise.
+Industry
+Miner Locators
+Every miner has a transmitter that always transmits his or her exact location: fundamental in emergencies.
+Industry
+Mining Basics
+Learn the basic skills to deal with mining.
+Industry
+Extra Air Shafts
+Extra air shafts make it easier for workers at the mines, but the abundance of oxygen can corrupt some delicate minerals.
+Industry
+Steam Drills
+Use highly dense steam-beams to melt rock and uncover ore.
+Industry
+Mining Droids
+Replace humans with droids to work on the most dangerous tasks.
+Industry
+Magnetic Elevators
+Elevators operating with natural magnetic fields are far more secure than normal elevators.
+Industry
+Advanced Sensors
+Develop more efficient methods to detect impurities in ore.
+Industry
+Mineral Adulteration
+Learn how to introduce doses of common rocks in order to increase production.
+Industry
+Advanced Geology
+Study the most advanced topics in extraterrestrial geology. This is mandatory in order to conduct more advanced research in this field.
+Industry
+Extraterrestrial Mining
+Stop mining the same way you did on earth; take advantage of specific planet conditions.
+Industry
+Advanced Mine Security
+Protect your workers from the toxic emissions, native to the planet.
+Industry
+Underground Charting
+Develop underground charts of the areas where your mines operate. It not only helps manage your operations, but it also increases the sense of security.
+Industry
+Mining Bacteria
+Create large populations of rock eating bacteria to facilitate access to minerals. This practice has not been proven harmful to humans. However, workers remain skeptical about this fact.
+Industry
+Remote Control Carts
+The mining carts are managed by remote control from a centralized office.
+Industry
+Microexplosions
+Instead of carrying out large explosions in your mines, hundreds of small explosions are carried out in order to uncover ore deposits.
+Industry
+Exoskeletons
+The miners use hydraulic exoskeletons to extract ore, this method is very fast but not as precise.
+Industry
+Miner Locators
+Every miner has a transmitter that always transmits his or her exact location: fundamental in emergencies.
+Industry
+Machinery Industry
+Assimilate the knowledge to get the License to manage machinery factories.
+Industry
+Machine Timer
+A timer stops machines after a certain period of continuous use. This measure ensures that workers don't work too many hours in a row.
+Industry
+Remote Control
+All your machines can be operated by remote control: handy and very secure.
+Industry
+External Decorations
+Since heavy construction machinery is always part of a city's panorama, you decide to cover them with nice decorations. Citizens appreciate this.
+Industry
+Excavator Sensors
+Every time your excavators dig, a sensor automatically stops them if it senses metal, this avoids the breaking of any buried pipelines.
+Industry
+On-Site Assembled Machines
+Your machines are transported to the construction site in pieces and are assembled there.
+Industry
+Vacuum Operating Machines
+Essential for space construction, high quality machines that can operate in a vacuum and in zero gravity.
+Industry
+Modular Cranes
+Cranes that can reach an enormous height thanks to modular components that can be added at any time.
+Industry
+Transportation Plan
+You offer a transportation service that moves the machines your clients have bought wherever and whenever is needed, even years after the purchase.
+Industry
+Robotic Machines
+Your machines are completely robot operated. No need for human workers.
+Industry
+Parts Service
+You have a very efficient parts department that changes any of your machines broken components in no time. You can save on the quality of the original parts.
+Industry
+Monument Specialized Machines
+Since there are no historic buildings in the new worlds, all the monuments must be built from scratch. You produce high quality construction machinery especially designed for this purpose.
+Industry
+House Machine
+A small machine that performs all the heavy work in and around a house: from digging, to shoveling snow, to roof repairs. This is the ultimate tool for any handyman and very easy to build.
+Industry
+Standardized Engine
+All the machines you produce are powered by similar engines, derived from a single unique model.
+Industry
+Certified Operators
+When you sell a machine, you offer your client a course that teaches his or her workers how to use it. They get a Certificate stating that they are qualified to operators of the machine.
+Industry
+Machine Silencers
+Your machines make much less noise than normal machines. This creates a much better working environment for the buyer's workers.
+Industry
+Appliances Production
+Assimilate the knowledge to get the License to manage Household Appliances factories.
+Industry
+Large Scale Appliance Production
+Learn the basic skills to manage the production of large scale household appliances.
+Industry
+Used Unit Recycling
+You give customers a discount to purchase new products when they give you back the used ones. You can recycle parts still in good shape.
+Industry
+General Remote
+All the appliances in the customer's house are operated by one remote control.
+Industry
+Coin Slots
+Appliances that only work by inserting money, the customer gets the key to collect the money. Useful for big families to save money; appliances are used less and last longer.
+Industry
+Disintegrating Bins
+Tired of putting the garbage out? These bins vaporize garbage into the atmosphere.
+Industry
+Ultrasound Washing Machine
+No detergent is needed, thanks to the ultrasound waves. Ecologically sound and practical.
+Industry
+Universal Machine
+Unify all the most common kitchen appliances into a single machine. It's not quite as good as the single pieces separately, but your factories are much more efficient.
+Industry
+Ultra Thin TV
+Produce TVs thin as paintings. Picture quality is excellent.
+Industry
+Artificial Pets
+Small robots that resemble cats, dog or birds, benefit from only experiencing the positive part of having a pet: perceived as unnatural and sick by some.
+Industry
+Alien Alarm
+You create an alarm that measures the temperature and chemical emissions of whoever enters the house. If it's not human, the alarm automatically alerts police.
+Industry
+Unscreened Components
+To save money, your products are not properly screened for external electromagnetic interference.
+Industry
+Hi-Fi Directional Speakers
+Special ventriloquist-like speakers that project music directly into the listener's ears.
+Industry
+Voice Activator
+All your appliances can be operated by vocal commands.
+Industry
+Holographic TV
+Revolutionary 3D TV. With this holographic technology TV viewers don't need to wear annoying 3D glasses.
+Industry
+Fake Fireplace
+The fireplace is shown on a video however, it's connected to the house's heating system so that when the customer turns it on, the temperature in the house automatically increases.
+Industry
+Morphing Pet
+Choose the domestic animal you want daily with this special shape-changing robot: from a guard dog to a hairy cat, it will transform itself on request.
+Industry
+Home Theater
+Build the perfect room for listening to music and watching TV in the client's house. Provide everything that's needed: from quadraphonic sound to ergonomic chairs.
+Commerce
+Hi-Fi Room
+There is a room in the store with the best listening environment possible, specifically for trying out all the different stereo systems.
+Commerce
+Repair Department
+In-store repair center for your customers.
+Commerce
+Annual Inspection and Tune Up
+Equipment purchased by your customers is eligible for an annual check up at the in-store repair center.
+Commerce
+Inexperienced Technicians
+To save money, your repair center only employs very young technicians.
+Commerce
+Lifetime Warranty
+People tend to forget how long their warranty is for and tend to assume that it has expired. As a result, providing a lifetime warranty is not much more costly than providing a three year warranty.
+Commerce
+Comprehensive Entertainment System
+The ultimate multimedia machine, everything is connected to a computer that acts as a central station: TV, stereo, Internet, videogames all together.
+Commerce
+House Special
+A special discount to customers that buy all their appliances from your store. Given the high number of purchases, you are able to sneak in some lower quality pieces.
+Commerce
+Salespeople-As-Customer
+When they are hired, your salespeople agree to only buy their appliances from your store.
+Commerce
+24 Hour Technical Service
+Your TV breaks at the start of a football game. Your air conditioner blows up in the middle of the hottest day of the year. Call our technicians and in half an hour someone will be at your house!!
+Commerce
+One Day Technology Course
+Do your kids make fun of you because you don't know how to operate a VCR or a CD player? A one day in-store course reveals the mystery of technology to the more traditional customer.
+Commerce
+Machine Rental
+For people who move a lot, you rent every appliance: from toasters to 50 inch TVs.
+Commerce
+Used Machine Market
+A weekly market, outside your store, of used appliances. Enables you to recycle old machines.
+Commerce
+Vertical Storage
+All the appliances you sell are in rectangular boxes. By storing them on top of each other you save a lot of space, but sometimes stuff gets a little scratched.
+Commerce
+Hidden Appliances
+For people who doesn't want to see appliances in their house, moveable panels and fake walls hide them.
+Commerce
+Automobile Industry Basics
+Basic skills required to manage automobile factories.
+Industry
+Ultimate Air Bag
+A massive air-bag, made with an extremely extensible fabric that effectively surrounds and protects everything inside the vehicle in the event of an accident, greatly improving safety.
+Industry
+Blind Spot Sensors
+Small sensors placed on the side mirrors alerts the driver of any obstacle in his or her blind spots, sharply reducing accidents.
+Industry
+Wreck Recycling
+Your factories collect used cars to recycle useable parts for new models. You save money, but overall quality suffers.
+Industry
+Massive Feature Standardization
+Your factories undergo a massive standardization of all the different models' features. It's very cost-efficient but now your cars all look very similar.
+Industry
+Ergonomic Interiors
+Your cars' interiors are designed to ensure that the driving experience is as comfortable as possible.
+Industry
+Electric and Gas Engine
+Your cars have an electric engine for short trips, and a gas engine for longer journeys that also recharges the batteries; reduces fuel consumption and pollution.
+Industry
+Glue Tires
+Micro holes and a dispenser enable special glue to cover car tires, making the vehicle more stable. The glue left on the road evaporates; ecologists complain.
+Industry
+Low Quality Paint
+Your factories use cheap paint on its car, as a. result cars rust more easily.
+Industry
+Auto Washing Cars
+A hydraulic system is built into the car's chassis, automatically washing the car with water and soap when a sensor indicates that it's dirty. Your cars always look new.
+Industry
+Breath Analyzer Starter
+Before starting the car, the driver blows into a plastic straw attached to the wheel, if their blood-alcohol level is too high, the car won't start. Parents are eternally grateful.
+Industry
+Rubber Recycling
+Your factories recycle rubber from old tires to create new ones. The tire quality is only slightly affected and the public perceives you as being ecologically conscious.
+Industry
+Warranty Policy
+Your cars come with a three year, 100,000 KM warranty.
+Industry
+Directional Computer
+Your cars come with a built-in computer that instantly tells the driver the best route between the starting and arriving point.
+Industry
+Hard Seats
+To save money, you install cheaper hard seats in your cars. The drivers can only notice the difference in their backs after long trips.
+Industry
+Design Outsourcing
+Your car designs are outsourced to a very prestigious design firm. The cars look very slick and you save on the costs of maintaining an entire department.
+Industry
+Leasing and Financing
+You provide your clients more payment options.
+Commerce
+Extensive Test Drive
+Your customers can try your cars, for as long as a week, before deciding to purchase it.
+Commerce
+Cutthroat Sales Policy
+You set very difficult sales goals for your salespeople and fire them if they don't reach them. This is survival of the fittest and only the best survive.
+Commerce
+Salespeople Training Course
+Improves selling efficiency by properly training your salespeople.
+Commerce
+Interworld Car Transfer
+Handle the annoying bureaucracy customers' face when transferring a vehicle between worlds.
+Commerce
+Internal Repair Center
+Your car stores have a car repair center for your clients' car repairs and maintenance needs during their cars life.
+Commerce
+Limited Model Selection
+Your stores only carry a limited number of models. This is very cost-efficient but you can't satisfy every potential customer.
+Commerce
+Body Shop
+Your repair center also repairs damage to the car chassis.
+Commerce
+Luxurious Office
+Delight your customers with a very luxurious office; they feel like they are being treated like royalty.
+Commerce
+Used Car Department
+A large percentage of your potential clients can't afford to buy a new car, so your stores also have a selection of used ones.
+Commerce
+New Car Smell Spray
+Bottle the characteristic smell of a new car and spray it in your used ones. Your clients will buy wrecks thinking they aren't in such bad shape.
+Commerce
+Family Marketing Strategy
+Once one family member buys one of your cars, your marketing team targets all the other family members, trying to convince them to buy another car.
+Commerce
+Alien Background Check
+In an effort to block disguised aliens, every person that wants to buy a car is subject to an extensive background check, tracing all the way back to when his or her ancestors first came from Earth.
+Commerce
+Free Gas
+You offer six months of free gas to anyone who buys one of your cars.
+Commerce
+Complimentary Tune-ups
+The periodic tune-up of new cars is free to your clients.
+Commerce
+Iron Ore Mining
+Learn the basic skills to deal with Iron mining.
+Industry
+Large Scale Mining
+Learn the basic skills to manage large mines.
+Industry
+Extra Air Shafts
+Extra air shafts make it easier for workers at the mines, but the abundance of oxygen can corrupt some delicate minerals.
+Industry
+Steam Drills
+Use highly dense steam-beams to melt rock and uncover ore.
+Industry
+Mining Droids
+Replace humans with droids to work on the most dangerous tasks.
+Industry
+Magnetic Elevators
+Elevators operating with natural magnetic fields are far more secure than normal elevators.
+Industry
+Advanced Iron Sensors
+Develop more efficient methods to detect impurities in Iron.
+Industry
+Iron Adulteration
+Learn how to introduce doses of common rock in order to increase production.
+Industry
+Advanced Geology
+Study the most advanced topics in extraterrestrial geology. This is mandatory in order to conduct more advanced research in this field.
+Industry
+Extraterrestrial Mining
+Stop mining the same way you did on earth; take advantage of specific planet conditions.
+Industry
+Advanced Mine Security
+Protect your workers from the toxic emissions, native to the planet.
+Industry
+Underground Charting
+Develop underground charts of the areas where your mines operate. It not only helps manage your operations, but it also increases the sense of security.
+Industry
+Mining Bacteria
+Create large populations of rock eating bacteria to facilitate access to Iron. This practice has not been proven harmful to humans. However, workers remain skeptical about this fact.
+Industry
+Remote Control Carts
+The mining carts are controlled remotely from a centralized office.
+Industry
+Microexplosions
+Instead of carrying out large explosions in your mines, hundreds of small explosions are carried out in order to uncover ore deposits.
+Industry
+Exoskeletons
+The miners use hydraulic exoskeletons to extract the ore, this method is very fast but not as precise.
+Industry
+Miner Locators
+Every miner has a transmitter that always transmits his or her exact location: fundamental in emergencies.
+Industry
+Leather Production
+Get the license and basic knowledge to manage Leather factories.
+Industry
+Large Scale Leather Manufacturing
+Learn the basic skills required to manage large scale Leather manufacturing.
+Industry
+Super Leather
+A process that enables you to produce Leather directly into the shape of the product. The differences are not noticeable, but Leather is prone to cracks and stretching when used by overweight individuals.
+Industry
+Psychic Leather
+Leather is shaped in a way that permits it to resonate with universal psychic waves, making the user feel connected to the Universe.
+Industry
+Colored Leather
+Develop a system to dye leather.
+Industry
+Extra Flexible Leather
+New manufacturing method allows your leather to become so flexible its almost like rubber.
+Industry
+Smart Leather
+Allows your flexible leather to always return to its manufactured size.
+Industry
+Leather Furniture Covers
+Make Leather covers to fit most furniture needs.
+Industry
+Super Leather Glue
+Develop special glue that will keep Leather furniture covers on for centuries.
+Industry
+Waterproof Leather
+This will enable the production of delicate Leather that will even be able to endure harsh weather.
+Industry
+Leather Thorns
+Produce Leather that can recognize criminal fingerprints and cast numerous thorns in a legitimate act of self defense.
+Industry
+Leather Mass Production
+Develop the basic knowledge to mass produce leather sheets.
+Industry
+Massage Leather
+Produce Leather that can deliver a relaxing massage. Very relaxing.
+Industry
+Personalized Leather
+You can pre print a logo onto the large sheets of Leather.
+Industry
+Ultra-thin Leather
+Produce Ultra-thin Leather sheets.
+Industry
+Noncombustible Leather
+Produce Leather that not only won't burn, it can even be used to put out a fire.
+Industry
+Super Soft Leather
+Produce the famous Soft touch Leather, designed by the late Michael Chang.
+Industry
+Leather Jacket Manufacturing
+License to manage Leather Jacket factories.
+Industry
+Large Scale Leather Jacket Manufacturing
+Learn the basic skills required to manage large scale Leather Jacket manufacturing.
+Industry
+History of Leather
+A broad knowledge of Leather throughout the ages allows for better designs.
+Industry
+History of Leather Jackets
+A broad knowledge of the evolution of Leather Jackets throughout the ages allows for superior designs.
+Industry
+Automatic Laser Sewing
+Laser stitches replace sewing, while the process is quite efficient garments can sometimes look dull.
+Industry
+Leather Jacket Gluing
+Pieces of Leather are glued together; garments get bulky.
+Industry
+Top Design Basics
+Research the basics of how to make fine Leatherwear.
+Industry
+Advanced Top Design
+Research this to have access to the best design techniques available.
+Industry
+Antialien Jackets
+This is a precaution since nobody has ever seen an alien.
+Industry
+Leather Hats
+Leather hats are quick and easy to produce, but more work to do overall reduces quality.
+Industry
+Hypnotic Attire
+Learn how to produce Leather Jackets that is the center of attention.
+Industry
+Gay Designs
+Design and produce clothes specifically for the gay man or woman tastes.
+Industry
+Disposable Leather Jacket
+Low quality Jackets that are thrown away instead of washed.
+Industry
+High Quality
+Superior quality Jackets for managers and CEO.
+Industry
+Traditional Leather Jackets
+Bring old Earth traditions to the new worlds by reproducing ethnic outfits.
+Industry
+Seamless Jackets
+Produce a line of seamless Jackets.
+Industry
+Sponsor Jackets
+Various firms commission Jackets from you with their logo, for advertisement purposes.
+Industry
+Real Time Tailoring
+Little adjustment are performed just after the purchase.
+Commerce
+Small Change Rooms
+To speed up lazy customers and gain more display space.
+Commerce
+Compliment Delivery
+One of your shop assistants poses as a customer and drops casual compliments to customers that are deciding whether to purchase the items that they are trying on.
+Commerce
+Altering Mirrors
+Special mirrors that make customers look slimmer.
+Commerce
+Limited Size Selection
+Your shops only carry the more common sizes. You can't satisfy everybody but it's more cost-efficient.
+Commerce
+Client Taste and Measurements Database
+Store the measurements and tastes of your clients in a database; call them at home when your store receives something they may like.
+Commerce
+Trade-in service
+Customers can trade-in old jackets for a discount on their new purchase.You donate those to charity for a tax write off.
+Commerce
+Used Jacket Refurbishing
+Instead of giving used Jackets to charities, your in-house tailors repair them and you put them out for sale again.
+Commerce
+Special orders
+Allow customers to design their own jackets.
+Commerce
+Cleaning Service
+On-site cleaning service for jackets purchased in your stores.
+Commerce
+Fashion Consultants
+Specially trained employees that advise customers about the latest trends and fashions.
+Commerce
+Large Sizes
+Some of your stores specialize in jackets for overweight people.
+Commerce
+Out-of-Fashion Stock 
+Since fashion is cyclic, you store jackets that are not in style anymore, until they are in fashion again.
+Commerce
+Leather Hat Selection
+Leather Hats for wealthy customers.
+Commerce
+Leather Accessories
+Accessories such as belts and gloves are given to client as a gift when they spend a lot of money.
+Commerce
+Legal Services Basics
+Assimilate the knowledge to manage a law firm.
+General
+Charity Work
+Every lawyer has to work for free on a few cases every year; for people that can't afford to pay legal fees.
+General
+Hospital Vultures
+Have your lawyers patrol hospital trauma centers to approach victims of accidents and talk them into suing the party responsible for the accident.
+General
+Extraterrestrial Law
+Lawyers that specialize in trade and extradition issues between worlds.
+General
+Judge Consultants
+Hire retired judges to work as consultants.
+General
+Worlds Lawyer Network
+Participate in a legal interworld network that monitors all cases, ensuring no precedents that can be useful for your cases is missed.
+General
+Digital Library Only
+No need to use those monstrously large volumes to consult, all legal information is on digital devices. Sometimes viruses can destroy some information, but in the end you save many trees.
+General
+Earth Internship
+All your lawyers briefly go to work on Earth, to see where the code of human law was first created.
+General
+Long Hours Policy
+It's implicitly understood that to have a good career in your firm, your lawyers have to work at least 12 hours a day.
+General
+Associate Goal
+Your lawyers can become associates if they work long hours for many years.
+General
+Law School Recruiting
+Instead of hiring seasoned lawyers, your firms go to law schools and recruit new graduates.
+General
+Corporate Cars
+You provide your lawyers with luxurious company cars.
+General
+Compulsory Quota
+Your lawyers must win a fixed quota of cases every year or they are fired.
+General
+Security Codes
+Every document in your office is protected by security codes known only by the lawyer working on the case and his or her staff. These security measures are appreciated by your clients.
+General
+Paralegal Exploitation
+Your paralegals are expected to work long hours, even if their salaries are low. In your view this is a necessary formative step to becoming a lawyer.
+General
+Pro-Lawyer Campaign
+Since lawyers are often perceived as slimy figures that exploit the misfortunes of others, your firm launches a media campaign to underline the noble aspects of the profession.
+General
+Mining Basics
+Learn the basic skills to deal with mining.
+Industry
+Extra Air Shafts
+Extra air shafts make it easier for workers at the mines, but the abundance of oxygen can corrupt some delicate minerals.
+Industry
+Steam Drills
+Use highly dense steam-beams to melt rock and uncover ore.
+Industry
+Mining Droids
+Replace humans with droids to work on the most dangerous tasks.
+Industry
+Magnetic Elevators
+Elevators operating with natural magnetic fields are far more secure than normal elevators.
+Industry
+Advanced Sensors
+Develop more efficient methods to detect impurities in ore.
+Industry
+Mineral Adulteration
+Learn how to introduce doses of common rocks in order to increase production.
+Industry
+Advanced Geology
+Study the most advanced topics in extraterrestrial geology. This is mandatory in order to conduct more advanced research in this field.
+Industry
+Extraterrestrial Mining
+Stop mining the same way you did on earth; take advantage of specific planet conditions.
+Industry
+Advanced Mine Security
+Protect your workers from the toxic emissions, native to the planet.
+Industry
+Underground Charting
+Develop underground charts of the areas where your mines operate. It not only helps manage your operations, but it also increases the sense of security.
+Industry
+Mining Bacteria
+Create large populations of rock eating bacteria to facilitate access to minerals. This practice has not been proven harmful to humans. However, workers remain skeptical about this fact.
+Industry
+Remote Control Carts
+The mining carts are managed by remote control from a centralized office.
+Industry
+Microexplosions
+Instead of carrying out large explosions in your mines, hundreds of small explosions are carried out in order to uncover ore deposits.
+Industry
+Exoskeletons
+The miners use hydraulic exoskeletons to extract ore, this method is very fast but not as precise.
+Industry
+Miner Locators
+Every miner has a transmitter that always transmits his or her exact location: fundamental in emergencies.
+Industry
+Liquor Production
+Learn how to produce liquors.
+Industry
+Alcohol Free Products
+Create virgin alternatives for your clients by producing alcohol free: Tequila, Whisky, Rum etc. This forces you to improve quality to make sure that these virgin liquors actually taste good.
+Industry
+Light Products
+Alcohol makes you fat, but these liquors have fewer calories and less fat.
+Industry
+Taster Team
+You hire a team of expert liquor tasters to be sure your products are always top quality.
+Industry
+Extraterrestrial Flavors
+Use local plants to create new liquor flavors. It will be exotic and save you money on traditional Earth imports.
+Industry
+Alcohol Recycling
+Install a machine vent over your distillers that collects all the alcohol that evaporates, storing it for future reuse.
+Industry
+Universal Organic Distillation
+Any organic material can be distilled to create alcohol. Your factories use anything to produce liquors: from farm waste to rubber. The overall quality is not as good but you save a lot money.
+Industry
+Headache and Stomach Drug
+You add medicines for stomach pain and headaches to your liquors. This helps deal with the hangover. Your liquors become the favorite of heavy party drinkers.
+Industry
+Cocktails
+You launch a line of cocktail products. The ingredients are separated in special compartmental bottles, but are mixed when the bottle is vigorously shaken.
+Industry
+Cheap and Strong Liquor
+Your factories produce very cheap and strong liquors for the alcoholic that doesn't care about quality, but just wants a robust dose of alcohol. Public opinion is not overly favorable.
+Industry
+Unbreakable Glass Bottle
+Your glass bottles have a special external coating that hold glass pieces together when the bottle is smashed. No more loose pieces of glass that drunken customers can cut each other with.
+Industry
+Extra Strong Volatile Liquor
+An over 90 proof liquor to be enjoyed by sniffing its evaporating fumes or diluted in water. One drop of the stuff is enough to get someone sufficiently drunk.
+Industry
+Purified Water
+Make a point of only using extra-purified water for the production of your liquors.
+Industry
+Breathalyzer Seal
+To open the bottle, the customer has to lick a seal on the top. If the saliva shows a blood alcohol level that is too high, a sour powder drops into the bottle, making the liquor undrinkable.
+Industry
+History of Liquor Production
+By studying the ancient traditions of producing liquors, it helps you improve the quality and efficiency of your processes.
+Industry
+Ethnic Drink Selection
+Since the extraterrestrial worlds' immigrants come from all of earth, it's important to provide a wide selection of their native spirits: from Greek Ouzo to Italian Grappa to Cuban Rum.
+Industry
+Machinery Industry
+Assimilate the knowledge to get the License to manage machinery factories.
+Industry
+Machine Timer
+A timer stops machines after a certain period of continuous use. This measure ensures that workers don't work too many hours in a row.
+Industry
+Remote Control
+All your machines can be operated by remote control: handy and very secure.
+Industry
+External Decorations
+Since heavy construction machinery is always part of a city's panorama, you decide to cover them with nice decorations. Citizens appreciate this.
+Industry
+Excavator Sensors
+Every time your excavators dig, a sensor automatically stops them if it senses metal, this avoids the breaking of any buried pipelines.
+Industry
+On-Site Assembled Machines
+Your machines are transported to the construction site in pieces and are assembled there.
+Industry
+Vacuum Operating Machines
+Essential for space construction, high quality machines that can operate in a vacuum and in zero gravity.
+Industry
+Modular Cranes
+Cranes that can reach an enormous height thanks to modular components that can be added at any time.
+Industry
+Transportation Plan
+You offer a transportation service that moves the machines your clients have bought wherever and whenever is needed, even years after the purchase.
+Industry
+Robotic Machines
+Your machines are completely robot operated. No need for human workers.
+Industry
+Parts Service
+You have a very efficient parts department that changes any of your machines broken components in no time. You can save on the quality of the original parts.
+Industry
+Monument Specialized Machines
+Since there are no historic buildings in the new worlds, all the monuments must be built from scratch. You produce high quality construction machinery especially designed for this purpose.
+Industry
+House Machine
+A small machine that performs all the heavy work in and around a house: from digging, to shoveling snow, to roof repairs. This is the ultimate tool for any handyman and very easy to build.
+Industry
+Standardized Engine
+All the machines you produce are powered by similar engines, derived from a single unique model.
+Industry
+Certified Operators
+When you sell a machine, you offer your client a course that teaches his or her workers how to use it. They get a Certificate stating that they are qualified to operators of the machine.
+Industry
+Machine Silencers
+Your machines make much less noise than normal machines. This creates a much better working environment for the buyer's workers.
+Industry
+Mobile Apartments
+The apartments are built on enormous rails which move every few days. Residents have a ever-changing view and get a chance to often change their neighborhood.
+Real Estate
+High Security Floors
+Some floors are closed and patrolled by guards: the best way to ensure the maximum level of security for residents.
+Real Estate
+Suicide Terrace
+On top of the building, a special terrace provides a quiet place for those who want to die. They fall on a dedicated area on the grounds, without causing any harm to others.
+Real Estate
+Bungee Jumping
+People that want to try this form of extreme entertainment can do so from the top of your buildings.
+Real Estate
+Emergency Parachuting
+In such massive building, using the stairs in an emergency is ineffective. Every tenant has a parachute so that they can launch themselves when needed.
+Real Estate
+Air Deliveries
+Home deliveries are performed by special mini-helicopters that come to apartment's windows: much quicker than the traditional delivery method.
+Real Estate
+Colossus
+A giant statue in the main entrance enhances the beauty of your building: beautiful but strangers come to see it.
+Real Estate
+Scent Diffusers
+Special dispensers diffuse perfume-free chemical scents in the air to please and soothe your tenants.
+Real Estate
+Holiday Centers
+Special built-in resorts, available exclusively to your residents. Some people never leave the building.
+Real Estate
+Hobo Recruiting
+Several communities of pariahs spring up in the hidden recesses of these huge buildings. You decide to hire them to perform janitorial duties.
+Real Estate
+Window Cleaning Robots
+Small Robots climb up and down your building to ensure windows are always clean.
+Real Estate
+Zero Tolerance Rent 
+Your tenants are immediately evicted if they don't pay rent.
+Real Estate
+Cleaning Monitoring System
+A camera system monitors the common areas of your building and sends cleaners only when necessary.
+Real Estate
+Digital Paintings
+Instead of real paintings, your hallways have ultra-flat screens with images of famous paintings in heavy rotation.
+Real Estate
+Complimentary Cars
+Instead of having their own cars, your residents use cars offered by the administration.
+Real Estate
+Feng Shui
+The common areas of the building are decorated according this oriental discipline.
+Real Estate
+Escort Service
+To avoid muggings in the hallways, your tenants, by request, are escorted by guards to and from their apartment to the building entrance.
+Real Estate
+AI Manager
+The building is completely run by a computer.
+Real Estate
+Sealed Environment
+The building is pressure-sealed from the outside, drastically reducing pollution.
+Real Estate
+Communities
+Some floors of your building are rented only to people sharing a similar lifestyle, like gays, punks, ravers, etc.
+Real Estate
+Internal Zoo
+For the children, your building has an internal zoo,
+Real Estate
+Hallway Trees
+The building's larger hallways are lined with trees. They look nice and purify the air, but could provide criminals with a hiding place.
+Real Estate
+Controlled Riots
+To ease the social pressure on the most crowded floors, your staff organize controlled riots in areas of the building with little that can get trashed.
+Real Estate
+Adopt-A-Floor Campaign
+Your residents can adopt a floor and participate in its maintenance. Their name will be on a plaque on their respective floor.
+Real Estate
+High Speed Elevators
+The user enters a ball that completely envelops them and adheres to their body and is then propelled up or down by a high pressure shot of air: efficient and fun.
+Real Estate
+Office Rental Basics
+Paperwork to build and rent Magna offices.
+Real Estate
+Day Care
+Every office building has a day care facility for parents that work there.
+Real Estate
+Puppy and Kitten Room
+It has been proven that playing with puppies and kittens relieves stress. Your office buildings have a puppy and kitten room where workers can go when they need to calm down.
+Real Estate
+Guard Stand
+For security reasons, at the entrance of the office building, there are armed guards.
+Real Estate
+Self-Cleaning Air Shafts
+The building's air shafts are cleaned daily by a special robot.
+Real Estate
+Unisex Bathrooms
+Each floor only has one bathroom to be shared by all employees on it.
+Real Estate
+Robotic Flying Cameras
+The security rounds are performed by small flying robots with cameras connected to the guard room.
+Real Estate
+Soundproof Walls and Doors
+Completely soundproof walls and doors. More privacy, but nobody can't hear what's going on.
+Real Estate
+Open Spaces
+Entire floors with no dividing walls: you are able to accommodate more people in the same space.
+Real Estate
+No Smoking Policy
+Office buildings are completely smoke free.
+Real Estate
+Light Therapy Rooms
+Another effective way to relieve stress is to expose your body to a mild uniform light. All of your buildings have a room specially designed for this purpose.
+Real Estate
+Universal Access
+Your buildings don't have a single corner that isn't accessible by wheel chair.
+Real Estate
+Metal Detectors
+To avoid the presence of any weapons, metal detectors are attached to the guard stand.
+Real Estate
+Pollution Measuring Device
+Every entrance of your building has a device that measures the pollution level immediately outside the building. People can wait for a low reading before going out.
+Real Estate
+Soft Carpets
+Very soft carpets cover the floors and corridors: very nice to walk on.
+Real Estate
+Indoor Gardens
+Many green areas are scattered throughout the common areas of your buildings: beautiful plants and clean air.
+Real Estate
+Lights-On Policy
+The lights are always on, even at night. More secure and no one can tell who is in and who is out.
+Real Estate
+Self-Shading Windows
+Windows made of special glass that automatically darken when exposed to intense light: reduces glare.
+Real Estate
+Live Music
+A small musical ensemble plays classical music in the building's main entrance: a very welcoming scene for whoever enters the building.
+Real Estate
+Police Alarm
+An alarm is directly connected to the police station, ideal for an emergency.
+Real Estate
+Official Greeter
+An official greeter in uniform stands outside the main entrance and greets and directs visitors; this also ensures weirdoes and other undesirables are kept out.
+Real Estate
+Memory Chip Production
+Assimilate the knowledge to manage the production of Memory Chips.
+Industry
+Large Scale Memory Chip Production
+Manage large scale Memory Chips production.
+Industry
+Memory Chip Auto Replacement
+A service that automatically ships customer's the latest Memory Chips . This ensures they always have the most up-to-date product.
+Industry
+Memory Chips size reduction
+Following the theory that the size Memory Chips reduces 50% every three years, your factories accordingly implement a long term production plan.
+Industry
+Wafers Recycling Program
+Your factories collect old circuit boards wafers to recycle them for new circuits.
+Industry
+The Beginner Electrician
+A crafty way to get rid of the surplus of Memory Chips: sell a selection of them in a box for amateur electricians.
+Industry
+Faraday Houses
+Build a Faraday Cage around your factory to protect employees from lighting, this also kills static. Perceived as a security measure.
+Industry
+Chip self diagonostics
+Your Memory Chips run a diagnostic checks at each system startup.
+Industry
+Global Wiring Plan
+Implement a strategy to build an Internet Network on the extraterrestrial worlds.
+Industry
+Vacuum Assembling
+Your Memory Chips are assembled in vacuum tight environments. The absence of air prevents any impurities.
+Industry
+Nano-circuits
+Build the smallest Memory Chips possible; they are extremely precise and reliable, but they have to be assembled in a total vacuum environment.
+Industry
+Universal Component
+All your Memory Chips evolve from a basic universal component: cost effective, but the quality of the derivates suffers.
+Industry
+Chip Detector
+To prevent workers from stealing costly Memory Chips, your plants have Chip detectors at the entrances.
+Industry
+Anti-Paper Campaign
+To promote Electronic Ink, you launch a anti-paper media campaign with an ecological slant.
+Industry
+Self-Destructing Components
+To avoid the theft of your technology, your components are destroyed by acid if opened after they've been sealed.
+Industry
+Personal Id Chips
+You produce a new circuit to be inserted under human skin that serve as Id once scanned by an external device. The public opinion fears "Big Brother" scenarios.
+Industry
+Magnetic Monitoring
+Every time a suspended wire is installed, a test to see if the magnetic field disturbs the inhabitants of the surrounding area is performed.
+Industry
+Metallurgy
+Basic metallurgy production.
+Industry
+Large Scale Metallurgy Production
+Learn the basic skills to manage large scale metallurgy production.
+Industry
+Auto-Cooling Suits
+Your workers wear suits that have fresh water running over their body to keep them cool in the plant's high temperature environment. Unfortunately, the suits make them a little clumsy.
+Industry
+Ultimate Titanium Alloy
+Production of the strongest metal alloy ever created by men. Used mainly in aerospace industry.
+Industry
+Cryogenic Steel Cooling
+The steel you produce is cooled at cryogenic temperatures making the overall process more efficient.
+Industry
+Nanotechnology Developments
+You produce metallics micro parts for nanotechnology uses. It forces your plants to implement a better quality process.
+Industry
+Extraterrestrial Alloys
+The slightly different chemistry and physics of the new worlds allows you to create new alloys that can't be produced on Earth.
+Industry
+Ore Screening
+Your plants implement an ulterior screening of the ore bought from mines. Costly but improve the quality.
+Industry
+Precious Metal Treatment
+You recycle the impurity of precious metal not used in the industrial production to create a jewellery line.
+Industry
+Superconductor Production
+By using the high end technology needed to produce superconductors, you improves your products quality.
+Industry
+Security Collapsing Mechanism
+Your large plants have a system that collapses the furnace in an underground cavity in case of fuse metal leakage. Very effective in emergencies.
+Industry
+Built-In Transmitters
+The metal parts you produce have a built in transmittor that alerts when the part is ruined.Extremely useful for buried components like pipes.
+Industry
+Zero Gravity Shaping
+The shaping of metal is performed in a special free-falling cabin within your plant. The zero-gravity field inside it permits a better quality process.
+Industry
+Atom Size Metal Sheets
+The use of zero-gravity shaping permits you to create sheets of metal that are only a few atoms in width; extremely useful in industrial applications.
+Industry
+Internal Bus System
+The living quarters and the working environment in a metallurgic plants have to be distant because of the high temperature. In large plants, an internal bus system improves the efficiency of the work.
+Industry
+Metallic Art
+You recycle the metal pieces thrown away by the production process as artistic sculptures created by an unexistent Earth artist. You gain some reputation as an art expert.
+Industry
+Metallurgy Museum
+You create a metallurgy museum in your industry headquarter. Watching the history of metal working motivates your employees.
+Industry
+Auto-Cooling Suits
+Your workers wear suits that have fresh water running over their body to keep them cool in the plant's high temperature environment. Unfortunately, the suits make them a little clumsy.
+Industry
+Ultimate Titanium Alloy
+Production of the strongest metal alloy ever created by man; used mainly in the aerospace industry.
+Industry
+Cryogenic Steel Cooling
+The steel you produce is cooled at cryogenic temperatures making the overall process more efficient.
+Industry
+Nanotechnology Developments
+You produce metallics micro-parts for nanotechnology uses. It forces your plants to implement a better quality process.
+Industry
+Extraterrestrial Alloys
+The slightly different chemistry and physic's principles on the new worlds allow you to create new alloys that can't be produced on Earth.
+Industry
+Ore Screening
+Your plants implement an additional screening process on the ore extracted from mines; costly but improves quality.
+Industry
+Precious Metal Treatment
+You recycle the impurities extracted from precious metal from industrial production to create a jewellery line.
+Industry
+Superconductor Production
+By using the high-end technology needed to produce superconductors, you increase the quality of your products.
+Industry
+Security Collapsing Mechanism
+Your large plants have a system that collapses the furnace into an underground cavity in the event that fuse metal leakage occurs: very effective in emergencies.
+Industry
+Built-In Transmitters
+The metal parts you produce have a built-in transmitter that alerts to when the part is ruined; extremely useful for buried components like pipes.
+Industry
+Zero Gravity Shaping
+The shaping of metal is performed in a special free-falling cabin within your plant. The zero-gravity field inside it permits a better quality process.
+Industry
+Atom Size Metal Sheets
+The use of zero-gravity shaping permits you to create sheets of metal that are only a few atoms in width; extremely useful in industrial applications.
+Industry
+Internal Bus System
+A metallurgic plant's living quarters have to far removed from the plant due to its high temperatures. In large plants, an internal bus system efficiently moves workers.
+Industry
+Metallic Art
+You recycle the metal pieces thrown away from the production process as artistic sculptures created by a fictional artist from Earth. You gain a reputation as an art expert.
+Industry
+Metallurgy Museum
+You create a metallurgy museum in your industry headquarters. Viewing the history of metal working motivates your employees.
+Industry
+FlourMill
+License to operate a Flour Mill.
+Industry
+Large Scale Flour Mill
+Learn the basic skills to create and manage a large Scale Flour Mill.
+Industry
+Recurrent Food Production
+Use sub-products as raw materials for processing.
+Industry
+Solar Refrigeration
+Uses non-polluting solar energy to cool products.
+Industry
+Water Applications
+Water can be very useful in keeping machines clean.
+Industry
+Silicon Applications
+Increase production. (No further explanation needed.)
+Industry
+Food Quality Control
+Helps spot food in state of decomposition.
+Industry
+Brume Syndrome Correction
+Detects food capable of developing Brume's Syndrome.
+Industry
+ROOG Correction
+Detects products tendency to become ROOG.
+Industry
+Basic Refinement
+Provides extra processing in order to increase quality.
+Industry
+Advanced Refinement
+Provides extra advanced processing in order to increase quality.
+Industry
+Organic Chemicals
+Substitute some non-organic chemicals by processed subproducts.
+Industry
+Radioactive Enlargements
+Enlarge Wheat by exposing it to healthy doses of radioactivity.
+Industry
+Low Fat Line
+Special low fat products for overweight people.
+Industry
+WholeWheat Flour
+Wholewheat flour better for baked goods.
+Industry
+Recipe on the Box
+All your products have a recipe printed on the box. A suggestion for your customers.
+Industry
+Substitutive Products
+for customers with allergies and digestive problems.
+Industry
+Mining Basics
+Learn the basic skills to deal with mining.
+Industry
+Large Scale Mining
+Learn the basic skills to manage large mines.
+Industry
+Extra Air Shafts
+Extra air shafts make it easier for workers at the mines, but the abundance of oxygen can corrupt some delicate minerals.
+Industry
+Steam Drills
+Use highly dense steam-beams to melt rock and uncover ore.
+Industry
+Mining Droids
+Replace humans with droids to work on the most dangerous tasks.
+Industry
+Magnetic Elevators
+Elevators operating with natural magnetic fields are far more secure than normal elevators.
+Industry
+Advanced Sensors
+Develop more efficient methods to detect impurities in ore.
+Industry
+Mineral Adulteration
+Learn how to introduce doses of common rocks in order to increase production.
+Industry
+Advanced Geology
+Study the most advanced topics in extraterrestrial geology. This is mandatory in order to conduct more advanced research in this field.
+Industry
+Extraterrestrial Mining
+Stop mining the same way you did on earth; take advantage of specific planet conditions.
+Industry
+Advanced Mine Security
+Protect your workers from the toxic emissions, native to the planet.
+Industry
+Underground Charting
+Develop underground charts of the areas where your mines operate. It not only helps manage your operations, but it also increases the sense of security.
+Industry
+Mining Bacteria
+Create large populations of rock eating bacteria to facilitate access to minerals. This practice has not been proven harmful to humans. However, workers remain skeptical about this fact.
+Industry
+Remote Control Carts
+The mining carts are managed by remote control from a centralized office.
+Industry
+Microexplosions
+Instead of carrying out large explosions in your mines, hundreds of small explosions are carried out in order to uncover ore deposits.
+Industry
+Exoskeletons
+The miners use hydraulic exoskeletons to extract ore, this method is very fast but not as precise.
+Industry
+Miner Locators
+Every miner has a transmitter that always transmits his or her exact location: fundamental in emergencies.
+Industry
+Mining Chemistry Basics
+License to produce mining chemicals.
+Industry
+Large Mining Chemical Factories
+Learn the basic skills to create and manage large chemical plants.
+Industry
+Full-Body Protection
+Every plant employee must wear a full-body protective suit for security reasons.
+Industry
+Recycling Chemical Waste
+When possible, all chemical waste produced is used for other chemical processes. The quality is lowered, but it demonstrates an environmentally friendly attitude.
+Industry
+Extra Strong Vacuum Pumps
+Plants are equipped with extra strong vacuum pumps to ensure a better environment for the chemical reactions.
+Industry
+In-House Waste Disposal
+Waste from chemical processes never officially leaves the plant. However, disposal methods are unclear and environmentalists express concern.
+Industry
+Purifier Upgrading
+You use the best purifiers available, constantly updgrading. While this is somewhat costly, it's good for public opinion that is strongly in favor of it.
+Industry
+Raw Material Control
+Before any purchased raw material is used for your factories processes', it undergoes an internal check.
+Industry
+Massive Chemical Storage
+Notwithstanding the fact this process can be perceived as dangerous, your factories buy chemicals in bulk and keep a large amount in stock; reducing costs and avoiding any potential shortages.
+Industry
+Frequent Instrument Replacement
+Your factories implement a policy calling for the compulsory and frequent replacement of small disposable instruments like Bunsen burners and glass test tubes.
+Industry
+Total Plant Automation
+Your plants are completely automated improving security, quality and efficiency. Humans remain due to union pressure and act as controllers.
+Industry
+Dioxin Emission Control
+You have a special procedure that restricts the emission of the substance that has caused the largest chemical disasters in human history.
+Industry
+Crisis Monitoring Center
+You establish a task force in your industry headquarter that monitors all your plants and alerts authorities in the event of a crisis. This centralized procedure permits you to save money on security
+Industry
+Internal Hospital And Fire Station
+Every large plant has a small internal hospital and a fire station. This instills your employees with confidence, making them work better. You seem like you really care.
+Industry
+Anti-Spy System
+To avoid the theft of intellectual property, factories have a very tight security system in place. As a result you can improve processes without worrying about the competition stealing the ideas.
+Industry
+Extraterrestrial Chemistry
+Earth and the other worlds have slightly different chemistry laws. By studying them you improve the quality of your products and the efficiency of your plants.
+Industry
+Evacuation Plan
+Every plant has a detailed evacuation plan for the area immediately surrounding it, in the event of an emergency. This plan results in the neighborhood being a little more welcoming of the factory.
+Industry
+Appliances Production
+Assimilate the knowledge to get the License to manage Household Appliances factories.
+Industry
+Large Scale Appliance Production
+Learn the basic skills to manage the production of large scale household appliances.
+Industry
+Used Unit Recycling
+You give customers a discount to purchase new products when they give you back the used ones. You can recycle parts still in good shape.
+Industry
+General Remote
+All the appliances in the customer's house are operated by one remote control.
+Industry
+Coin Slots
+Appliances that only work by inserting money, the customer gets the key to collect the money. Useful for big families to save money; appliances are used less and last longer.
+Industry
+Disintegrating Bins
+Tired of putting the garbage out? These bins vaporize garbage into the atmosphere.
+Industry
+Ultrasound Washing Machine
+No detergent is needed, thanks to the ultrasound waves. Ecologically sound and practical.
+Industry
+Universal Machine
+Unify all the most common kitchen appliances into a single machine. It's not quite as good as the single pieces separately, but your factories are much more efficient.
+Industry
+Ultra Thin TV
+Produce TVs thin as paintings. Picture quality is excellent.
+Industry
+Artificial Pets
+Small robots that resemble cats, dog or birds, benefit from only experiencing the positive part of having a pet: perceived as unnatural and sick by some.
+Industry
+Alien Alarm
+You create an alarm that measures the temperature and chemical emissions of whoever enters the house. If it's not human, the alarm automatically alerts police.
+Industry
+Unscreened Components
+To save money, your products are not properly screened for external electromagnetic interference.
+Industry
+Hi-Fi Directional Speakers
+Special ventriloquist-like speakers that project music directly into the listener's ears.
+Industry
+Voice Activator
+All your appliances can be operated by vocal commands.
+Industry
+Holographic TV
+Revolutionary 3D TV. With this holographic technology TV viewers don't need to wear annoying 3D glasses.
+Industry
+Fake Fireplace
+The fireplace is shown on a video however, it's connected to the house's heating system so that when the customer turns it on, the temperature in the house automatically increases.
+Industry
+Morphing Pet
+Choose the domestic animal you want daily with this special shape-changing robot: from a guard dog to a hairy cat, it will transform itself on request.
+Industry
+Home Theater
+Build the perfect room for listening to music and watching TV in the client's house. Provide everything that's needed: from quadraphonic sound to ergonomic chairs.
+Commerce
+Hi-Fi Room
+There is a room in the store with the best listening environment possible, specifically for trying out all the different stereo systems.
+Commerce
+Repair Department
+In-store repair center for your customers.
+Commerce
+Annual Inspection and Tune Up
+Equipment purchased by your customers is eligible for an annual check up at the in-store repair center.
+Commerce
+Inexperienced Technicians
+To save money, your repair center only employs very young technicians.
+Commerce
+Lifetime Warranty
+People tend to forget how long their warranty is for and tend to assume that it has expired. As a result, providing a lifetime warranty is not much more costly than providing a three year warranty.
+Commerce
+Comprehensive Entertainment System
+The ultimate multimedia machine, everything is connected to a computer that acts as a central station: TV, stereo, Internet, videogames all together.
+Commerce
+House Special
+A special discount to customers that buy all their appliances from your store. Given the high number of purchases, you are able to sneak in some lower quality pieces.
+Commerce
+Salespeople-As-Customer
+When they are hired, your salespeople agree to only buy their appliances from your store.
+Commerce
+24 Hour Technical Service
+Your TV breaks at the start of a football game. Your air conditioner blows up in the middle of the hottest day of the year. Call our technicians and in half an hour someone will be at your house!!
+Commerce
+One Day Technology Course
+Do your kids make fun of you because you don't know how to operate a VCR or a CD player? A one day in-store course reveals the mystery of technology to the more traditional customer.
+Commerce
+Machine Rental
+For people who move a lot, you rent every appliance: from toasters to 50 inch TVs.
+Commerce
+Used Machine Market
+A weekly market, outside your store, of used appliances. Enables you to recycle old machines.
+Commerce
+Vertical Storage
+All the appliances you sell are in rectangular boxes. By storing them on top of each other you save a lot of space, but sometimes stuff gets a little scratched.
+Commerce
+Hidden Appliances
+For people who doesn't want to see appliances in their house, moveable panels and fake walls hide them.
+Commerce
+Automobile Industry Basics
+Basic skills required to manage automobile factories.
+Industry
+Ultimate Air Bag
+A massive air-bag, made with an extremely extensible fabric that effectively surrounds and protects everything inside the vehicle in the event of an accident, greatly improving safety.
+Industry
+Blind Spot Sensors
+Small sensors placed on the side mirrors alerts the driver of any obstacle in his or her blind spots, sharply reducing accidents.
+Industry
+Wreck Recycling
+Your factories collect used cars to recycle useable parts for new models. You save money, but overall quality suffers.
+Industry
+Massive Feature Standardization
+Your factories undergo a massive standardization of all the different models' features. It's very cost-efficient but now your cars all look very similar.
+Industry
+Ergonomic Interiors
+Your cars' interiors are designed to ensure that the driving experience is as comfortable as possible.
+Industry
+Electric and Gas Engine
+Your cars have an electric engine for short trips, and a gas engine for longer journeys that also recharges the batteries; reduces fuel consumption and pollution.
+Industry
+Glue Tires
+Micro holes and a dispenser enable special glue to cover car tires, making the vehicle more stable. The glue left on the road evaporates; ecologists complain.
+Industry
+Low Quality Paint
+Your factories use cheap paint on its car, as a. result cars rust more easily.
+Industry
+Auto Washing Cars
+A hydraulic system is built into the car's chassis, automatically washing the car with water and soap when a sensor indicates that it's dirty. Your cars always look new.
+Industry
+Breath Analyzer Starter
+Before starting the car, the driver blows into a plastic straw attached to the wheel, if their blood-alcohol level is too high, the car won't start. Parents are eternally grateful.
+Industry
+Rubber Recycling
+Your factories recycle rubber from old tires to create new ones. The tire quality is only slightly affected and the public perceives you as being ecologically conscious.
+Industry
+Warranty Policy
+Your cars come with a three year, 100,000 KM warranty.
+Industry
+Directional Computer
+Your cars come with a built-in computer that instantly tells the driver the best route between the starting and arriving point.
+Industry
+Hard Seats
+To save money, you install cheaper hard seats in your cars. The drivers can only notice the difference in their backs after long trips.
+Industry
+Design Outsourcing
+Your car designs are outsourced to a very prestigious design firm. The cars look very slick and you save on the costs of maintaining an entire department.
+Industry
+Leasing and Financing
+You provide your clients more payment options.
+Commerce
+Extensive Test Drive
+Your customers can try your cars, for as long as a week, before deciding to purchase it.
+Commerce
+Cutthroat Sales Policy
+You set very difficult sales goals for your salespeople and fire them if they don't reach them. This is survival of the fittest and only the best survive.
+Commerce
+Salespeople Training Course
+Improves selling efficiency by properly training your salespeople.
+Commerce
+Interworld Car Transfer
+Handle the annoying bureaucracy customers' face when transferring a vehicle between worlds.
+Commerce
+Internal Repair Center
+Your car stores have a car repair center for your clients' car repairs and maintenance needs during their cars life.
+Commerce
+Limited Model Selection
+Your stores only carry a limited number of models. This is very cost-efficient but you can't satisfy every potential customer.
+Commerce
+Body Shop
+Your repair center also repairs damage to the car chassis.
+Commerce
+Luxurious Office
+Delight your customers with a very luxurious office; they feel like they are being treated like royalty.
+Commerce
+Used Car Department
+A large percentage of your potential clients can't afford to buy a new car, so your stores also have a selection of used ones.
+Commerce
+New Car Smell Spray
+Bottle the characteristic smell of a new car and spray it in your used ones. Your clients will buy wrecks thinking they aren't in such bad shape.
+Commerce
+Family Marketing Strategy
+Once one family member buys one of your cars, your marketing team targets all the other family members, trying to convince them to buy another car.
+Commerce
+Alien Background Check
+In an effort to block disguised aliens, every person that wants to buy a car is subject to an extensive background check, tracing all the way back to when his or her ancestors first came from Earth.
+Commerce
+Free Gas
+You offer six months of free gas to anyone who buys one of your cars.
+Commerce
+Complimentary Tune-ups
+The periodic tune-up of new cars is free to your clients.
+Commerce
+Movie Theater Basics
+Paperwork for managing movie theaters.
+Commerce
+Quadraphonic Sound
+The best hi-fi sound system available: makes for a truly amazing listening experience.
+Commerce
+Imperial Chairs
+Your customers will love these extremely large and comfortable armchairs.
+Commerce
+Feature Magazine
+A monthly magazine that promotes upcoming feature movies in your theaters.
+Commerce
+X-Rated Movies
+Some of your theaters feature adult only films.
+Commerce
+Odorama
+Along with images and sound, your theaters have special machines that emanate scents and smells according to the movie's happenings, truly placing customers "in the scene".
+Commerce
+Subliminal Messages
+Influence your customers to buy more food or come back again with hidden messages embedded in the movie.
+Commerce
+Sensory Overload
+In theater cinemas, customers are exposed to excessive light and sound stimulation, masked as advertisements. They slip in a numb state and are more prone to spend.
+Commerce
+Discount Day
+Once a week, on a fixed day, the price of tickets is halved.
+Commerce
+Yearly Festival
+Every year your theaters feature a theme movie festival.
+Commerce
+Automatic Projector Machines
+No need for projector operators. Unions complains.
+Commerce
+Take-Out Trailers
+Distribution of free videos of upcoming movie trailers, for customer's home viewing.
+Commerce
+Temperature Variations
+The heat and air conditioning units vary the theater's temperature according to the locations shown in the movie: makes for a more intense and realistic experience.
+Commerce
+Arcade Games
+Your theaters are filled with videogames and pinball machines.
+Commerce
+Touch Stimulation
+Devices on armrests apply pressure on fingers and palms to stimulate the same emotions and stresses in the film.
+Commerce
+Blockbuster-Only Policy
+No artsy-fartsy cultural movies at your theaters. Check your brain at the entrance.
+Commerce
+Movie Studios
+Assimilate the knowledge to get the License to manage Movie Studios.
+Industry
+Actor Resort
+To attract the best actors and actresses, build a luxurious resort inside your studios where they can live and be pampered while shooting your movies.
+Industry
+Studio Tour
+Offer a studio tour to paying visitors. Another source of revenue and people are happy to take a peek at their favorite stars.
+Industry
+Special Effects Department
+Hire a group of artists especially dedicated to special effects: ideal for science fiction and horror movies.
+Industry
+CGI Developers
+Your special effects department has a battery of computer artists. Produce artificial images for your movies that seem real to the audience.
+Industry
+Gore Exploitation
+Make low budget gory movies for a guaranteed core audience. This audience doesn't care about quality: good returns are a certainty.
+Industry
+Big Stars Only
+Your movies only have the biggest stars in the principle roles. This is what filmgoers want.
+Industry
+AnimalTraining Grounds
+Build stables and cages on your studio lots to train and use animals in your movies. You make a point of treating them in the best possible way for public relations reasons.
+Industry
+Sequels and Remakes
+Sequels and remakes of successful movies are a guaranteed revenue-maker. A conservative approach to filmmaking, but it pays off at the box office.
+Industry
+Adult Movie Section
+Dedicate a part of your studio to adult movies: very cheap industry that guarantees a steady return.
+Industry
+Audience Prescreening
+Before shipping your movies to theaters you have in-house screenings to see if the audience is going to like it. It avoids flops and maintains the quality of your films at an acceptable standard.
+Industry
+Straight-to-Video Policy
+If your movie bombs during the prescreening, you send it straight to video. No point in ruining the reputation of your studio with what is certain to be a flop.
+Industry
+Award Lobbying Strategy
+Lobby the organizers of famous award shows like the "Intraworld Oscar" to have your movies nominated in all categories.
+Industry
+Extras Exploitation
+Underpay the extras in your movies. After all they just want to be close to their favorite stars.
+Industry
+DVD Features
+While your movie is being shot, produce various extra features for the DVD. Film buffs love the interview with the director and similar behind-the-scenes footage.
+Industry
+Dubbing Department
+Dub your movies in order to reach a broader audience. Some people are too lazy to read subtitles.
+Industry
+Culturally Oriented Movies
+Spaghetti westerns, Hong Kong style action, Japanese Monsters etc. Produce movies that appeal to particular cultures.
+Industry
+In-House Writers
+Often scripts need last minute changes. You have a group of experienced writers in the studio ready to do the job.
+Industry
+Editing Dictatorship
+Screw the director, as the producer you have the final say on how the movie is edited-the final cut.
+Industry
+Experimental Filmmaking
+Hire unknown directors with revolutionary ideas. The art is more important than the box office, sometimes.
+Industry
+Tight Shooting Schedules
+It's imperative that your crews stay on deadline. You don't want the movie budget to explode.
+Industry
+Business Machines Production
+Basic skills to manage Business Machines factories.
+Industry
+Modular Furniture
+The perfect way to furnish open spaces, the pieces all look similar and offer great efficiency.
+Industry
+Food and Drink Dispensers
+You produce special food and drink dispensers so that you can decrease the amount of time employees use for lunch.
+Industry
+Shock Mouse
+A special mouse that, measures the user's heartbeat, and emits a small electrical shock when he/she starts to fall asleep . A little barbaric but efficient.
+Industry
+Printer Repair Process
+A transmitter built into the printer automatically alerts your factories when a repair is required.
+Industry
+Executive Office Furniture
+Extremely luxuries office furniture produced for especially for executives. These furnishings create a very pleasant working environment and give your factories a sophisticated aura.
+Industry
+Paper Recycling System
+You offer an integrated recycling solution that produces new paper from discarded paper products, within the office.
+Industry
+Fake Windows
+For an office that doesn't have real windows, you provide screens with different views. The user can choose from a variety of panoramas.
+Industry
+General Backup System
+A unit that periodically backs up all the hard disks in the office.
+Industry
+Fingerprint Access
+A security measure that requires an employee to press his or her left thumb fingerprint onto a special device in order to verify their identity and gain access to the workstation.
+Industry
+Touch Sensitive Screens
+Typing is done by touching icons on the screen. It's difficult to get used to, but it enables you to avoid purchasing keyboards for your computers.
+Industry
+Password Generator
+Every informatics applications requires a password. They're easy to forget; this special device examines your brain and identifies passwords that you can't forget.
+Industry
+Fake Plants
+They are as nice as the real ones and they don't require any maintenance. The easiest way to create a pleasant working environment.
+Industry
+Robotic Delivery System
+If you need to deliver memos and documents from office to office, there is nothing like these little cute robots that speed through the corridors.
+Industry
+Office Light Optimization
+Optimization of light sources in the office improves the quality of work and saves on electricity.
+Industry
+Software Monitoring System
+Afraid that your employees will use their computers to play videogames and view porn? This system monitors and cancels any non-work related software from their hard disks.
+Industry
+Nylon Production
+Nylon production basic skills.
+Industry
+Large Scale Nylon factory
+Knowledge to create and manage large Nylon Factories.
+Industry
+Basic Nylon Knowledge
+Research provides basic knowledge of Nylon production.
+Industry
+Advanced Nylon Knowledge
+Learn what makes a design good and how to meet the needs of each social class, Nylon usage.
+Industry
+Top Nylon Fashions
+Want to produce the best Nylon on your world? Make people believe they like what you design: possess their minds to become a driving force in fashion.
+Industry
+Improved Nylon durability
+Create designs for highly durable Nylon.
+Industry
+Nylon waste reduction plan
+Monthly meetings of upper management to reduce costs due to waste.
+Industry
+Raw material quality controls
+Develop quality control standards.
+Industry
+Synthetic additives
+Replace some materials with synthetic components.
+Industry
+Machinery Silencers
+Install huge noise-eaters near machinery.
+Industry
+Vertical Machinery
+Develop stackable machinery, which saves you a lot of space.
+Industry
+Ongoing Nylon quality control
+Create a team of researchers to continually research nylon quality techniques.
+Industry
+Nylon Stretching
+Develop a procedure that stretches Nylon.
+Industry
+Reflective Nylon
+Develope Nylon that reflects certain colors depending on its place of usage.
+Industry
+Biodegradable Nylon
+Develop Nylon that is easily assimilated by nature once discarded.
+Industry
+Quick Dye Nylon
+An easy way to dye Nylon by applying watercolor, using dry turbines.
+Industry
+Easy Connecting Nylon
+This type Nylon is kept very near each other by using a static electric field.
+Industry
+3D Nylon
+Several college studies have lead to the conclusion that 3D Nylon is superior to 2D Nylon. The reasons why are still undetermined.
+Industry
+Mutating Nylon
+Produce Nylon that will mutate color according to the environment.
+Industry
+Mutating Nylon
+Sometimes just being different is not enough. Nylon need to mutate color and patterns according to what fashion stipulates.
+Industry
+Office Rental Basics
+Paperwork to build and rent offices.
+Real Estate
+Day Care
+Every office building has a day care facility for parents that work there.
+Real Estate
+Puppy and Kitten Room
+It has been proven that playing with puppies and kittens relieves stress. Your office buildings have a puppy and kitten room where workers can go when they need to calm down.
+Real Estate
+Guard Stand
+For security reasons, at the entrance of the office building, there are armed guards.
+Real Estate
+Self-Cleaning Air Shafts
+The building's air shafts are cleaned daily by a special robot.
+Real Estate
+Unisex Bathrooms
+Each floor only has one bathroom to be shared by all employees on it.
+Real Estate
+Robotic Flying Cameras
+The security rounds are performed by small flying robots with cameras connected to the guard room.
+Real Estate
+Soundproof Walls and Doors
+Completely soundproof walls and doors. More privacy, but nobody can't hear what's going on.
+Real Estate
+Open Spaces
+Entire floors with no dividing walls: you are able to accommodate more people in the same space.
+Real Estate
+No Smoking Policy
+Office buildings are completely smoke free.
+Real Estate
+Light Therapy Rooms
+Another effective way to relieve stress is to expose your body to a mild uniform light. All of your buildings have a room specially designed for this purpose.
+Real Estate
+Universal Access
+Your buildings don't have a single corner that isn't accessible by wheel chair.
+Real Estate
+Metal Detectors
+To avoid the presence of any weapons, metal detectors are attached to the guard stand.
+Real Estate
+Pollution Measuring Device
+Every entrance of your building has a device that measures the pollution level immediately outside the building. People can wait for a low reading before going out.
+Real Estate
+Soft Carpets
+Very soft carpets cover the floors and corridors: very nice to walk on.
+Real Estate
+Indoor Gardens
+Many green areas are scattered throughout the common areas of your buildings: beautiful plants and clean air.
+Real Estate
+Lights-On Policy
+The lights are always on, even at night. More secure and no one can tell who is in and who is out.
+Real Estate
+Self-Shading Windows
+Windows made of special glass that automatically darken when exposed to intense light: reduces glare.
+Real Estate
+Live Music
+A small musical ensemble plays classical music in the building's main entrance: a very welcoming scene for whoever enters the building.
+Real Estate
+Police Alarm
+An alarm is directly connected to the police station, ideal for an emergency.
+Real Estate
+Official Greeter
+An official greeter in uniform stands outside the main entrance and greets and directs visitors; this also ensures weirdoes and other undesirables are kept out.
+Real Estate
+Oil Production
+Learn how to create and exploit oil rigs.
+Industry
+Emergency Valves
+For security reasons, all your rigs have valves that automatically shut off in the event of an accident.
+Industry
+Extraterrestrial Drill Customization
+The drills on your rigs are customized according to the soil's consistency, which is slightly different from Earth.
+Industry
+Centralized Quality Control
+Your industrial headquarter has a quality control center that analyzes the crude oil extracted from your rigs and varies the production quota accordingly. Your oil is always sold at the same quality.
+Industry
+Impurity Eating Bacteria
+In order to purify the crude oil, a special colony of bacteria is introduced in your silos.
+Industry
+24 Hour Production
+Your rigs never stop working. More efficient but some concern is expressed by unions about the long shifts.
+Industry
+Earthquake Analyses 
+By analyzing the extraterrestrial worlds' small seismic movements, you are able to find the best drilling pattern for reaching the oil deposits.
+Industry
+Parts Routine Cleaning Procedure
+The routine general cleaning of the rig and all its parts.
+Industry
+Volatile Gas
+You collect the gas produced by crude oil. By compressing, you are able to increase your production. Ecologists praise the reduced volatile emissions.
+Industry
+Massive Oil Storage
+To optimize deliveries, you store oil, en masse, at the extraction site. This is more cost-efficient, but somewhat dangerous.
+Industry
+Solid Oil Storage
+The extracted oil is stored below its "Pour Point": the temperature at which it is solid. Less dangerous and much less storage space is needed.
+Industry
+Ecological Disaster Prevention Strategy
+All third parties that transport your oil have to subscribe to general rules of transport in order to prevent the dispersion of oil in the environment.
+Industry
+Rock Squeezing Process
+In your rigs, the rocks around the oil deposits are extracted and crashed in order to obtain the embedded oil sediments.
+Industry
+High Quality Drilling Mud
+A special combination of chemicals and clay is used as a lubricant for your drills.
+Industry
+Shock Wave Deposit Quantification
+Periodic explosions are carried out on the boundaries of oil deposits, through microphones that receive the shock waves and analyze them, you can determine the deposits shape and size.
+Industry
+Intelligent Pigs
+Your rigs use devices with sensors, called "intelligent pigs", to examine pipelines for corrosion and defects. They are periodically sent down the pipes to perform small repairs.
+Industry
+Organic Chemical Basics
+License to produce Organic chemicals.
+Industry
+Large Organic Chemical Plants
+Learn the basic skills to create and manage large chemical plants.
+Industry
+Full-Body Protection
+Every plant employee must wear a full-body protective suit for security reasons.
+Industry
+Recycling Chemical Waste
+When possible, all chemical waste produced is used for other chemical processes. The quality is lowered, but it demonstrates an environmentally friendly attitude.
+Industry
+Extra Strong Vacuum Pumps
+Plants are equipped with extra strong vacuum pumps to ensure a better environment for the chemical reactions.
+Industry
+In-House Waste Disposal
+Waste from chemical processes never officially leaves the plant. However, disposal methods are unclear and environmentalists express concern.
+Industry
+Purifier Upgrading
+You use the best purifiers available, constantly updgrading. While this is somewhat costly, it's good for public opinion that is strongly in favor of it.
+Industry
+Raw Material Control
+Before any purchased raw material is used for your factories processes', it undergoes an internal check.
+Industry
+Massive Chemical Storage
+Notwithstanding the fact this process can be perceived as dangerous, your factories buy chemicals in bulk and keep a large amount in stock; reducing costs and avoiding any potential shortages.
+Industry
+Frequent Instrument Replacement
+Your factories implement a policy calling for the compulsory and frequent replacement of small disposable instruments like Bunsen burners and glass test tubes.
+Industry
+Total Plant Automation
+Your plants are completely automated improving security, quality and efficiency. Humans remain due to union pressure and act as controllers.
+Industry
+Dioxin Emission Control
+You have a special procedure that restricts the emission of the substance that has caused the largest chemical disasters in human history.
+Industry
+Crisis Monitoring Center
+You establish a task force in your industry headquarter that monitors all your plants and alerts authorities in the event of a crisis. This centralized procedure permits you to save money on security
+Industry
+Internal Hospital And Fire Station
+Every large plant has a small internal hospital and a fire station. This instills your employees with confidence, making them work better. You seem like you really care.
+Industry
+Anti-Spy System
+To avoid the theft of intellectual property, factories have a very tight security system in place. As a result you can improve processes without worrying about the competition stealing the ideas.
+Industry
+Extraterrestrial Chemistry
+Earth and the other worlds have slightly different chemistry laws. By studying them you improve the quality of your products and the efficiency of your plants.
+Industry
+Evacuation Plan
+Every plant has a detailed evacuation plan for the area immediately surrounding it, in the event of an emergency. This plan results in the neighborhood being a little more welcoming of the factory.
+Industry
+Organics Basics
+Learn the basic skills to manage Organics Production.
+Industry
+Large Scale Organics Production
+Learn the basic skills to manage large Scale Organics Factory.
+Industry
+Extra Air Shafts
+Extra air shafts make it easier for workers at the mines, but the abundance of oxygen can corrupt some delicate minerals.
+Industry
+Steam Drills
+Use highly dense steam-beams to seperate organics from non-organics.
+Industry
+Collection Droids
+Replace humans with droids to work on the most dangerous tasks.
+Industry
+Magnetic Elevators
+Elevators operating with natural magnetic fields are far more secure than normal elevators.
+Industry
+Advanced Organic Sensors
+Develop more efficient methods to detect impurities in organics.
+Industry
+Organic Adulteration
+Learn how to introduce doses of non-organics in order to increase production.
+Industry
+Advanced Organics
+Study the most advanced topics in extraterrestrial geology. This is mandatory in order to conduct more advanced research in this field.
+Industry
+Extraterrestrial Organics
+Stop Organic collection the same way you did on earth; take advantage of specific planet conditions.
+Industry
+Advanced Plant Security
+Protect your workers from the toxic emissions native to the planet.
+Industry
+Ground Charting
+Develop ground charts of the areas where your Plants operate. It not only helps manage your operations, but it also increases the sense of security.
+Industry
+Organic Bacteria
+Create large populations of non-Organic Matter eating bacteria to facilitate access to Organics. This practice has not been proven harmful to humans. However, workers remain skeptical about this fact.
+Industry
+Remote Control Carts
+The carts are managed by remote control from a centralized office.
+Industry
+Food Waste bins
+You distribute Food waste collection bins at local restaurants.
+Industry
+Exoskeletons
+The workers use hydraulic exoskeletons to extract organics, this method is very fast but not as precise.
+Industry
+Miner Locators
+Every worker has a transmitter that always transmits his or her exact location: fundamental in emergencies.
+Industry
+Paper Industry Basics
+Basic skills to manage paper manufacturing.
+Industry
+Parchment
+Produce ancient style paper with modern equipment. Very nice to look at and perfect for diplomas or certificates.
+Industry
+Recycling Facility
+Build a recycling facility inside your plants so that you to use old paper towards making your new products: very cost-effective and environmentally friendly.
+Industry
+Handmade Paper
+Hire artisans able to create beautiful handmade paper: for the most demanding customer. This paper is not cheap, but the quality of this product is dramatically enhanced.
+Industry
+Do-It-Yourself Paper Kit
+Have your artisans prepare a special kit, to be sold in stores, for people who want to create their own paper: a new line of business.
+Industry
+Paper Bag Campaign
+Launch a massive campaign to promote the use of paper bags instead of plastic ones in stores. Increase the demand for your products, while coming across as environmentally friendly.
+Industry
+Alternative Sources
+Use alternative raw materials like hemp and kenaf to produce paper. Save some trees and improve efficiency.
+Industry
+Tissue Production
+Add a cleaning line to your product offering: paper towels and other paper-based cleaning products make for a very lucrative business.
+Industry
+Chameleon Paper
+Based on the principle of litmus paper, produce special sheets of paper that can change color when immersed in different liquid solutions: your customers love the whimsy of it.
+Industry
+Paper Knives
+Everybody knows how nasty a paper cut be: create a line of knives with paper blades, ideal for cutting soft materials.
+Industry
+Packaging 
+Produce cardboard boxes and other paper-based packaging: very in demand.
+Industry
+Paper Clothes
+Produce cheap but attractive attire, completely made out of high quality paper.
+Industry
+Paper History
+Study how paper was made on early Earth; it will provide you with insights on how to improve the quality of your paper.
+Industry
+Banknote Contract
+Provide high quality paper to the mint to print banknotes: a very high profile contract.
+Industry
+Food Containers
+Produce specially designed hygienic containers for food storage: it appeals to the safety-conscious consumer.
+Industry
+Extraterrestrial Fibers
+Extraterrestrial wood can be slightly different from Earth's wood. Study those differences to improve the paper production.
+Industry
+PCs Production
+Basic skills to manage PC factories.
+Industry
+Large Scale PCs Production
+Manage large scale PCs production.
+Industry
+Modular Furniture
+The perfect way to furnish open spaces, the pieces all look similar and offer great efficiency.
+Industry
+Food and Drink Dispensers
+You produce special food and drink dispensers so that you can decrease the amount of time employees use for lunch.
+Industry
+Shock Mouse
+A special mouse that, measures the user's heartbeat, and emits a small electrical shock when he/she starts to fall asleep . A little barbaric but efficient.
+Industry
+Printer Repair Process
+A transmitter built into the printer automatically alerts your factories when a repair is required.
+Industry
+Executive Office Furniture
+Extremely luxuries office furniture produced for especially for executives. These furnishings create a very pleasant working environment and give your factories a sophisticated aura.
+Industry
+Paper Recycling System
+You offer an integrated recycling solution that produces new paper from discarded paper products, within the office.
+Industry
+Fake Windows
+For an office that doesn't have real windows, you provide screens with different views. The user can choose from a variety of panoramas.
+Industry
+General Backup System
+A unit that periodically backs up all the hard disks in the office.
+Industry
+Fingerprint Access
+A security measure that requires an employee to press his or her left thumb fingerprint onto a special device in order to verify their identity and gain access to the workstation.
+Industry
+Touch Sensitive Screens
+Typing is done by touching icons on the screen. It's difficult to get used to, but it enables you to avoid purchasing keyboards for your computers.
+Industry
+Password Generator
+Every informatics applications requires a password. They're easy to forget; this special device examines your brain and identifies passwords that you can't forget.
+Industry
+Fake Plants
+They are as nice as the real ones and they don't require any maintenance. The easiest way to create a pleasant working environment.
+Industry
+Robotic Delivery System
+If you need to deliver memos and documents from office to office, there is nothing like these little cute robots that speed through the corridors.
+Industry
+Office Light Optimization
+Optimization of light sources in the office improves the quality of work and saves on electricity.
+Industry
+Software Monitoring System
+Afraid that your employees will use their computers to play videogames and view porn? This system monitors and cancels any non-work related software from their hard disks.
+Industry
+Pharmaceutical Production
+Learn how to produce pharmaceuticals.
+Industry
+Childrenproof Cap
+The caps on your products can't be opened by children.
+Industry
+Antidote Add-On
+Every drug product you sell comes with a small bottle of antidote, in the event the customer has an overdose.
+Industry
+Fluorescent Capsules
+Having problem finding your pills on your night table? This is the perfect solution!!
+Industry
+Extraterrestrial Vitamins
+The new worlds offer a wide variety of new vitamins that when properly prepared are very beneficial to humans. You also save on the more costly production of earth vitamins.
+Industry
+Human Testing
+You launch a drug testing project using paid volunteers. While very helpful to your research, the public opinion sees this as an aberration.
+Industry
+Vivisection Ban
+Experiments are no longer carried out on animals.
+Industry
+Smart Drugs
+Your drug bottles have a small built-in transmitter that calls the customer's pager or cell phone when it's time to take their medicine.
+Industry
+Medicinal Cocktail
+Some people have to take many different drugs every day. On request, your factories can prepare a single pill containing all of a customer's daily medicinal needs in the perfect single dosage.
+Industry
+Do-It-Yourself Kit
+Some drugs can be prepared by a very simple natural distillation process. Your company provides do-it-yourself kits for New Age customers or aspiring pharmacists.
+Industry
+Male Birth Control and Viagra Pill
+The male birth control pill is already widely used, but one of your marketing geniuses had the idea of combining it with Viagra, the sexual booster. The product's success is massive and instantaneous.
+Industry
+Drug Recycling
+Your company implements a drug recycling policy.
+Industry
+Hibernation Center
+Create a hibernation center, under the industry headquarter, to cryogenically store terminally ill persons that can't be cured by your medicine.
+Industry
+Suppository Ban
+Nobody likes to use this uncomfortable way of taking medicine. Your factories successfully replace it with a more pleasant oral form, which is just as quick-acting.
+Industry
+Compulsory Allergy Testing
+Before buying any of your drugs, your customers are tested to see if they are allergic to it. This test avoids dangerous anaphylactic reactions.
+Industry
+Safe Sex Campaign
+Periodically, you stock up in birth control and then launch a massive Safe Sex Campaign. This proves to be a very successful marketing strategy and you seem socially conscious.
+Industry
+Pie Factory
+License to process Pies.
+Industry
+Large Scale Pie Production
+Learn the basic skills to create and manage large Scale Pie Production plants.
+Industry
+Recurrent Pie Production
+Use subproducts as raw materials for Pie production.
+Industry
+Solar Refrigeration
+Uses non polluting solar energy to cool Products.
+Industry
+Water Applications
+Water can be very useful in enlarging Fruit products.
+Industry
+Silicon Applications
+Increase production using dubeious meathods.
+Industry
+Pie Quality Control
+Helps spot Products in state of decomposition.
+Industry
+Brume Syndrome Correction
+Detects Products capable of developing Brume's Syndrome.
+Industry
+ROOG Correction
+Detects Products with tendency to become ROOG.
+Industry
+Basic Refinement
+Provides extra processing in order to increase quality.
+Industry
+Advanced Refinement
+Provides extra advanced processing in order to further increase quality.
+Industry
+Organic Chemicals
+Substitute some non-organic chemicals by processed subproducts.
+Industry
+Radioactive Enlargements
+Enlarge Fruits by exposing it to healthy doses of radioactivity.
+Industry
+Low Fat Line
+Special low fat products for overweight people.
+Industry
+Ethnic Pies
+You hire chefs of different nationalities to prepare frozen Pies.
+Industry
+Ingredients on the Box
+All your products have Ingredients printed on the box.
+Industry
+Substitutive Products
+Some Alternative products are used during production. For customers with allergies and digestive problems.
+Industry
+Fruit Pie Shop Basics
+Paperwork for managing a Fruit Pie Shop.
+Commerce
+Refrigerated Ingredients
+Much cheaper than buying fresh ones every day, they don't taste as good though.
+Commerce
+Romantic Lounge
+For couples who enjoy romantic music and candlelight.
+Commerce
+Violin Player
+There's nothing more romantic than a tzigane violin player for your lounge.
+Commerce
+Ethnic Pies
+Nationally specialized Pies: Every shop has their own authentic types.
+Commerce
+Non-Authentic Pies
+Soon you realize your ethnic shops don't necessarily need server authentic Pies. Pies that look and taste authentic will work fine and they cost much less.
+Commerce
+Extraterrestrial Pies
+Pies made using Ingrediants found on the new extraterrestrial worlds.
+Commerce
+Bring-Your-Own Toppings
+Your clients can bring along some ingredients and have them put on top of your Pies, this is very much appreciated by customers with many allergies and sensitive stomachs.
+Commerce
+Table Microphones
+Order your food from small microphones on the table: fast and fun.
+Commerce
+Kid's Pies
+A special menu made specifically for children make your Shops a favorite for families.
+Commerce
+Professional Waiters
+Hire professional waiters and waitresses instead of students looking for some quick cash. They cost more but the service is much better.
+Commerce
+Compulsory Reservations
+To give an elite aura to your Shops, you make reservations obligatory. It's efficient, but you lose out on impulsive customers.
+Commerce
+Wine Cellar
+Wine goes great with pie. (if your rich that is)
+Commerce
+Sommelier
+Expert advisor to ensure for the perfect combining of Pie and wine, he also takes care of the cellar.
+Commerce
+Pie Subscription
+For those who like to regularly buy your Pies: reduced prices for loyal customers.
+Commerce
+Take-Out
+Take-out Pies for busy people with good taste,They call ahead and you deliver to their car.
+Commerce
+Pine Oil Basics
+Learn the basic skills to deal with Pine Oilery.
+Industry
+Large Scale Pine Oil
+Learn the basic skills to manage large pine oilery.
+Industry
+Extra Air Shafts
+Extra air shafts make it easier for workers at the mines, but the abundance of oxygen can corrupt some delicate minerals.
+Industry
+Steam Drills
+Use highly dense steam-beams to melt rock and uncover ore.
+Industry
+Mining Droids
+Replace humans with droids to work on the most dangerous tasks.
+Industry
+Magnetic Elevators
+Elevators operating with natural magnetic fields are far more secure than normal elevators.
+Industry
+Advanced Silicon Sensors
+Develop more efficient methods to detect impurities in silicon.
+Industry
+Silicon Adulteration
+Learn how to introduce doses of common rock in order to increase production.
+Industry
+Advanced Geology
+Study the most advanced topics in extraterrestrial geology. This is mandatory in order to conduct more advanced research in this field.
+Industry
+Extraterrestrial Mining
+Stop mining the same way you did on earth; take advantage of specific planet conditions.
+Industry
+Advanced Mine Security
+Protect your workers from the toxic emissions, native to the planet.
+Industry
+Underground Charting
+Develop underground charts of the areas where your mines operate. It not only helps manage your operations, but it also increases the sense of security.
+Industry
+Mining Bacteria
+Create large populations of rock eating bacteria to facilitate access to silicon. This practice has not been proven harmful to humans. However, workers remain skeptical about this fact.
+Industry
+Remote Control Carts
+The mining carts are controlled remotely from a centralized office.
+Industry
+Microexplosions
+Instead of carrying out large explosions in your mines, hundreds of small explosions are carried out in order to uncover ore deposits.
+Industry
+Exoskeletons
+The miners use hydraulic exoskeletons to extract the ore, this method is very fast but not as precise.
+Industry
+Miner Locators
+Every miner has a transmitter that always transmits his or her exact location: fundamental in emergencies.
+Industry

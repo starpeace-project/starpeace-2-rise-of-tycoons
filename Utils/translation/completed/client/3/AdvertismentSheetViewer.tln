@@ -1,0 +1,17 @@
+lvConnections.Columns=6
+lvConnections.Columns.0=Inserent
+lvConnections.Columns.1=Inhaber
+lvConnections.Columns.2=Preis
+lvConnections.Columns.3=Überbezahlt
+lvConnections.Columns.4=Letztes
+lvConnections.Columns.5=Qualität
+Label1.Caption=Letzter Wert:
+xfer_FluidValue.Caption=n/a
+Label2.Caption=Kosten:
+xfer_LastCost.Caption=n/a
+Label3.Caption=Reklameanzeige:
+xfer_AdPerc.Hint=0%
+lbAdPerc.Caption=0
+btnHireSuppliers.Hint=Hier klicken, um neue Klienten einzustellen
+btnHireSuppliers.Text=Miete
+btnModify.Hint=Hier klicken, um den vorgewählten Anschluss zu ändern

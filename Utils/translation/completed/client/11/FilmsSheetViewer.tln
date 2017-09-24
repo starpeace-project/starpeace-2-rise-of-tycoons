@@ -1,0 +1,11 @@
+Button2.Caption=Отмените
+Label1.Caption=Название:
+btnLaunch.Text=Старт
+NameLabel.Caption=n/a
+Label2.Caption=Время:
+Label3.Caption=Бюджетя:
+btnCancelFilm.Text=Cancel
+btnReleaseFilm.Text=Отпуск
+xfer_FilmBudget.Text=$10.000.000
+cbAutoRelease.Caption=Автоматический отпуск
+xfer_FilmTime.Text=12

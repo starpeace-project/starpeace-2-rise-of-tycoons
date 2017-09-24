@@ -1,0 +1,17 @@
+Tabs.TabNames.1=SCANALATURA DEL GIOCO
+NewTeamDlg.Caption=NewTeamDlg
+NewTeamDlg.Hint=
+CloseBtn.Hint=Finestra vicina
+CloseBtn.Text=x
+Shape1.Hint=
+Label4.Caption=Nome della squadra:
+Label4.Hint=
+btCreate.Hint=Attrezzi del programma della sovvrapposizione dell'esposizione
+btCreate.Text=Nuova squadra
+btCancel.Hint=Attrezzi del programma della sovvrapposizione dell'esposizione
+btCancel.Text=Annullamento
+HintText.Caption=GENERARE UNA SQUADRA
+HintText.Hint=GENERARE UNA SQUADRA
+edTeamName.Hint=
+edTeamName.Text=
+pnError.Caption=ERRORE!

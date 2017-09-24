@@ -1,0 +1,14 @@
+﻿Ratings.Wealth.Name=经济健康
+Target=WorldProjects
+LangId=5
+WorldProjects.College.Name=学院
+WorldProjects.Disposal.Name=垃圾处置
+WorldProjects.Fire.Name=火覆盖面
+WorldProjects.Health.Name=健康保险
+WorldProjects.Jail.Name=监狱
+WorldProjects.Museum.Name=博物馆
+WorldProjects.Police.Name=警察覆盖面
+WorldProjects.School.Name=学校覆盖面
+WorldProjects.Services.Name=服务和娱乐
+WorldProjects.Sport.Name=休闲设施
+WorldProjects.Unemployment.Name=失业

@@ -1,0 +1,12 @@
+=
+btnOK.Text=APROVAÇÃO
+Label1.Caption=Nome:
+Label2.Caption=Companhia:
+overPay.Caption=Sobrepaga:
+btnClose.Text=x
+FramedButton1.Hint=
+FramedButton1.Text=Cancelamento
+btnDelete1.Text=Supressão
+peOverPay.Hint=0%
+OverPayPerc.Caption=0%
+facName.Caption=n/a

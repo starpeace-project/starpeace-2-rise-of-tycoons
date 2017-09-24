@@ -1,0 +1,10 @@
+﻿TycoonLevels.BeyondLegend.Cond=Você tem que pagar %s ao IFEL. Você deve mandar um superior médio da relação do lucro a %s/h. manter seu prestígio maior de 15000.
+Target=Ministries
+LangId=10
+Ministries.Ministry1.Name=Saúde
+Ministries.Ministry2.Name=Instrução
+Ministries.Ministry3.Name=Defesa
+Ministries.Ministry4.Name=Agricultura
+Ministries.Ministry5.Name=Indústria clara
+Ministries.Ministry6.Name=Indústria pesada
+Ministries.Ministry7.Name=Comércio

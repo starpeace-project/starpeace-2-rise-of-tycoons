@@ -1,0 +1,12 @@
+=
+btnOK.Text=O.K.
+Label1.Caption=Naam:
+Label2.Caption=Bedrijf:
+overPay.Caption=Teveel betaald bedrag:
+btnClose.Text=x
+FramedButton1.Hint=
+FramedButton1.Text=Annuleer
+btnDelete1.Text=Schrap
+peOverPay.Hint=0%
+OverPayPerc.Caption=0%
+facName.Caption=n/a

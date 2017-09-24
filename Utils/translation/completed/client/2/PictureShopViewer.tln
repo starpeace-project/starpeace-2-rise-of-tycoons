@@ -1,0 +1,14 @@
+btnCancel.Text=Annulation
+btnLoad.Hint=Charger votre image d'un fichier-disque
+btnLoad.Text=Charge
+btnPreview.Hint=Visionner votre image
+btnPreview.Text=Prévision
+btnSend.Hint=Envoyer votre image
+btnSend.Text=Envoyer
+btnCancel.Text=Se fermer
+ZoomIn.Hint=Bourdonner dedans
+ZoomIn.Text=+
+ZoomOut.Hint=Bourdonnement dehors
+ZoomOut.Text=-
+Marquee.Caption=ENVOYER VOTRE IMAGE
+Marquee.Hint=ENVOYER VOTRE IMAGE

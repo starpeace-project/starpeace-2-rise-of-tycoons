@@ -1,0 +1,17 @@
+lvConnections.Columns=6
+lvConnections.Columns.0=Advertiser
+lvConnections.Columns.1=Proprietario
+lvConnections.Columns.2=Prezzo
+lvConnections.Columns.3=Pagato in più
+lvConnections.Columns.4=Ultimo
+lvConnections.Columns.5=Qualità
+Label1.Caption=Ultimo valore:
+xfer_FluidValue.Caption=n/a
+Label2.Caption=Costo:
+xfer_LastCost.Caption=n/a
+Label3.Caption=Pubblicità:
+xfer_AdPerc.Hint=0%
+lbAdPerc.Caption=0
+btnHireSuppliers.Hint=Scattar qui per impiegare i nuovi clienti
+btnHireSuppliers.Text=Noleggio
+btnModify.Hint=Scattar qui per modificare il collegamento selezionato

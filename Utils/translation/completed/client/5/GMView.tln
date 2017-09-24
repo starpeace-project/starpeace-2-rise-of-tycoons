@@ -1,0 +1,16 @@
+N2.Caption=删除
+Label1.Caption=谈话与您：
+OnlineList.Columns=3
+OnlineList.Columns.0=别名
+OnlineList.Columns.1=水平
+OnlineList.Columns.2=世界
+Label2.Caption=等待您：
+WaitingList.Columns=3
+WaitingList.Columns.0=别名
+WaitingList.Columns.1=水平
+WaitingList.Columns.2=世界
+File1.Caption=&File
+EXitMnu.Caption=E&xit
+Shortcuts1.Caption=捷径
+Minimize1.Caption=减到最小
+Chat1.Caption=闲谈!

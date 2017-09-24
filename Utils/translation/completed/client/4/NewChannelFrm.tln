@@ -1,0 +1,17 @@
+Label2.Caption=Oggetto:
+Marquee.Caption=GENERARE LA NUOVA SCANALATURA
+Marquee.Hint=GENERARE LA NUOVA SCANALATURA
+btnCreate.Hint=Scattar per generare una nuova scanalatura
+btnCreate.Text=Generare
+btnCancel.Text=Annullare
+Label1.Caption=Scegliere un nome per la nuova scanalatura:
+Label2.Caption=Potete proteggere la scanalatura con una parola d'accesso:
+Label3.Caption=Registrare di nuovo la parola d'accesso:
+ChannelName.Hint=Introdurre il nome della scanalatura qui
+Password.Hint=Digitare la parola d'accesso della scanalatura qui
+PasswordCheck.Hint=Controllare la vostra parola d'accesso qui
+Label4.Caption=Scegliere un gioco:
+Label5.Caption=Massimo dei giocatori permessi:
+Edit1.Text=0
+Tabs.TabNames=2
+Tabs.TabNames.0=SCANALATURA DI CHIACCHIERATA

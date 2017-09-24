@@ -1,0 +1,10 @@
+TycoonLevels.BeyondLegend.Cond=U moet %s aan IFEL betalen. U moet een gemiddelde winstverhouding meerdere aan %s/h. hebben uw Prestige handhaven groter dan 15000.
+Target=Ministries
+LangId=6
+Ministries.Ministry1.Name=Gezondheid
+Ministries.Ministry2.Name=Onderwijs
+Ministries.Ministry3.Name=Defensie
+Ministries.Ministry4.Name=Landbouw
+Ministries.Ministry5.Name=Lichte Industrie
+Ministries.Ministry6.Name=Zware industrie
+Ministries.Ministry7.Name=Handel

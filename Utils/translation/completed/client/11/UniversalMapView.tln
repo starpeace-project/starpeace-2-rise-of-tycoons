@@ -1,0 +1,16 @@
+=
+lbName.Caption=Всеобщая карта
+Tabs.TabNames=3
+Tabs.TabNames.0=Официальные миры
+Tabs.TabNames.1=Миры турнира
+Tabs.TabNames.2=Миры игрока
+Label11.Caption= Миры ые в этой области:
+Label9.Caption=Вид мимо:
+RadioButton1.Caption=Шипучка
+RadioButton2.Caption=Вкладчики
+RadioButton3.Caption=Год
+RadioButton4.Caption=ПИНГ
+Ticker.Caption=Добро пожаловать к карте Univesal. Щелкните дальше любыми мирами выше для показа выдвинутой информации.
+Jump.Hint=Поскачите к в настоящее время выбранной планете
+Jump.Text=ПОСКАЧИТЕ К ПЛАНЕТЕ
+Refresh.Hint=Освежите список планеты показанный выше

@@ -1,0 +1,11 @@
+btClose.Text=CIERRE
+Panel4.Caption=Mecanografiar sus comentarios aquí:
+NoChannels.Caption=Ningunos canales a demostrar
+CreateChannel.Hint=Chascar para crear un canal
+CreateChannel.Text=Crear el canal
+JoinChannel.Hint=Chascar para ensamblar un canal
+JoinChannel.Text=Ensamblar el canal
+LeaveChannel.Hint=Chascar para dejar el canal
+LeaveChannel.Text=Dejar el canal
+Marquee.Caption=RECEPCIÓN a la CHARLA de Starpeace.
+Marquee.Hint=RECEPCIÓN a la CHARLA de Starpeace.

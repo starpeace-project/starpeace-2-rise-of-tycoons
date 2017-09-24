@@ -1,0 +1,49 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{626facdd-b679-4b18-8e6a-be6886cbf5a8}</ProjectGuid>
+  </PropertyGroup>
+  <ItemGroup />
+  <ItemGroup />
+  <ProjectExtensions>
+    <Borland.Personality>Default.Personality</Borland.Personality>
+    <Borland.ProjectType />
+    <BorlandProject>
+  <BorlandProject xmlns=""> <Default.Personality> </Default.Personality> </BorlandProject></BorlandProject>
+  </ProjectExtensions>
+  <Target Name="FiveDaemonScheduler">
+    <MSBuild Projects="FiveDaemonScheduler.dproj" Targets="" />
+  </Target>
+  <Target Name="FiveDaemonScheduler:Clean">
+    <MSBuild Projects="FiveDaemonScheduler.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="FiveDaemonScheduler:Make">
+    <MSBuild Projects="FiveDaemonScheduler.dproj" Targets="Make" />
+  </Target>
+  <Target Name="Rankings">
+    <MSBuild Projects="Rankings.dproj" Targets="" />
+  </Target>
+  <Target Name="Rankings:Clean">
+    <MSBuild Projects="Rankings.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="Rankings:Make">
+    <MSBuild Projects="Rankings.dproj" Targets="Make" />
+  </Target>
+  <Target Name="WorldStatus">
+    <MSBuild Projects="WorldStatus.dproj" Targets="" />
+  </Target>
+  <Target Name="WorldStatus:Clean">
+    <MSBuild Projects="WorldStatus.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="WorldStatus:Make">
+    <MSBuild Projects="WorldStatus.dproj" Targets="Make" />
+  </Target>
+  <Target Name="Build">
+    <CallTarget Targets="FiveDaemonScheduler;Rankings;WorldStatus" />
+  </Target>
+  <Target Name="Clean">
+    <CallTarget Targets="FiveDaemonScheduler:Clean;Rankings:Clean;WorldStatus:Clean" />
+  </Target>
+  <Target Name="Make">
+    <CallTarget Targets="FiveDaemonScheduler:Make;Rankings:Make;WorldStatus:Make" />
+  </Target>
+</Project>

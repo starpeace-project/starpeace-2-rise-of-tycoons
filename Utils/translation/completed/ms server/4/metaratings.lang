@@ -1,0 +1,17 @@
+﻿PublicFacilities.Sport.Name=Facilità di ricreazione
+Target=Valutazioni
+LangId=4
+Ratings.CampaignAccuracy.Name=Realizzazione di campagna
+Ratings.College.Name=Istituti universitari
+Ratings.Disposal.Name=Eliminazione di immondizia
+Ratings.Fire.Name=Riempimento del fuoco
+Ratings.Health.Name=Riempimento di salute
+Ratings.Jail.Name=Prigioni
+Ratings.Museum.Name=Musei
+Ratings.Police.Name=Riempimento della polizia
+Ratings.PopGrowth.Name=Sviluppo della città
+Ratings.School.Name=Riempimento della scuola
+Ratings.Services.Name=Servizi e divertimento
+Ratings.Sport.Name=Facilità di ricreazione
+Ratings.Taxes.Name=Tasse
+Ratings.Unemployment.Name=Occupazione

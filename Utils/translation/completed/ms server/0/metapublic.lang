@@ -1,0 +1,11 @@
+Target=PublicFacilities
+LangId=0
+PublicFacilities.College.Name=Colleges
+PublicFacilities.Disposal.Name=Garbage Disposal
+PublicFacilities.Fire.Name=Fire Coverage
+PublicFacilities.Health.Name=Health Coverage
+PublicFacilities.Jail.Name=Jails
+PublicFacilities.Museum.Name=Museums
+PublicFacilities.Police.Name=Police Coverage
+PublicFacilities.School.Name=School Coverage
+PublicFacilities.Sport.Name=Recreation Facilities

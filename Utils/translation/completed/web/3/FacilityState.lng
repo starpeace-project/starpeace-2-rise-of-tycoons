@@ -1,0 +1,8 @@
+=""
+=""
+strOperatingNormally="Die Haube funktioniert normalerweise"
+strStopped="Der Haube wurde der Inhaber kurz aufgehalten bei"
+strNotFunctioning="Die Haube arbeitet nicht richtig"
+strNeedsSuppliers="Eine oder mehrere Grundversorgungen werden nicht an allen empfangen"
+strNeedsBudget="Es gibt nicht genügend Geld, zum zu funktionieren"
+strNotEnoughSupplies="Die Haube wird nicht geliefert, während sie richtig arbeiten muss"

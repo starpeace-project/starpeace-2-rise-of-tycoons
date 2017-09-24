@@ -1,0 +1,122 @@
+unit trouserShop;
+
+interface
+
+  uses
+    Kernel, Surfaces, WorkCenterBlock, StdFluids, ServiceBlock;
+
+  const
+    tidService_trouser = tidFluid_trouser + '_Market';
+
+  type
+    TMetatrouserShopBlock =
+      class(TMetaServiceBlock)
+        public
+          constructor Create(anId          : string;
+                             aCapacities   : array of TFluidValue;
+                             aCustomerMax  : TFluidValue;
+                             aPricePerc    : TPercent;
+                             EvlBuyProb    : array of TBuyProbability;
+                             aMaxAd        : TFluidValue;
+                             aBlockClass   : CBlock);
+      end;
+
+    TtrouserShopBlock =
+      class(TServiceBlock)
+        private
+          ftrouser : TInputData;
+      end;
+
+  procedure RegisterBackup;
+
+implementation
+
+  uses
+    ClassStorage, PyramidalModifier, Classes, BackupInterfaces,
+    Population, MathUtils, StdAccounts;
+
+  // TMetaClothesShopBlock
+
+  constructor TMetatrouserShopBlock.Create(anId          : string;
+                                           aCapacities   : array of TFluidValue;
+                                           aCustomerMax  : TFluidValue;
+                                           aPricePerc    : TPercent;
+                                           EvlBuyProb    : array of TBuyProbability;
+                                           aMaxAd        : TFluidValue;
+                                           aBlockClass   : CBlock);
+    var
+      Sample         : TtrouserShopBlock;
+      trouserService : TMetaService;
+    begin
+      inherited Create(anId,
+        aCapacities,
+        accIdx_trouserShop_Supplies,
+        accIdx_trouserShop_Salaries,
+        accIdx_trouserShop_Sales,
+        aMaxAd,
+        aBlockClass);
+      Sample  := nil;
+      // Clothes Service
+      trouserService := TMetaService(TheClassStorage.ClassById[tidClassFamily_Services, tidService_trouser]);
+      // Inputs
+      MetaInputs.Insert(
+        TMetaInput.Create(
+          tidGate_trouser,
+          inputZero,
+          InputData(aCustomerMax, 100),
+          inputZero,
+          qIlimited,
+          TPullInput,
+          TMetaFluid(TheClassStorage.ClassById[tidClassFamily_Fluids, tidFluid_trouser]),
+          5,
+          mglBasic,
+          [mgoptCacheable, mgoptEditable],
+          sizeof(Sample.ftrouser),
+          Sample.Offset(Sample.ftrouser)));
+
+      // Service: Clothes
+      with TMetaServiceEvaluator.Create(
+        trouserService,
+        'trousers',
+        aPricePerc,
+        aCustomerMax,
+        100,
+        EvlBuyProb) do
+        begin
+          {
+          RegisterInput(
+            TMetaServiceEvaluatorInput.Create(
+              InputByName[PeopleKindPrefix[pkHigh] + tidGate_WorkForce],
+              1,
+              10));
+          RegisterInput(
+            TMetaServiceEvaluatorInput.Create(
+              InputByName[PeopleKindPrefix[pkMiddle] + tidGate_WorkForce],
+              1,
+              15));
+          RegisterInput(
+            TMetaServiceEvaluatorInput.Create(
+              InputByName[PeopleKindPrefix[pkLow] + tidGate_WorkForce],
+              1,
+              12));
+          }
+          RegisterInput(
+            TMetaServiceEvaluatorInput.Create(
+              InputByName[tidGate_trouser],
+              1,
+              100));
+          Register(self);
+        end;
+    end;
+
+
+  // Backup
+
+  procedure RegisterBackup;
+    begin
+      BackupInterfaces.RegisterClass(TtrouserShopBlock);
+    end;
+
+
+end.
+

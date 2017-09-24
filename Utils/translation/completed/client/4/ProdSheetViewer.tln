@@ -1,0 +1,12 @@
+ReadNews.Text=Leggere le notizie
+lvConnections.Columns=4
+lvConnections.Columns.0=Cliente
+lvConnections.Columns.1=Azienda
+lvConnections.Columns.2=Vendite
+lvConnections.Columns.3=T. Costo
+PricePc.Hint=0%
+Label3.Caption=Prezzo:
+Price.Caption=0%
+btnHireSuppliers.Hint=Scattar qui per offrire il vostro prodotto ai clienti
+btnHireSuppliers.Text=Offerta
+btnDelete.Hint=Scattar qui per cancellare un cliente

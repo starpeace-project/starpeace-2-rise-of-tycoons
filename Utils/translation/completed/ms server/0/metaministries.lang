@@ -1,0 +1,10 @@
+Target=Ministries
+LangId=0
+Ministries.Ministry1.Name=Health
+Ministries.Ministry2.Name=Education
+Ministries.Ministry3.Name=Defense
+Ministries.Ministry4.Name=Agriculture
+Ministries.Ministry5.Name=Light Industry
+Ministries.Ministry6.Name=Heavy Industry
+Ministries.Ministry7.Name=Commerce
+Ministries.Ministry8.Name=Housing

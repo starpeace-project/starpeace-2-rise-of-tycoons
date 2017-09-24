@@ -1,0 +1,227 @@
+unit FacIds;
+          //top fid = 300  magna movie theater
+interface
+
+  type
+    TFacId      = integer;
+    PFacIdArray = ^TFacIdArray;
+    TFacIdArray = array[0..0] of TFacId;
+
+  const
+    FID_None = 0;
+    
+    // Headquarters
+    FID_MainHeadquarter  = 10;
+    FID_OffcHeadquarter  = 12;
+    FID_IndHeadquarter   = 11;
+    FID_CommHeadquarter  = 13;
+    FID_PubHeadquarter   = 14;
+
+    // Residentials
+    FID_hiClassLoCost  = 20;
+    FID_midClassLoCost = 21;
+    FID_lowClassLoCost = 22;
+
+    FID_hiClass        = 25;
+    FID_midClass       = 26;
+    FID_lowClass       = 27;
+
+    // Office
+    FID_Office = 30;
+    FID_MagOffice = 5000;
+
+    // Industries
+    FID_Farm          = 40;
+    FID_FoodProc      = 42;
+    FID_Chemical      = 44;
+    FID_Mine          = 46;
+    FID_Textile       = 48;
+    FID_Metal         = 50;
+    FID_ElectComp     = 52;
+    FID_Clothes       = 54;
+    FID_Household     = 56;
+    FID_BusMach       = 58;
+    FID_Heavy         = 60;
+    FID_Car           = 62;
+    FID_Construction  = 64;
+    FID_MovieStudios  = 65;
+    FID_Pharmaceutics = 66;
+    FID_Plastics      = 68;
+    FID_Toys          = 69;
+    FID_OilRig        = 200;
+    FID_Refinery      = 201;
+    FID_LiquorFact    = 202;
+    FID_ChemicalMine  = 203;
+    FID_SiliconMine   = 204;
+    FID_StoneMine     = 205;
+    FID_CoalMine      = 206;
+    FID_LumberMill    = 207;
+    FID_FurnitureInd  = 208;
+    FID_PaperInd      = 209;
+    FID_PrintingPlant = 210;
+    FID_CDPlant       = 211;
+    FID_organicwaste  = 213;
+    FID_fert  = 214;
+    FID_grainFarma = 215;
+    FID_mill = 216;
+    FID_cotton = 217;
+    FID_trouser = 218;
+    FID_fruitFarma = 221;
+    FID_fruitpie = 222;
+    FID_rubbersap = 223;
+    FID_rubbertree = 224;
+    FID_rubberfact = 225;
+    FID_shoefact = 226;
+    FID_vegFarma = 229;
+    FID_stewfact = 230;
+    FID_organicMine = 231;
+    FID_polymer = 232;
+    FID_nylon = 233;
+    FID_shirt = 234;
+    FID_Cattlefarma = 237;
+    FID_burgerfact = 238;
+    FID_rawChemMine = 239;
+    FID_miningchem = 240;
+    FID_leather = 241;
+    FID_leatherjacket = 242;
+    FID_ironMine = 245;
+    FID_steel  = 246;
+    FID_Memory = 247;
+    FID_Smallcar = 248;
+    FID_Tvs = 249;
+    FID_SiliconMine2 = 252;
+    FID_CoalMine2 = 253;
+    FID_coppermine = 254;
+    FID_ceramicMine = 255;
+    FID_pineoil = 256;
+    FID_copperIndustry = 257;
+    FID_CPU = 258;
+    FID_sportscar = 259;
+    FID_PCs =260;
+    FID_almine = 262;
+    FID_cryolite = 263;
+    FID_silane = 264;
+    FID_alIndustry  = 265;
+    FID_tft = 266;
+    FID_motorbike = 267;
+    FID_mphone = 268;
+    FID_engine = 271;
+    FID_tire = 272;
+    FID_humvee = 273;
+    FID_cooker = 274;
+    FID_glass = 277;
+    FID_conveybsys = 278;
+    FID_buscomp = 279;
+    FID_concrete = 280;
+    FID_machineindy2 = 281;
+    FID_servers = 282;
+    FID_plasterboard = 283;
+    FID_roboticsys = 284;
+    FID_bm2 = 285;
+    FID_gypsum = 289;
+    FID_limestone = 290;
+    FID_gravel = 291;
+    FID_const2 = 292;
+    FID_controlsys = 293;
+    FID_networksys = 294;
+
+
+
+    // Commerce       (mag office = 5000 )
+    FID_cookerStore = 276;
+    FID_humveestore = 275;
+    FID_motorbikestore = 270;
+    FID_mobileStore = 269;
+    FID_Sportscarstore = 261;
+    FID_Smallcarstore = 251;
+    FID_TVStore = 250;
+    FID_burgerbar = 244;
+    FID_leatherjacketShop = 243;
+    FID_stewshop = 236;
+    FID_shirtShop = 235;
+    FID_bakery = 219;
+    FID_trousershop = 220;
+    FID_fruitpieshop = 227;
+    FID_shoeshop = 228;
+
+    FID_FoodStore   = 70;
+    FID_ClotheStore = 71;
+    FID_HHAStore    = 72;
+    FID_BMStore     = 73;
+    FID_CarStore    = 74;
+    FID_Supermarket = 75;
+    FID_Bar         = 76;
+    FID_Restaurant  = 77;
+    FID_Movie       = 78;
+    FID_MagnaMovie       = 300;
+    FID_DrugStore   = 79;
+    FID_ToyStore    = 90;
+    FID_GasStation  = 91;
+    FID_Furniture   = 92;
+    FID_BookStore   = 93;
+    FID_CompStore   = 94;
+    FID_Funeral     = 95;
+    FID_CDStore     = 96;
+
+    // Business
+    FID_SoftwareFirm = 80;
+    FID_LawyerFirm   = 81;
+
+    // Public Facilities
+    FID_Hospital     = 100;
+    FID_School       = 101;
+    FID_Police       = 102;
+    FID_FireStation  = 103;
+    FID_Correctional = 104;
+    FID_Park         = 105;
+    FID_Disposal     = 106;
+    FID_Amusement    = 107;
+    FID_Jail         = 108;
+    FID_Agency       = 109;
+
+    // Special
+    FID_Bank      = 110;
+    FID_TVStation = 111;
+    FID_TVAntena  = 112;
+
+    // Warehouses
+    FID_ColdWarehouse     = 120;
+    FID_ChemicalWarehouse = 121;
+    FID_GeneralWarehouse  = 122;
+    FID_FabricsWarehouse  = 123;
+    FID_OreWarehouse      = 124;
+    FID_MegaWarehouseImp  = 125;
+    FID_MegaWarehouseExp  = 126;
+
+    // Luxury Facilities
+    FID_LuxuryFac = 140;
+
+
+  function NewFacIds(var Dest : PFacIdArray; const Source : array of TFacId) : integer ;
+  function Contains(Ids : array of TFacId; Id : TFacId) : boolean;
+
+implementation
+
+  function NewFacIds(var Dest : PFacIdArray; const Source : array of TFacId) : integer ;
+    begin
+      result := high(Source) - low(Source) + 1;
+      if result > 0
+        then
+          begin
+            GetMem(Dest, result*sizeof(Dest[0]));
+            move(Source, Dest^, result*sizeof(Dest[0]));
+          end
+        else Dest := nil;
+    end;
+
+  function Contains(Ids : array of TFacId; Id : TFacId) : boolean;
+    var
+      i : integer;
+    begin
+      i := low(Ids);
+      while (i <= high(Ids)) and (Ids[i] <> Id) do
+        inc(i);
+      result := i <= high(Ids);
+    end;
+
+end.

@@ -1,0 +1,15 @@
+<%
+strGeneralInformation="General Information"
+strFacilityKind="Facility kind"
+strTown="Town"
+strCluster="Cluster"
+strCompany="Company"
+strCEO="CEO"
+strOperation="Operation"
+strWorkforce="Workforce"
+strHighClass="High class"
+strWorkers="workers"
+strOf="of"
+strMiddleClass="Middle class"
+strLowClass="Low class"
+%>

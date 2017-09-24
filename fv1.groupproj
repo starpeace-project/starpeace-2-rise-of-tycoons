@@ -1,0 +1,184 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{18b55b74-965c-488e-95ac-e7cfa09f90b9}</ProjectGuid>
+  </PropertyGroup>
+  <ItemGroup />
+  <ItemGroup />
+  <ProjectExtensions>
+    <Borland.Personality>Default.Personality</Borland.Personality>
+    <Borland.ProjectType />
+    <BorlandProject>
+<BorlandProject xmlns=""><Default.Personality></Default.Personality></BorlandProject></BorlandProject>
+  </ProjectExtensions>
+  <Target Name="FIVEVoyager">
+    <MSBuild Projects="Voyager\FIVEVoyager.dproj" Targets="" />
+  </Target>
+  <Target Name="FIVEVoyager:Clean">
+    <MSBuild Projects="Voyager\FIVEVoyager.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="FIVEVoyager:Make">
+    <MSBuild Projects="Voyager\FIVEVoyager.dproj" Targets="Make" />
+  </Target>
+  <Target Name="DServer">
+    <MSBuild Projects="DServer\DServer.dproj" Targets="" />
+  </Target>
+  <Target Name="DServer:Clean">
+    <MSBuild Projects="DServer\DServer.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="DServer:Make">
+    <MSBuild Projects="DServer\DServer.dproj" Targets="Make" />
+  </Target>
+  <Target Name="FIVECacheServer">
+    <MSBuild Projects="Cache Server\FIVECacheServer.dproj" Targets="" />
+  </Target>
+  <Target Name="FIVECacheServer:Clean">
+    <MSBuild Projects="Cache Server\FIVECacheServer.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="FIVECacheServer:Make">
+    <MSBuild Projects="Cache Server\FIVECacheServer.dproj" Targets="Make" />
+  </Target>
+  <Target Name="FIVEMailServer">
+    <MSBuild Projects="Mail Server\FIVEMailServer.dproj" Targets="" />
+  </Target>
+  <Target Name="FIVEMailServer:Clean">
+    <MSBuild Projects="Mail Server\FIVEMailServer.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="FIVEMailServer:Make">
+    <MSBuild Projects="Mail Server\FIVEMailServer.dproj" Targets="Make" />
+  </Target>
+  <Target Name="FIVENewsServer">
+    <MSBuild Projects="News Server\FIVENewsServer.dproj" Targets="" />
+  </Target>
+  <Target Name="FIVENewsServer:Clean">
+    <MSBuild Projects="News Server\FIVENewsServer.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="FIVENewsServer:Make">
+    <MSBuild Projects="News Server\FIVENewsServer.dproj" Targets="Make" />
+  </Target>
+  <Target Name="voyager2">
+    <MSBuild Projects="Installer\voyager2.dproj" Targets="" />
+  </Target>
+  <Target Name="voyager2:Clean">
+    <MSBuild Projects="Installer\voyager2.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="voyager2:Make">
+    <MSBuild Projects="Installer\voyager2.dproj" Targets="Make" />
+  </Target>
+  <Target Name="FIVEInterfaceServer">
+    <MSBuild Projects="Interface Server\FIVEInterfaceServer.dproj" Targets="" />
+  </Target>
+  <Target Name="FIVEInterfaceServer:Clean">
+    <MSBuild Projects="Interface Server\FIVEInterfaceServer.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="FIVEInterfaceServer:Make">
+    <MSBuild Projects="Interface Server\FIVEInterfaceServer.dproj" Targets="Make" />
+  </Target>
+  <Target Name="FIVEModelServer">
+    <MSBuild Projects="Model Server\FIVEModelServer.dproj" Targets="" />
+  </Target>
+  <Target Name="FIVEModelServer:Clean">
+    <MSBuild Projects="Model Server\FIVEModelServer.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="FIVEModelServer:Make">
+    <MSBuild Projects="Model Server\FIVEModelServer.dproj" Targets="Make" />
+  </Target>
+  <Target Name="PGIPack1">
+    <MSBuild Projects="Model Extensions\PGI\PGIPack1.dproj" Targets="" />
+  </Target>
+  <Target Name="PGIPack1:Clean">
+    <MSBuild Projects="Model Extensions\PGI\PGIPack1.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="PGIPack1:Make">
+    <MSBuild Projects="Model Extensions\PGI\PGIPack1.dproj" Targets="Make" />
+  </Target>
+  <Target Name="MoabPack1">
+    <MSBuild Projects="Model Extensions\Moab\MoabPack1.dproj" Targets="" />
+  </Target>
+  <Target Name="MoabPack1:Clean">
+    <MSBuild Projects="Model Extensions\Moab\MoabPack1.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="MoabPack1:Make">
+    <MSBuild Projects="Model Extensions\Moab\MoabPack1.dproj" Targets="Make" />
+  </Target>
+  <Target Name="MarikoPack1">
+    <MSBuild Projects="Model Extensions\Mariko\MarikoPack1.dproj" Targets="" />
+  </Target>
+  <Target Name="MarikoPack1:Clean">
+    <MSBuild Projects="Model Extensions\Mariko\MarikoPack1.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="MarikoPack1:Make">
+    <MSBuild Projects="Model Extensions\Mariko\MarikoPack1.dproj" Targets="Make" />
+  </Target>
+  <Target Name="MagnaPack1">
+    <MSBuild Projects="Model Extensions\Magna\MagnaPack1.dproj" Targets="" />
+  </Target>
+  <Target Name="MagnaPack1:Clean">
+    <MSBuild Projects="Model Extensions\Magna\MagnaPack1.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="MagnaPack1:Make">
+    <MSBuild Projects="Model Extensions\Magna\MagnaPack1.dproj" Targets="Make" />
+  </Target>
+  <Target Name="DissidentPack1">
+    <MSBuild Projects="Model Extensions\Dissidents\DissidentPack1.dproj" Targets="" />
+  </Target>
+  <Target Name="DissidentPack1:Clean">
+    <MSBuild Projects="Model Extensions\Dissidents\DissidentPack1.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="DissidentPack1:Make">
+    <MSBuild Projects="Model Extensions\Dissidents\DissidentPack1.dproj" Targets="Make" />
+  </Target>
+  <Target Name="GeneralPack1">
+    <MSBuild Projects="Model Extensions\General\GeneralPack1.dproj" Targets="" />
+  </Target>
+  <Target Name="GeneralPack1:Clean">
+    <MSBuild Projects="Model Extensions\General\GeneralPack1.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="GeneralPack1:Make">
+    <MSBuild Projects="Model Extensions\General\GeneralPack1.dproj" Targets="Make" />
+  </Target>
+  <Target Name="ib">
+    <MSBuild Projects="Model Extensions\Ib\ib.dproj" Targets="" />
+  </Target>
+  <Target Name="ib:Clean">
+    <MSBuild Projects="Model Extensions\Ib\ib.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="ib:Make">
+    <MSBuild Projects="Model Extensions\Ib\ib.dproj" Targets="Make" />
+  </Target>
+  <Target Name="flaunch">
+    <MSBuild Projects="Voyager\flaunch.dproj" Targets="" />
+  </Target>
+  <Target Name="flaunch:Clean">
+    <MSBuild Projects="Voyager\flaunch.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="flaunch:Make">
+    <MSBuild Projects="Voyager\flaunch.dproj" Targets="Make" />
+  </Target>
+  <Target Name="GMCenter">
+    <MSBuild Projects="Gm\GM Visual\GameMasterUtility\GMCenter.dproj" Targets="" />
+  </Target>
+  <Target Name="GMCenter:Clean">
+    <MSBuild Projects="Gm\GM Visual\GameMasterUtility\GMCenter.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="GMCenter:Make">
+    <MSBuild Projects="Gm\GM Visual\GameMasterUtility\GMCenter.dproj" Targets="Make" />
+  </Target>
+  <Target Name="FIVEGameMasterServer">
+    <MSBuild Projects="Gm\GM Visual\GameMasterServer\FIVEGameMasterServer.dproj" Targets="" />
+  </Target>
+  <Target Name="FIVEGameMasterServer:Clean">
+    <MSBuild Projects="Gm\GM Visual\GameMasterServer\FIVEGameMasterServer.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="FIVEGameMasterServer:Make">
+    <MSBuild Projects="Gm\GM Visual\GameMasterServer\FIVEGameMasterServer.dproj" Targets="Make" />
+  </Target>
+  <Target Name="Build">
+    <CallTarget Targets="FIVEVoyager;DServer;FIVECacheServer;FIVEMailServer;FIVENewsServer;voyager2;FIVEInterfaceServer;FIVEModelServer;PGIPack1;MoabPack1;MarikoPack1;MagnaPack1;DissidentPack1;GeneralPack1;ib;flaunch;GMCenter;FIVEGameMasterServer" />
+  </Target>
+  <Target Name="Clean">
+    <CallTarget Targets="FIVEVoyager:Clean;DServer:Clean;FIVECacheServer:Clean;FIVEMailServer:Clean;FIVENewsServer:Clean;voyager2:Clean;FIVEInterfaceServer:Clean;FIVEModelServer:Clean;PGIPack1:Clean;MoabPack1:Clean;MarikoPack1:Clean;MagnaPack1:Clean;DissidentPack1:Clean;GeneralPack1:Clean;ib:Clean;flaunch:Clean;GMCenter:Clean;FIVEGameMasterServer:Clean" />
+  </Target>
+  <Target Name="Make">
+    <CallTarget Targets="FIVEVoyager:Make;DServer:Make;FIVECacheServer:Make;FIVEMailServer:Make;FIVENewsServer:Make;voyager2:Make;FIVEInterfaceServer:Make;FIVEModelServer:Make;PGIPack1:Make;MoabPack1:Make;MarikoPack1:Make;MagnaPack1:Make;DissidentPack1:Make;GeneralPack1:Make;ib:Make;flaunch:Make;GMCenter:Make;FIVEGameMasterServer:Make" />
+  </Target>
+</Project>

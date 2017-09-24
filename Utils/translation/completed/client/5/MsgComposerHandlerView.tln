@@ -1,0 +1,8 @@
+CaptionPanel.Caption=未知的错误
+SendBtn.Hint=点击传送您的信息
+SendBtn.Text=送
+SaveBtn.Hint=点击保存您的消息
+SaveBtn.Text=保存
+CloseBtn.Hint=关闭这则消息
+CloseBtn.Text=关闭
+Label1.Caption=到：

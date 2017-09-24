@@ -1,0 +1,11 @@
+Label3.Caption=Preço do aluguel:
+Label9.Caption=Índice geral:
+xfer_GQOS.Caption=0
+lvServices.Columns=8
+lvServices.Columns.0=Nome
+lvServices.Columns.1=Demanda
+lvServices.Columns.2=Oferta
+lvServices.Columns.3=Capacidade
+lvServices.Columns.4=Relação
+lvServices.Columns.5=Preço de IFEL
+lvServices.Columns.6=Avg. Preço

@@ -1,0 +1,10 @@
+btnCancel.Text=Avbryt transcendencen
+lvMinisteries.Columns=4
+lvMinisteries.Columns.0=Departement
+lvMinisteries.Columns.1=Minister  
+lvMinisteries.Columns.2=Klassa
+lvMinisteries.Columns.3=Budget
+lbBudget.Caption=Nästa års budget:
+btnSetBudget.Text=Uppsättningbudget
+btnDeposeClick.Test=Depose
+lbMinister.Caption=Minister:

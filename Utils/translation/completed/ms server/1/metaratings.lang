@@ -1,0 +1,17 @@
+﻿PublicFacilities.Sport.Name=Instalaciones de la reconstrucción
+Target=Grados
+LangId=1
+Ratings.CampaignAccuracy.Name=Realización de la campaña
+Ratings.College.Name=Universidades
+Ratings.Disposal.Name=Disposición de basura
+Ratings.Fire.Name=Cobertura del fuego
+Ratings.Health.Name=Cobertura de salud
+Ratings.Jail.Name=Cárceles
+Ratings.Museum.Name=Museos
+Ratings.Police.Name=Cobertura de la policía
+Ratings.PopGrowth.Name=Crecimiento de la ciudad
+Ratings.School.Name=Cobertura de la escuela
+Ratings.Services.Name=Servicios y diversión
+Ratings.Sport.Name=Instalaciones de la reconstrucción
+Ratings.Taxes.Name=Impuestos
+Ratings.Unemployment.Name=Empleo

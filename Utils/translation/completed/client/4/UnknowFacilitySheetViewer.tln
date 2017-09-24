@@ -1,0 +1,17 @@
+Refresh.Text=RINFRESCARE LA LISTA DEL PIANETA
+Label1.Caption=Nome:
+Label2.Caption=Creatore:
+xfer_Creator.Caption=n/a
+Label6.Caption=Età:
+xfer_MetaFacilityName.Caption=n/a
+btnClose.Hint=Scatto per chiudere questa funzione
+btnClose.Text=Fine
+btnDemolish.Hint=Scattar per demolire questa funzione
+btnDemolish.Text=Demolire
+NameLabel.Caption=n/a
+btnConnect.Hint=Scattar per collegare questa funzione ad altre nel programma
+btnConnect.Text=Collegar
+Label8.Caption=Costo:
+lbCost.Caption=n/a
+Label9.Caption=ROI:
+lbROI.Caption=n/a

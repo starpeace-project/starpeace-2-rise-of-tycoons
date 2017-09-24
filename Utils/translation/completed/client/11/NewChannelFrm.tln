@@ -1,0 +1,17 @@
+Label2.Caption=Вопрос:
+Marquee.Caption=СОЗДАЙТЕ НОВЫЙ КАНАЛ
+Marquee.Hint=СОЗДАЙТЕ НОВЫЙ КАНАЛ
+btnCreate.Hint=Щелкните для того чтобы создать новый канал
+btnCreate.Text=Создайтесь
+btnCancel.Text=Отмените
+Label1.Caption=Выберите имя для нового канала:
+Label2.Caption=Вы можете защитить канал с паролем:
+Label3.Caption=Re-enter пароль:
+ChannelName.Hint=Впишите имя канала здесь
+Password.Hint=Впишите пароль канала здесь
+PasswordCheck.Hint=Проверите ваш пароль здесь
+Label4.Caption=Выберите игру:
+Label5.Caption=Максимум позволенных игроков:
+Edit1.Text=0
+Tabs.TabNames=2
+Tabs.TabNames.0=КАНАЛ БОРМОТУШК

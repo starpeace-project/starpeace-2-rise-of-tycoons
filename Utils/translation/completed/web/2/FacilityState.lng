@@ -1,0 +1,8 @@
+=""
+=""
+strOperatingNormally="Le dôme fonctionne normalement"
+strStopped="Le dôme a été arrêté par le propriétaire"
+strNotFunctioning="Le dôme ne fonctionne pas correctement"
+strNeedsSuppliers="Un ou plusieurs approvisionnements de base ne sont pas reçus du tout"
+strNeedsBudget="Il n'y a pas assez d'argent à fonctionner"
+strNotEnoughSupplies="Le dôme n'est pas fourni pendant qu'il doit fonctionner correctement"

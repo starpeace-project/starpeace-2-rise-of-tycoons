@@ -1,0 +1,11 @@
+unit tycoonhandler;
+
+interface
+   uses
+    Classes, VoyagerInterfaces, VoyagerServerInterfaces, Controls, tycoonviewer,
+    Protocol, Privacy, VCLUtils,StrUtils, ComCtrls, URLParser, VisualClassManager,
+    IniClasses;
+
+implementation
+
+end.

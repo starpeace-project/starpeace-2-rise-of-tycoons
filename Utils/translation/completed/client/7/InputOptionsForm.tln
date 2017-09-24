@@ -1,0 +1,12 @@
+=
+btnOK.Text=わかりました
+Label1.Caption=名前:
+Label2.Caption=会社:
+overPay.Caption=支払い過多:
+btnClose.Text=X
+FramedButton1.Hint=
+FramedButton1.Text=取り消し
+btnDelete1.Text=削除
+peOverPay.Hint=0%
+OverPayPerc.Caption=0%
+facName.Caption=n/a

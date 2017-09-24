@@ -1,0 +1,18 @@
+SISTEMA
+%s ha incorporado %s
+%s ha dejado %s.
+Acanalar “%s”, creado por %s. 
+usuario
+usuarios
+y
+Usted necesita una contraseña incorporar este canal.
+No hay información asociada a este objeto.
+Los servidores están ocupados archivos de reserva el crear. Esperar por favor.
+Respaldo al disco terminado.
+EL CARTERO
+Usted tiene correo de %s (%s).
+canal incorporado %s %s.
+pasillo entrado %s.
+canal izquierdo %s. de %s.
+pasillo izquierdo de %s.
+El servidor irá abajo para el mantenimiento en minutos de %d. Tiempo muerto previsto estimado para ser aprox. minutos de %d.

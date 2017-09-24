@@ -1,0 +1,14 @@
+﻿Ratings.Wealth.Name=경제 부
+Target=WorldProjects
+LangId=8
+WorldProjects.College.Name=대학
+WorldProjects.Disposal.Name=쓰레기 분쇄 처리
+WorldProjects.Fire.Name=불 적용
+WorldProjects.Health.Name=의료보험 커버 내역
+WorldProjects.Jail.Name=감옥
+WorldProjects.Museum.Name=박물관
+WorldProjects.Police.Name=경찰 적용
+WorldProjects.School.Name=학교 적용
+WorldProjects.Services.Name=서비스와 오락
+WorldProjects.Sport.Name=휴양 기능
+WorldProjects.Unemployment.Name=실직

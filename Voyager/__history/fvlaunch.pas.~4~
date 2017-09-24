@@ -1,0 +1,48 @@
+unit fvlaunch;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs, ShellApi, FramedButton;
+
+type
+  TForm3 = class(TForm)
+    FramedButton8: TFramedButton;
+    FramedButton1: TFramedButton;
+    procedure FormCreate(Sender: TObject);
+    procedure FramedButton8Click(Sender: TObject);
+    procedure FramedButton1Click(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Form3: TForm3;
+
+implementation
+
+{$R *.dfm}
+
+procedure TForm3.FormCreate(Sender: TObject);
+begin
+// launch game for now, add checks later
+ShellExecute(Handle, 'open', 'FIVEVoyager2.exe', nil, nil, SW_SHOWNORMAL) ;
+Close;
+form3.Close;
+end;
+
+procedure TForm3.FramedButton1Click(Sender: TObject);
+begin
+  ShellExecute(Handle, 'open', 'FIVEVoyager2.exe', nil, nil, SW_SHOWNORMAL) ;
+Close;
+end;
+
+procedure TForm3.FramedButton8Click(Sender: TObject);
+begin
+close;
+end;
+
+end.

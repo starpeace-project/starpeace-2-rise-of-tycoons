@@ -1,0 +1,5 @@
+lbBankResult.Caption=De bank heeft geen genoeg opricht om nu te betalen.
+lvLoans.Columns=4
+lvLoans.Columns.0=Schuldenaar
+lvLoans.Columns.1=Bedrag
+lvLoans.Columns.2=Rente

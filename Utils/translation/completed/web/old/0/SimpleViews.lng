@@ -1,0 +1,8 @@
+<%
+strOperatingNormally="Operating normally"
+strStopped="Stopped by the owner"
+strOperationTrouble="Operation trouble"
+strNotBeingReceived="An essential supply (or more) are not being received"
+strNotEnoughMoney="Not enough money to operate"
+strNotEnoughSupplies="Not enough supplies"
+%>

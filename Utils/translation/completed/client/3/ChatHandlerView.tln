@@ -1,0 +1,11 @@
+btClose.Text=ABSCHLUSS
+Panel4.Caption=Ihre Anmerkungen hier schreiben:
+NoChannels.Caption=Keine Kanäle zum darzustellen
+CreateChannel.Hint=Klicken, um einen Kanal zu verursachen
+CreateChannel.Text=Kanal verursachen
+JoinChannel.Hint=Klicken, um sich einem Kanal anzuschließen
+JoinChannel.Text=Kanal sich anschließen
+LeaveChannel.Hint=Klicken, um den Kanal zu lassen
+LeaveChannel.Text=Kanal lassen
+Marquee.Caption=WILLKOMMEN zum Starpeace SCHWÄTZCHEN.
+Marquee.Hint=WILLKOMMEN zum Starpeace SCHWÄTZCHEN.

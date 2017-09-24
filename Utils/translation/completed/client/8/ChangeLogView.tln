@@ -1,0 +1,17 @@
+lbMayor.Caption=시장:
+ChangeLogView.Caption=ChangeLogView
+ChangeLogView.Hint=
+GradientBox1.Hint=
+GradientBox1.Text=GradientBox1
+IKnowBtn.Hint=이 뉴스를 다시 나타나지 않는 여기에서 누르십시오
+IKnowBtn.Text=나는 알고 있다
+LaterBtn.Hint=이 뉴스를, 나중에 다시 보여주십시오
+LaterBtn.Text=나중에
+header.Caption=유산 온라인 뉴스
+header.Hint=
+Panel1.Caption=Panel1
+Panel1.Hint=
+Panel2.Caption=Panel1
+Panel2.Hint=
+Log.Hint=
+Log.Lines=1

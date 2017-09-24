@@ -1,0 +1,17 @@
+lvConnections.Columns=6
+lvConnections.Columns.0=Advertiser
+lvConnections.Columns.1=Właściciel
+lvConnections.Columns.2=Cena
+lvConnections.Columns.3=Przepłacony
+lvConnections.Columns.4=Kopyto Szewskie
+lvConnections.Columns.5=Ilość
+Label1.Caption=Ostatni Wartość:
+xfer_FluidValue.Caption=n/a
+Label2.Caption=Koszt:
+xfer_LastCost.Caption=n/a
+Label3.Caption=Reklama:
+xfer_AdPerc.Hint=0%
+lbAdPerc.Caption=(0)
+btnHireSuppliers.Hint=Stuknięcie tutaj nowy klient
+btnHireSuppliers.Text=Dzierżawienie
+btnModify.Hint=Klikać tutaj the wybrany związek

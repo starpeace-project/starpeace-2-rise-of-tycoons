@@ -1,0 +1,5 @@
+lbBankResult.Caption=Крен не имеет никакие достаточно основывает для того чтобы оплатить теперь.
+lvLoans.Columns=4
+lvLoans.Columns.0=Дебитор
+lvLoans.Columns.1=Количество
+lvLoans.Columns.2=Интерес

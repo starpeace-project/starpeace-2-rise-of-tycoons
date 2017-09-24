@@ -1,0 +1,14 @@
+btnCancel.Text=Annullamento
+btnLoad.Hint=Caricare la vostra immagine da un archivio su disco
+btnLoad.Text=Carico
+btnPreview.Hint=Vedere in anteprima la vostra immagine
+btnPreview.Text=Previsione
+btnSend.Hint=Trasmettere la vostra immagine
+btnSend.Text=Trasmettere
+btnCancel.Text=Chiuder
+ZoomIn.Hint=Zumare dentro
+ZoomIn.Text=+
+ZoomOut.Hint=Zoom fuori
+ZoomOut.Text=-
+Marquee.Caption=TRASMETTERE LA VOSTRA IMMAGINE
+Marquee.Hint=TRASMETTERE LA VOSTRA IMMAGINE

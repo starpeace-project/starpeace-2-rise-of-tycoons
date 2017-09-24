@@ -1,0 +1,10 @@
+ChannelName.Caption=Hemligt möte
+Label1.Caption=Pratstund
+IgnoreUser.Hint=Klicka för att ignorera den för närvarande utvalda användaren
+IgnoreUser.Text=Ignorera användaren
+ChatOverMap.Hint=Klicka för att prata stunder som bläddrar kartlägga
+ChatOverMap.Text=Pratstund över kartlägger
+FollowUser.Hint=Klicka för att följa den utvalda användaren
+FollowUser.Text=Följ användaren
+VoiceChat.Hint=Klicka för att få uttrycker pratstundpanelen
+VoiceChat.Text=Tala panelen

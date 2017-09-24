@@ -1,0 +1,6 @@
+<%
+strOk="OK"
+strCannotBind="Cannot bind to object"
+strCannotConnect="Cannot connect to server"
+strSorry="Sorry, this site is under construction"
+%>

@@ -1,0 +1,12 @@
+eTown.Hint=Skriv in det känt av en town här för att begränsa sökandet för beställare till den sådan townen
+ftInveKind.TabNames=3
+ftInveKind.TabNames.0=TILLGÄNGLIGT
+ftInveKind.TabNames.1=FORSKA
+ftInveKind.TabNames.2=FRAMKALLAT
+btnResearch.Hint=Klicka här för att starta forskningen
+btnResearch.Text=Forskning
+btnStop.Hint=Klicka här för att stoppa forskningen
+btnStop.Text=Stoppa
+btnSell.Hint=Klicka här för att sälja forskningen
+btnSell.Text=Sell
+btnClose.Text=Nära

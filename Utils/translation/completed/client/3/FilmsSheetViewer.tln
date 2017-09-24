@@ -1,0 +1,11 @@
+Button2.Caption=Annullieren
+Label1.Caption=Titel:
+btnLaunch.Text=Produkteinführung
+NameLabel.Caption=n/a
+Label2.Caption=Zeit:
+Label3.Caption=Etat:
+btnCancelFilm.Text=Löschen
+btnReleaseFilm.Text=Freigabe
+xfer_FilmBudget.Text=$10.000.000
+cbAutoRelease.Caption=Selbstfreigabe
+xfer_FilmTime.Text=12

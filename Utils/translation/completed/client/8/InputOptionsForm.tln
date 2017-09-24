@@ -1,0 +1,12 @@
+=
+btnOK.Text=좋습니다
+Label1.Caption=이름:
+Label2.Caption=회사:
+overPay.Caption=과오납세액:
+btnClose.Text=x
+FramedButton1.Hint=
+FramedButton1.Text=취소
+btnDelete1.Text=감소
+peOverPay.Hint=0%
+OverPayPerc.Caption=0%
+facName.Caption=n/a

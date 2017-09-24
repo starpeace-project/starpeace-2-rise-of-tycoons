@@ -1,0 +1,17 @@
+Label2.Caption=Temat:
+Marquee.Caption=TWORZYĆ NOWY KANAŁ
+Marquee.Hint=TWORZYĆ NOWY KANAŁ
+btnCreate.Hint=Klikać nowy kanał
+btnCreate.Text=Tworzyć
+btnCancel.Text=Odwoływać
+Label1.Caption=Wybierać imię dla the nowy kanał:
+Label2.Caption=Ty móc the kanał z hasło:
+Label3.Caption=Re-enter the hasło:
+ChannelName.Hint=Wchodzić Do kanał imię tutaj
+Password.Hint=Wchodzić Do korytkowy hasło tutaj
+PasswordCheck.Hint=Sprawdzać twój hasło tutaj
+Label4.Caption=Wybierać gra:
+Label5.Caption=Maksimum gracz pozwolić:
+Edit1.Text=(0)
+Tabs.TabNames=2
+Tabs.TabNames.0=GADKA KANAŁ

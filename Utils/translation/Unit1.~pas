@@ -1,0 +1,154 @@
+unit Unit1;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs, StdCtrls, ExtCtrls,StrUtils;
+
+type
+  TForm1 = class(TForm)
+    Panel1: TPanel;
+    GroupBox1: TGroupBox;
+    Edit1: TEdit;
+    Label1: TLabel;
+    Label2: TLabel;
+    Edit2: TEdit;
+    Button1: TButton;
+    Label3: TLabel;
+    Edit3: TEdit;
+    GroupBox2: TGroupBox;
+    Label4: TLabel;
+    Button2: TButton;
+    Edit4: TEdit;
+    Label5: TLabel;
+    Memo1: TMemo;
+    Label6: TLabel;
+    Label7: TLabel;
+    procedure Button1Click(Sender: TObject);
+    procedure Button2Click(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Form1: TForm1;
+  files: tstrings;
+  names: tstrings;
+  pos: array[0..1000] of integer;
+  tfiles: integer;
+
+implementation
+
+{$R *.dfm}
+
+procedure TForm1.Button1Click(Sender: TObject);
+var
+      Search : TSearchRec;
+      found  : integer;
+      names2: tstrings;
+      i,j,k:integer;
+      myfile:textfile;
+      s1,s2,s3:string;
+begin
+// first create first to main lists, the code list and the english translation list
+files:=TStringList.Create;
+names:=TStringList.Create;
+names2:=TStringList.Create;
+//fill up the lists
+       i:=0;
+       tfiles:=0;
+       try
+        found := FindFirst(edit1.Text + '*.' + edit4.Text, faAnyFile, Search);
+        while found = 0 do
+          begin
+            
+            files.Add(search.Name);
+            assignfile(myfile, edit1.Text + search.Name);
+            reset(myfile);
+            repeat
+               readln(myfile,s1);    //read the line
+               j:=AnsiPos('=',s1);
+               j:=j-1;
+               s2:=AnsiLeftStr(s1,j);
+               s1:=AnsiReverseString(s1);
+               j:=AnsiPos('=',s1);
+               j:=j-1;
+               s3:=AnsiLeftStr(s1,j);
+               s3:=AnsiReverseString(s3);
+               names.Add(s2);
+               names2.Add(s3);
+               i:=i+1;
+            until Eof(myfile);
+            closefile(myfile);
+            pos[tfiles]:=i-1;
+            tfiles:=tfiles+1;
+            found := FindNext(Search);
+          end;
+      finally
+        FindClose(Search);
+      end;
+//next output the translation list as file 0.txt to the output folder
+assignfile(myfile, edit3.Text + '0.txt');
+rewrite(myfile);
+k:=0;
+while k < i do
+  begin
+  writeln(myfile, names2.strings[k]);
+  k:=k+1;
+  end;
+closefile(myfile);
+
+//finally allow translation to occur (make secondary button visable)
+button2.Enabled:=true;
+end;
+
+procedure TForm1.Button2Click(Sender: TObject);
+var
+      i,j,k,l: integer;
+      myfile,thefile:textfile;
+      s1:string;
+begin
+//this section takes the translations and forms the files
+//first, update the caption
+label4.caption:= 'output - 0 out of ' + edit2.Text;
+i:=0;
+j:=strtoint(edit2.Text);
+while i < j  do
+  begin
+    i:=i+1;
+   //first check the folder exists, if not create it
+    if not DirectoryExists(edit3.Text + inttostr(i)) then  CreateDir(edit3.Text + inttostr(i));
+    k:=0;
+    l:=0;
+    assignfile(thefile, edit3.Text + inttostr(i) + '.txt');
+    reset(thefile);
+    assignfile(myfile, edit3.Text + inttostr(i) + '\' + files.strings[l]);
+    rewrite(myfile);
+    //run though all the lines
+    while k <= pos[tfiles-1] do
+      begin
+      readln(thefile, s1);
+      writeln(myfile, names.strings[k] + '=' + s1);
+      k:=k+1;
+      if (k=pos[l]) and (l<tfiles-1) then
+        begin
+          closefile(myfile);
+          l:=l+1;
+          assignfile(myfile, edit3.Text + inttostr(i) + '\' + files.strings[l]);
+          rewrite(myfile);
+        end;
+      end;
+      closefile(thefile);
+      closefile(myfile);
+      label4.caption:= 'output - ' + inttostr(i) + ' out of ' + edit2.Text;
+  end;
+end;
+ {  files: tstrings;
+  names: tstrings;
+  pos: array[0..1000] of integer;
+  tfiles: integer;
+  }
+end.

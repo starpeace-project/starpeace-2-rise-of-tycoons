@@ -1,0 +1,14 @@
+=
+ShortcutCenter.Caption=Scorciatoie di tastiera
+Label1.Caption=Scorciatoie di tastiera registrate
+ListView1.Columns=3
+ListView1.Columns.0=Descrizione
+ListView1.Columns.1=Scorciatoia
+ListView1.Columns.2=Testo
+Button1.Caption=Aggiungere…
+Button1.Hint=Scattar per aggiungere una scorciatoia
+Button2.Caption=Pubblicare…
+Button2.Hint=Scattar per pubblicare uno shorcut
+Button3.Caption=Cancellazione
+Button3.Hint=Scattar per eliminare una scorciatoia
+Button4.Caption=Chiuder

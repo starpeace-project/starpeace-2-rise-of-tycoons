@@ -1,0 +1,11 @@
+Label14.Caption=%
+lvTowns.Columns=6
+lvTowns.Columns.0=Nombre
+lvTowns.Columns.1=Población
+lvTowns.Columns.2=QOL
+lvTowns.Columns.3=Comercio
+lvTowns.Columns.4=Abundancia
+lvTowns.Columns.5=Impuesto
+lbTax.Caption=Impuesto: el 0%
+pbTax.Hint=el 0%
+btnElect.Text=Elegir

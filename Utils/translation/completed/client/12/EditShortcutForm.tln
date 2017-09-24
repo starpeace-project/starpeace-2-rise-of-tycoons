@@ -1,0 +1,7 @@
+SkillBar4.Hint=
+Label1.Caption=Beskrivning
+Label1.Hint=Skriv in beskrivningen av genvägen här
+Label2.Caption=Genväg
+Label2.Hint=Välj genvägen
+Label3.Caption=Text
+Button1.Caption=Tillfoga

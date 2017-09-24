@@ -1,0 +1,15 @@
+lvLoans.Columns.3=Benämna
+Label9.Caption=President:
+xfer_ActualRuler.Caption=Inga
+Label2.Caption=Populärt klassa:
+Label3.Caption=Klassa för magnater:
+Label4.Caption=Mandat Nº:
+Label5.Caption=År till val:
+xfer_RulerRating.Caption=Inga
+xfer_TycoonsRating.Caption=Inga
+xfer_CampaignCount.Caption=Inga
+xfer_YearsToElections.Caption=Inga
+btnVisitPolitics.Hint=Klicka för att besöka presidentpolitiksidan
+btnVisitPolitics.Text=Besöka presidentpolitiksidan
+Label8.Caption=QOL:
+xfer_QOL.Caption=100

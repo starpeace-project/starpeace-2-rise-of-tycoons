@@ -1,0 +1,15 @@
+lvLoans.Columns.3=期限
+Label9.Caption=总统：
+xfer_ActualRuler.Caption=无
+Label2.Caption=普遍的规定值：
+Label3.Caption=大富翁对估计：
+Label4.Caption=命令Nº ：
+Label5.Caption=几年到竞选：
+xfer_RulerRating.Caption=无
+xfer_TycoonsRating.Caption=无
+xfer_CampaignCount.Caption=无
+xfer_YearsToElections.Caption=无
+btnVisitPolitics.Hint=参观总统政治页的点击
+btnVisitPolitics.Text=参观Politics Page总统
+Label8.Caption=QOL ：
+xfer_QOL.Caption=100

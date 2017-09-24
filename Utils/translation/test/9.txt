@@ -1,0 +1,18 @@
+SYSTEM
+%s wchodzić do %s
+%s opuszczać %s.
+Skierowywać "%s", tworzyć %s. 
+użytkownik
+użytkownik
+i
+Ty potrzebować hasło ten kanał.
+Tam  być żadny informacja kojarzyć ten przedmiot.
+Serwer być ruchliwie pomocniczy kartoteka. Zadawalać czekanie.
+Wsparcie dysk uzupełniać.
+THE LISTONOSZ
+Ty mieć poczta od %s (%s).
+%s wchodzić do kanał %s.
+%s wchodzić do lobby.
+%s opuszczać skierowywać %s.
+%s opuszczać lobbować.
+Serwer iść puszek dla utrzymanie w %d minuta. Oczekiwać przestój oszacowywać aprox. %d minuta.

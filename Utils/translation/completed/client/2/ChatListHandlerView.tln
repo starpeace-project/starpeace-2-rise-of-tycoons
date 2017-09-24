@@ -1,0 +1,10 @@
+ChannelName.Caption=Réunion secrète
+Label1.Caption=Causerie
+IgnoreUser.Hint=Cliquer pour ignorer l'utilisateur actuellement choisi
+IgnoreUser.Text=Ignorer l'utilisateur
+ChatOverMap.Hint=Cliquer pour causer tout en passant en revue la carte
+ChatOverMap.Text=Causer au-dessus de la carte
+FollowUser.Hint=Cliquer pour suivre l'utilisateur choisi
+FollowUser.Text=Suivre l'utilisateur
+VoiceChat.Hint=Cliquer pour obtenir le panneau de causerie de voix
+VoiceChat.Text=Parler le panneau

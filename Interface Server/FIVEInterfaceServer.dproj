@@ -1,0 +1,64 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{8eb8add7-cbb4-4381-8888-a8728b7e4d5e}</ProjectGuid>
+    <MainSource>FIVEInterfaceServer.dpr</MainSource>
+    <Configuration Condition=" '$(Configuration)' == '' ">Release</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <DCC_DCCCompiler>DCC32</DCC_DCCCompiler>
+    <DCC_DependencyCheckOutputName>..\..\Servers\FIVEInterfaceServer.exe</DCC_DependencyCheckOutputName>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <Version>7.0</Version>
+    <DCC_WriteableConstants>True</DCC_WriteableConstants>
+    <DCC_SymbolReferenceInfo>0</DCC_SymbolReferenceInfo>
+    <DCC_ExeOutput>C:\starpeace\Servers</DCC_ExeOutput>
+    <DCC_UnitSearchPath>$(DELPHI)\Source\Win32\vcl;$(DELPHI)\Source\Win32\rtl\common;$(DELPHI)\Source\Win32\rtl\win;..\Kernel;..\StdBlocks;..\Class Storage;..\Cache;..\RDO\Common;..\RDO\Server;..\Utils\Network;..\RDO\Client;..\Persistence;..\Utils\Vcl;..\Utils\Misc;..\Surfaces;..\Mail;..\Utils\Serial;..\DServer</DCC_UnitSearchPath>
+    <DCC_ResourcePath>$(DELPHI)\Source\Win32\vcl;$(DELPHI)\Source\Win32\rtl\common;$(DELPHI)\Source\Win32\rtl\win;..\Kernel;..\StdBlocks;..\Class Storage;..\Cache;..\RDO\Common;..\RDO\Server;..\Utils\Network;..\RDO\Client;..\Persistence;..\Utils\Vcl;..\Utils\Misc;..\Surfaces;..\Mail;..\Utils\Serial;..\DServer</DCC_ResourcePath>
+    <DCC_ObjPath>$(DELPHI)\Source\Win32\vcl;$(DELPHI)\Source\Win32\rtl\common;$(DELPHI)\Source\Win32\rtl\win;..\Kernel;..\StdBlocks;..\Class Storage;..\Cache;..\RDO\Common;..\RDO\Server;..\Utils\Network;..\RDO\Client;..\Persistence;..\Utils\Vcl;..\Utils\Misc;..\Surfaces;..\Mail;..\Utils\Serial;..\DServer</DCC_ObjPath>
+    <DCC_IncludePath>$(DELPHI)\Source\Win32\vcl;$(DELPHI)\Source\Win32\rtl\common;$(DELPHI)\Source\Win32\rtl\win;..\Kernel;..\StdBlocks;..\Class Storage;..\Cache;..\RDO\Common;..\RDO\Server;..\Utils\Network;..\RDO\Client;..\Persistence;..\Utils\Vcl;..\Utils\Misc;..\Surfaces;..\Mail;..\Utils\Serial;..\DServer</DCC_IncludePath>
+    <DCC_Define>USELogs</DCC_Define>
+    <DCC_UNSAFE_TYPE>True</DCC_UNSAFE_TYPE>
+    <DCC_UNSAFE_CODE>True</DCC_UNSAFE_CODE>
+    <DCC_UNSAFE_CAST>True</DCC_UNSAFE_CAST>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <Version>7.0</Version>
+    <DCC_WriteableConstants>True</DCC_WriteableConstants>
+    <DCC_SymbolReferenceInfo>0</DCC_SymbolReferenceInfo>
+    <DCC_ExeOutput>C:\starpeace\Servers3</DCC_ExeOutput>
+    <DCC_UnitSearchPath>..\Kernel;..\StdBlocks;..\Class Storage;..\Cache;..\RDO\Common;..\RDO\Server;..\Utils\Network;..\RDO\Client;..\Persistence;..\Utils\Vcl;..\Utils\Misc;..\Surfaces;..\Mail;..\Utils\Serial;..\DServer</DCC_UnitSearchPath>
+    <DCC_ResourcePath>..\Kernel;..\StdBlocks;..\Class Storage;..\Cache;..\RDO\Common;..\RDO\Server;..\Utils\Network;..\RDO\Client;..\Persistence;..\Utils\Vcl;..\Utils\Misc;..\Surfaces;..\Mail;..\Utils\Serial;..\DServer</DCC_ResourcePath>
+    <DCC_ObjPath>..\Kernel;..\StdBlocks;..\Class Storage;..\Cache;..\RDO\Common;..\RDO\Server;..\Utils\Network;..\RDO\Client;..\Persistence;..\Utils\Vcl;..\Utils\Misc;..\Surfaces;..\Mail;..\Utils\Serial;..\DServer</DCC_ObjPath>
+    <DCC_IncludePath>..\Kernel;..\StdBlocks;..\Class Storage;..\Cache;..\RDO\Common;..\RDO\Server;..\Utils\Network;..\RDO\Client;..\Persistence;..\Utils\Vcl;..\Utils\Misc;..\Surfaces;..\Mail;..\Utils\Serial;..\DServer</DCC_IncludePath>
+    <DCC_Define>USELogs;DEBUG</DCC_Define>
+    <DCC_UNSAFE_TYPE>True</DCC_UNSAFE_TYPE>
+    <DCC_UNSAFE_CODE>True</DCC_UNSAFE_CODE>
+    <DCC_UNSAFE_CAST>True</DCC_UNSAFE_CAST>
+  </PropertyGroup>
+  <ProjectExtensions>
+    <Borland.Personality>Delphi.Personality</Borland.Personality>
+    <Borland.ProjectType>VCLApplication</Borland.ProjectType>
+    <BorlandProject>
+<BorlandProject><Delphi.Personality><Parameters><Parameters Name="UseLauncher">False</Parameters><Parameters Name="LoadAllSymbols">True</Parameters><Parameters Name="LoadUnspecifiedSymbols">False</Parameters></Parameters><VersionInfo><VersionInfo Name="IncludeVerInfo">False</VersionInfo><VersionInfo Name="AutoIncBuild">False</VersionInfo><VersionInfo Name="MajorVer">1</VersionInfo><VersionInfo Name="MinorVer">0</VersionInfo><VersionInfo Name="Release">0</VersionInfo><VersionInfo Name="Build">0</VersionInfo><VersionInfo Name="Debug">False</VersionInfo><VersionInfo Name="PreRelease">False</VersionInfo><VersionInfo Name="Special">False</VersionInfo><VersionInfo Name="Private">False</VersionInfo><VersionInfo Name="DLL">False</VersionInfo><VersionInfo Name="Locale">1033</VersionInfo><VersionInfo Name="CodePage">1252</VersionInfo></VersionInfo><VersionInfoKeys><VersionInfoKeys Name="CompanyName"></VersionInfoKeys><VersionInfoKeys Name="FileDescription"></VersionInfoKeys><VersionInfoKeys Name="FileVersion">1.0.0.0</VersionInfoKeys><VersionInfoKeys Name="InternalName"></VersionInfoKeys><VersionInfoKeys Name="LegalCopyright"></VersionInfoKeys><VersionInfoKeys Name="LegalTrademarks"></VersionInfoKeys><VersionInfoKeys Name="OriginalFilename"></VersionInfoKeys><VersionInfoKeys Name="ProductName"></VersionInfoKeys><VersionInfoKeys Name="ProductVersion">1.0.0.0</VersionInfoKeys><VersionInfoKeys Name="Comments"></VersionInfoKeys></VersionInfoKeys><Source><Source Name="MainSource">FIVEInterfaceServer.dpr</Source></Source><TypeLibOptions><TypeLibOptions Name="AutoRegisterTLB">False</TypeLibOptions><TypeLibOptions Name="AutoGenImportAssembly">False</TypeLibOptions></TypeLibOptions></Delphi.Personality></BorlandProject></BorlandProject>
+  </ProjectExtensions>
+  <Import Project="$(MSBuildBinPath)\Borland.Delphi.Targets" />
+  <ItemGroup>
+    <DelphiCompile Include="FIVEInterfaceServer.dpr">
+      <MainSource>MainSource</MainSource>
+    </DelphiCompile>
+    <DCCReference Include="..\GM\GMKernel.pas" />
+    <DCCReference Include="..\Kernel\AsxCriticalSections.pas" />
+    <DCCReference Include="..\Kernel\Collection.pas" />
+    <DCCReference Include="..\Kernel\Languages.pas" />
+    <DCCReference Include="..\Logs\Logs.pas" />
+    <DCCReference Include="..\Protocol\Protocol.pas" />
+    <DCCReference Include="cache.pas" />
+    <DCCReference Include="FIVEInterfaceServer_TLB.pas" />
+    <DCCReference Include="InterfaceServer.pas" />
+    <DCCReference Include="InterfaceServerReportForm.pas">
+      <Form>InterfaceServerReport</Form>
+    </DCCReference>
+    <DCCReference Include="SessionInterfaces.pas" />
+    <DCCReference Include="Sessions.pas" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,14 @@
+=
+ShortcutCenter.Caption=키보드 단축
+Label1.Caption=등록된 키보드 단축
+ListView1.Columns=3
+ListView1.Columns.0=묘사
+ListView1.Columns.1=편법
+ListView1.Columns.2=원본
+Button1.Caption=추가하십시오…
+Button1.Hint=편법을 추가하기 위하여 누르십시오
+Button2.Caption=편집하십시오…
+Button2.Hint=shorcut를 편집하기 위하여 누르십시오
+Button3.Caption=감소
+Button3.Hint=편법을 삭제하기 위하여 누르십시오
+Button4.Caption=닫히십시오

@@ -1,0 +1,6 @@
+Speaker.Caption=Kein
+lvVotes.Columns=4
+lvVotes.Columns.0=Anwärter
+lvVotes.Columns.1=Bewertung
+lvVotes.Columns.2=Gültige Stimmen
+lvVotes.Columns.3=Punkte

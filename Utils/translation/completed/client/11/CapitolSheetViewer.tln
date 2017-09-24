@@ -1,0 +1,15 @@
+lvLoans.Columns.3=Термина
+Label9.Caption=Президент:
+xfer_ActualRuler.Caption=Никакие
+Label2.Caption=Популярная номинальность:
+Label3.Caption=Классифицировать магнатов:
+Label4.Caption=Мандат Nº:
+Label5.Caption=Леты к избраниям:
+xfer_RulerRating.Caption=Никакие
+xfer_TycoonsRating.Caption=Никакие
+xfer_CampaignCount.Caption=Никакие
+xfer_YearsToElections.Caption=Никакие
+btnVisitPolitics.Hint=Щелчок для посещения страницы политики президента
+btnVisitPolitics.Text=Президент Политика Страница посещения
+Label8.Caption=QOL:
+xfer_QOL.Caption=100

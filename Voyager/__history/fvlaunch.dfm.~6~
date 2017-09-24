@@ -1,0 +1,100 @@
+object Form3: TForm3
+  Left = 0
+  Top = 0
+  Caption = 'Starpeace Launcher'
+  ClientHeight = 204
+  ClientWidth = 418
+  Color = clBlack
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  OnCreate = FormCreate
+  PixelsPerInch = 96
+  TextHeight = 13
+  object FramedButton8: TFramedButton
+    Left = 272
+    Top = 163
+    Width = 100
+    Height = 17
+    Cursor = crHandPoint
+    TextColor = clBlack
+    FrameColor = 8236034
+    SelTextColor = clWhite
+    DisableColor = clBlack
+    SelFrameColor = clWhite
+    FrameMargin = 0
+    TextMargin = 0
+    Align = fbaCenter
+    Framed = True
+    HilFramed = True
+    NorGrpColor = clBlack
+    SelGrpColor = clWhite
+    GrpBkColor = clBlack
+    GroupIndex = 0
+    Selected = False
+    Text = 'Close'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = 8236034
+    Font.Height = -11
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentFont = False
+    OnClick = FramedButton8Click
+  end
+  object FramedButton1: TFramedButton
+    Left = 56
+    Top = 163
+    Width = 100
+    Height = 17
+    Cursor = crHandPoint
+    TextColor = clBlack
+    FrameColor = 8236034
+    SelTextColor = clWhite
+    DisableColor = clBlack
+    SelFrameColor = clWhite
+    FrameMargin = 0
+    TextMargin = 0
+    Align = fbaCenter
+    Framed = True
+    HilFramed = True
+    NorGrpColor = clBlack
+    SelGrpColor = clWhite
+    GrpBkColor = clBlack
+    GroupIndex = 0
+    Selected = False
+    Text = 'Restart Game'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = 8236034
+    Font.Height = -11
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentFont = False
+    OnClick = FramedButton1Click
+  end
+  object Label1: TLabel
+    Left = 64
+    Top = 120
+    Width = 31
+    Height = 13
+    Caption = 'Label1'
+  end
+  object Label2: TLabel
+    Left = 64
+    Top = 144
+    Width = 31
+    Height = 13
+    Caption = 'Label2'
+  end
+  object HTTPGet1: THTTPGet
+    AcceptTypes = '*/*'
+    Agent = 'UtilMind HTTPGet'
+    BinaryData = False
+    UseCache = False
+    WaitThread = False
+    Left = 384
+    Top = 8
+  end
+end

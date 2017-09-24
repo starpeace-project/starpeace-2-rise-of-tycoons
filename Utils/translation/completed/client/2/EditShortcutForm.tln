@@ -1,0 +1,7 @@
+SkillBar4.Hint=
+Label1.Caption=Description
+Label1.Hint=Écrire la description du raccourci ici
+Label2.Caption=Raccourci
+Label2.Hint=Choisir le raccourci
+Label3.Caption=Texte
+Button1.Caption=Ajouter

@@ -1,0 +1,17 @@
+NewTeamDlg.Caption=NewTeamDlg
+NewTeamDlg.Hint=
+CloseBtn.Hint=Close window
+CloseBtn.Text=x
+Shape1.Hint=
+Label4.Caption=Team Name:
+Label4.Hint=
+btCreate.Hint=Display overlay map tools
+btCreate.Text=New Team
+btCancel.Hint=Display overlay map tools
+btCancel.Text=Cancel
+HintText.Caption=CREATE A TEAM
+HintText.Hint=CREATE A TEAM
+edTeamName.Hint=
+edTeamName.Text=
+pnError.Caption=ERROR!
+pnError.Hint=

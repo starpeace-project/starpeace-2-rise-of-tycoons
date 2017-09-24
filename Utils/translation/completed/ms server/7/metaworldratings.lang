@@ -1,0 +1,17 @@
+﻿WorldProjects.Wealth.Name=経済的豊か
+Target=WorldRatings
+LangId=7
+WorldRatings.CampaignAccuracy.Name=キャンペーン業積
+WorldRatings.College.Name=大学
+WorldRatings.Disposal.Name=残菜処理
+WorldRatings.Fire.Name=火の適用範囲
+WorldRatings.Health.Name=健康保険
+WorldRatings.Jail.Name=刑務所
+WorldRatings.Museum.Name=博物館
+WorldRatings.Police.Name=警察の適用範囲
+WorldRatings.PopGrowth.Name=都市成長
+WorldRatings.School.Name=学校の適用範囲
+WorldRatings.Services.Name=サービスおよび娯楽
+WorldRatings.Sport.Name=レクリエーション設備
+WorldRatings.Taxes.Name=税
+WorldRatings.Unemployment.Name=雇用

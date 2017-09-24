@@ -1,0 +1,16 @@
+N2.Caption=Suppression
+Label1.Caption=Te parler :
+OnlineList.Columns=3
+OnlineList.Columns.0=Dit
+OnlineList.Columns.1=Niveau
+OnlineList.Columns.2=Monde
+Label2.Caption=Attente de vous :
+WaitingList.Columns=3
+WaitingList.Columns.0=Dit
+WaitingList.Columns.1=Niveau
+WaitingList.Columns.2=Monde
+File1.Caption=&File
+EXitMnu.Caption=E&xit
+Shortcuts1.Caption=Raccourcis
+Minimize1.Caption=Réduire au minimum
+Chat1.Caption=Causerie !

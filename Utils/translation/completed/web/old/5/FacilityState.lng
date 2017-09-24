@@ -1,0 +1,8 @@
+=
+=
+strOperatingNormally=“这个圆顶正常经营”
+strStopped=“这个圆顶路过这个所有者”
+strNotFunctioning=“这个圆顶不适当地起作用”
+strNeedsSuppliers=“一个或更多基本的供应没有根本被接受”
+strNeedsBudget=“没有经营的足够的金钱”
+strNotEnoughSupplies=“没有供应这个圆顶，当它需要适当地运作”

@@ -1,0 +1,17 @@
+﻿PublicFacilities.Sport.Name=Средства воссоздания
+Target=Номинальности
+LangId=11
+Ratings.CampaignAccuracy.Name=Выполнение кампании
+Ratings.College.Name=Коллежи
+Ratings.Disposal.Name=Избавление отброса
+Ratings.Fire.Name=Охват пожара
+Ratings.Health.Name=Охват здоровья
+Ratings.Jail.Name=Тюрьмы
+Ratings.Museum.Name=Музеи
+Ratings.Police.Name=Охват полиций
+Ratings.PopGrowth.Name=Рост города
+Ratings.School.Name=Охват школы
+Ratings.Services.Name=Обслуживания и занятность
+Ratings.Sport.Name=Средства воссоздания
+Ratings.Taxes.Name=Тягла
+Ratings.Unemployment.Name=Занятость

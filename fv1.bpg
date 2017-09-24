@@ -1,0 +1,65 @@
+#------------------------------------------------------------------------------
+VERSION = BWS.01
+#------------------------------------------------------------------------------
+!ifndef ROOT
+ROOT = $(MAKEDIR)\..
+!endif
+#------------------------------------------------------------------------------
+MAKE = $(ROOT)\bin\make.exe -$(MAKEFLAGS) -f$**
+DCC = $(ROOT)\bin\dcc32.exe $**
+BRCC = $(ROOT)\bin\brcc32.exe $**
+#------------------------------------------------------------------------------
+PROJECTS = FIVEVoyager.exe DServer.exe FIVECacheServer.exe FIVEMailServer.exe \
+  FIVENewsServer.exe voyager2.exe FIVEInterfaceServer.exe FIVEModelServer.exe \
+  PGIPack1.mdx MoabPack1.mdx MarikoPack1.mdx MagnaPack1.mdx DissidentPack1.mdx \
+  GeneralPack1.mdx ib.mdx
+#------------------------------------------------------------------------------
+default: $(PROJECTS)
+#------------------------------------------------------------------------------
+
+FIVEVoyager.exe: Voyager\FIVEVoyager.dpr
+  $(DCC)
+
+DServer.exe: DServer\DServer.dpr
+  $(DCC)
+
+FIVECacheServer.exe: Cache Server\FIVECacheServer.dpr
+  $(DCC)
+
+FIVEMailServer.exe: Mail Server\FIVEMailServer.dpr
+  $(DCC)
+
+FIVENewsServer.exe: News Server\FIVENewsServer.dpr
+  $(DCC)
+
+voyager2.exe: Installer\voyager2.dpr
+  $(DCC)
+
+FIVEInterfaceServer.exe: Interface Server\FIVEInterfaceServer.dpr
+  $(DCC)
+
+FIVEModelServer.exe: Model Server\FIVEModelServer.dpr
+  $(DCC)
+
+PGIPack1.mdx: Model Extensions\PGI\PGIPack1.dpr
+  $(DCC)
+
+MoabPack1.mdx: Model Extensions\Moab\MoabPack1.dpr
+  $(DCC)
+
+MarikoPack1.mdx: Model Extensions\Mariko\MarikoPack1.dpr
+  $(DCC)
+
+MagnaPack1.mdx: Model Extensions\Magna\MagnaPack1.dpr
+  $(DCC)
+
+DissidentPack1.mdx: Model Extensions\Dissidents\DissidentPack1.dpr
+  $(DCC)
+
+GeneralPack1.mdx: Model Extensions\General\GeneralPack1.dpr
+  $(DCC)
+
+ib.mdx: Model Extensions\Ib\ib.dpr
+  $(DCC)
+
+

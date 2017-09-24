@@ -1,0 +1,17 @@
+﻿PublicFacilities.Sport.Name=レクリエーション設備
+Target=評価
+LangId=7
+Ratings.CampaignAccuracy.Name=キャンペーン業積
+Ratings.College.Name=大学
+Ratings.Disposal.Name=残菜処理
+Ratings.Fire.Name=火の適用範囲
+Ratings.Health.Name=健康保険
+Ratings.Jail.Name=刑務所
+Ratings.Museum.Name=博物館
+Ratings.Police.Name=警察の適用範囲
+Ratings.PopGrowth.Name=都市成長
+Ratings.School.Name=学校の適用範囲
+Ratings.Services.Name=サービスおよび娯楽
+Ratings.Sport.Name=レクリエーション設備
+Ratings.Taxes.Name=税
+Ratings.Unemployment.Name=雇用

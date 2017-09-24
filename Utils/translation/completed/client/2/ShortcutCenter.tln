@@ -1,0 +1,14 @@
+=
+ShortcutCenter.Caption=Raccourcis clavier
+Label1.Caption=Raccourcis clavier enregistrés
+ListView1.Columns=3
+ListView1.Columns.0=Description
+ListView1.Columns.1=Raccourci
+ListView1.Columns.2=Texte
+Button1.Caption=Ajouter…
+Button1.Hint=Cliquer pour ajouter un raccourci
+Button2.Caption=Éditer…
+Button2.Hint=Cliquer pour éditer un shorcut
+Button3.Caption=Suppression
+Button3.Hint=Cliquer pour éliminer un raccourci
+Button4.Caption=Se fermer

@@ -1,0 +1,12 @@
+ReadNews.Text=Läs nyheterna
+lvConnections.Columns=4
+lvConnections.Columns.0=Kund
+lvConnections.Columns.1=Företag
+lvConnections.Columns.2=Salar
+lvConnections.Columns.3=T. kostar
+PricePc.Hint=0%
+Label3.Caption=Prissätta:
+Price.Caption=0%
+btnHireSuppliers.Hint=Klicka här för att erbjuda din produkt till kunder
+btnHireSuppliers.Text=Erbjudande
+btnDelete.Hint=Klicka här för att ta bort en kund

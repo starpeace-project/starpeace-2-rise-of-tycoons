@@ -1,0 +1,5 @@
+lbBankResult.Caption=La banca non ha abbastanza fonda ora per pagare.
+lvLoans.Columns=4
+lvLoans.Columns.0=Debitore
+lvLoans.Columns.1=Importo
+lvLoans.Columns.2=Interesse

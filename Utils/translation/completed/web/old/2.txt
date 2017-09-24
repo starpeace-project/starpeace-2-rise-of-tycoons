@@ -1,0 +1,751 @@
+
+« client »
+« Clients »
+« clients »
+« Pour se vendre aux clients choisis »
+« fournisseur »
+« Fournisseurs »
+« fournisseurs »
+« Achat des fournisseurs choisis »
+« Recherche de »
+« de »
+« Nom de compagnie »
+« Nom de ville »
+« Recherche »
+"RESET"
+« Stoppé »
+« Entrepôts d'importation »
+« Magasins »
+« Entrepôts d'exportation »
+« Centres commerciaux de ville »
+« Entrepôts réguliers »
+« Usines »
+« Limite de liste »
+La « recherche résulte »
+« ont été trouvés »
+« Vous pouvez en choisir à partir de la liste ci-dessous et commencer des rapports avec eux par cliquer sur »
+« Pas »
+« Vous avez spécifié probablement des conditions trop restrictives à satisfaire. Veuillez essayer une recherche plus large, laissant quelques champs vident »
+« Service »
+« Compagnie »
+« Ville »
+« Prix »
+« Qualité »
+« Choisir tous »
+« Unselect tout »
+« Instructions de recherche »
+« Pour rechercher »
+« compléter la forme ci-dessus et cliquer alors dessus « la recherche » »
+« VistaGrande »
+« recherchera l'information que vous voulez. Vous pouvez laisser tous les champs vides pour réaliser la recherche la plus générale »
+
+
+« CORRECT »
+« Ne peut pas lier pour objecter »
+« Ne peut pas se relier au serveur »
+« Désolé, cet emplacement est en construction »
+
+
+« ERREUR : N'a pas pu lier au brasseur d'affaires »
+« ERREUR : N'a pas pu se relier »
+« Ceci démantèlera tous vos compagnies et équipements. Vous obtiendrez $100.000.000 de l'IFEL encore pour commencer plus de. Êtes est vous sûr ceci ce que vous voulez faire ? » 
+« Remettre à zéro le compte »
+« Décommander »
+« Désolé, ne peut pas rechercher l'information de brasseur d'affaires du serveur »
+« Vous n'avez enregistré aucun fournisseur pour » 
+« Cliquer dessus <b>Add</b> pour en ajouter »
+« Louer également un centre commercial »
+« Automatique-inclure seulement les entrepôts »
+« Ajouter »
+« Supprimer »
+« Des fournisseurs initiaux sont simplement placés sur la liste de fournisseurs quand vous créez d'abord un service. Si vous ne reliez pas un service à d'autres fournisseurs, les fournisseurs initiaux comporteront la liste de fournisseur du service. Tous vos équipements sont automatiquement écrits en tant que fournisseurs initiaux à moins que vous limitiez votre choix ci-dessous » 
+« Désolé, ne peut pas rechercher l'information de brasseur d'affaires du serveur »
+« Compte bancaire »
+« Date »
+« Balance courante » 
+La « information d'opérations bancaires est mise à jour en temps réel. Le "" de clic régénèrent le "" sur la barre d'outil pour les dernières figures »
+« Banque d'IFEL »
+« La banque a rejeté votre demande. Vous avez déjà emprunté le maximum que vous pouvez. »
+« ERREUR : Ne peut pas effectuer l'opération »
+« Emprunter »
+« Intérêt annuel. Pour être payé en %1 ans »
+« Envoyer l'argent »
+« ERREUR : Brasseur d'affaires non trouvé »
+« ERREUR : Somme d'argent inadmissible »
+« ERREUR : Ne peut pas transférer l'argent »
+« Envoyer à »
+« Quantité »
+« Envoyer »
+« Vous ne pouvez pas envoyer le <br> d'argent que vous avez reçu avec le <br> de prêts ou en tant qu'élément de votre visa d'investisseur » 
+« Vous n'avez aucun argent à envoyer »
+« Les fonctionnaires publics ne peuvent pas transférer l'argent »
+« Prêts »
+« Nom de banque »
+« Taux d'intérêt »
+« Terme »
+« Prochain paiement »
+« Vous ne devez l'argent à aucune banque. Si vous voulez emprunter l'argent de <br> à la banque de l'IFEL, écrire la quantité que vous voulez le <br> sur la boîte d'entrée ci-dessus et cliquer <b>Borrow</b> »
+« Désolé, ne peut pas rechercher l'information de brasseur d'affaires du serveur »
+« Éponger »
+« <b>NOTE :</b> puisque c'est un compte de <b>DEMO</b>, <br>you ne peut pas transférer le <br>to d'argent d'autres joueurs ou figures politiques »
+Des « on ne permet pas transferts d'argent en planètes de tournoi »
+« Vous avez enregistré les compagnies suivantes. Le <br> choisissent un de la liste ou créent un neuf »
+« Plus d'information »
+« Créer nouveau »
+« Non mis en application ! »
+« <b>Note :Les valeurs de </b> montrées en cette page ont pu être différentes en ce moment »
+« (cette année) »
+« Ventes de produit »
+« Entretenir les ventes »
+« Loue »
+« Autre »
+« Approvisionnements »
+« Rémunère »
+« Entretien »
+« Construction »
+« Recherche »
+« Autre »
+« Options de compagnie »
+Le « nom de compagnie ne peut pas être vide ni contenir les caractères suivants :  \/:* ?<> de ""|&+% »
+« Créer une nouvelle compagnie »
+« Choisir un nom pour votre compagnie. S'associer à un des ordres technologiques de maire »
+« Erreur »
+« Nom de compagnie »
+« Associé avec »
+« Cliquer ici pour créer la compagnie »
+« Décommander et aller à la page précédente »
+« Désolé, ne peut pas rechercher l'information de brasseur d'affaires du serveur »
+« Programme d'études »
+« se dirige »
+« Remettre à zéro le compte »
+« Niveau actuel »
+« Mise à niveau au prochain niveau »
+« N'a pas pu améliorer de niveau l'année dernière »
+« Prochain niveau » 
+« Exige »
+« dans les rangs »
+« Article » 
+« Prestige »
+« Désolé, ne peut pas rechercher l'information de brasseur d'affaires du serveur »
+« <b>NOTE :</b> puisque c'est un compte de <b>DEMO</b>, vous ne pouvez pas niveler. »
+« endroit de Th dans le rang de NTA »
+« Bénéfice et perte »
+« Fournisseurs initiaux »
+« Compagnies »
+« Stratégie »
+« Cours d'instruction »
+« Cliquer ici pour envoyer votre image. »
+« aucun »
+« en ligne »
+« Nom » 
+« Votre politique »
+« Sa politique »
+« Changer votre politique envers un brasseur d'affaires » 
+« Désolé, ne peut pas rechercher l'information de brasseur d'affaires du serveur »
+« Désolé, aucuns arrangements commerciaux de stratégie permis en planètes de tournoi. »
+Les « valeurs montrées en cette page ont pu être différentes en ce moment »
+« fournisseurs locaux pour »
+« ont été trouvés » 
+« Service »
+« Compagnie »
+« Ville »
+« Prix »
+« Qualité »
+« Inclure choisi »
+« Recherche stoppée »
+La « presse <b>SEARCH</b> pour obtenir une liste de congé de suppliers.<br> toute met en place vide pour réaliser le search<br> le plus général »
+« Recherche automatique de raccordements »
+« Options de brasseur d'affaires »
+« Bénéfice et perte »
+« Noter »
+« Options de stratégie de brasseur d'affaires »
+« Stratégie commerciale »
+« Votre statut courant de stratégie : »
+« Nom de brasseur d'affaires »
+« Allié »
+« Neutre »
+« Ennemi »
+« Placer la politique »
+« Fortune personnelle »
+« Bénéfice moyen (cette année) »
+« Prestige total »
+« Noblesse »
+« Capacité »
+« des rangs »
+« pour être au de plus haut niveau »
+« pour avoir des prêts »
+« Articles de programme d'études »
+« Dissidents »
+« PGI »
+« Entreprises de Mariko »
+« Moab »
+« Entrepôts universels »
+« Options de compagnie »
+« Revenus »
+« Dépenses »
+« Retourner »
+« Fonctionner avec cette compagnie »
+« Dissoudre cette compagnie »
+« Désolé, ne peut pas rechercher l'information de brasseur d'affaires du serveur. »
+« Liste de compagnie »
+« Compagnies »
+« Vous pouvez transférer jusqu'à %1 »
+« Raccordements automatiques »
+« Remettre à zéro le compte »
+« AVERTISSANT ! »
+« Démissionner »
+« Êtes vous sure que vous voulez renoncer à vos fonctions politiques ? »
+La « création d'une nouvelle compagnie peut impliquer l'achat automatique d'un nouveau permis de recherches. le prochain permis de <br>Your coûtera :  »
+« Les tâches d'instruction n'avanceront pas si vous n'êtes pas ouvert une session en tant que votre compagnie initiale. Nous vous proposons complet le cours d'instruction avant de créer une nouvelle compagnie. <br><br>If que vous voulez le faire de toute façon, vous assurez que vous êtes ouvert une session en tant que votre première compagnie avant que vous reprenniez le d'instruction »
+
+
+« Vous pouvez envoyer votre image de la page de profil »
+« Visiter l'étiquette de publicité aux arrangements d'hôtel de ville pour configurer vos fournisseurs de publicité »
+« Maire de »
+« Modifier les valeurs prioritaires ci-dessous pour distribuer votre temps de publicité »
+coups de value>%1</span>/heure de la publicité.« 
+« Le plus haut »
+« Haut »
+« Normale »
+« Bas »
+« Le plus bas »
+« aucun »
+« en ligne »
+« Vous pouvez envoyer votre image de la page de profil »
+« Le candidat le plus fort »
+« se dirige »
+« années aux élections »
+« année aux élections »
+« Aucunes élections sur des planètes de tournoi »
+« Aucun président »
+« Aucun maire »
+« Nom »
+« Prestige »
+« Estimation populaire »
+« Évaluation de brasseurs d'affaires »
+La « estimation d'IFEL »
+« No. de mandat »
+« en ligne »
+« ESTIMATION de POPULAR<br> »
+« ESTIMATION d'IFEL's<br> »
+« ESTIMATIONS de br> de TYCOONS'< »
+« MAIRE »
+« PRÉSIDENT »
+« PUBLICITÉ »
+« Campagne de lancement pour %1 dans %2… »
+« ERREUR : N'a pas pu lier à hôtel de ville »
+« ERREUR : N'a pas pu se relier »
+« Retirer la campagne »
+« Nom inadmissible de brasseur d'affaires »
+« Ce brasseur d'affaires ne peut pas agir en tant que ministre »
+« Cette proposition est CORRECTE ! »
+« Vérifier les noms de ministre »
+« Vous ne participez pas aux prochaines élections. Cliquer dessus le bouton ci-dessous pour lancer votre campagne politique. Pour être accepté, votre prestige devrait être plus haut que %1 points »
+« Campagne de lancement »
+« Vous êtes les %1. Vous ne pouvez pas avoir une campagne »
+« Votre application a été niée. Nos disques prouvent que vous avez déjà un engagement public »
+« Désolé, vous n'accomplissez pas les conditions requises pour avoir votre propre campagne. Votre prestige devrait être plus haut que %1 points » 
+« Il est trop tardif pour lancer une campagne. Des campagnes peuvent seulement être commencées pendant la première moitié de la période politique. »
+« Aucune élection n'est tenue en planètes de tournoi. Les valeurs d'impôts sont fixes et le zonage nécessaire est fourni quand la planète est ouverte. Il n'y a aucun salaire minimum et les joueurs devront transmettre par relais sur eux-mêmes pour les équipements civiques. »
+les « *Values montrés en rouge sont ceux que vous avez envoyés pour l'aperçu. Ces valeurs seront mélangées à ceux envoyées par d'autres brasseurs d'affaires selon le prestige personnel. »
+« Note : Cliquer plus d'un article pour envoyer votre avis. Noter également cela qui envoie une nouvelle valeur dépassera une valeur précédente envoyée par vous »
+« Note : Visiter le forum de journal local pour placer vos estimations pour ce politicien »
+« Placer »
+« Appeler »
+« Estimation »
+« Plus que »
+« Moins que »
+« Note : Cliquer plus d'un article pour spécifier vos arrangements. »
+« Aucun »
+« CORRECT »
+« Aucuns candidats »
+« Aucune élection n'est <br> tenu sur des planètes de tournoi »
+« Étroit »
+« YOUR<br>CAMPAIGN »
+« ALL<br>CAMPAIGNS »
+« Maire »
+« Président »
+
+
+« Le dôme fonctionne normalement »
+« Le dôme a été arrêté par le propriétaire »
+« Le dôme ne fonctionne pas correctement »
+« Un ou plusieurs approvisionnements de base ne sont pas reçus du tout »
+« Il n'y a pas assez d'argent à fonctionner »
+« Le dôme n'est pas fourni pendant qu'il doit fonctionner correctement »
+
+
+« PAGE D'ACCUEIL »
+« Produits »
+« Approvisionnements »
+« Consommant »
+« Produisant »
+« de »
+« possible »
+« Qualité »
+« Prix »
+« Service »
+« Compagnie »
+« Achats »
+« Ventes »
+« Ajouter nouveau »
+« Supprimer choisi »
+« fournisseur »
+« client »
+« fournisseurs »
+« clients »
+« Propriétaire »
+« Bénéfice »
+« l'année dernière »
+« Coût »
+« Revenu »
+« Sur-payé »
+« changé »
+« Overprice »
+« raccordement »
+« a changé »
+Les « travaux »
+« À la maison »
+« Main-d'oeuvre »
+« De première qualité »
+« La bourgeoisie »
+« Basse classe »
+« Ouvriers courants »
+« Qualité de main-d'oeuvre »
+« Rémunère »
+« Les valeurs de salaire de pour cent représente le rapport entre les salaires courants dans ce service et les prix standard dans la main-d'oeuvre lancent sur le marché »
+« Conn. »
+« Plus au sujet de »
+« Plus d'information »
+« Habitants »
+« Beauté »
+« Crime »
+« Pollution »
+« Qualité de vie »
+« Loyer »
+« Entretien »
+« Services »
+« Demande »
+« Approvisionnement »
+
+
+« Informations générales »
+« Sorte de service »
+« Ville »
+« Faisceau »
+« Compagnie »
+« PRÉSIDENT »
+« Opération »
+« Main d'oeuvre »
+« De première qualité »
+« ouvriers »
+« de »
+« La bourgeoisie »
+« Basse classe »
+
+
+« Construction »
+« Main-d'oeuvre »
+« De première qualité »
+« La bourgeoisie »
+« Basse classe »
+« Rémunère »
+« Cliquer ici pour éditer le nom »
+« Rechercher »
+« CORRECT »
+« Décommander »
+« Désolé, ne peut pas se relier à ce service »
+« Ceci établira des contrats entre <b>%1</b> et toutes les usines vous own.<br>Also, <b>%1</b> sera ajouté à votre liste de fournisseurs de défaut. »
+« Ceci établira des contrats entre <b>%1</b> et tous les entrepôts vous own.<br>Also, <b>%1</b> sera ajouté à votre liste de fournisseurs de défaut. »
+« Ceci établira des contrats entre <b>%1</b> et tous les magasins vous own.<br>Also, <b>%1</b> sera ajouté à votre liste de fournisseurs de défaut. »
+« Ceci cassera des contrats entre <b>%1</b> et tous les équipements que vous avez. »
+« Le curseur de souris changera sa forme pour te permettre de choisir des clients pour <b>%1</b> directement de l'arrêt de map.<br>To ce clic d'opération la souris quand il montre l'icône de forbiden. »
+« Nom »
+« Compagnie »
+« Options générales pour faire à <b>%1</b> un fournisseur d'autres équipements que vous possédez. »
+« Options générales pour engager des fournisseurs pour <b>%1</b>. »
+« Conseil »
+« Général »
+« Loyer »
+« Entretien »
+« A créé par %1, propriétaire et PRÉSIDENT de %2. »
+« Routes »
+« Démolir »
+« En construction »
+« Désolé, cet emplacement est en construction. »
+« Population »
+Le « chômage »
+« Qualité de vie »
+« Police »
+« Santé »
+« École »
+Le « feu »
+« A commencé par %1, propriétaire et PRÉSIDENT de %2. »
+
+
+« Équipements »
+« Compagnies »
+« Capitol »
+« Villes »
+« Vous »
+Les « gens »
+« Rangs »
+« Nouvelles »
+« Recherche »
+« Arrière »
+« À la maison »
+« Possédé par %1 »
+« Médias »
+« Bénéfice net »
+« Coût »
+« ROI »
+« Déjà »
+« Jamais »
+« Envoyer le courrier »
+« Montrer dans la carte »
+« Rang »
+« %1 se rangeant »
+« Il n'y a aucune exécution appropriée au point culminant dans ce secteur. »
+« Habitants »
+Le « chômage »
+« Qualité de vie »
+« Site Web de visite »
+« Fortune »
+« Cette année »
+« Rang de NTA »
+« ęr endroit. »
+« 2ème endroit. »
+« 3ème endroit. »
+« endroit de %1th. »
+« De niveau »
+« Prestige »
+« %1 points. »
+« Montrer le profil »
+« Envoyer le courrier »
+Les « gens »
+« Index »
+« Encaisse »
+
+
+
+La « aide est en construction ! »
+« Vous avez enregistré les compagnies suivantes. Choisir un de la liste ou créer un neuf. »
+« Compagnies »
+« Vous avez enregistré les compagnies suivantes dans %1. » 
+« Choisir un de la liste ou créer un neuf. »
+« Privé »
+« plus d'information »
+« %1 équipements »
+« Créer nouveau ! »
+« Il n'y a aucun disque de vous dans les dossiers d'IFEL pour %1. Vous avez besoin d'un visa pour entrer dans ce monde. Les investissements intéressants sont sans fin pour des supports des visas de brasseur d'affaires, alors que les touristes peuvent apprécier leur sejour using un visa de visiteur. »
+« Il semble que vous déjà avez visité la bienvenue %1. en arrière ! Comme vous devez savoir, des visas de visiteur doivent être remplacés chaque fois que vous demandez à entrer dans ce monde. Peut-être il est temps d'aller bien à un investisseur ! »
+« Visa de brasseur d'affaires »
+« Obtenir $100.000.000 »
+« Créer une compagnie »
+« Construire un empire ! »
+« Visa de visiteur »
+« Nouvelles personnes de rassemblement »
+« Voir ce qui se produit »
+« Deviennent un brasseur d'affaires plus tard »
+« Cliquer plus d'un des mondes énumérés ci-dessous pour se joindre. »
+« %1 habitants »
+« année %1 »
+« %1 brasseurs d'affaires »
+« %1 en ligne »
+« Décommander »
+« Aider »
+« Grands propriétaires de joint »
+« PGI »
+« Dissidents »
+« Entreprises de Mariko »
+« Le Moab »
+« Propriétaires spéciaux de joint »
+« Entrepôts universels »
+« A fondé par les organismes les plus riches en Europe, PGI fournit certaines des meilleures technologies disponibles aujourd'hui. Indépendamment de votre niveau, si vous cherchez l'efficacité et la qualité PGI est la manière aux industries de go.<p>PGI sont efficace et présentent la meilleure qualité de production disponible, mais indépendamment de ses équipements être très cher. PGI est le seul joint permis de produire des matériaux de papier et d'impression dans les nouveaux mondes. Les produits chimiques, l'habillement, les residentials et les centres de commerce sont sa force. »
+Le « pour »
+« Escroque »
+« Industries très efficaces, avec la meilleure qualité de production disponible. »
+« Prix élevés. Les industries sont trop grandes parfois. »
+« Les secteurs les plus forts »
+« Les secteurs les plus faibles »
+« Produits chimiques, habillement, bâtiments résidentiels, magasins et d'autres centres de commerce. »
+« Aucun connu ceci loin. »
+« A présenté par le Blomke-fondateur de Markus du IFEL-à l'équilibre bâtiments des colonies les' paysage politique, la majeure partie de la technologie dissidente a été conçue pour être idéale pour beginners.<p>Dissidents' folâtre très des prix bas, toutefois la qualité de production est basse et le niveau d'efficacité n'est pas le meilleur disponible. Les dissidents ont l'exclusivité sur la production des boissons alcoolisées, des jouets et du bois. La meilleure exécution est dans l'agriculture, le logiciel, les barres et les médias. »
+« Très prix bas. Niveaux bas de pollution. Petites conceptions idéales pour de bas secteurs peuplés. »
+« Qualité de production. Basse efficacité. Archiquecture est parfois maladroit. »
+« Agriculture, logiciel, barres et médias. »
+« Bâtiments de Residentials, exploitation, métallurgique et Heavy Industries. »
+Les « entreprises de Mariko offre fortement - des solutions concurrentielles basées sur la connaissance développée par le Japonais dans les industries de Mariko de <p>Since de siècle dernier. sont fortement automatisées, elles ont besoin de peu d'ouvriers et sont très efficaces. Leurs plus petites structures sont relativement à bas prix et garantissent moins de pollution. La production en plastique et les Cd sont réservés au joint de Mariko. Ses secteurs d'activité plus forts sont les composants électroniques, les avocats, les bureaux, les appareils électroménagers et les machines commerciales. »
+« Niveaux bas de pollution. Industies fortement automatisé. Niveaux élevés d'efficency. Relativement prix bas. »
+« Basse résistance au crime et à la pollution. L'automation élevée peut augmenter le chômage. »
+« Composants électroniques, avocats, immeubles de bureaux, appareils électroménagers et machines commerciales. »
+« Traitement des denrées alimentaires des produits alimentaires, bâtiments de residentials et médias. »
+« Un ordre religieux, le Moab a été fondé dans le Texas par un immigré allemand riche. Le Moab est un état d'esprit qui peut seulement être réalisé par un rituel de sadomasochiste indiqué seulement à ceux qui embrassent le cult.<p>Thanks à la centralisation de tous les bâtiments civiques dans le correctionnel, ce joint est le meilleur en crime et feu de combat. Moab a l'exclusivité de la chaîne gazo-pétrolifère de production : plates-formes pétrolières, raffineries et stations service ; la meilleurs exploitation et produits chimiques ; bons residentials de classe de ciel et terre. »
+De « lutte grand crime et contre l'incendie. Industries très efficaces. Prix modérés. »
+« Obscurité et conceptions frighting parfois.	Certains n'aiment pas travailler dans des industries de Moab. On lui a dit que les meurtres étranges se produisent dans leurs bâtiments résidentiels. »
+« La meilleurs exploitation et produits chimiques dans le monde. Residentials de première qualité et bas de classe. »
+« Residentials et médias de la bourgeoisie. Les méthodes de traitement des denrées alimentaires de ferme et des produits alimentaires sont soupçonneuses. »
+« Propriétaires spéciaux de joint »
+« Liste de compagnie »
+« Vous devez fournir un numéro de série en ligne de legs valide. »
+« Vous devez fournir un email address valide. »
+« Vous devez fournir votre nom et prénoms dans la vie réelle. »
+« Les mots de passe que vous avez fournis ne s'assortissent pas. »
+« Vous devez fournir un mot de passe. »
+« Vous devez fournir un nom d'emprunt. »
+« Fournir svp l'information suivante. »
+« Erreur »
+« Dit »
+« Mot de passe »
+« Réintroduire le mot de passe »
+« Numéro de série »
+« Nom et prénoms »
+« Sexe »
+« Email address »
+« Email que j'au sujet des événements a rapporté en ligne au legs ou à mon compte. »
+« Font PAS l'email j'au sujet des événements liés au legs en ligne ou à mon compte. »
+« Ne pas éditer mon email address à d'autres joueurs. »
+« Éditer mon email address à d'autres joueurs. »
+« IMPORTANT : Le nom d'emprunt que vous choisissez ici sera employé pour vous représenter dans l'univers en ligne de legs entier. Vous ne pourrez pas le changer plus tard à moins que vous démissionniez à tous vos possesions et accomplissements dans le jeu. »
+« CORRECT »
+Les « noms de compagnie ne peuvent pas être vides ou contenir les caractères suivants »
+« Choisir un nom pour votre compagnie. En outre, choisir un fournisseur de technologie pour s'associer à. »
+« Créer la compagnie »
+« Nom de compagnie »
+« Désolé, vous devez réaliser le paradigme de niveau ou avoir au moins 100 points de noblesse pour avoir accès au joint de Magna. »
+« Associé avec »
+« Magna Corp »
+« L'IFEL, préoccupé par le surpeuplement dans les colonies, a accordé un joint spécial à Magna Corp d'Earth.<p>Magna se spécialise en structures très grandes : Archologies (bâtiments résidentiels massifs) et centres commerciaux énormes. Jusqu'ici la seule industrie disponible à eux est les studios de film. Ce joint peut seulement être autorisé aux investisseurs qui ont réalisé le niveau de paradigme. »
+« Cette technologie est autorisée seulement à ces investisseurs qui ont réalisé le paradigme de niveau. »
+« Les entrepôts universels fournissent l'excellente technologie de entreposage. L'IFEL encourage fortement l'utilisation des entrepôts dans les colonies. Elles aident à commander l'économie entière, et soulagent la gestion de grandes compagnies. »
+« Liste du monde »
+Le « legs en ligne est en bas de »
+« « Le nom » et « le mot de passe » champs ne peuvent pas être laissés vide ! »
+« Vous êtes sur le point d'écrire %1. entrez votre nom et mot de passe pour ce monde. Si vous êtes un venu la notification que le nom que vous écrivez ici sera votre surnom en ce monde. Être également sûr de fournir un mot de passe (et ne pas l'oublier !) »
+« Appeler »
+« Attente. Établissant le contact avec %1… »
+« Erreur d'ouverture »
+« Votre demande était dû rejeté par erreur. »
+« N'a pas pu ouvrir une session au legs en ligne ! »
+Les « serveurs en ligne désolés, mais de legs sont en panne. le <br>You ne peut pas ouvrir une session maintenant. Essayer svp plus tard. »
+« Serveur non trouvé. le <br>Please soit sûr que vous avez un raccordement actif au filet. »
+« <b>User inadmissible Name</b>. »
+« Il y a quelqu'un using le nom que vous avez spécifié. »
+« Il y a deux causes possibles pour cette erreur »
+« (a) vous notez pour la première fois et vous avez choisi un nom qui est déjà pris. »
+« (b) vous avez déjà une identité en ce monde mais vous avez spécifié un <b>password</b> inadmissible ou avez mal épelé votre nom. Nous faire savoir au cas où vous oubliiez votre mot de passe. Nous pouvons vous aider à le récupérer. »
+« Comment a fait vous faites cela ! Ce n'est pas une erreur commune. le <br>It peut se produire quand deux personnes essayent d'ouvrir une session using le même <b>User Name</b> en même temps. le <br>The que le tout premier obtient le compte, le second devra ouvrir une session using un nom différent. les <br>This est votre cas. »
+« Certains comment le serveur ne pourrait pas lier aux rappels de service de client. »
+« Vous ne pouvez pas ouvrir une session using ce nom ! »
+« Une erreur inconnue s'est produite. »
+« Si vous obtenez ce genre d'erreur souvent veuillez fait rapport à Oceanus. »
+« Éclabousser »
+« Un jeu par »
+« Cliquer pour entrer… »
+Le « legs en ligne n'a pas pu stocker votre information de compte dans le serveur. Essayer svp encore et faire rapport à Oceanus au cas où il échouerait encore. »
+« Ce compte est déjà en service. Veuillez essayer un autre nom d'emprunt. »
+« Numéro de série inadmissible »
+« N'a pas pu se relier au legs Online+servers »
+« Ouverture CINQ »
+« Maintenant vous pouvez procéder signer dedans. Cliquer le bouton CORRECT ci-dessous pour retourner l'à l'écran de sign-in. »
+« Le nom que vous avez fourni est inadmissible ou il y a déjà une compagnie using ce nom. »
+« Un problème inconnu s'est posé en essayant d'enregistrer votre compagnie. Essayer svp encore. »
+« NOTE : Au moment où on peut accorder seulement des visas de visiteur en ce monde parce qu'il a atteint sa capacité maximum de brasseurs d'affaires. »
+« Carnas 0 de Tremendos »
+« Carnas 1 de Tremendos »
+« Carnas 2 de Tremendos »
+« Carnas 3 de Tremendos »
+« Carnas 4 de Tremendos »
+« NOTE : Au moment où on peut accorder seulement des visas de visiteur en ce monde parce qu'il a atteint sa capacité maximum de brasseur d'affaires. Essayer votre aventure d'investisseur dans un des autres mondes. »
+tidTycoonVisaNote
+« NOTE : Au moment où, vous ne pouvez pas obtenir un visa de brasseur d'affaires pour ce monde. Notre exposition de disques que vous jouez déjà comme brasseur d'affaires dans le nombre maximum des mondes a permis par vos points de noblesse. »
+
+
+
+« Maire de »
+« CORRECT »
+« Estimations de »
+« ERREUR : N'a pas pu lier à hôtel de ville »
+« ERREUR : N'a pas pu se relier »
+« Vous devez fournir un titre pour votre colonne »
+« Il y avait une erreur tout en signalant votre message. Essayer svp encore »
+« Cliquer »
+« ici »
+« pour retourner à votre forme »
+« par »
+« Bienvenue à la section éditoriale de %1 »
+« Cliquer dessus les liens à la gauche pour lire les colonnes éditées par vos investisseurs semblables. Vérifier la forme ci-dessous au cas où vous voudriez signaler votre propre colonne »
+« Signaler une colonne »
+« Soumettre »
+« Évaluer »
+« Président »
+« Maire »
+« Réponse à cette colonne »
+« Poteau en fil principal »
+« Colonne de poteau »
+« Remettre à zéro la forme »
+« Fournir svp un titre à votre rapport politique »
+« Écrire vos estimations ici. Congé en blanc les valeurs que vous ne voulez pas être modifié »
+« Note : Vos estimations seront tenues compte selon votre prestige »
+« Vos commentaires sur vos estimations »
+« Soumettre les estimations »
+« Remettre à zéro la forme »
+« LIRE LES COLONNES »
+« LIRE LES NOUVELLES » 
+« ÉTROIT »
+« Se reliant à %1 serveurs… »
+« Dernier 10 colonnes : »
+« Signaler une colonne »
+« Réponses : »
+« Toutes les colonnes »
+« Dernier 3 colonnes »
+« Arrangement »
+« à »
+
+
+« Fonctionnant normalement »
+« Arrêté par le propriétaire »
+« Ennui d'opération »
+« Un approvisionnement essentiel (ou plus) ne sont pas reçus »
+« Pas assez d'argent à fonctionner »
+« Pas asse'approvisionnements »
+
+
+« Retourner dans l'histoire »
+« Entrer en avant dans l'histoire »
+« Régénérer toutes les vues »
+« Arrêter la navigation »
+« Page d'accueil de Starpeace »
+« Menu de construction d'affichage »
+« Obtenir un visa d'investisseur »
+« Rechercher le Web »
+« Profil d'utilisateur »
+« Vue de carte »
+« Vue d'univers »
+« Courrier »
+« Causerie »
+« Options »
+« Appel GMs pour l'aide »
+
+
+« Options »
+« Construction »
+« Arrière »
+« À la maison »
+« Information de peau »
+« Plus d'information »
+« Liste de service »
+« NON DISPONIBLE »
+Le « bâtiment doit être situé dans la zone vert clair ou aucune zone du tout »
+Le « bâtiment doit être situé dans la mi zone verte ou aucune zone du tout »
+Le « bâtiment doit être situé dans la zone vert-foncé ou aucune zone du tout »
+Le « bâtiment doit être situé dans la zone jaune ou aucune zone du tout »
+Le « bâtiment doit être situé dans la zone bleue ou aucune zone du tout »
+« Construction maintenant »
+« Routes »
+« Maire »
+« Ministre »
+« Président »
+« de »
+« Vous n'êtes pas le maire ! »
+Les « apprentis ne peuvent pas construire la route »
+« Santé »
+« Éducation »
+La « défense »
+« Agriculture »
+« Industrie légère »
+« Industrie lourd »
+« Commerce »
+« Logement »
+« Urbanisme »
+« Capitol de construction »
+« Résidentiel de première qualité »
+« Classe moyen résidentiel »
+« Résidentiel Low-class »
+« Film publicitaire »
+« Éducation civique »
+« Bureaux »
+« Industriel »
+« A réservé »
+« De-zone »
+« Options de route »
+« Démolir »
+« Railroad »
+« Un bref historique… »
+La « action a lieu dans un avenir proche. La terre est sur le bord de l'effondrement. Le surpeuplement et l'abus de la nature ont fonctionné, une planète une fois verte, sèche. Les premiers pays du monde sont prêts pour aller à la guerre à l'encontre des pays du tiers monde, espérant que ceci allégera la situation. »
+« Comme alternative à cela, l'IFEL (base internationale pendant la vie extraterrestre) offre un programme révolutionnaire, <b>Legacy</b> appelé. »
+La « vue d'IFEL »
+« IFEL commande des portails d'origine mystérieuse. Ces portails sont employés pour peupler les nouveaux mondes. »
+Les « terriens peuvent solliciter un visa d'IFEL et trouver une nouvelle vie dans un de ces mondes. On accorde ces individus exceptionnels qui qualifient un genre spécial de visa : le visa d'investisseur. Les investisseurs reçoivent 100 millions de dollars d'IFEL pour développer ces colonies. le <b>You peut être un de them.</b> »
+« Le joint »
+« Un choisi peu de compagnies dans le monde peut assortir la polyvalence et la puissance exigées pour gagner un joint d'IFEL. »
+« Le joint permet à une compagnie de fournir des solutions de technologie aux investisseurs. Les propriétaires courants de joint sont : PGI, entreprises de Mariko, Dissidents Inc, le Moab et Magna. »
+La « information d'évaluation »
+le « <b>Legacy Online</b> sera libre jusqu'à nouvel ordre. »
+« Conditions de système »
+« Pour courir le <b>Legacy Online</b> que vous avez besoin »
+« Pentium II 500 mégahertz, RAM de 32 Moctets »
+« Windows 95, 98, NT 4.0, 2000, XP »
+« résolution du hicolor 800x600 ou plus grand »
+« Internet Explorer 5.5 »
+De « l'espace de disque dur 50 Moctets »
+« Connexion internet active »
+De « modem 28.8 Kb/s »
+« La vitesse de votre carte vidéo en ces modes sera déterminante pour votre gameplay. »
+« Bienvenue au legs en ligne »
+« Ce programme installera le legs en ligne sur votre ordinateur. »
+« Choisir un des liens suivants si vous voulez savoir plus avant que vous installiez »
+« Conditions »
+« Évaluation »
+« Mettant à jour des composants… »
+le « <b>Legacy Online</b> recherche de plus nouveaux composants. »
+« Ouverture CINQ »
+« Nouveau »
+« Suppression »
+« Réponse »
+« Vers l'avant »
+« Message de courrier »
+« Cliquer dessus l'étiquette de <b>Inbox</b> pour voir les messages que vous avez reçus. »
+« Cliquer dessus l'étiquette de <b>Sent</b> pour voir les messages que vous avez envoyés. »
+« Dans <b>Draft</b> vous trouverez les messages non finis sauvés par vous. »
+« Cliquer %1here%2 pour lire plus au sujet du courrier de Voyager. »
+« Expédier le message »
+« Aucuns attachements. »
+« Erreur : Ne peut pas ouvrir le message… »
+« Étroit »
+« De »
+«  »
+« Sujet »
+« Date »
+« Bienvenue à %1 ! »
+« CERTIFICAT »
+« Alerte de répartition en zones ! »
+« Une partie de votre bâtiment a été répartie en zones dehors. C'est une liste de eux. Cliquer dessus le lien pour avoir le mouvement de carte là. »
+« Nom : »
+« Compagnie : »
+« Réparti en zones par : »
+« Date de Demoliton : »
+« Transfert d'argent réussi »
+« National Bank »
+« Quantité »
+« Chers %1 : »
+« Le gouvernement fédéral indépendant de %1 te donne l'accueil le plus chaleureux. Nous espérons que vous multiplierez votre fortune ici dans notre pays, qui est maintenant à vous. Car un acte de la sympathie profonde notre gouvernement est fier de te donner l'état du « invité de l'honneur ». »
+« Voici quelques liens utiles »
+« Comment investir votre argent »
+« %1, le pays »
+« La constitution de %1 »
+« Au sujet de l'invité de la récompense d'honneur »
+le feedback>your feedback</a> et vous a pu effectuer le jeu ! Une nouvelle frontière passionnante attend, maintenant va et prospère !« 
+« Ce compte de courrier électronique a été créé à aucune charge. Vous pouvez l'employer pour envoyer et recevoir des messages avec d'autres personnes qui ont déjà une résidence dans %1, cependant, il ne fonctionnera pas pour envoyer des messages à d'autres mondes, y compris la terre. Comme vous devez savoir, l'Internet Engineering Task Force développe toujours un protocole qui peut être employé par des portails. »
+« Car un investisseur vous font expliquer le droit à un email libre n'importe quelle compagnie vous créez. Ces comptes seront également créés à %1.net, notre domaine principal. »
+« Bonne chance dans les affaires ! »
+« Bienvenue à bord, »
+« Global »
+Stratégie de base Page>Strategy Section</a>.<br><br>If que vous ne souhaitez pas accepter cette nomination ou vous voudriez démissionner pendant votre limite, commuter à Minister Company, aller à la page de profil et cliquer dessus la démission Button.<br><br>Regards, le Conseil de <br>IFEL.« 
+« Attendre svp tandis que le <b>Legacy Online</b> télécharge de nouveaux dossiers… »
+« Aucun argent à rechercher »
+« Cher <b>%1</b>, <br> d'après nos registres, vous essayiez de rechercher <b>%2</b> aux sièges sociaux de la compagnie <b>%3</b>. »
+« Malheureusement vous n'avez pas assez de fonds pour l'accomplir sans envoyer votre compte sous l'examen minutieux de faillite. Le <br><br> attendent svp jusqu'à ce que vous ayez plus d'argent avant de le rechercher encore. »
+« Malheureusement, vous n'avez pas assez de fonds pour le permis attaché à lui, et l'achat d'un tel permis enverrait votre compagnie sous l'examen minutieux de faillite. Le <br><br> svp attendent jusqu'à ce que vous ayez plus d'argent ou envisagent de vendre un autre permis avant de le rechercher encore. »
+« Respect, le Conseil de <br><br>IFEL »
+

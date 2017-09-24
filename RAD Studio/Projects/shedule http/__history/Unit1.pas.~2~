@@ -1,0 +1,48 @@
+unit Unit1;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs, OleCtrls, SHDocVw;
+
+type
+  TForm1 = class(TForm)
+    WebBrowser1: TWebBrowser;
+    procedure FormCreate(Sender: TObject);
+    procedure WebBrowser1NavigateComplete2(ASender: TObject;
+      const pDisp: IDispatch; var URL: OleVariant);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Form1: TForm1;
+
+implementation
+
+{$R *.dfm}
+
+procedure TForm1.FormCreate(Sender: TObject);
+var
+  a1: textfile;
+  b1: string;
+begin
+  //do task
+  //load webpage to show
+  AssignFile(a1, 'sheduleit.txt');
+  Reset(a1);
+  ReadLn(a1, b1);
+  CloseFile(a1);
+  webbrowser1.Navigate(b1);
+end;
+
+procedure TForm1.WebBrowser1NavigateComplete2(ASender: TObject;
+  const pDisp: IDispatch; var URL: OleVariant);
+begin
+ close;
+end;
+
+end.

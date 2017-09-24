@@ -1,0 +1,11 @@
+Label14.Caption=%
+lvTowns.Columns=6
+lvTowns.Columns.0=Имя
+lvTowns.Columns.1=Населенность
+lvTowns.Columns.2=QOL
+lvTowns.Columns.3=Коммерция
+lvTowns.Columns.4=Богатство
+lvTowns.Columns.5=Тягло
+lbTax.Caption=Тягло: 0%
+pbTax.Hint=0%
+btnElect.Text=Изберите

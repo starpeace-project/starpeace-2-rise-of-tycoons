@@ -1,0 +1,17 @@
+Tabs.TabNames.1=GRA KANAŁ
+NewTeamDlg.Caption=NewTeamDlg
+NewTeamDlg.Hint=
+CloseBtn.Hint=Zamknięty okno
+CloseBtn.Text=x
+Shape1.Hint=
+Label4.Caption=Drużynowy Imię:
+Label4.Hint=
+btCreate.Hint=Pokaz narzuta mapa narzędzie
+btCreate.Text=Nowy Drużyna
+btCancel.Hint=Pokaz narzuta mapa narzędzie
+btCancel.Text=Odwoływać
+HintText.Caption=TWORZYĆ DRUŻYNA
+HintText.Hint=TWORZYĆ DRUŻYNA
+edTeamName.Hint=
+edTeamName.Text=
+pnError.Caption=BŁĄD!

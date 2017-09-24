@@ -1,0 +1,17 @@
+lbMayor.Caption=Mayor:
+ChangeLogView.Caption=ChangeLogView
+ChangeLogView.Hint=
+GradientBox1.Hint=
+GradientBox1.Text=GradientBox1
+IKnowBtn.Hint=Klikać tutaj klikać wiadomość znowu
+IKnowBtn.Text=I ZNAĆ
+LaterBtn.Hint=Pokazywać wiadomość wiadomość znowu, opóźniony
+LaterBtn.Text=OPÓŹNIONY
+header.Caption=Spadek Online Wiadomość
+header.Hint=
+Panel1.Caption=Panel1
+Panel1.Hint=
+Panel2.Caption=Panel1
+Panel2.Hint=
+Log.Hint=
+Log.Lines=(1)

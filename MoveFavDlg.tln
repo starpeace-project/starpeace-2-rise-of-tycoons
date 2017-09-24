@@ -1,0 +1,17 @@
+MoveFavDlg.Caption=MoveFavDlg
+MoveFavDlg.Hint=
+BorderPanel.Caption=BorderPanel
+BorderPanel.Hint=
+Panel2.Caption=Panel2
+Panel2.Hint=
+Label8.Caption=Select a folder:
+Label8.Hint=
+BtnsPanel.Caption=BtnsPanel
+BtnsPanel.Hint=
+bOK.Hint=Display overlay map tools
+bOK.Text=MOVE
+bCancel.Hint=Display overlay map tools
+bCancel.Text=CANCEL
+TreeView.Hint=
+CaptionPanel.Caption=MOVE FAVORITES
+CaptionPanel.Hint=

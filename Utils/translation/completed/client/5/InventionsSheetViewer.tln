@@ -1,0 +1,12 @@
+eTown.Hint=这里输入镇的名字限制查寻客户到这样镇
+ftInveKind.TabNames=3
+ftInveKind.TabNames.0=可利用
+ftInveKind.TabNames.1=研究
+ftInveKind.TabNames.2=开发
+btnResearch.Hint=这里点击开始研究
+btnResearch.Text=研究
+btnStop.Hint=这里点击停止研究
+btnStop.Text=停止
+btnSell.Hint=这里点击卖研究
+btnSell.Text=出售
+btnClose.Text=关闭

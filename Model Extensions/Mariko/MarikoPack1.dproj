@@ -1,0 +1,146 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{5c028990-1659-43b5-b81f-e38ede4f7914}</ProjectGuid>
+    <MainSource>MarikoPack1.dpr</MainSource>
+    <Configuration Condition=" '$(Configuration)' == '' ">Release</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <DCC_DCCCompiler>DCC32</DCC_DCCCompiler>
+    <DCC_DependencyCheckOutputName>..\..\..\Servers\MarikoPack1.mdx</DCC_DependencyCheckOutputName>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <Version>7.0</Version>
+    <DCC_WriteableConstants>True</DCC_WriteableConstants>
+    <DCC_SymbolReferenceInfo>0</DCC_SymbolReferenceInfo>
+    <DCC_ExeOutput>C:\starpeace\Servers</DCC_ExeOutput>
+    <DCC_UnitSearchPath>$(DELPHI)\Source\Win32\rtl\common;$(DELPHI)\Source\Win32\rtl\win;$(DELPHI)\Source\Win32\vcl;..\..\Circuits;..\..\Kernel;..\..\StdBlocks;..\..\Class Storage;..\..\Cache;..\..\RDO\Common;..\..\RDO\Server;..\..\Utils\Network;..\..\RDO\Client\;..\..\Persistence;..\..\Utils\Misc;..\..\Surfaces;..\..\Mail;..\..\Actors;..\..\Tasks;..\..\Utils\Vcl;..\..\Logs;..\..\DServer</DCC_UnitSearchPath>
+    <DCC_ResourcePath>$(DELPHI)\Source\Win32\rtl\common;$(DELPHI)\Source\Win32\rtl\win;$(DELPHI)\Source\Win32\vcl;..\..\Circuits;..\..\Kernel;..\..\StdBlocks;..\..\Class Storage;..\..\Cache;..\..\RDO\Common;..\..\RDO\Server;..\..\Utils\Network;..\..\RDO\Client\;..\..\Persistence;..\..\Utils\Misc;..\..\Surfaces;..\..\Mail;..\..\Actors;..\..\Tasks;..\..\Utils\Vcl;..\..\Logs;..\..\DServer</DCC_ResourcePath>
+    <DCC_ObjPath>$(DELPHI)\Source\Win32\rtl\common;$(DELPHI)\Source\Win32\rtl\win;$(DELPHI)\Source\Win32\vcl;..\..\Circuits;..\..\Kernel;..\..\StdBlocks;..\..\Class Storage;..\..\Cache;..\..\RDO\Common;..\..\RDO\Server;..\..\Utils\Network;..\..\RDO\Client\;..\..\Persistence;..\..\Utils\Misc;..\..\Surfaces;..\..\Mail;..\..\Actors;..\..\Tasks;..\..\Utils\Vcl;..\..\Logs;..\..\DServer</DCC_ObjPath>
+    <DCC_IncludePath>$(DELPHI)\Source\Win32\rtl\common;$(DELPHI)\Source\Win32\rtl\win;$(DELPHI)\Source\Win32\vcl;..\..\Circuits;..\..\Kernel;..\..\StdBlocks;..\..\Class Storage;..\..\Cache;..\..\RDO\Common;..\..\RDO\Server;..\..\Utils\Network;..\..\RDO\Client\;..\..\Persistence;..\..\Utils\Misc;..\..\Surfaces;..\..\Mail;..\..\Actors;..\..\Tasks;..\..\Utils\Vcl;..\..\Logs;..\..\DServer</DCC_IncludePath>
+    <DCC_Define>USELogs;oldbuild;oldpack;</DCC_Define>
+    <DCC_UNSAFE_TYPE>True</DCC_UNSAFE_TYPE>
+    <DCC_UNSAFE_CODE>True</DCC_UNSAFE_CODE>
+    <DCC_UNSAFE_CAST>True</DCC_UNSAFE_CAST>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <Version>7.0</Version>
+    <DCC_WriteableConstants>True</DCC_WriteableConstants>
+    <DCC_SymbolReferenceInfo>0</DCC_SymbolReferenceInfo>
+    <DCC_ExeOutput>C:\starpeace\Servers3</DCC_ExeOutput>
+    <DCC_UnitSearchPath>..\..\Circuits;..\..\Kernel;..\..\StdBlocks;..\..\Class Storage;..\..\Cache;..\..\RDO\Common;..\..\RDO\Server;..\..\Utils\Network;..\..\RDO\Client\;..\..\Persistence;..\..\Utils\Misc;..\..\Surfaces;..\..\Mail;..\..\Actors;..\..\Tasks;..\..\Utils\Vcl;..\..\Logs;..\..\DServer</DCC_UnitSearchPath>
+    <DCC_ResourcePath>..\..\Circuits;..\..\Kernel;..\..\StdBlocks;..\..\Class Storage;..\..\Cache;..\..\RDO\Common;..\..\RDO\Server;..\..\Utils\Network;..\..\RDO\Client\;..\..\Persistence;..\..\Utils\Misc;..\..\Surfaces;..\..\Mail;..\..\Actors;..\..\Tasks;..\..\Utils\Vcl;..\..\Logs;..\..\DServer</DCC_ResourcePath>
+    <DCC_ObjPath>..\..\Circuits;..\..\Kernel;..\..\StdBlocks;..\..\Class Storage;..\..\Cache;..\..\RDO\Common;..\..\RDO\Server;..\..\Utils\Network;..\..\RDO\Client\;..\..\Persistence;..\..\Utils\Misc;..\..\Surfaces;..\..\Mail;..\..\Actors;..\..\Tasks;..\..\Utils\Vcl;..\..\Logs;..\..\DServer</DCC_ObjPath>
+    <DCC_IncludePath>..\..\Circuits;..\..\Kernel;..\..\StdBlocks;..\..\Class Storage;..\..\Cache;..\..\RDO\Common;..\..\RDO\Server;..\..\Utils\Network;..\..\RDO\Client\;..\..\Persistence;..\..\Utils\Misc;..\..\Surfaces;..\..\Mail;..\..\Actors;..\..\Tasks;..\..\Utils\Vcl;..\..\Logs;..\..\DServer</DCC_IncludePath>
+    <DCC_Define>USELogs;newpack;newbuild;DEBUG</DCC_Define>
+    <DCC_UNSAFE_TYPE>True</DCC_UNSAFE_TYPE>
+    <DCC_UNSAFE_CODE>True</DCC_UNSAFE_CODE>
+    <DCC_UNSAFE_CAST>True</DCC_UNSAFE_CAST>
+  </PropertyGroup>
+  <ProjectExtensions>
+    <Borland.Personality>Delphi.Personality</Borland.Personality>
+    <Borland.ProjectType>VCLApplication</Borland.ProjectType>
+    <BorlandProject>
+<BorlandProject><Delphi.Personality><Parameters><Parameters Name="HostApplication">e:\Work\Five\Release\servers\FIVEModelServer.exe</Parameters><Parameters Name="UseLauncher">False</Parameters><Parameters Name="LoadAllSymbols">True</Parameters><Parameters Name="LoadUnspecifiedSymbols">False</Parameters></Parameters><VersionInfo><VersionInfo Name="IncludeVerInfo">False</VersionInfo><VersionInfo Name="AutoIncBuild">False</VersionInfo><VersionInfo Name="MajorVer">1</VersionInfo><VersionInfo Name="MinorVer">0</VersionInfo><VersionInfo Name="Release">0</VersionInfo><VersionInfo Name="Build">0</VersionInfo><VersionInfo Name="Debug">True</VersionInfo><VersionInfo Name="PreRelease">False</VersionInfo><VersionInfo Name="Special">False</VersionInfo><VersionInfo Name="Private">False</VersionInfo><VersionInfo Name="DLL">False</VersionInfo><VersionInfo Name="Locale">1033</VersionInfo><VersionInfo Name="CodePage">1252</VersionInfo></VersionInfo><VersionInfoKeys><VersionInfoKeys Name="CompanyName"></VersionInfoKeys><VersionInfoKeys Name="FileDescription"></VersionInfoKeys><VersionInfoKeys Name="FileVersion">1.0.0.0</VersionInfoKeys><VersionInfoKeys Name="InternalName"></VersionInfoKeys><VersionInfoKeys Name="LegalCopyright"></VersionInfoKeys><VersionInfoKeys Name="LegalTrademarks"></VersionInfoKeys><VersionInfoKeys Name="OriginalFilename"></VersionInfoKeys><VersionInfoKeys Name="ProductName"></VersionInfoKeys><VersionInfoKeys Name="ProductVersion">1.0.0.0</VersionInfoKeys><VersionInfoKeys Name="Comments"></VersionInfoKeys></VersionInfoKeys><Source><Source Name="MainSource">MarikoPack1.dpr</Source></Source></Delphi.Personality></BorlandProject></BorlandProject>
+  </ProjectExtensions>
+  <Import Project="$(MSBuildBinPath)\Borland.Delphi.Targets" />
+  <ItemGroup>
+    <DelphiCompile Include="MarikoPack1.dpr">
+      <MainSource>MainSource</MainSource>
+    </DelphiCompile>
+    <DCCReference Include="..\..\Cache\CacheCommon.pas" />
+    <DCCReference Include="..\..\Cache\ModelServerCache.pas" />
+    <DCCReference Include="..\..\Class Packer\VisualClassManager.pas" />
+    <DCCReference Include="..\..\Inventions\Inventions.pas" />
+    <DCCReference Include="..\..\Kernel\Headquarters.pas" />
+    <DCCReference Include="..\..\Kernel\Kernel.pas" />
+    <DCCReference Include="..\..\Kernel\Politics.pas" />
+    <DCCReference Include="..\..\Kernel\PopulatedBlock.pas" />
+    <DCCReference Include="..\..\Kernel\Population.pas" />
+    <DCCReference Include="..\..\Kernel\PublicFacility.pas" />
+    <DCCReference Include="..\..\Kernel\ResearchCenter.pas" />
+    <DCCReference Include="..\..\Kernel\SimMLS.pas" />
+    <DCCReference Include="..\..\Kernel\TownPolitics.pas" />
+    <DCCReference Include="..\..\Kernel\Trade.pas" />
+    <DCCReference Include="..\..\Land\Land.pas" />
+    <DCCReference Include="..\..\Logs\Logs.pas" />
+    <DCCReference Include="..\..\News Server\NewsServerInterfaces.pas" />
+    <DCCReference Include="..\..\Protocol\Protocol.pas" />
+    <DCCReference Include="..\..\Protocol\RankProtocol.pas" />
+    <DCCReference Include="..\..\StdBlocks\alIndustry.pas" />
+    <DCCReference Include="..\..\StdBlocks\almine.pas" />
+    <DCCReference Include="..\..\StdBlocks\Bar.pas" />
+    <DCCReference Include="..\..\StdBlocks\bm2.pas">
+      <Form>$ENDIF</Form>
+    </DCCReference>
+    <DCCReference Include="..\..\StdBlocks\Broadcast.pas" />
+    <DCCReference Include="..\..\StdBlocks\BusinessMachines.pas" />
+    <DCCReference Include="..\..\StdBlocks\CarIndustry.pas" />
+    <DCCReference Include="..\..\StdBlocks\CarShop.pas" />
+    <DCCReference Include="..\..\StdBlocks\CDPlant.pas" />
+    <DCCReference Include="..\..\StdBlocks\CDStore.pas">
+      <Form>$endif</Form>
+    </DCCReference>
+    <DCCReference Include="..\..\StdBlocks\Chemical.pas" />
+    <DCCReference Include="..\..\StdBlocks\ChemMine.pas" />
+    <DCCReference Include="..\..\StdBlocks\ClothesShop.pas" />
+    <DCCReference Include="..\..\StdBlocks\Clothings.pas" />
+    <DCCReference Include="..\..\StdBlocks\CoalMine.pas" />
+    <DCCReference Include="..\..\StdBlocks\ComputerStore.pas" />
+    <DCCReference Include="..\..\StdBlocks\Computing.pas" />
+    <DCCReference Include="..\..\StdBlocks\Construction.pas" />
+    <DCCReference Include="..\..\StdBlocks\ConstructionIndustry.pas" />
+    <DCCReference Include="..\..\StdBlocks\cryolite.pas" />
+    <DCCReference Include="..\..\StdBlocks\ElectronicIndustry.pas" />
+    <DCCReference Include="..\..\StdBlocks\Environmental.pas" />
+    <DCCReference Include="..\..\StdBlocks\EvaluatedBlock.pas" />
+    <DCCReference Include="..\..\StdBlocks\Farms.pas" />
+    <DCCReference Include="..\..\StdBlocks\FoodProcessor.pas" />
+    <DCCReference Include="..\..\StdBlocks\FoodStore.pas" />
+    <DCCReference Include="..\..\StdBlocks\HeavyIndustry.pas" />
+    <DCCReference Include="..\..\StdBlocks\HHAStore.pas" />
+    <DCCReference Include="..\..\StdBlocks\HouseHoldingAppliances.pas" />
+    <DCCReference Include="..\..\StdBlocks\LegalServices.pas" />
+    <DCCReference Include="..\..\StdBlocks\Mallhha1.pas" />
+    <DCCReference Include="..\..\StdBlocks\Mallhha2.pas" />
+    <DCCReference Include="..\..\StdBlocks\Mallhha3.pas" />
+    <DCCReference Include="..\..\StdBlocks\MetalIndustry.pas" />
+    <DCCReference Include="..\..\StdBlocks\Mine.pas" />
+    <DCCReference Include="..\..\StdBlocks\mobileStore.pas" />
+    <DCCReference Include="..\..\StdBlocks\motorbike.pas" />
+    <DCCReference Include="..\..\StdBlocks\motorbikestore.pas" />
+    <DCCReference Include="..\..\StdBlocks\mphone.pas" />
+    <DCCReference Include="..\..\StdBlocks\nylon.pas" />
+    <DCCReference Include="..\..\StdBlocks\OfficeBlock.pas" />
+    <DCCReference Include="..\..\StdBlocks\organicmine.pas" />
+    <DCCReference Include="..\..\StdBlocks\plasterboard.pas" />
+    <DCCReference Include="..\..\StdBlocks\PlasticInd.pas">
+      <Form>$endif</Form>
+    </DCCReference>
+    <DCCReference Include="..\..\StdBlocks\polymer.pas" />
+    <DCCReference Include="..\..\StdBlocks\Restaurant.pas" />
+    <DCCReference Include="..\..\StdBlocks\roboticsys.pas" />
+    <DCCReference Include="..\..\StdBlocks\ServiceBlock.pas" />
+    <DCCReference Include="..\..\StdBlocks\shirt.pas" />
+    <DCCReference Include="..\..\StdBlocks\shirtshop.pas" />
+    <DCCReference Include="..\..\StdBlocks\silane.pas" />
+    <DCCReference Include="..\..\StdBlocks\SiliconMine.pas" />
+    <DCCReference Include="..\..\StdBlocks\StdAccounts.pas" />
+    <DCCReference Include="..\..\StdBlocks\StdBroadcast.pas" />
+    <DCCReference Include="..\..\StdBlocks\StdFluids.pas" />
+    <DCCReference Include="..\..\StdBlocks\stewfact.pas" />
+    <DCCReference Include="..\..\StdBlocks\stewshop.pas" />
+    <DCCReference Include="..\..\StdBlocks\StoneMine.pas" />
+    <DCCReference Include="..\..\StdBlocks\SuperMarket.pas" />
+    <DCCReference Include="..\..\StdBlocks\TextilIndustry.pas" />
+    <DCCReference Include="..\..\StdBlocks\tft.pas" />
+    <DCCReference Include="..\..\StdBlocks\vegfarma.pas" />
+    <DCCReference Include="..\..\Transport\MatrixLayer.pas" />
+    <DCCReference Include="..\..\Transport\Transport.pas" />
+    <DCCReference Include="..\..\Transport\TransportInterfaces.pas" />
+    <DCCReference Include="..\..\Utils\Serial\GenIdd.pas" />
+    <DCCReference Include="..\CommonFacs.pas" />
+    <DCCReference Include="..\FacIds.pas" />
+    <DCCReference Include="..\Standards.pas" />
+    <DCCReference Include="FluidConsts.pas" />
+    <DCCReference Include="MarikoConst.pas" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,131 @@
+unit worldlogonhandler;
+
+interface
+  uses
+    Classes, VoyagerInterfaces, VoyagerServerInterfaces, Controls, worldlogon,
+    Protocol, Privacy, VCLUtils,StrUtils, ComCtrls, URLParser;
+
+    type
+    TMetaworldlogonHandler =
+      class( TInterfacedObject, IMetaURLHandler )
+        // IMetaURLHandler
+        private
+          function getName    : string;
+          function getOptions : TURLHandlerOptions;
+          function getCanHandleURL( URL : TURL ) : THandlingAbility;
+          function Instantiate : IURLHandler;
+      end;
+
+    TworldlogonHandler =
+      class( TInterfacedObject, IURLHandler )
+        public
+          constructor Create;
+          destructor  Destroy; override;
+        private
+          fControl          : Tworldlogon;
+          fClientView       : IClientView;
+          fMasterURLHandler : IMasterURLHandler;
+          fCachePath        : string;
+        // IURLHandler
+        private
+          function  HandleURL( URL : TURL ) : TURLHandlingResult;
+          function  HandleEvent( EventId : TEventId; var info ) : TEventHandlingResult;
+          function  getControl : TControl;
+          procedure setMasterURLHandler( const URLHandler : IMasterURLHandler );
+      end;
+
+    const
+    tidHandlerName_worldlogon  = 'worldlogonView';
+
+implementation
+  uses
+    ServerCnxHandler, VoyagerUIEvents, Events, ServerCnxEvents, Config, SysUtils, FileCtrl,
+    VoyagerEvents, DisplayControl, logs;
+
+  // TMetaOptionsHandler
+
+  function TMetaworldlogonHandler.getName : string;
+    begin
+      result := tidHandlerName_worldlogon;
+    end;
+
+  function TMetaworldlogonHandler.getOptions : TURLHandlerOptions;
+    begin
+      result := [hopCacheable];
+    end;
+
+  function TMetaworldlogonHandler.getCanHandleURL( URL : TURL ) : THandlingAbility;
+    begin
+      result := 0;
+    end;
+
+  function TMetaworldlogonHandler.Instantiate : IURLHandler;
+    begin
+      result := TworldlogonHandler.Create;
+    end;
+
+  // TOptionsHandler
+
+  constructor TworldlogonHandler.Create;
+    begin
+      inherited Create;
+      fControl := Tworldlogon.Create( nil );
+      logs.log('wlogin','create');
+    end;
+
+  destructor TworldlogonHandler.Destroy;
+    begin
+      RemoveComponentFreeAndNil(fControl);
+      //fPlayList.free;
+      //fIgnoreList.free;
+      inherited;
+    end;
+
+  function TworldlogonHandler.HandleURL( URL : TURL ) : TURLHandlingResult;
+    var
+      i: string;
+      resulttype: string;
+    begin
+      logs.log('wlogin','start1 - ' + URL);
+      //fcontrol.Notebook1.PageIndex:=0;
+      resulttype:= 'NORMAL';
+      logs.log('wlogin','start2');
+      fcontrol.clientviewid := URLParser.GetParmValue(URL,'ClientViewId');  //  ServerCnxHandler.TServerCnxHandler.fISAddr;
+
+      fcontrol.ISAddr :=URLParser.GetParmValue(URL,htmlParmName_ISAddr ); //  h
+      fcontrol.ISPort := URLParser.GetParmValue(URL,'ISPort');
+      fcontrol.ResultType := URLParser.GetParmValue(URL,'ResultType');
+      logs.log('wlogin','start3');
+      if URLParser.GetParmValue(URL,'frame_Action') <> 'Create' then
+        begin
+          i:= fcontrol.login;
+        end;
+      logs.log('wlogin','start4');
+      result := urlNotHandled;
+    end;
+
+  function TworldlogonHandler.HandleEvent( EventId : TEventId; var info ) : TEventHandlingResult;
+    begin
+      logs.log('wlogin','event');
+      result := evnHandled;
+    end;
+
+  function TworldlogonHandler.getControl : TControl;
+    begin
+      result := fControl;
+    end;
+
+  procedure TworldlogonHandler.setMasterURLHandler( const URLHandler : IMasterURLHandler );
+    begin
+      //fMasterURLHandler := URLHandler;
+      URLHandler.HandleEvent( evnAnswerClientView, fClientView );
+      fMasterURLHandler := URLHandler;
+      fControl.ClientView       := fClientView;
+      fControl.MasterURLHandler := fMasterURLHandler;
+      fMasterURLHandler.HandleEvent( evnAnswerPrivateCache, fCachePath );
+    end;
+
+
+
+
+end.

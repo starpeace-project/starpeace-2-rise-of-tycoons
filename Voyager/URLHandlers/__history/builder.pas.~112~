@@ -1,0 +1,748 @@
+unit builder;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs,RDOInterfaces, MarqueeCtrl,RDOObjectProxy,WinSockRDOConnection,
+  StdCtrls, jpeg, ExtCtrls, ComCtrls, ImgList,StrUtils,logs,VisualControls, protocol,
+  VoyagerInterfaces, VoyagerServerInterfaces, Config, GIFImg, FramedButton,
+  OpaquePanel,MapTypes, VisualClassManager,BuildClasses,classload;
+
+type
+  Tbuilder = class(TVisualControl)
+    Panel1: TPanel;
+    Panel2: TPanel;
+    Image1: TImage;
+    Image2: TImage;
+    FramedButton1: TFramedButton;
+    Notebook1: TNotebook;
+    buildkindview: TListView;
+    buildkindimage: TImageList;
+    r1: TImage;
+    Label2: TLabel;
+    r2: TImage;
+    Label3: TLabel;
+    Panel5: TPanel;
+    Panel3: TPanel;
+    zcap: TImage;
+    zciv: TImage;
+    zcom: TImage;
+    zoff: TImage;
+    znone: TImage;
+    zhres: TImage;
+    zmres: TImage;
+    zlres: TImage;
+    Label4: TLabel;
+    Label5: TLabel;
+    Label6: TLabel;
+    Label7: TLabel;
+    Label8: TLabel;
+    Label9: TLabel;
+    Label10: TLabel;
+    Label11: TLabel;
+    zindy: TImage;
+    Label12: TLabel;
+    bpan: TPanel;
+    tblist: TPanel;
+    bimg: TImage;
+    lpal: TPanel;
+    Image4: TImage;
+    Panel4: TPanel;
+    FramedButton4: TFramedButton;
+    buildfacview: TListView;
+    buildlistimage: TImageList;
+    bname: TFramedButton;
+    vpal: TPanel;
+    bi: TImage;
+    zi: TImage;
+    bcost: TLabel;
+    dbuild: TFramedButton;
+    bsize: TLabel;
+    bdesc: TLabel;
+    dnbuild: TLabel;
+    procedure FramedButton1Click(Sender: TObject);
+    procedure buildkindviewClick(Sender: TObject);
+    procedure r1Click(Sender: TObject);
+    procedure r2Click(Sender: TObject);
+    procedure zcapClick(Sender: TObject);
+    procedure znoneClick(Sender: TObject);
+    procedure zcomClick(Sender: TObject);
+    procedure zoffClick(Sender: TObject);
+    procedure zcivClick(Sender: TObject);
+    procedure zhresClick(Sender: TObject);
+    procedure zmresClick(Sender: TObject);
+    procedure zlresClick(Sender: TObject);
+    procedure zindyClick(Sender: TObject);
+    procedure FramedButton3Click(Sender: TObject);
+    procedure buildfacviewClick(Sender: TObject);
+    procedure dbuildClick(Sender: TObject);
+    procedure Image2Click(Sender: TObject);
+  private
+    { Private declarations }
+    fClientView       : IClientView;
+    fMasterURLHandler : IMasterURLHandler;
+  private
+    procedure SetMasterURLHandler( aMasterURLHandler : IMasterURLHandler );
+  public
+    { Public declarations }
+    fCache            : string ;
+    buildkindlist     : TStringList;
+    buildfaclist      : TStringList;
+    croad             : boolean;
+    cmayor            : boolean;
+    frefresh          : boolean;
+    bselect           : integer;
+    bsinfo            : PBuildingClass;
+    ClassManager : TClassManager ;
+    fBuildingClasses      : IBuildingClassBag;
+   // fblist            : array[0..99] of tblist;
+    //cblist            : tblist;
+    x1:array[0..99] of tlabel;
+    x2: tlabel;
+    property ClientView       : IClientView       write fClientView;
+    property MasterURLHandler : IMasterURLHandler write SetMasterURLHandler;
+    property Cache            : string            write fCache;
+  published
+    function buildkind : integer;
+    function blistset : integer;
+    function loadclass : integer;
+    function  ParseSoundData(const str : string) : TSoundData;
+  protected
+        procedure SetParent(which : TWinControl);  override;
+  end;
+
+
+implementation
+  uses
+    Threads, ServerCnxEvents, Literals, ClientMLS, Events, VCLUtils, CoolSB, ServerCnxHandler;
+{$R *.dfm}
+  function Tbuilder.ParseSoundData(const str : string) : TSoundData;
+    var
+      i   : integer;
+      len : integer;
+      aux : string;
+      map : TStringList;
+    begin
+      map := TStringList.Create;
+      try
+        len := length(str);
+        i := 1;
+        while i <= len do
+          begin
+            aux := '';
+            while str[i] = #32 do
+              inc(i);
+            while (i <= len) and (str[i] <> ',') do
+              begin
+                aux := aux + str[i];
+                inc(i);
+              end;
+            inc(i);
+            map.Add(aux);
+          end;
+        aux := map.Values['wave'];
+        if aux <> ''
+          then Result.wavefile := 'cache\Sound\' + aux
+          else Result.wavefile := '';
+        aux := map.Values['aten'];
+        try
+          if aux <> ''
+            then Result.atenuation := StrToFloat(aux)
+            else Result.atenuation := 1;
+        except
+          Result.atenuation := 1;
+        end;
+        aux := map.Values['prio'];
+        try
+          if aux <> ''
+            then Result.priority := StrToInt(aux)
+            else Result.priority := 0;
+        except
+          Result.priority := 0;
+        end;
+        aux := map.Values['loop'];
+        try
+          if aux <> ''
+            then Result.looped := boolean(StrToInt(aux))
+            else Result.looped := false;
+        except
+          Result.looped := false;
+        end;
+        aux := map.Values['prob'];
+        try
+          if aux <> ''
+            then Result.probability := StrToFloat(aux)
+            else Result.probability := 1;
+        except
+          Result.probability := 1;
+        end;
+        aux := map.Values['per'];
+        try
+          if aux <> ''
+            then Result.period := StrToInt(aux)
+            else Result.period := 0;
+        except
+          Result.period := 0;
+        end;
+      finally
+        map.Free;
+      end;
+    end;
+
+  function Tbuilder.loadclass : integer;
+    var
+      stream : tstream;
+      path : string;
+      aux    : TBuildingClass;
+      VCls   : VisualClassManager.TVisualClass;
+      i      : integer;
+      j      : integer;
+
+     function ParseEfxData(const efxdata : string) : TEfxData;
+      var
+        i   : integer;
+        len : integer;
+        aux : string;
+        map : TStringList;
+      begin
+        map := TStringList.Create;
+        try
+          len := length(efxdata);
+          i := 1;
+          while i <= len do
+            begin
+              aux := '';
+              while efxdata[i] = #32 do
+                inc(i);
+              while (i <= len) and (efxdata[i] <> ',') do
+                begin
+                  aux := aux + efxdata[i];
+                  inc(i);
+                end;
+              inc(i);
+              map.Add(aux);
+            end;
+          aux := map.Values['id'];
+          try
+            if aux <> ''
+              then Result.id := StrToInt(aux)
+              else Result.id := -1;
+          except
+            Result.id := -1;
+          end;
+          aux := map.Values['x'];
+          try
+            if aux <> ''
+              then Result.x := StrToInt(aux)
+              else Result.x := 0;
+          except
+            Result.x := 0;
+          end;
+          aux := map.Values['y'];
+          try
+            if aux <> ''
+              then Result.y := StrToInt(aux)
+              else Result.y := 0;
+          except
+            Result.y := 0;
+          end;
+          Result.Options := [];
+          aux := map.Values['animated'];
+          try
+            if (aux <> '') and (StrToInt(aux) = 1)
+              then include(Result.Options, eoAnimated);
+          except
+          end;
+          aux := map.Values['glassed'];
+          try
+            if (aux <> '') and (StrToInt(aux) = 1)
+              then include(Result.Options, eoGlassed);
+          except
+          end;
+        finally
+          map.Free;
+        end;
+      end;
+
+    function StrToBuildOption(const BuildOptAsStr : string) : TBuildOptions;
+      const
+        cBuildOptionNames : array [TBuildOptions] of string = ('default', 'land', 'water', 'both');
+      begin
+        Result := high(Result);
+        while (Result > low(Result)) and (lowercase(BuildOptAsStr) <> cBuildOptionNames[Result]) do
+          dec(Result);
+      end;
+
+
+    begin
+      path   := 'cache\BuildingClasses\classes.bin';
+      Stream := TFileStream.Create(path, fmOpenRead);
+      fBuildingClasses := TBuildingClasses.Create;
+      try
+        ClassManager.Free;      //.rag
+        ClassManager := TClassManager.Load(Stream);
+        for i := 0 to pred(ClassManager.Count) do
+          begin
+            VCls := ClassManager.Classes[i];
+            aux.id := VCls.Id;
+            if not (aux.id <> high(aux.id))
+              then raise Exception.Create('');
+            aux.Size := VCls.ReadInteger('General', 'xSize', high(aux.Size));
+            if not ((aux.Size >= 0) and (aux.Size < 32))
+              then raise Exception.Create('');
+            aux.Name := VCls.ReadString('General', 'Name', '');
+            aux.ImagePath := VCls.ReadString('MapImages', '64x32x0', '');
+            aux.Urban := VCls.ReadBool('General', 'Urban', false);
+            aux.Accident := VCls.ReadBool('General', 'Accident', false);
+            aux.ZoneType := VCLs.ReadInteger('General', 'Zone', 0);
+            aux.FacId := VCLs.ReadInteger('General', 'FacId', 0);
+            aux.Requires := VCLs.ReadInteger('General', 'Requires', 0);
+            aux.VoidSquares := VCLs.ReadInteger('General', 'VoidSquares', 0);
+            aux.HideColor := VCLs.ReadInteger('General', 'HideColor', clBlack);
+            aux.Selectable := VCLs.ReadBool('General', 'Selectable', true);
+            aux.BuildOpts := StrToBuildOption(VCLs.ReadString('General', 'BuildOptions', 'default'));
+            aux.Animated := VCls.ReadBool('General', 'Animated', false);
+            aux.LevelSignX := VCLs.ReadInteger('General', 'LevelSignX', low(integer));
+            aux.LevelSignY := VCLs.ReadInteger('General', 'LevelSignY', low(integer));
+            aux.AnimArea.Left := VCLs.ReadInteger('Animations', 'Left', 0);
+            aux.AnimArea.Top := VCLs.ReadInteger('Animations', 'Top', 0);
+            aux.AnimArea.Right := VCLs.ReadInteger('Animations', 'Right', 0);
+            aux.AnimArea.Bottom := VCLs.ReadInteger('Animations', 'Bottom', 0);
+            with aux.SoundData do
+              begin
+                Count := VCLs.ReadInteger('Sounds', 'Count', 0);
+                if Count > 0
+                  then
+                    begin
+                      Kind := TSoundSetKind(VCLs.ReadInteger('Sounds', 'Kind', 0));
+                      getmem(Sounds, Count*sizeof(Sounds[0]));
+                      initialize(Sounds^, Count);
+                      for j := 0 to pred(Count) do
+                        Sounds[j] := ParseSoundData(VCLs.ReadString('Sounds', IntToStr(j), ''));
+                    end
+                  else
+                    begin
+                      Kind := ssNone;
+                      Sounds := nil;
+                    end;
+              end;
+            with aux.EfxData do
+              begin
+                Count := VCLs.ReadInteger('Effects', 'Count', 0);
+                if Count > 0
+                  then
+                    begin
+                      getmem(Efxs, Count*sizeof(Efxs[0]));
+                      for j := 0 to pred(Count) do
+                        Efxs[j] := ParseEfxData(VCLs.ReadString('Effects', IntToStr(j), ''));
+                    end
+                  else Efxs := nil;
+              end;
+            fBuildingClasses.Add(aux);
+          end;
+      finally
+        Stream.Free;
+      end;
+    end;
+
+  procedure Tbuilder.buildkindviewClick(Sender: TObject);
+    var
+      i,j,clusid,kindid:integer;
+    begin
+      // which one was clicked?
+      //logs.Log('buildmenu','startkind - 1');
+      i:= buildkindview.ItemIndex;
+      //logs.Log('buildmenu','startkind - 2/ ' + inttostr(i));
+      if i=0 then
+        begin  //road
+          if croad then
+            begin
+              //show road panel
+              //logs.Log('buildmenu','startkind - 3/road');
+              notebook1.ActivePage := 'roads';
+              //logs.Log('buildmenu','startkind - 3.1');
+            end;
+        end;
+      if i=1 then
+        begin  //mayor
+          if cmayor then
+            begin
+              //show mayor panel
+              notebook1.ActivePage := 'zone';
+            end;
+        end;
+      if i>1 then
+        begin  //list buildings
+           // get list
+           clusid:=strtoint(buildkindlist.Values['clusid']);
+           kindid:=i-2;
+           buildfaclist := nil;
+           //logs.Log('buildmenu','startkind - 1.2');
+           buildfaclist := tstringlist.Create;
+           //logs.Log('buildmenu','startkind - 1.3');
+           buildfacview.Items.Clear;
+           buildfacview.ViewStyle := vslist;
+           //logs.Log('buildmenu','startkind - 1.4');
+           buildfaclist.Text := fclientview.buildlist(clusid,kindid);
+           buildfaclist.SaveToFile('build2.txt');
+
+           // set up list
+           for j := 0 to strtoint(buildfaclist.Values['listcount']) - 1 do
+             begin
+               with buildfacview.Items.Add do
+                 begin
+                  if strtobool(buildfaclist.Values['canbuild' + inttostr(j)]) then ImageIndex:=1 else ImageIndex:=0;
+                  //ImageIndex:=strtoint(buildfaclist.Values['canbuild' + inttostr(j)]);
+                  caption := buildfaclist.Values['name' + inttostr(j)];
+                 end;
+             end;
+           //show default menu         
+           bname.Text:= 'Please select a Building';
+           dbuild.Visible:=false;
+           dnbuild.Visible:=true;
+           bcost.Caption:='0';
+           bsize.Caption:='0';           
+           bi.Picture.LoadFromFile('cache\build\icon\construction192.gif');
+           //show menu
+           notebook1.ActivePage := 'build';
+        end;
+    end;
+procedure Tbuilder.dbuildClick(Sender: TObject);
+  var
+    url: string;
+  begin
+    //build road
+    url:= '?frame_Id=MapIsoView&frame_Action=Build&FacilityClass=' + buildfaclist.Values['id' + inttostr(bselect)] + '&VisualClassId=' + buildfaclist.Values['tvc' + inttostr(bselect)];
+    //logs.Log('buildmenu','build fac' + url);
+    fMasterURLHandler.HandleURL(url);
+  end;
+
+
+procedure Tbuilder.buildfacviewClick(Sender: TObject);
+  var
+      i,j:integer;
+      limg:string;
+  begin
+    //show info
+    i:= buildfacview.ItemIndex;
+    bselect := i;
+    bname.Text:= buildfaclist.Values['name' + inttostr(i)];
+    if strtobool(buildfaclist.Values['canbuild' + inttostr(i)]) then
+      begin
+        dbuild.Visible:=true;
+        dnbuild.Visible:=false;
+      end
+    else
+      begin
+        dbuild.Visible:=false;
+        dnbuild.Visible:=true;
+      end;
+    bcost.Caption:=buildfaclist.Values['price' + inttostr(i)];
+    bsize.Caption:=buildfaclist.Values['size' + inttostr(i)];
+    bdesc.Caption:=buildfaclist.Values['requires' + inttostr(i)] + '  ' + buildfaclist.Values['desc' + inttostr(i)];
+    case strtoint(buildfaclist.Values['ztype' + inttostr(i)]) of     //zone image
+      0:  limg:='Cache\build\zone-civics.gif';
+      3:  limg:='Cache\build\zone-hires.gif';
+      4:  limg:='Cache\build\zone-midres.gif';
+      5:  limg:='Cache\build\zone-lores.gif';
+      6:  limg:='Cache\build\zone-industry.gif';
+      7:  limg:='Cache\build\zone-commerce.gif';
+      8:  limg:='Cache\build\zone-civics.gif';
+      9:  limg:='Cache\build\zone-offices.gif';
+    end;
+    zi.Picture.LoadFromFile(limg);   //load zone image
+    //get building image
+    //bsinfo := fBuildingClasses.Get(strtoint(buildfaclist.Values['tvc' + inttostr(i)]));
+    bsinfo := classload.getbuildinginfo(strtoint(buildfaclist.Values['tvc' + inttostr(i)]));
+    limg:='cache\build\icon\' + bsinfo.ImagePath; //BuildingImages  build\icon
+    bi.Picture.LoadFromFile(limg);
+  end;
+
+procedure Tbuilder.FramedButton1Click(Sender: TObject);
+    var
+       i:integer;
+    begin
+      if frefresh = true then
+        begin
+           i:= buildkind;
+        end;
+      notebook1.BringToFront;
+      notebook1.ActivePage := 'kind';
+    end;
+
+procedure Tbuilder.FramedButton3Click(Sender: TObject);
+begin
+  //if panel3.Visible then Panel3.Visible:=false else panel3.Visible:=true;
+end;
+
+procedure Tbuilder.Image2Click(Sender: TObject);
+var
+  url:string;
+begin
+  //close panel
+  url:='?frame_Id=builderView&frame_Close=yes';
+  fMasterURLHandler.HandleURL(url);
+end;
+
+procedure Tbuilder.r1Click(Sender: TObject);
+  var
+    url: string;
+  begin
+    //build road   
+    url:= '?frame_Id=MapIsoView&frame_Action=BuildRoad';
+    fMasterURLHandler.HandleURL(url);
+  end;
+
+procedure Tbuilder.r2Click(Sender: TObject);
+  var
+    url: string;
+  begin
+    //build road
+    url:= '?frame_Id=MapIsoView&frame_Action=DemolishRoad';
+    fMasterURLHandler.HandleURL(url);
+  end;
+
+procedure Tbuilder.SetMasterURLHandler( aMasterURLHandler : IMasterURLHandler );
+    var
+      CachePath : string;
+    begin
+      fMasterURLHandler := aMasterURLHandler;
+      //fMasterURLHandler.HandleEvent( evnAnswerConfigHolder, fConfigHolder );
+     // fMasterURLHandler.HandleEvent( evnAnswerPrivateCache, CachePath );
+     // fLangList := TStringList.Create;
+     // try
+     //   fLangList.LoadFromFile( CachePath + 'lang.dat' );
+     // except
+     // end;
+    end;
+
+   procedure Tbuilder.SetParent(which: TWinControl);
+  begin
+    inherited;
+    //logs.log('wlogin','setparent');
+    {if which<>nil
+      then
+        begin
+          RulesTicker.Visible := false;
+          if InitSkinImage
+            then
+              begin
+                InitializeCoolSB(WorldList.Handle);
+                if hThemeLib <> 0
+                  then
+                    SetWindowTheme(WorldList.Handle, ' ', ' ');
+                CoolSBEnableBar(WorldList.Handle, false, true);
+              end;
+        end;  }
+  end;
+
+procedure Tbuilder.zcapClick(Sender: TObject);
+  var
+    url: string;
+  begin
+    //build road
+    url:= '?frame_Id=MapIsoView&frame_Action=Build&FacilityClass=Capitol&VisualClassId=152';
+    fMasterURLHandler.HandleURL(url);
+  end;
+
+procedure Tbuilder.zcivClick(Sender: TObject);
+ var
+    url: string;
+  begin
+    //build road
+    url:= '?frame_Id=MapIsoView&frame_Action=DefineZone&ZoneId=8';
+    fMasterURLHandler.HandleURL(url);
+  end;
+
+procedure Tbuilder.zcomClick(Sender: TObject);
+ var
+    url: string;
+  begin
+    //build road
+    url:= '?frame_Id=MapIsoView&frame_Action=DefineZone&ZoneId=7';
+    fMasterURLHandler.HandleURL(url);
+  end;
+
+procedure Tbuilder.zhresClick(Sender: TObject);
+ var
+    url: string;
+  begin
+    //build road
+    url:= '?frame_Id=MapIsoView&frame_Action=DefineZone&ZoneId=3';
+    fMasterURLHandler.HandleURL(url);
+  end;
+
+procedure Tbuilder.zindyClick(Sender: TObject);
+ var
+    url: string;
+  begin
+    //build road
+    url:= '?frame_Id=MapIsoView&frame_Action=DefineZone&ZoneId=6';
+    fMasterURLHandler.HandleURL(url);
+  end;
+
+procedure Tbuilder.zlresClick(Sender: TObject);
+ var
+    url: string;
+  begin
+    //build road
+    url:= '?frame_Id=MapIsoView&frame_Action=DefineZone&ZoneId=5';
+    fMasterURLHandler.HandleURL(url);
+  end;
+
+procedure Tbuilder.zmresClick(Sender: TObject);
+ var
+    url: string;
+  begin
+    //build road
+    url:= '?frame_Id=MapIsoView&frame_Action=DefineZone&ZoneId=4';
+    fMasterURLHandler.HandleURL(url);
+  end;
+procedure Tbuilder.znoneClick(Sender: TObject);
+ var
+    url: string;
+  begin
+    //build road
+    url:= '?frame_Id=MapIsoView&frame_Action=DefineZone&ZoneId=0';
+    fMasterURLHandler.HandleURL(url);
+  end;
+
+procedure Tbuilder.zoffClick(Sender: TObject);
+ var
+    url: string;
+  begin
+    //build road
+    url:= '?frame_Id=MapIsoView&frame_Action=DefineZone&ZoneId=9';
+    fMasterURLHandler.HandleURL(url);
+  end;
+
+function Tbuilder.blistset : integer;
+  var
+    i:integer ;
+  begin
+   { cblist := Tblist.Create(nil);
+    cblist.n1.Caption := 'this is a test';
+    cblist.Align :=alTop;
+    cblist.Parent :=self;
+    cblist.Visible:=true;
+   // cblist.Top:= 5;
+   // cblist.Left:= 5;
+    cblist.Enabled:=true;
+    cblist.BringToFront;
+    //logs.log('blist','create');   }
+    for i := 0 to 9 do
+         begin
+          { fblist[i] := Tblist.Create(nil);
+           fblist[i].Align :=alTop;
+           fblist[i].Parent :=bpan;
+           fblist[i].Visible:=true;}
+         end;
+    result:=i;
+    //logs.log('blist','end ' + inttostr(i));
+  end;
+
+
+
+
+function Tbuilder.buildkind:integer;
+  var
+    img : tbitmap;
+    jpeg: TJpegImage;
+    i : integer;
+    cnam:string;
+  begin
+    // show build kind menu
+    //clear view
+    //logs.Log('buildmenu','startkind - 1');
+    jpeg := TJpegImage.Create;
+    img:= TBitmap.Create;
+    //logs.Log('buildmenu','startkind - 1.1');
+    buildkindlist := nil;
+    //logs.Log('buildmenu','startkind - 1.2');
+    buildkindlist := tstringlist.Create;
+    //logs.Log('buildmenu','startkind - 1.3');
+    buildkindview.Items.Clear;
+    buildkindview.ViewStyle := vsIcon;
+    //logs.Log('buildmenu','startkind - 1.4');
+    buildkindlist.Text := fclientview.buildkind;
+    //logs.Log('buildmenu','startkind - 2');
+    buildkindlist.SaveToFile('build1.txt');
+    //logs.Log('buildmenu','startkind - 2.1');
+    //get info
+    //show road and mayor
+    if strtobool(buildkindlist.Values['canroad']) then
+      begin    //can build road
+        croad := true;
+        jpeg.LoadFromFile('cache\build\BuildRoad.jpg');
+        img.Assign(jpeg);
+        buildkindimage.replace(0,img, nil);
+        with buildkindview.Items.Add do
+          begin
+            ImageIndex:=0;
+            caption := 'road';
+          end;
+      end
+    else
+      begin    //can not build road
+        croad := false;
+        jpeg.LoadFromFile('cache\build\BuildRoadDisabled.jpg');
+        img.Assign(jpeg);
+        buildkindimage.replace(0,img, nil);
+        //buildkindimage.
+        with buildkindview.Items.Add do
+          begin
+            ImageIndex:=0;
+            caption := 'road';
+          end;
+      end;
+    //logs.Log('buildmenu','startkind - 3');
+    //jpeg.SaveToFile('b1.jpg');
+    //img.SaveToFile('b2.bmp');
+    if strtobool(buildkindlist.Values['canzone']) then
+      begin    //can build road
+        cmayor := true;
+        jpeg.LoadFromFile('cache\build\Mayor.jpg');
+        img.Assign(jpeg);
+        buildkindimage.replace(1,img, nil);
+        with buildkindview.Items.Add do
+          begin
+            ImageIndex:=1;
+            caption := 'mayor';
+          end;
+      end
+    else
+      begin    //can not build road
+        cmayor := false;
+        jpeg.LoadFromFile('cache\build\MayorDisabled.jpg');
+        img.Assign(jpeg);
+        buildkindimage.replace(1,img, nil);
+        with buildkindview.Items.Add do
+          begin
+            ImageIndex:=1;
+            caption := 'mayor';
+          end;
+      end;
+   // jpeg.SaveToFile('b3.jpg');
+   // img.SaveToFile('b4.bmp');
+    cnam := buildkindlist.Values['clusname'];
+    //logs.Log('buildmenu','startkind - 4 ' + cnam + ' ' + buildkindlist.Values['cluscount']);
+    for i := 0 to strtoint(buildkindlist.Values['cluscount'])-1 do
+      begin
+        //logs.Log('buildmenu','list' + buildkindlist.Values['name' + inttostr(i)]);
+        jpeg.LoadFromFile('cache\build\clusters\' + cnam + '\images\FacKind_' + buildkindlist.Values['id' + inttostr(i)] + '.jpg');
+        img.Assign(jpeg);
+        //logs.Log('buildmenu','list - replace');
+        buildkindimage.replace((i+2),img, nil);
+        with buildkindview.Items.Add do
+          begin
+            ImageIndex:=i+2;
+            caption := buildkindlist.Values['name' + inttostr(i)];
+            //logs.Log('buildmenu','list - insert');
+          end;
+        //logs.Log('buildmenu','list - ' + inttostr(i));
+      end;
+     //logs.Log('buildmenu','startkind - 5');
+    //show building kinds
+  end;
+end.

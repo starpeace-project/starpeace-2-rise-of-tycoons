@@ -1,0 +1,18 @@
+SYSTÈME
+%s a écrit %s
+%s a laissé %s.
+Creuser des rigoles « %s », créé par %s. 
+utilisateur
+utilisateurs
+et
+Vous avez besoin d'un mot de passe pour entrer dans ce canal.
+Il n'y a aucune information associée à cet objet.
+Les serveurs sont occupés à les dossiers de secours créer. Attendre svp.
+Support au disque accompli.
+LE FACTEUR
+Vous avez le courrier de %s (%s).
+canal écrit par %s %s.
+entrée entrée par %s.
+canal gauche %s. de %s.
+entrée gauche de %s.
+Le serveur descendra pour l'entretien en minutes de %d. Temps de panne prévu prévu pour être aprox. minutes de %d.

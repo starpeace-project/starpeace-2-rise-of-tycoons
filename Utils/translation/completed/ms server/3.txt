@@ -1,0 +1,2821 @@
+Konten
+0
+Reingewinn (Verluste)
+Straßen
+Steuern [letztes Jahr]
+Bauernhöfe
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Aufbau
+Geschäfts-Maschinen
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Darlehen
+Automobilindustrien
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Geld empfangen
+Chemiefabriken
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Geld gesendet
+Kleidung
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Mieten
+Aufbau
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Wartung
+Elektronisch
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Reparaturen
+Nahrungsmittelverarbeitung
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Mieten
+Schwerindustrie
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Wartung
+Geräteindustrien
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Spielwaren
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Residentials
+Reparaturen
+Metallurgische Industrie
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Gruben
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Ölplattformen
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Gehälter
+Textilindustrie
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Raffinerien
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Staatshaushalt
+Software
+Kosten Dienstleistungen
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Plastik
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Betriebskosten
+Gerichtsdienste
+Kosten Dienstleistungen
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Autos
+Kosten Waren verkauft
+Gehälter
+Verkaufserlösumsatzerlös
+Kleidung-Speicher
+Kosten Waren verkauft
+Gehälter
+Verkaufserlösumsatzerlös
+Nahrung
+Kosten Waren verkauft
+Gehälter
+Verkaufserlösumsatzerlös
+Stäbe
+Kosten Waren verkauft
+Gehälter
+Verkaufserlösumsatzerlös
+Handel
+Hauptsitze
+Haushaltsgeräte
+Kosten Waren verkauft
+Gehälter
+Verkaufserlösumsatzerlös
+Spielzeug-Speicher
+Kosten Waren verkauft
+Gehälter
+Verkaufserlösumsatzerlös
+Researchs
+Supermärkte
+Kosten Waren verkauft
+Gehälter
+Verkaufserlösumsatzerlös
+Gehälter
+Gaststätten
+Kosten Waren verkauft
+Gehälter
+Verkaufserlösumsatzerlös
+Ausrüstung
+Film-Theater
+Kosten Filmlizenzen
+Gehälter
+Filmeinkommen
+Dienstleistungen
+Implementierungs-Kosten
+Lager
+Kosten Waren verkauft
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Fernsehapparat
+Produktionskosten
+Reklameanzeigeeinkommen
+Gehälter
+Betriebskosten
+Industrien
+Mieteigenschaften
+Pharmazeutik
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Speziell
+Alkohol-Produktion
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Ausgleiche
+Bank
+Schuldnerzahlungen
+Aufgelegte Anleihen
+Darlehen
+Darlehenszahlungen
+Allgemeine Anlagen
+Gehälter
+Droge-Speicher
+Kosten Waren verkauft
+Gehälter
+Verkaufserlösumsatzerlöse
+Tankstellen
+Kosten Waren verkauft
+Gehälter
+Einkommen
+Büros
+Unternehmen
+Straßenbau
+Straßen-Demolierung
+Straßen-Wartung
+Grundsteuer
+Bauholz-Mühlen
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Möbelgeschäfte
+Kosten Waren verkauft
+Gehälter
+Verkaufserlösumsatzerlös
+Buch-Speicher
+Kosten Waren verkauft
+Gehälter
+Verkaufserlösumsatzerlös
+Möbel-Industrie
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Computer-Speicher
+Kosten Waren verkauft
+Gehälter
+Verkaufserlösumsatzerlös
+Film-Studios
+Kosten Materialien
+Genehmigt Einkommen
+Gehälter
+Produktionskosten
+Begräbnis- Wohnzimmer
+Kosten-Materialien
+Gehälter
+Begräbnis- Einkommen
+Papierindustrie
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Druckbetrieb
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+CD Industrie
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+CD Speicher
+Kosten Waren verkauft
+Gehälter
+Verkaufserlösumsatzerlös
+Organischer Abfall
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Düngemittel
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Korn-Bauernhof A
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Mühle
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Baumwollanlage
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Hosen-Anlage
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Hosen-Geschäft
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Bäckerei
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Frucht-Bauernhof
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Schuh-Fabrik
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Gummifabrik
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Gummisaft
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Gummibaum
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Frucht-Torte-Fabrik
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Schuh-Geschäft
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Frucht-Torte-Geschäft
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Gemüsebauernhof A  
+Kosten der Rohstoffe   
+Verkaufserlösumsatzerlös    
+Gehälter    
+Betriebskosten    
+Eintopfgericht-Fabrik    
+Kosten der Rohstoffe    
+Verkaufserlösumsatzerlös    
+Gehälter    
+Betriebskosten    
+Organische Grube    
+Kosten der Rohstoffe   
+Verkaufserlösumsatzerlös    
+Gehälter    
+Betriebskosten    
+Plastik-Fabrik   
+Kosten der Rohstoffe    
+Verkaufserlösumsatzerlös    
+Gehälter    
+Betriebskosten    
+Nylonfabrik
+Kosten der Rohstoffe    
+Verkaufserlösumsatzerlös    
+Gehälter    
+Betriebskosten    
+Hemdfabrik
+Kosten der Rohstoffe    
+Verkaufserlösumsatzerlös    
+Gehälter    
+Betriebskosten    
+Vieh bewirtschaftet A   
+Kosten der Rohstoffe    
+Verkaufserlösumsatzerlös    
+Gehälter    
+Betriebskosten   
+Burger-Fabrik  
+Kosten der Rohstoffe    
+Verkaufserlösumsatzerlös    
+Gehälter    
+Betriebskosten    
+Rohe chemische Grube
+Kosten der Rohstoffe    
+Verkaufserlösumsatzerlös    
+Gehälter    
+Betriebskosten    
+Bergbau-Chemiefabrik
+Kosten der Rohstoffe    
+Verkaufserlösumsatzerlös    
+Gehälter    
+Betriebskosten    
+Lederne Fabrik
+Kosten der Rohstoffe    
+Verkaufserlösumsatzerlös    
+Gehälter    
+Betriebskosten    
+Lederjackeanlage
+Kosten der Rohstoffe    
+Verkaufserlösumsatzerlös    
+Gehälter    
+Betriebskosten
+Burger-Geschäft
+Kosten der Rohstoffe    
+Verkaufserlösumsatzerlös    
+Gehälter    
+Betriebskosten    
+Lederjacke-Geschäft
+Kosten der Rohstoffe    
+Verkaufserlösumsatzerlös    
+Gehälter    
+Betriebskosten      
+Eintopfgericht-Geschäft
+Kosten der Rohstoffe    
+Verkaufserlösumsatzerlös    
+Gehälter    
+Betriebskosten       
+Hemd-Geschäft
+Kosten der Rohstoffe    
+Verkaufserlösumsatzerlös    
+Gehälter
+Betriebskosten
+Fernsehapparat-Herstellung
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Kleine Automobilindustrie
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Eisen-Gruben
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Silikon-Gruben
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Kohlengruben
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Stahlindustrie
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Speicherchip-Industrie
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Fernsehapparat-Speicher
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Kleine Auto-Vertragshändler
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Kupferminen
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Keramische Gruben
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Kiefer-Öl
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Kupferne Industrie
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+CPU-Anlagen
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Sport-Automobilindustrie
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+PC Fertigung
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Sport-Auto-Vertragshändler
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Aluminiumgrube
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Kryolith-Grube
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Siliziumwasserstoff-Grube
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Aluminiumindustrie
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+TFT Industrie
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Bewegungsfahrrad-Industrie
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Handy-Industrie
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Handy-Speicher
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+BewegungsMike-Verkaufßtelle
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Maschinen-Industrie
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Gummireifen-Industrie
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Humvee Indsutry
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Kocher-Industrie
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Humvee Verkaufßtelle
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Kocher-Speicher
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Glasindustrie
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Conveyorbelt Industrie
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Geschäfts-Computerindustrie
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Konkrete Industrie
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Schwerindustrie
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Bediener-Industrie
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Fasergipsplatte-Industrie
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Roboterindustrie
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Geschäfts-Maschinen-Industrie
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Gips-Grube
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Kalkstein-Grube
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Kies-Grube
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Bau-Sektor
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Kontrollsystem-Industrie
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Netz-Systems-Industrie
+Kosten der Rohstoffe
+Verkaufserlösumsatzerlös
+Gehälter
+Betriebskosten
+Dienstleistungen
+0
+Stäbe
+Autos
+Kleidung und Fußbekleidung
+Pharmazeutik
+Verarbeitete Nahrung
+Frische Nahrung
+Gas
+Haushaltsgeräte
+Filme
+Gaststätten
+Spielwaren
+Bücher
+Möbel
+Computer
+Begräbnisse
+Cd
+Hose
+Bäckerei
+Schuhe
+Frucht-Torten
+Lederjacken
+Burger-Mahlzeit Mc-Puglands
+Hemden
+Irisches Eintopfgericht
+Tischbesteck
+Tabellen-Tuch
+Frische Brötchen
+Gläser
+Platten
+Kleines Auto
+Fernsehen
+Riegel
+Klagen
+Unter Abnutzung
+Hüte
+Socken
+Wäsche
+Schals
+Lederne Hose
+Sport-Autos
+Spieler MP3
+Drucker
+Kamerarecorder
+Staubsauger
+DVD Spieler
+Kessel
+Mikrowellen
+Toaster
+Kocher
+Bewegungsfahrräder
+Handys
+Auto-Wäsche-Installationssatz
+Auto-Polnisches
+Auto-Luft-Erfrischungsmittel
+Flaumige Würfel
+Humvee
+PC
+Anlagen
+0
+Großer Bauernhof
+Große Bauernhöfe
+Großer Nahrungsmittelprozessor
+Große Nahrungsmittelprozessoren
+Lebensmittelgeschäft
+Lebensmittelgeschäfte
+Bauernhof
+Bauernhöfe
+Nahrungsmittelprozessor
+Nahrungsmittelprozessoren
+Guruh Haube
+Guruh Hauben
+Lothar-Haube
+Lothar-Hauben
+Schwarze Schüssel
+Schwarze Schüsseln
+Seelen-Haube
+Seelen-Hauben
+Generische niedrige Kategoriengebäude
+Generische niedrige Kategorie buildingss
+Kapitol
+Kapitole
+Stich
+Stiche
+Davis-Bogen
+Davis-Bögen
+Mc-Neon-Aufsatz
+Mc-Neon-Aufsätze
+Gefängnis
+Gefängnisse
+Gefängnis
+Gefängnisse
+Gefängnis
+Gefängnisse
+Feuerwache
+Feuerwachen
+Polizeirevier
+Polizeireviere
+Gefängnis
+Gefängnisse
+Gefängnis
+Gefängnisse
+Bank
+Bänke
+Stab
+Stäbe
+Geschäfts-Maschinen-Industrie
+Geschäfts-Maschinen Industrys
+Auto-Fabrik
+Auto Factorys
+Auto-Speicher
+Auto-Speicher
+Grosser Park
+Grosse Parks
+Chemiefabrik
+Chemiefabriken
+Kleine Chemiefabrik
+Kleine Chemiefabriken
+Chemische Grube
+Chemische Gruben
+Kleine chemische Grube
+Kleine chemische Gruben
+Kleidung-Speicher
+Kleidung-Speicher
+Kleidungs-Fabrik
+Kleidung Factorys
+Kleine Kleidungs-Fabrik
+Kleines kleidendes Factorys
+Kohlengrube
+Kohlengruben
+Kleine Kohlengrube
+Kleine Kohlengruben
+Software-Unternehmen
+Software-Unternehmen
+Bau-Sektor
+Aufbau Industrys
+Elektronische Industrie
+Elektronisches Industrys
+Kleine elektronische Industrie
+Kleines elektronisches Industrys
+Bauernhof
+Bauernhöfe
+Nahrungsmittelprozessor
+Nahrungsmittelprozessoren
+Kleiner Nahrungsmittelprozessor
+Kleine Nahrungsmittelprozessoren
+Lebensmittelgeschäft
+Lebensmittelgeschäfte
+Firma-Hauptsitze
+Firma Headquarterss
+Maschinerie-Industrie
+Maschinerie Industrys
+Gerätefabrik
+Geräte Factorys
+Kleine Gerätefabrik
+Kleine Geräte Factorys
+Haushaltsgerät-Speicher
+Haushaltsgerät-Speicher
+Nadel
+Nadeln
+Ballon-Haus
+Ballon-Häuser
+Trichter
+Trichter
+Häuschen
+Häuschen
+Generisches erstklassiges Gebäude
+Generische erstklassige Gebäude
+Krankenhaus
+Krankenhäuser
+Eidechse-Park
+Eidechse-Parks
+Kobold-Park
+Kobold-Parks
+Huhn-Park
+Huhn-Parks
+Ausländischer Park
+Ausländische Parks
+Hochschule
+Hochschulen
+Dump
+Dumps
+Gefängnis
+Gefängnisse
+Museum
+Museen
+Tennisgerichte
+Tennis courtss
+Rathaus
+Rathäuser
+Geschäftsmitte
+Geschäftsmitten
+Industrie-Hauptsitze
+Industrie Headquarterss
+Rechtsanwalt-Unternehmen
+Rechtsanwalt-Unternehmen
+Freiheitsstatue
+Statue von Libertys
+Alkoholanlage
+Alkoholanlagen
+Aufbereitete Häuser
+Aufbereitetes Homess
+Aufbereitete Gebäude
+Aufbereitetes Buildingss
+Sardine-Dosen
+Sardine Canss
+Generisches niedriges Kategoriengebäude
+Generische niedrige Kategoriengebäude
+Park
+Parks
+Metallindustrie
+Metall Industrys
+Kleine Metallindustrie
+Kleines Metall Industrys
+Traum-Aufsatz
+Traum-Aufsätze
+Die Pilze
+Das Mushroomss
+Die Buchsen
+Das Bushingss
+Screwer
+Screwers
+Schlösser
+Castless
+Generisches Mittelstandgebäude
+Generische Mittelstandgebäude
+Grube
+Gruben
+Kleine Grube
+Kleine Gruben
+Film-Theater
+Film-Theater
+Rippen
+Ribss
+Rote Kugel
+Rote Kugeln
+Duango
+Duangos
+Polizei und Feuerwache 
+Polizei und Feuerwachen
+Bürgerliche Angelegenheits-Hauptsitze
+Bürgerliche Angelegenheiten Headquarterss
+Immobilien-Hauptsitze
+Immobilien Headquarterss
+Gaststätte
+Gaststätten
+Schule
+Schulen
+Handels-Hauptsitze
+Handels-Hauptsitze
+Silikon-Grube
+Silikon-Gruben
+Kleine Silikon-Grube
+Kleine Silikon-Gruben
+Kleiner Bauernhof
+Kleine Bauernhöfe
+Kleiner Park
+Kleine Parks
+Steingrube
+Steingruben
+Kleine Steingrube
+Kleine Steingruben
+Grosser Markt
+Grosse Märkte
+Flohmarkt
+Flohmärkt
+Textilindustrie
+Gewebe Industrys
+Kleine Textilindustrie
+Kleines Gewebe Industrys
+IFEL Aufsatz
+IFEL Aufsätze
+Spielzeug-Fabrik
+Spielzeug Factorys
+Spielzeug-Speicher
+Spielzeug-Speicher
+Fernsehapparat-Antenne
+Fernsehapparat-Antennen
+Fernsehapparat
+Fernsehapparate
+Hochschule
+Hochschulen
+Museum
+Museen
+Hochschule
+Hochschulen
+Museum
+Museen
+Hochschule
+Hochschulen
+Museum
+Museen
+Schule
+Schulen
+Hochschule
+Hochschulen
+Museum
+Museen
+Hochschule
+Hochschulen
+Museum
+Museen
+Eidechse-Park
+Eidechse-Parks
+Kobold-Park
+Kobold-Parks
+Huhn-Park
+Huhn-Parks
+Ausländischer Park
+Ausländische Parks
+Dump
+Dumps
+Eidechse-Park
+Eidechse-Parks
+Kobold-Park
+Kobold-Parks
+Huhn-Park
+Huhn-Parks
+Ausländischer Park
+Ausländische Parks
+Dump
+Dumps
+Eidechse-Park
+Eidechse-Parks
+Kobold-Park
+Kobold-Parks
+Huhn-Park
+Huhn-Parks
+Ausländischer Park
+Ausländische Parks
+Dump
+Dumps
+Grosser Park
+Grosse Parks
+Krankenhaus
+Krankenhäuser
+Freiheitsstatue
+Statue von Libertys
+Park
+Parks
+Kleiner Park
+Kleine Parks
+Eidechse-Park
+Eidechse-Parks
+Kobold-Park
+Kobold-Parks
+Huhn-Park
+Huhn-Parks
+Ausländischer Park
+Ausländische Parks
+Dump
+Dumps
+Eidechse-Park
+Eidechse-Parks
+Kobold-Park
+Kobold-Parks
+Huhn-Park
+Huhn-Parks
+Ausländischer Park
+Ausländische Parks
+Dump
+Dumps
+Auto-Fabrik
+Auto Factorys
+Auto-Speicher
+Auto-Speicher
+Große Chemiefabrik
+Große Chemiefabriken
+Große chemische Grube
+Große chemische Gruben
+Stückkohle-Grube
+Stückkohle-Gruben
+Bau-Sektor
+Aufbau Industrys
+Maschinerie-Industrie
+Maschinerie Industrys
+Große metallurgische Industrie
+Großes metallurgisches Industrys
+Große Grube
+Große Gruben
+Große Silikon-Grube
+Große Silikon-Gruben
+Chemiefabrik
+Chemiefabriken
+Chemische Grube
+Chemische Gruben
+Kohlengrube
+Kohlengruben
+Metallurgische Industrie
+Metallurgisches Industrys
+Grube
+Gruben
+Silikon-Grube
+Silikon-Gruben
+Steingrube
+Steingruben
+Große Steingrube
+Große Steingruben
+Guruh Haube
+Guruh Hauben
+Lothar-Haube
+Lothar-Hauben
+Schwarze Schüssel
+Schwarze Schüsseln
+Seelen-Haube
+Seelen-Hauben
+Generische niedrige Kategoriengebäude
+Generische niedrige Kategorie buildingss
+Nadel
+Nadeln
+Ballon-Haus
+Ballon-Häuser
+Trichter
+Trichter
+Häuschen
+Häuschen
+Generisches erstklassiges Gebäude
+Generische erstklassige Gebäude
+Tennisgerichte
+Tennis courtss
+Aufbereitete Häuser
+Aufbereitetes Homess
+Aufbereitete Gebäude
+Aufbereitetes Buildingss
+Sardine-Dosen
+Sardine Canss
+Generisches niedriges Kategoriengebäude
+Generische niedrige Kategoriengebäude
+Traum-Aufsatz
+Traum-Aufsätze
+Die Pilze
+Das Mushroomss
+Die Buchsen
+Das Bushingss
+Screwer
+Screwers
+Schlösser
+Castless
+Generisches Mittelstandgebäude
+Generische Mittelstandgebäude
+Zharot Palast
+Zharot Paläste
+Schwarzer Palast
+Schwarze Paläste
+Ritter-Haube
+Ritter-Hauben
+Ritter-Bungalow
+Ritter-Bungalowe
+Generische erstklassige Gebäude
+Generische erstklassige buildingss
+Wolken-Stadt
+Wolke Citys
+Himmel der Arbeitskraft
+Himmel der Arbeitskraft
+Der Bienenstock
+Die Bienenstöcke
+Ivory Aufsatz
+Ivory Aufsätze
+Mag blühen
+Mai-Blumen
+Die Krake
+Das Octopuss
+Solarium
+Solariums
+Der Strudel
+Die Strudel
+Katana Haus
+Katana Häuser
+Sohei Haus
+Sohei Häuser
+Tarakawa Haus
+Tarakawa Häuser
+Preiswerte erstklassige Gebäude
+Preiswerte erstklassige buildingss
+Katana Gebäude
+Katana Gebäude
+Nikotori Gebäude
+Nikotori Gebäude
+Hazobito Gebäude
+Hazobito Gebäude
+Hisogari Gebäude
+Hisogari Gebäude
+Preiswerte LowClass Gebäude
+Preiswerte LowClass buildingss
+Somsei-Taj Räume
+Somsei-Taj Roomss
+Marakas Räume
+Marakas Roomss
+Yohito Räume
+Yohito Roomss
+Hirijoto-Manko Räume
+Hirijoto-Manko Roomss
+Preiswerte Mittelstandgebäude
+Preiswerte Mittelstand buildingss
+Tennisgerichte
+Tennis courtss
+Tennisgerichte
+Tennis courtss
+Krankenschwester-Haube
+Krankenschwester-Hauben
+Krankenschwester-Zoo
+Krankenschwester-Zoos
+Krankenschwester-Räume
+Krankenschwester Roomss
+Krankenschwester-Vereinigung
+Krankenschwester Fraternitys
+Generische Mittelstandgebäude
+Generische Mittelstand buildingss
+Xanadu Palast
+Xanadu Paläste
+Atrium
+Atrien
+Das Willington
+Das Willingtons
+Goldene Kappe
+Goldene Kappen
+Kent-Quadrat
+Kent-Quadrate
+Lisgar Aufsätze
+Lisgar Towerss
+Generische erstklassige Gebäude
+Generische erstklassige buildingss
+Playfair Aufsätze
+Playfair Towerss
+Arlington-Räume
+Arlington Roomss
+Caesars Atrium
+Caesars Atrien
+Das Sizilien
+Das Sicilys
+Generisches niedriges Kategoriengebäude
+Generische niedrige Kategoriengebäude
+Gladston Wohnungen.
+Gladston Apts.s
+Quincy
+Quincys
+Metcalfe Aufsätze
+Metcalfe Towerss
+Delmar Wohnungen.
+Delmar Apts.s
+Sonnenuntergang-Wohnungen.
+Sonnenuntergang Apts.s
+Generische Mittelstandgebäude
+Generische Mittelstand buildingss
+Tennisgerichte
+Tennis courtss
+Spontanes Gebäude
+Spontane Gebäude
+Tennisgerichte
+Tennis courtss
+Zharot Palast
+Zharot Paläste
+Schwarzer Palast
+Schwarze Paläste
+Ritter-Haube
+Ritter-Hauben
+Ritter-Bungalow
+Ritter-Bungalowe
+Generische erstklassige Gebäude
+Generische erstklassige buildingss
+Geschäfts-Maschinen-Industrie
+Geschäfts-Maschinen Industrys
+Große Kleidung-Industrie
+Große Kleidung Industrys
+Droge-Speicher
+Droge-Speicher
+Große elektronische Industrie
+Großes elektronisches Industrys
+Große Gerätefabrik
+Große Geräte Factorys
+Pharmaindustrie
+Pharmazeutisches Industrys
+Kleidung-Industrie
+Kleidung Industrys
+Elektronische Industrie
+Elektronisches Industrys
+Gerätefabrik
+Geräte Factorys
+Textilindustrie
+Gewebe Industrys
+Große Textilindustrie
+Großes Gewebe Industrys
+Grosser Park
+Grosse Parks
+Wolken-Stadt
+Wolke Citys
+Himmel der Arbeitskraft
+Himmel der Arbeitskraft
+Der Bienenstock
+Die Bienenstöcke
+Ivory Aufsatz
+Ivory Aufsätze
+Freiheitsstatue
+Statue von Libertys
+Mag blühen
+Mai-Blumen
+Park
+Parks
+Die Krake
+Das Octopuss
+Kleiner Park
+Kleine Parks
+Solarium
+Solariums
+IFEL Aufsatz
+IFEL Aufsätze
+Der Strudel
+Die Strudel
+Geschäfts-Maschinen
+Geschäft Machiness
+Automobilindustrie
+Auto Industrys
+Auto-Speicher
+Auto-Speicher
+Chemiefabrik
+Chemiefabriken
+Chemische Grube
+Chemische Gruben
+Kleidung-Speicher
+Kleidung-Speicher
+Bekleidungsindustrie
+Kleidung Industrys
+Kohlengrube
+Kohlengruben
+Bau-Sektor
+Aufbau Industrys
+Elektronische Industrie
+Elektronisches Industrys
+Bauernhof
+Bauernhöfe
+Nahrungsmittelprozessor
+Nahrungsmittelprozessoren
+Lebensmittelgeschäft
+Lebensmittelgeschäfte
+Firma-Hauptsitze
+Firma Headquarterss
+Maschinerie-Industrie
+Maschinerie Industrys
+Haushaltsgeräte
+Haushalt Appliancess
+Gerätespeicher
+Gerätespeicher
+Katana Haus
+Katana Häuser
+Sohei Haus
+Sohei Häuser
+Tarakawa Haus
+Tarakawa Häuser
+Preiswerte erstklassige Gebäude
+Preiswerte erstklassige buildingss
+Krankenhaus
+Krankenhäuser
+Industrie-Hauptsitze
+Industrien Headquarterss
+Freiheitsstatue
+Statue von Libertys
+Katana Gebäude
+Katana Gebäude
+Nikotori Gebäude
+Nikotori Gebäude
+Hazobito Gebäude
+Hazobito Gebäude
+Hisogari Gebäude
+Hisogari Gebäude
+Preiswerte LowClass Gebäude
+Preiswerte LowClass buildingss
+Metallindustrie
+Metall Industrys
+Somsei-Taj Räume
+Somsei-Taj Roomss
+Marakas Räume
+Marakas Roomss
+Yohito Räume
+Yohito Roomss
+Hirijoto-Manko Räume
+Hirijoto-Manko Roomss
+Preiswerte Mittelstandgebäude
+Preiswerte Mittelstand buildingss
+Grube
+Gruben
+Kunststoffindustrie
+PlastikIndustrys
+Polizei und Feuerwache
+Polizei und Feuerwachen
+Bürgerliche Angelegenheits-Hauptsitze
+Bürgerliche Angelegenheiten Headquarterss
+Immobilien-Hauptsitze
+Immobilien Headquarterss
+Schule
+Schulen
+Handels-Hauptsitze
+Handels-Hauptsitze
+Silikon-Grube
+Silikon-Gruben
+Kleine Chemiefabrik
+Kleine Chemiefabriken
+Kleine chemische Grube
+Kleine chemische Gruben
+Kleine Bekleidungsindustrie
+Kleines kleidendes Industrys
+Kleine Kohlengrube
+Kleine Kohlengruben
+Kleine elektronische Industrie
+Kleines elektronisches Industrys
+Kleiner Bauernhof
+Kleine Bauernhöfe
+Kleiner Nahrungsmittelprozessor
+Kleine Nahrungsmittelprozessoren
+Kleine Haushaltsgeräte
+Kleiner Haushalt Appliancess
+Kleine Metallindustrie
+Kleines Metall Industrys
+Kleine Grube
+Kleine Gruben
+Kleine Silikon-Grube
+Kleine Silikon-Gruben
+Kleine Steingrube
+Kleine Steingruben
+Kleine Textilindustrie
+Kleines Gewebe Industrys
+Eidechse-Park
+Eidechse-Parks
+Kobold-Park
+Kobold-Parks
+Huhn-Park
+Huhn-Parks
+Ausländischer Park
+Ausländische Parks
+Hochschule
+Hochschulen
+Dump
+Dumps
+Gefängnis
+Gefängnisse
+Museum
+Museen
+Tennisgerichte
+Tennis courtss
+Steingrube
+Steingruben
+Takuri Markt
+Takuri Märkte
+Tamakura Markt
+Tamakura Märkte
+Satoi Markt
+Satoi Märkte
+Textilindustrie
+Gewebe Industrys
+IFEL Aufsatz
+IFEL Aufsätze
+Rathaus
+Rathäuser
+Geschäftsmitte
+Geschäftsmitten
+Fernsehapparat-Antenne
+Fernsehapparat-Antennen
+Fernsehapparat
+Fernsehapparate
+CD Anlage
+CD Anlagen
+CD Speicher
+CD Speicher
+Ministerium-Hauptsitze
+Ministerium Headquarterss
+Ministerium-Hauptsitze
+Ministerium Headquarterss
+Ministerium-Hauptsitze
+Ministerium Headquarterss
+Ministerium-Hauptsitze
+Ministerium Headquarterss
+Ministerium-Hauptsitze
+Ministerium Headquarterss
+Ministerium-Hauptsitze
+Ministerium Headquarterss
+Ministerium-Hauptsitze
+Ministerium Headquarterss
+Ministerium-Hauptsitze
+Ministerium Headquarterss
+Grosser Park
+Grosse Parks
+Park
+Parks
+Yamamoto
+Yamamotos
+Tanakuta
+Tanakutas
+Sato-Schaber
+Sato-Schaber
+Kunawa Schaber
+Kunawa Schaber
+Koto-ku
+Koto-kus
+Kleiner Park
+Kleine Parks
+Haube der Freude
+Haube von Freuden
+Moab Korrektur
+Moab Correctionals
+Geschäfts-Maschinen-Haube
+Geschäfts-Maschinen-Hauben
+Auto-Haube
+Auto-Hauben
+Auto-Speicher
+Auto-Speicher
+Grosser Park
+Grosse Parks
+Chemikalien-Haube
+Chemikalien-Hauben
+Chemische Grube
+Chemische Gruben
+Kleidung-Speicher
+Kleidung-Speicher
+Haube von Kleidung
+Hauben von Kleidung
+Kohlengrube
+Kohlengruben
+Software-Unternehmen
+Software-Unternehmen
+Aufbau-Haube
+Aufbau-Hauben
+Bürgerlicher Angelegenheits-Aufsatz
+Bürgerliche Angelegenheits-Aufsätze
+Haube der Späne
+Haube von Chipss
+Nahrungsmittelkrater
+Nahrungsmittelkrater
+Nahrungsmittelhaube
+Nahrungsmittelhauben
+Lebensmittelgeschäft
+Lebensmittelgeschäfte
+Tankstelle
+Tankstellen
+Moab-Kathedrale
+Moab-Kathedralen
+Maschinerie-Haube
+Maschinerie-Hauben
+Haushaltsgerät-Haube
+Haushaltsgerät-Hauben
+Haushaltsgerät-Speicher
+Haushaltsgerät-Speicher
+Handels-Aufsatz
+Handels-Aufsätze
+Industrie-Aufsatz
+Industrie-Aufsätze
+Rechtsanwalt-Unternehmen
+Rechtsanwalt-Unternehmen
+Freiheitsstatue
+Statue von Libertys
+Park
+Parks
+Metallhaube
+Metallhauben
+Grube
+Gruben
+Film-Theater
+Film-Theater
+Moab-Basilika
+Moab-Basiliken
+Dunkles Crysler
+Dunkles Cryslers
+Ölplattform
+Ölplattformen
+Raffinerie-Haube
+Raffinerie-Hauben
+Immobilien-Aufsatz
+Immobilien-Aufsätze
+Abendessen-Haube
+Abendessen-Hauben
+Silikon-Grube
+Silikon-Gruben
+Kleiner Park
+Kleine Parks
+Eidechse-Park
+Eidechse-Parks
+Kobold-Park
+Kobold-Parks
+Huhn-Park
+Huhn-Parks
+Ausländischer Park
+Ausländische Parks
+Hochschule
+Hochschulen
+Dump
+Dumps
+Gefängnis
+Gefängnisse
+Museum
+Museen
+Tennisgerichte
+Tennis courtss
+Steingrube
+Steingruben
+Moab-Supermarkt
+Moab-Supermärkte
+Haube der Gewinde
+Haube von Threadss
+IFEL Aufsatz
+IFEL Aufsätze
+Rathaus
+Rathäuser
+Geschäftsmitte
+Geschäftsmitten
+Fernsehapparat-Antenne
+Fernsehapparat-Antennen
+Fernsehapparat
+Fernsehapparate
+Krankenschwester-Haube
+Krankenschwester-Hauben
+Krankenschwester-Zoo
+Krankenschwester-Zoos
+Krankenschwester-Räume
+Krankenschwester Roomss
+Krankenschwester-Vereinigung
+Krankenschwester Fraternitys
+Generische Mittelstandgebäude
+Generische Mittelstand buildingss
+Stab
+Stäbe
+Geschäfts-Maschinen-Industrie
+Geschäfts-Maschinen Industrys
+Auto-Fabrik
+Auto Factorys
+Auto-Speicher
+Auto-Speicher
+Grosser Park
+Grosse Parks
+Große Chemiefabrik
+Große Chemiefabriken
+Große chemische Grube
+Große chemische Gruben
+Große Kleidung-Industrie
+Große Kleidung Industrys
+Stückkohle-Grube
+Stückkohle-Gruben
+Software-Unternehmen
+Software-Unternehmen
+Bau-Sektor
+Aufbau Industrys
+Droge-Speicher
+Droge-Speicher
+Große elektronische Industrie
+Großes elektronisches Industrys
+Großer Bauernhof
+Große Bauernhöfe
+Feuerwache
+Feuerwachen
+Großer Nahrungsmittelprozessor
+Große Nahrungsmittelprozessoren
+Lebensmittelgeschäft
+Lebensmittelgeschäfte
+Firma-Hauptsitze
+Firma-Hauptsitze
+Maschinerie-Industrie
+Maschinerie Industrys
+Große Gerätefabrik
+Große Geräte Factorys
+Xanadu Palast
+Xanadu Paläste
+Atrium
+Atrien
+Das Willington
+Das Willingtons
+Goldene Kappe
+Goldene Kappen
+Kent-Quadrat
+Kent-Quadrate
+Lisgar Aufsätze
+Lisgar Towerss
+Generische erstklassige Gebäude
+Generische erstklassige buildingss
+Krankenhaus
+Krankenhäuser
+Industrie-Hauptsitze
+Industrie Headquarterss
+Rechtsanwalt-Unternehmen
+Rechtsanwalt-Unternehmen
+Freiheitsstatue
+Statue von Libertys
+Playfair Aufsätze
+Playfair Towerss
+Arlington-Räume
+Arlington Roomss
+Caesars Atrium
+Caesars Atrien
+Das Sizilien
+Das Sicilys
+Generisches niedriges Kategoriengebäude
+Generische niedrige Kategoriengebäude
+Park
+Parks
+Große metallurgische Industrie
+Großes metallurgisches Industrys
+Gladston Wohnungen.
+Gladston Apts.s
+Quincy
+Quincys
+Metcalfe Aufsätze
+Metcalfe Towerss
+Delmar Wohnungen.
+Delmar Apts.s
+Sonnenuntergang-Wohnungen.
+Sonnenuntergang Apts.s
+Generische Mittelstandgebäude
+Generische Mittelstand buildingss
+Große Grube
+Große Gruben
+Delmars Film-Theater
+Delmars Film-Theater
+Baltimores Film-Theater
+Baltimores Film-Theater
+Stich
+Stiche
+Davis-Bogen
+Davis-Bögen
+Mc-Neon-Aufsatz
+Mc-Neon-Aufsätze
+Pharmaindustrie
+Pharmazeutisches Industrys
+Polizeirevier
+Polizeireviere
+Bürgerliche Angelegenheits-Hauptsitze
+Bürgerliche Angelegenheiten Headquarterss
+Immobilien-Hauptsitze
+Immobilien Headquarterss
+Gaststätte
+Gaststätten
+Schule
+Schulen
+Handels-Hauptsitze
+Handels-Hauptsitze
+Große Silikon-Grube
+Große Silikon-Gruben
+Chemiefabrik
+Chemiefabriken
+Chemische Grube
+Chemische Gruben
+Kleidung-Industrie
+Kleidung Industrys
+Kohlengrube
+Kohlengruben
+Elektronische Industrie
+Elektronisches Industrys
+Bauernhof
+Bauernhöfe
+Nahrungsmittelprozessor
+Nahrungsmittelprozessoren
+Gerätefabrik
+Geräte Factorys
+Metallurgische Industrie
+Metallurgisches Industrys
+Grube
+Gruben
+Kleiner Park
+Kleine Parks
+Silikon-Grube
+Silikon-Gruben
+Steingrube
+Steingruben
+Textilindustrie
+Gewebe Industrys
+Eidechse-Park
+Eidechse-Parks
+Kobold-Park
+Kobold-Parks
+Huhn-Park
+Huhn-Parks
+Ausländischer Park
+Ausländische Parks
+Hochschule
+Hochschulen
+Dump
+Dumps
+Gefängnis
+Gefängnisse
+Museum
+Museen
+Tennisgerichte
+Tennis courtss
+Große Steingrube
+Große Steingruben
+Mall
+Malle
+Supermarkt
+Supermärkte
+Handelszentrum
+Handelszentren
+Große Textilindustrie
+Großes Gewebe Industrys
+IFEL Aufsatz
+IFEL Aufsätze
+Rathaus
+Rathäuser
+Geschäftsmitte
+Geschäftsmitten
+Fernsehapparat-Antenne
+Fernsehapparat-Antennen
+Fernsehapparat
+Fernsehapparate
+Spontanes Gebäude
+Spontane Gebäude
+Eidechse-Park
+Eidechse-Parks
+Kobold-Park
+Kobold-Parks
+Huhn-Park
+Huhn-Parks
+Ausländischer Park
+Ausländische Parks
+Hochschule
+Hochschulen
+Dump
+Dumps
+Gefängnis
+Gefängnisse
+Museum
+Museen
+Tennisgerichte
+Tennis courtss
+Chemische Lagerung
+Chemische Lagerungen
+Kühlraum
+Kühlräume
+Gewebe-Speicher
+Gewebe-Speicher
+Allgemeine Lagerung
+Allgemeine Lagerungen
+Erz-Speicher
+Erz-Speicher
+Super Kühlraum
+Super Kühlräume
+Import-Speicher
+Import-Speicher
+Export-Speicher
+Export-Speicher
+Weltbevölkerungs-Steuerpult
+Weltbevölkerungs-Steuerpulte
+Die Kasernen
+Das Barrackss
+Helm
+Helme
+Himmel-Haube
+Himmel-Hauben
+Himmel-Verkäufer
+Himmel-Verkäufer
+Galaxie
+Galaxien
+Der Frühling
+Die Frühlinge
+Taramagushi
+Taramagushies
+Blaue Räume
+Blaue Räume
+Rundes Mariko
+Rundes Marikos
+Kleiner Koto
+Kleine Kotos
+Weiße Hütte
+Weiße Hütten
+Lyon-Räume
+Lyon-Räume
+Blaue Villa
+Blaue Villen
+Rosafarbene Villa
+Rosafarbene Villen
+Mountbatten Räume
+Mountbatten Räume
+Der Botschafter
+Die Botschafter
+Der Helm
+Die Helme
+Legenden-Mausoleum
+Legenden-Mausoleen
+Paradigma-Mausoleum
+Paradigma-Mausoleen
+Forschungszentrum
+Forschungszentren
+UW Chemikalien-Speicher
+UW Chemikalien-Speicher
+UW Kühlraum
+UW Kühlräume
+UW Gewebe-Speicher
+UW Gewebe-Speicher
+UW allgemeiner Speicher
+UW allgemeine Speicher
+UW Erz-Speicher
+UW Erz-Speicher
+UW super Kühlraum
+UW super Kühlräume
+Import-Speicher
+Import-Speicher
+Export-Speicher
+Export-Speicher
+Bauholz-Mühle
+Bauholz-Mühlen
+Buch-Speicher
+Buch-Speicher
+Möbel-Fabrik
+Möbel-Fabriken
+Möbelgeschäft
+Möbelgeschäfte
+Computer-Speicher
+Computer-Speicher
+Film-Studios
+Film-Studios
+Begräbnis- Wohnzimmer
+Begräbnis- Wohnzimmer
+Begräbnis- Wohnzimmer
+Begräbnis- Wohnzimmer
+Papierindustrie
+Papierindustrien
+Druckbetrieb
+Druckbetriebe
+Druckbetrieb
+Druckbetriebe
+Portal
+Portale
+Firma-Hauptsitze
+Firma-Hauptsitze
+Firma-Hauptsitze
+Firma-Hauptsitze
+Firma-Hauptsitze
+Firma-Hauptsitze
+Firma-Hauptsitze
+Firma-Hauptsitze
+Organischer Abfall
+Organischer Abfall
+Kleiner organischer Abfall
+Kleiner organischer Abfall
+Düngemittel-Anlage
+Düngemittel-Anlagen
+Kleine Düngemittel-Anlage
+Kleine Düngemittel-Anlagen
+Korn-Bauernhof A
+Korn-Bauernhof A
+Kleiner Korn-Bauernhof A
+Kleiner Korn-Bauernhof A
+Mühle
+Mühlen
+Kleine Mühle
+Kleine Mühlen
+Baumwollanlage
+Baumwollanlagen
+Kleine Baumwollanlage
+Kleine Baumwollanlagen
+Hosen-Anlage
+Hosen-Anlagen
+Kleine Hosen-Anlage
+Kleine Hosen-Anlagen
+Hosen-Geschäft
+Hosen-Geschäfte
+Bäckerei
+Bakerys
+Fruitpie Fabrik
+Fruitpie Fabrik
+Frucht-Bauernhof A
+Frucht-Bauernhof a
+Gummisaft-Fabrik
+Gummisaft-Fabriken
+Gummibaum-Plantage
+Gummibaum-Plantagen
+Gummifabrik
+Gummifabriken
+Schuh-Fabrik
+Schuh-Fabriken
+Frucht-Torte-Geschäft
+Frucht-Torte-Geschäfte
+Schuh-Geschäft
+Schuh-Geschäfte
+Kleiner Gemüsebauernhof A
+Kleiner Gemüsebauernhof a
+Gemüsebauernhof A
+Gemüsebauernhof a
+Kleine Eintopfgerichtfabrik
+Kleine Eintopfgerichtfabriken
+Eintopfgerichtfabrik
+Eintopfgerichtfabriken
+Kleine organische Grube
+Kleine organische Gruben
+Organische Grube
+Organische Gruben
+Kleine Polymer-Plastik Fabrik
+Kleine Polymer-Plastik Fabriken
+Polymer-Plastik Fabrik
+Polymer-Plastik Fabriken
+Kleine Nylonfabrik
+Kleine Nylonfabriken
+Nylonfabrik
+Nylonfabriken
+Kleine Hemd-Fabrik
+Kleine Hemd-Fabriken
+Hemd-Fabrik
+Hemd-Fabriken
+Eintopfgericht-Geschäft
+Schuh-Geschäfte
+Hemd-Geschäft
+Hemd-Geschäfte
+Kleines Vieh bewirtschaftet A
+Kleines Vieh bewirtschaftet a
+Vieh bewirtschaftet A
+Viehbauernhof a
+Kleine Burgerfabrik
+Kleine Burgerfabriken
+Burgerfabrik
+Burgerfabriken
+Kleine rohe chemische Grube
+Kleine rohe chemische Gruben
+Rohe chemische Grube
+Rohe chemische Gruben
+Kleine Bergbau-Chemiefabrik
+Kleine Bergbau-Chemiefabriken
+Bergbau-Chemiefabrik
+Bergbau-Chemiefabriken
+Kleine lederne Anlage
+Kleine lederne Anlagen
+Lederne Anlage
+Lederne Anlagen
+Kleine Lederjackeanlage
+Kleine Lederjackeanlagen
+Lederjackeanlage
+Lederjackeanlagen
+Burgerstab Geschäft
+Burgerstab Geschäfte
+Lederjacke-Geschäft
+Lederjacke-Geschäfte
+Eisen-Grube
+Eisen-Gruben
+Kleine Eisen-Grube
+Kleine Eisen-Gruben
+Silikon-Grube
+Silikon-Gruben
+Kleine Silikon-Grube
+Kleine Silikon-Gruben
+Kohlengrube
+Kohlengruben
+Kleine Kohlengrube
+Kleine Kohlengruben
+Stahlindustrie
+Stahlindustrien
+Kleine Stahlindustrie
+Kleine Stahlindustrien
+Speicherchip-Anlage
+Speicherchip-Anlagen
+Kleine Memeory Span-Anlage
+Kleine Speicherchip-Anlagen
+Kleine Auto-Anlage
+Kleine Auto-Anlagen
+Fernsehapparat-Produktionsanlage
+Fernsehapparat-Produktionsanlagen
+Kleine Fernsehapparat-Produktionsanlage
+Kleine Fernsehapparat-Produktionsanlagen
+Fernsehapparat-Speicher
+Fernsehapparat-Speicher
+Kleiner Auto-Vertragshändler
+Kleine Auto-Vertragshändler
+Sport-Auto-Speicher
+Sport-Auto-Speicher
+Kleine PC Industrie
+Kleine PC Industrien
+PC Industrie
+PC Industrien
+Sport-Auto-Produktionsanlage
+Sport-Auto-Produktionsanlagen
+Kleine CPU-Anlage
+Kleine CPU-Anlagen
+CPU-Anlage
+CPU-Anlagen
+Kleine kupferne Industrie
+Kleine kupferne Industrien
+Kupferne Industrie
+Kupferne Industrien
+Kleine Kiefer-Raffinerie
+Kleine Kiefer-Raffinerien
+Kiefer-Raffinerie
+Kiefer-Raffinerien
+Kleine keramische Grube
+Kleine keramische Gruben
+Keramische Grube
+Keramische Gruben
+Kleine Kupfermine
+Kleine Kupferminen
+Kupfermine
+Kupferminen
+Aluminiumgrube
+Aluminiumgruben
+Kleine Aluminiumgrube
+Kleine Aluminiumgruben
+Cyrolite Grube
+Kryolith-Gruben
+Kleine Kryolith-Grube
+Kleine Kryolith-Gruben
+Siliziumwasserstoff-Grube
+Siliziumwasserstoff-Gruben
+Kleine Siliziumwasserstoff-Grube
+Kleine Siliziumwasserstoff-Gruben
+Aluminiumindustrie
+Aluminiumindustrien
+Kleine Aluminiumindustrie
+Kleine Aluminiumindustrie
+TFT Anlage
+TFT Anlagen
+Kleine TFT Anlage
+Kleine TFT Anlagen
+Bewegungsfahrrad-Anlage
+Bewegungsfahrrad-Anlagen
+Handy-Anlage
+Handy-Anlagen
+Kleine Handy-Anlage
+Kleine Handy-Anlagen
+Handy-Speicher
+Handy-Speicher
+Bewegungsfahrrad-Verkaufßtelle
+Bewegungsfahrrad-Verkaufßtellen
+Maschinen-Anlage
+Maschinen-Anlagen
+Gummireifen-Industrie
+Gummireifen-Industrien
+Humvee Anlage
+Humvee Anlagen
+Kocher-Industrie
+Kocher-Industrien
+Humvee Verkaufßtelle
+Humvee Verkaufßtellen
+Kocher-Speicher
+Kocher-Speicher
+Gips-Grube
+Gips-Gruben
+Kalkstein-Grube
+Kalkstein-Gruben
+Kies-Grube
+Kies-Grube
+Bau-Sektor
+Bau-Sektoren
+Kontrollsystem-Anlage
+Kontrollsystem-Anlagen
+Netz-Systems-Anlage
+Netz-Systemsanlagen
+Konkrete Industrie
+Conscrete Industrien
+Schwerindustrie
+Heavy Industries
+Bediener-Anlage
+Bediener-Anlagen
+Fasergipsplatte-Industrie
+Fasergipsplatte-Industrien
+Robotersystems-Anlage
+Robotersystems-Anlagen
+Geschäfts-Maschinen-Industrie
+Geschäfts-Maschinen-Industrien
+Glasanlage
+Glasanlagen
+Conveyorbelt Systems-Anlage
+Conveyorbelt Systems-Anlagen
+Geschäfts-Computerindustrie
+Geschäfts-Computerindustrien
+Flüssigkeiten
+0
+Reklameanzeige
+Schläge
+Schläge/Tag
+Geschäfts-Maschinen
+Einzelteile
+Einzelteile/Tag
+Autos
+Autos
+Autos/Woche
+Chemikalien
+Kilogramm
+kg/day
+Kleidung
+Einzelteile
+Einzelteile/Tag
+Computer-Dienstleistungen
+Stunden
+Stunden/Woche
+Aufbau-Kraft
+Tonnen
+Tonnen/Tag
+Pharmazeutik
+Kilogramm
+kg/day
+Verarbeitete Nahrung
+Einzelteile
+Einzelteile/Tag
+Elektronische Bauelemente
+Einzelteile
+Einzelteile/Tag
+Gewebe und Gewinde
+Messinstrumente
+Messinstrumente/Tag
+Filme
+Filme
+Filme/Tag
+Frische Nahrung
+Kilogramm
+kg/day
+Benzin
+lt
+lt/day
+hiPeople
+Personen
+Personen/Monat
+hiWorkForce
+Arbeitskräfte
+Arbeitskräfte/Tag
+Haushaltsgeräte
+Einzelteile
+Einzelteile/Tag
+Gerichtsdienste
+Stunden
+Stunden/Woche
+Alkohole
+Einzelteile
+Einzelteile/Tag
+loPeople
+Personen
+Personen/Monat
+loWorkForce
+Arbeitskräfte
+Arbeitskräfte/Tag
+Maschinerie
+Maschinen
+Maschinen/Tag
+Metalle
+Kilogramm
+kg/day
+midPeople
+Personen
+Personen/Monat
+midWorkForce
+Arbeitskräfte
+Arbeitskräfte/Tag
+Büros
+Rohöl
+lt
+lt/day
+Erz
+Kilogramm
+kg/day
+Rohe Chemikalien
+Kilogramm
+kg/day
+Kohle
+Kilogramm
+kg/day
+Silikon
+Kilogramm
+kg/day
+Stein
+Kilogramm
+kg/day
+Organische Materialien
+Kilogramm
+kg/day
+Plastik
+Kilogramm
+kg/day
+Spielwaren
+Einzelteile
+Einzelteile/Tag
+Bauholz
+Kilogramm
+kg/day
+Bücher
+Bücher
+Bücher/Tag
+Möbel
+Einzelteile
+Einzelteile/Tag
+Papier
+Kilogramm
+kg/day
+Cd
+Cd
+Cd/Tag
+Gedrucktes Material
+Kilogramm
+kg/day
+Düngemittel
+Kilogramm
+kg/day
+Düngemittel
+Kilogramm
+kg/day
+Weizen
+Kilogramm
+kg/day
+Baumwolle
+Kilogramm
+kg/day
+Mehl
+Kilogramm
+kg/day
+Baumwollblätter
+Messinstrumente
+Messinstrumente/Tag
+Hose
+Einzelteil
+Einzelteile/Tag
+Äpfel
+Einzelteil
+Einzelteile/Tag
+Orangen
+Einzelteil
+Einzelteile/Tag
+rubbertree
+Einzelteil
+Einzelteile/Tag
+rubbersap
+Einzelteil
+Einzelteile/Tag
+rubbermat
+Einzelteil
+Einzelteile/Tag
+fruitpie
+Einzelteil
+Einzelteile/Tag
+Schuhe
+Einzelteil
+Einzelteile/Tag
+Karotten
+Einzelteil
+Einzelteile/Tag
+Kartoffeln
+Einzelteil
+Einzelteile/Tag
+Eintopfgericht
+Einzelteil
+Einzelteile/Tag
+orgaincchems
+Einzelteil
+Einzelteile/Tag
+Polymer-Plastiken
+Einzelteil
+Einzelteile/Tag
+Nylon
+Einzelteil
+Einzelteile/Tag
+Hemden
+Einzelteil
+Einzelteile/Tag
+Rindfleisch
+Einzelteil
+Einzelteile/Tag
+leathermat
+Einzelteil
+Einzelteile/Tag
+Burger
+Einzelteil
+Einzelteile/Tag
+rawchem
+Einzelteil
+Einzelteile/Tag
+miningchem
+Einzelteil
+Einzelteile/Tag
+leathersheet
+Einzelteil
+Einzelteile/Tag
+leatherjacket
+Einzelteil
+Einzelteile/Tag
+Eisenerz
+Einzelteil
+Einzelteile/Tag
+Kohle
+Einzelteil
+Einzelteile/Tag
+Stahl
+Einzelteil
+Einzelteile/Tag
+Silikon
+Einzelteil
+Einzelteile/Tag
+Speicherchips
+Einzelteil
+Einzelteile/Tag
+kleine Autos
+Einzelteil
+Einzelteile/Tag
+Kupfererz
+Einzelteil
+Einzelteile/Tag
+keramisches Erz
+Einzelteil
+Einzelteile/Tag
+Kieferöl
+Einzelteil
+Einzelteile/Tag
+Kupfer
+Einzelteil
+Einzelteile/Tag
+CPU-Span
+Einzelteil
+Einzelteile/Tag
+Sportauto
+Einzelteil
+Einzelteile/Tag
+PC-System
+Einzelteil
+Einzelteile/Tag
+Aluminiumerz
+Einzelteil
+Einzelteile/Tag
+Siliziumwasserstoff
+Einzelteil
+Einzelteile/Tag
+Aluminium
+Einzelteil
+Einzelteile/Tag
+Kryolith
+Einzelteil
+Einzelteile/Tag
+tft Schirm
+Einzelteil
+Einzelteile/Tag
+Motorrad
+Einzelteil
+Einzelteile/Tag
+Handy
+Einzelteil
+Einzelteile/Tag
+Gummireifen
+Einzelteil
+Einzelteile/Tag
+Maschine
+Einzelteil
+Einzelteile/Tag
+Fernsehapparat
+Einzelteil
+Einzelteile/Tag
+humvee
+Einzelteil
+Einzelteile/Tag
+Glas
+Einzelteil
+Einzelteile/Tag
+Kocher
+Einzelteil
+Einzelteile/Tag
+Konkret
+Einzelteil
+Einzelteile/Tag
+Pflaster-Brett
+Einzelteil
+Einzelteile/Tag
+Robotersystem
+Einzelteil
+Einzelteile/Tag
+Kontrollsystem
+Einzelteil
+Einzelteile/Tag
+Conveyorbelt System 
+Einzelteil
+Einzelteile/Tag
+Netz-System
+Einzelteil
+Einzelteile/Tag
+Geschäfts-Computer
+Einzelteil
+Einzelteile/Tag
+Bediener
+Einzelteil
+Einzelteile/Tag
+Gips
+Einzelteil
+Einzelteile/Tag
+Kalkstein
+Einzelteil
+Einzelteile/Tag
+Kies
+Einzelteil
+Einzelteile/Tag
+FacilityKinds
+0
+Kapitol
+Büros
+Hauptsitze
+Bauernhöfe
+Fabriken
+Allgemeine Anlagen
+Residentials
+Handel
+Speziell
+Rathaus
+Geschäftsmitte
+Öffentlichkeit
+Magna-Zustände
+Büros
+Hauptsitze
+Bauernhöfe
+Fabriken
+Öffentlichkeit
+Residentials
+Handel
+Speziell
+Rathaus
+Geschäftsmitte
+Anlagen
+Anlagen
+Anlagen
+Anlagen
+Anlagen
+Anlagen
+Anlagen
+Anlagen
+Büros
+Öffentlichkeit
+Handel
+Industrien
+Residentials
+Hauptsitze
+Speziell
+Rathaus
+Geschäftsmitte
+Büros
+Hauptsitze
+Bauernhöfe
+Fabriken
+Öffentlichkeit
+Residentials
+Handel
+Speziell
+Rathaus
+Geschäftsmitte
+Lager
+Handel
+Hauptsitze
+Speziell
+TycoonLevels
+0
+Lehrling
+Die Wirtschaft noch erlernen. Geschützt durch das IFEL, hat Priorität in den Lieferanten- und Klientenlisten. Die Kosten eines Gebäudes werden zurückgebracht, wenn das Gebäude demoliert wird. Kann zu den %s Anlagen aufbauen. Kann von den Geschäftsmitten kaufen. 50%% von Forschungsaufwendungen wird am Jahresende zurückgebracht. 
+Unternehmer
+Noch wird durch das IFEL geschützt, bestimmte Prioritäten in den Lieferanten- und Klientenlisten hat. 2/3 der Kosten eines Gebäudes wird zurückgebracht, wenn das Gebäude demoliert wird. Kann zu den %s Anlagen aufbauen. Kann von den Geschäftsmitten kaufen. 30%% von Forschungsaufwendungen wird am Jahresende zurückgebracht. 
+Sie müssen die ursprüngliche Schuld zum IFEL ($100.000.000) zahlen. Sie müssen einen durchschnittlichen Profitverhältnisvorgesetzten zu $1,000/h haben
+Legende
+800 Prestigepunkte. Zugang zu den Technologien der Reihe 5 haben. Kann nicht von den Geschäftsmitten kaufen. Keine priorites, kein Schutz vor dem IFEL. Kann zu den %s Anlagen aufbauen.
+Sie müssen $40.000.000.000 zum IFEL zahlen. Sie müssen einen durchschnittlichen Profitverhältnisvorgesetzten zu $500,000/h. Prestige grösser als 15000 haben.  
+Meister
+200 Prestigepunkte. Zugang zu den Technologien der Reihe 3 haben. Kann nicht von den Geschäftsmitten kaufen. Keine priorites, kein Schutz vor dem IFEL. Kann zu den %s Anlagen aufbauen.
+Sie müssen $2.000.000.000 zum IFEL zahlen. Durchschnittlicher Profitverhältnisvorgesetzter zu $50,000/h Prestige grösser als 2500.  
+Paradigma
+400 Prestigepunkte. Zugang zu den Technologien der Reihe 4 haben. Kann nicht von den Geschäftsmitten kaufen. Keine priorites, kein Schutz vor dem IFEL. Kann zu den %s Anlagen aufbauen.
+Sie müssen $20.000.000.000 zum IFEL zahlen. Durchschnittlicher Profitverhältnisvorgesetzter zu $100,000/h. Prestige grösser als 5000. 
+Industriemagnat
+100 Prestigepunkte. Zugang zu den Technologien der Reihe 2 haben. Kann nicht von den Geschäftsmitten kaufen. Keine priorites, kein Schutz vor dem IFEL. Kann zu den %s Anlagen aufbauen. 
+Sie müssen $500.000.000 zum IFEL zahlen. Sie müssen einen durchschnittlichen Profitverhältnisvorgesetzten zu $5,000/h haben
+Über Legende hinaus
+%s Prestigepunkte. Kann nicht von den Geschäftsmitten kaufen. Keine priorites, kein Schutz vor dem IFEL. Kann zu den %s Anlagen aufbauen. 
+Sie müssen %s zum IFEL zahlen. Sie müssen einen durchschnittlichen Profitverhältnisvorgesetzten zu %s/h. Ihr Prestige grösser als 15000 beibehalten lassen.
+Ministerien
+0
+Gesundheit
+Ausbildung
+Verteidigung
+Landwirtschaft
+Helle Industrie
+Schwerindustrie
+Handel
+Gehäuse
+Projekte
+0
+Hochschulen
+Abfall-Beseitigung
+Feuer-Abdeckung
+Gesundheits-Abdeckung
+Gefängnisse
+Museen
+Polizei-Abdeckung
+Schule-Abdeckung
+Dienstleistungen und Unterhaltung
+Erholung-Anlagen
+Arbeitslosigkeit
+Ökonomischer Reichtum
+PublicFacilities
+0
+Hochschulen
+Abfall-Beseitigung
+Feuer-Abdeckung
+Gesundheits-Abdeckung
+Gefängnisse
+Museen
+Polizei-Abdeckung
+Schule-Abdeckung
+Erholung-Anlagen
+Bewertungen
+0
+Kampagnen-Vollendung
+Hochschulen
+Abfall-Beseitigung
+Feuer-Abdeckung
+Gesundheits-Abdeckung
+Gefängnisse
+Museen
+Polizei-Abdeckung
+Stadt-Wachstum
+Schule-Abdeckung
+Dienstleistungen und Unterhaltung
+Erholung-Anlagen
+Steuern
+Beschäftigung
+Ökonomischer Reichtum
+WorldProjects
+0
+Hochschulen
+Abfall-Beseitigung
+Feuer-Abdeckung
+Gesundheits-Abdeckung
+Gefängnisse
+Museen
+Polizei-Abdeckung
+Schule-Abdeckung
+Dienstleistungen und Unterhaltung
+Erholung-Anlagen
+Arbeitslosigkeit
+Ökonomischer Reichtum
+WorldRatings
+0
+Kampagnen-Vollendung
+Hochschulen
+Abfall-Beseitigung
+Feuer-Abdeckung
+Gesundheits-Abdeckung
+Gefängnisse
+Museen
+Polizei-Abdeckung
+Stadt-Wachstum
+Schule-Abdeckung
+Dienstleistungen und Unterhaltung
+Erholung-Anlagen
+Steuern
+Beschäftigung
+Ökonomischer Reichtum
+Diese Anlage gehört %s. Es gibt keine Tips für Sie.
+Keine Tips für diese Anlage.
+Tipp: Alle Anlagen stoppen, die Geld verlieren.
+Tipp: Gehen „KONTROLLIEREN“ und einstellen einige Lieferanten.
+Warnung: Diese Anlage benötigt Lieferanten für %s.
+Warnung: Lieferant von %s sind gefallen. Eine anderen Lieferanten einstellen.
+Warnung: Verkäufe von %s sind gefallen. Angestellt durch eine anderen Anlagen erhalten.
+Tipp: Sie importieren %s, weil Ihre Lieferanten an eine anderen Leute verkaufen.
+Warnung: Ihre Lieferanten von %s verkaufen ihre gesamte Produktion an verschiedene Leute.
+Warnung: diese Anlage benötigt mehr %s Belegschaft.
+Warnung: Nicht genügend Firmaunterstützung. Sie müssen die Firma-Hauptsitze errichten oder sie, zu verbessern erwägen, wenn Sie bereits sie errichtet haben.
+Warnung: Diese Anlage benötigt %s Belegschaft.
+Höhereinstufung: %d%%
+Aufsteigen waagerecht ausgerichtet: %d
+Tipp: Die Geschäftsmitte wurde angestellt, um dieses zu konstruieren. Sie konnten preiswerteres jemand einstellen.
+Warnung: Sie müssen mehr Leute zu diesem Gebäude anziehen.
+Tipp: Sie müssen mehr Leute zu diesem Gebäude anziehen.
+Tipp: Sie können mehr Leute zu diesem Gebäude noch anziehen.
+Tipp: Es gibt zu wenig Leute in %s. Sie müssen wütend konkurrieren. Versuch, der die Miete niedriger bildet.
+Glückwünsche: Dieses Gebäude arbeitet O.K. Möglicherweise können Sie ein wenig steigen die Miete.
+%d%% %s Inanspruchnahme
+%s Immobilien
+[geschlossen]
+%d%% repariert
+%d Einwohner. %d Erwünschtheit. QOL: %d%% Nachbarschafts-Qualität: %d%% Schönheit: %d%% Verbrechen: %d%% Verunreinigung: %d%%.
+Tipp: Besuchs-Rathauses Web site, zum der wertvollen Informationen zu finden.
+Tipp: Web site der Besuchs-Geschäftsmitte, zum zu sehen, wer ist, kaufend verkaufend oder was.
+%d Bürger von %s befördert am letzten Tag.
+%d%% wegen der guten Wohnangebote, 
+%d%%, zum eines Jobs zu finden, 
+%d%% wegen der guten Qualität der öffentlichen Dienste.
+%d Bürger von %s verschoben heraus letzten Tag.
+%d%% wegen der Gehälter und der Arbeitszustände, 
+%d%% wegen der Wohnbedingungen, 
+%d%% wegen der niedrigen Abdeckung der öffentlichen Dienste, 
+%d%% wegen der Arbeitslosigkeit, 
+%d%% wegen des Mangels an Produkten und Dienstleistungen.
+%d%% wegen der Unfälle.
+Keine %s Bewegungen.
+%s Einwohner
+%s %s (%d%% unemp)
+Tipp: Sicher sein, dass es genügende Arbeitskräfte gibt, zum der Forschung durchzuführen.
+%s, warten bitte, während Forschung wird abgeschlossen…
+Tipp: Gehen „KONTROLLIEREN“, um neue researchs durchzuführen.
+%d%% Forschung abgeschlossen
+Untersuchung %s. gekostet: %s.
+Firma gestützt bei %d%%.
+Forschungs-Implementierung: %s.
+Tipp: Versuchen Sie, hauptsächlich an erstklassige Leute zu verkaufen? Dann ist Qualität der Schlüssel.
+Tipp: Versuchen Sie, hauptsächlich an niedrige Kategorienleute zu verkaufen? Dann ist Preis der Schlüssel.
+Warnung: Sie haben ein Problem mit Konkurrenz. Irgendeine Reklameanzeige erhalten.
+Warnung: Sie säumt, dass Sie costumers auf eine falsche Art zielen.
+Tipp: Versuchen, mehr Kunden anzuziehen, indem Sie bessere Qualität und Preise anbieten.
+Glückwünsche: Diese Anlage läuft O.K. Sowieso konnten Sie mehr Leute dich sorgen.
+Glückwünsche: Diese Anlage läuft O.K. Auf diese Weise einfach halten.
+Warnung: %s Service-Notwendigkeit mehr Versorgungsmaterialien.
+Vor die Anlage, die gerade wenigen Stunden begonnen wird, dort sind keine Tips fürs Erste.
+Mögliche Kunden (pro Tag): %d hallo, %d mittler, %d niedrig. Tatsächliche Kunden: %d hallo, %d mittler, %d niedrig.
+Tipp: Produzieren nicht von %s. Sie haben keine Kunden.
+Warnung: Diese Anlage erfordert %s zu produzieren. Einige Lieferanten einstellen, oder der Versuch, zum die zu überbezahlen, die Sie bereits haben.
+Tipp: Diese Anlage benötigt mehr %s, %s. zu produzieren.
+Tipp: Gehen „KONTROLLIEREN“ und einstellen mehr Lieferanten für %s.
+Tipp: Sie sind Kaufen von einer Geschäftsmitte. Einige lokale Lieferanten finden.
+Es gibt nichts, das wir über das Wetter tun aber warten können.
+Warnung: Kann nicht funktionieren, bis Sie wieder %s. erforschen.
+Warnung: Diese Anlage ermangelt Dienstleistungen. Den Service-Vorsprung auf der UNTERSUCHUNG-Verkleidung überprüfen.
+Versorgungsmaterialien
+Tipp: Diese Stadt erfordert mehr residentials für %s Leute.
+Tipp: Neue Speicher und andere Dienstleistungen würden Wirtschaftsleben anregen.
+Warnung: Es gibt %d%% von Arbeitslosigkeit in den %s Leuten.
+Warnung: Es gibt ein Problem mit %s.
+Tipp: Sie sollten mehr Arbeitskräfte zu dieser Anlage anziehen, falls Sie steigen möchten sein Betriebsverhältnis.
+Warnung: Nicht genügend Firmaunterstützung. Sie müssen die Firma-Hauptsitze errichten oder sie, zu verbessern erwägen, wenn Sie bereits sie errichtet haben.
+%s Abdeckung in der ganzen Stadt berichtet bei %d%%.
+Diese Stadt wird nicht bevölkert!
+%s wird nicht bevölkert. Hier investieren und der %s Auftrag gibt Ihnen einen aditional Geldbetrag.
+Bürger von %s verlangen mehr %s.
+Bürger von %s verlangen mehr %s.
+Zu mehr Information über %s Besuch %s, die Lokalzeitung.
+%s Wohn. %d Einwohner. %d%% beständig gegen Verbrechen, %d%% beständig gegen Verunreinigung. Entwurfsqualität: %d%%.
+%d Büros zum zu mieten. Entwurfsqualität: %d%%.
+Produziert bis
+%s von %s
+Erfordert
+%s
+Beschäftigt:
+Erfordert Forschung %s an %s.
+Speicher bis 
+%d %s von %s
+Verkäufe bis
+pro Niveau.
+Käufe bis
+zu die %d Kunden dienen maximal
+AUFMERKSAMKEIT! DER BÜRGERMEISTER OF %S FORDERTE DIE DEMOLIERUNG DIESES GEBÄUDES WEGEN DER STADT-PLANUNG. DEMOLIERUNG FINDET IN DEN %D MONATEN STATT. DAS IFEL ZAHLT DEN INHABER %S ALS AUSGLEICH.
+Steuert %d Firmen, %d Anlagen, %d Fliesen im Diagramm (%s in den Grundsteuern).
+%d abgeschlossene Forschungseinzelteile.
+Wurde Bürgermeister von %s in der Kampagne von %d. gewählt.
+War Bürgermeister von %s von %d zu %d mit einem %d%% der populären Bewertung.
+Wurde vom Bürgermeister von %s in %d. abgefeuert.
+War Präsident von %s von %d zu %d mit einem %d%% der populären Bewertung.
+Wurde Präsident von %s in der Kampagne von %d. gewählt.
+War Minister von %s von %d zu %d mit einem %d%% der IFEL Bewertung.
+Wurde Minister von %s in der Kampagne von %d durch %s. ernannt.
+Wurde in bankrupty in %d erklärt
+Überschritten in %d
+Erzieltes Niveau %s in %d
+Konnte waagerecht ausgerichtetes nicht letztes Jahr verbessern. Sie konnten $%.0n zahlen nicht
+Konnte waagerecht ausgerichtetes nicht letztes Jahr verbessern. Sie fordern ein durchschnittliches Profitverhältnis von $%.0n/h (letztes Jahr hatten Sie $%.0n/h)
+Sie müssen mindestens einmal gewählt werden Bürgermeister
+Sie müssen mindestens einmal gewählt werden Präsident
+Konnte waagerecht ausgerichtetes nicht letztes Jahr verbessern. Sie fordern %d Prestigepunkte
+Verlorenes Niveau %s in %d. Sie hatten nicht die erforderlichen %d Prestigepunkte
+Verlorenes Niveau %s in %d. Sie hatten nicht das erforderliche durchschnittliche Profitverhältnis von $%.0n/h (letztes Jahr hatten Sie $%.0n/h)
+Verlorenes Niveau %s in %d.
+Verbindendes %s in %d
+und
+Bürgermeister %s der gesetzten Steuern für %s bei %s%%.
+Bürgermeister des %s Satzes eine Beihilfe für %s.
+%s startete eine Kampagne für %s.
+%s withdrawed Kampagne für %s
+%s wurde Bürgermeister von %s. gewählt.
+%s war wiedergewählter Bürgermeister von %s.
+%s hat keinen Bürgermeister.
+%s wurde vom Bürgermeister von %s. abgefeuert.
+%s entfernte seine Beihilfe. Bevölkerung ist bereits grösser als 9.000.
+%s war erklärter Bankrupt.
+%s errichtete %s nahe %s.
+%s ließ ein Konto sich zurückstellen.
+%s verband %s.
+Das Satellitendiagramm von %s ist aktualisiert worden.
+%s wurde %s. ernannt.
+%s wurde Präsident von %s gewählt
+%s war wiedergewählter Präsident von %s.
+%s hat keinen Präsident.
+%s startete eine Kampagne für den Vorsitz von %s.
+%s withdrawed Kampagne für Vorsitz von %s.
+%d Prestigepunkte von der Werbung.
+%d%% betrieblich.
+Präsident: %s.
+Präsident veranschlagen bei %d%%. %d Jahre zu den Wahlen.
+Kein Präsident. %d Jahre zu den Wahlen.
+Tipp: Wenn Sie mehr Prestigehaben Punkte als, 1000 können Sie Ihre Kampagne für den Vorsitz von %s. starten.
+%d Projektoren
+veranschlagendes %d%%
+Stunden pro Tag der Sendung %d. %d%% von Werbungen. %d%% von der Werbungszeit verkauft. %d Antennen weltweit. Fernsehsender-Qualität: %d%%, Leistungsfähigkeit: %d%%.
+Anstellenarbeitskräfte bei %d%%
+%s: %d von %d.
+WARNING: Es gibt keine Antennen, die zu dieser Anlage angebracht werden. Den Verbindungknopf in der UNTERSUCHUNG-Verkleidung benutzen, um eine Antenne anzuschließen.
+Mögliches Publikum: %d.
+Kanalbewertung: %d%%.
+TIPP: Verwenden „anschließen“ Knopf in der UNTERSUCHUNG-Verkleidung, um diese Antenne an eine Station anzuschließen.
+%d%% abgeschlossen.
+Gestopptes wegen der Wetterbedingungen.
+%d Büros gemietet. %d Qualitätsindex. BAP: %d%%. Schönheit: %d%%. Verbrechen: %d%%. Verunreinigung %d%%.
+Bürohaus
+%d%% von den Büros gemietet
+Speicherung:
+%s von %s bei %d%% dem qualiy Index.
+Minister von %s
+Ministerium von %s
+%s Verkäufe bei %d%%
+%s Produktion: %d%%
+Produzieren: %d%%
+%s von %s bei %d%% Qualitätsindex, %d%% Leistungsfähigkeit.
+Preis: %s
+Lizenz: %s
+Einführen. Kosten: %s
+Einführen. Kosten: %s /h
+Anlagen: %d
+Adel: %s PTS
+Prestige: %s PTS
+Niveau: %s
+Gehaltsabrechnungsverkleinerung: %s%%
+Jobqualität: %s%%
+Schönheit: %s%%
+Wartung: %s%%
+Privatleben: %s%%
+Sicherheit: %s%%
+Umwelt: %s%%
+Leistungsfähigkeit: %s%%
+Erwünschtheit: %s PTS
+Qualität: %s PTS
+Geschätztes Datum der Transzendenz: %d Tage.
+WARNING! Alle Anlagen, die %s gehören, verschwinden ausgenommen dieses Gebäude. Dieses kann Ihre Anlagen in dieser Welt beeinflussen.
+Wachsende Bäume bei %d%%
+Genehmigen: „%s“ Qualitätsindex: %d%%.
+Schmierfilmbildung: „%s“ Tag %d von %d, %d%% getan.
+Jetzt spielend:
+Erstklassig
+Mittelstand
+Niedrige Kategorie
+Hauptleiter
+Fachleute
+Arbeitskräfte
+%d Prestigepunkte.
+Kurz aufgehalten beies %s.
+Gestoppt: benötigt Anschlüsse.
+Gestoppt: benötigt Geld.
+angestellt
+zurückgewiesen durch Firmapolitik
+wurde bereits angestellt
+Anschluss nicht erlaubt
+kann mehr als %d Anschlüsse nicht haben
+Versorgungsmaterialien
+Klienten
+Anschluss zu
+%s ausgeborgtes %s vom %s.
+Bürgermeister von %s
+Bürgermeister
+Forschung „%s“ abgeschlossen. Auf neuen Einzelteilen in Ihrer Bauseite überprüfen.
+„Abgeschlossenes %s“ erforschen.
+Forschung verkauft. Einige Einzelteile wurden in Ihrer Bauseite gesperrt.
+Forschung verkauft.
+%s erfolgreich gebracht.
+%s schaut vorwärts zum Ausfall von %s.
+%s wird zu %s. Null.
+%s geschworene Loyalität zu %s.
+%s strebt, Niveau %s. zu erzielen.
+%s vorangebracht zum Niveau %s.
+%s zum Niveau %s. voranbringen nicht können.
+%s ist unter Bankrottgenauer untersuchung.
+GLÜCKLICHES NEUES JAHR!
+%s verlorenes Niveau %s.
+NTA
+Prestige
+Reichtum
+Leistungsfähigkeit: %d%%
+Erwünschtheit: %d
+Allgemein
+Handel
+Industrie
+Immobilien
+Miete|%d|Wartung|%d|
+Lieferanten|%d|
+Preis|%d|Lieferanten|%d|Anzeigen|%d|
+Preis|%d|Lieferanten|%d|Klienten|%d|
+Gehälter|%d|
+Miete|%d|Wartung|%d|
+Produzieren: 
+Turnier

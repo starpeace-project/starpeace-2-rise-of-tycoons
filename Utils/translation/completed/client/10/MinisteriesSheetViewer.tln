@@ -1,0 +1,10 @@
+btnCancel.Text=Cancelar a transcendência
+lvMinisteries.Columns=4
+lvMinisteries.Columns.0=Ministério
+lvMinisteries.Columns.1=Ministro
+lvMinisteries.Columns.2=Avaliação
+lvMinisteries.Columns.3=Orçamento
+lbBudget.Caption=Orçamento do próximo ano:
+btnSetBudget.Text=Ajustar o orçamento
+btnDeposeClick.Test=Destituir
+lbMinister.Caption=Ministro:

@@ -1,0 +1,17 @@
+<%
+strGoBack="Go Back in history"
+strGoForward="Go Forward in history"
+strRefresh="Refresh all views"
+strStopNavigation="Stop navigation"
+strStarpeaceHP="Starpeace Home Page"
+strBuild="Display Build menu"
+strInvestorVisa="Get an Investor visa"
+strSearch="Search the Web"
+strProfile="User Profile"
+strMapView="Map view"
+strUniverseView="Universe View"
+strMail="Mail"
+strChat="Chat"
+strOptions="Options"
+strGMHelp="Call GMs for Help"
+%>

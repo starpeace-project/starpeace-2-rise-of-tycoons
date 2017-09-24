@@ -1,0 +1,14 @@
+=
+ShortcutCenter.Caption=Кратчайшие пути клавиатуры
+Label1.Caption=Зарегистрированные кратчайшие пути клавиатуры
+ListView1.Columns=3
+ListView1.Columns.0=Описание
+ListView1.Columns.1=Кратчайший путь
+ListView1.Columns.2=Текст
+Button1.Caption=Добавьте…
+Button1.Hint=Щелкните для того чтобы добавить кратчайший путь
+Button2.Caption=Редактируйте…
+Button2.Hint=Щелкните для того чтобы редактировать shorcut
+Button3.Caption=Delete
+Button3.Hint=Щелкните для того чтобы исключить кратчайший путь
+Button4.Caption=Закройте

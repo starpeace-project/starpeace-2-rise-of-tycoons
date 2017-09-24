@@ -1,0 +1,12 @@
+=
+btnOK.Text=О'КЕЙО
+Label1.Caption=Имя:
+Label2.Caption=Компания:
+overPay.Caption=Overpayment:
+btnClose.Text=x
+FramedButton1.Hint=
+FramedButton1.Text=Cancel
+btnDelete1.Text=Delete
+peOverPay.Hint=0%
+OverPayPerc.Caption=0%
+facName.Caption=n/a

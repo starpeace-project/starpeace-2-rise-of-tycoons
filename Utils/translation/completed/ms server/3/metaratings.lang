@@ -1,0 +1,17 @@
+﻿PublicFacilities.Sport.Name=Erholung-Anlagen
+Target=Bewertungen
+LangId=3
+Ratings.CampaignAccuracy.Name=Kampagnen-Vollendung
+Ratings.College.Name=Hochschulen
+Ratings.Disposal.Name=Abfall-Beseitigung
+Ratings.Fire.Name=Feuer-Abdeckung
+Ratings.Health.Name=Gesundheits-Abdeckung
+Ratings.Jail.Name=Gefängnisse
+Ratings.Museum.Name=Museen
+Ratings.Police.Name=Polizei-Abdeckung
+Ratings.PopGrowth.Name=Stadt-Wachstum
+Ratings.School.Name=Schule-Abdeckung
+Ratings.Services.Name=Dienstleistungen und Unterhaltung
+Ratings.Sport.Name=Erholung-Anlagen
+Ratings.Taxes.Name=Steuern
+Ratings.Unemployment.Name=Beschäftigung

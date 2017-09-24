@@ -1,0 +1,17 @@
+﻿WorldProjects.Wealth.Name=Хозяйственное богатство
+Target=WorldRatings
+LangId=11
+WorldRatings.CampaignAccuracy.Name=Выполнение кампании
+WorldRatings.College.Name=Коллежи
+WorldRatings.Disposal.Name=Избавление отброса
+WorldRatings.Fire.Name=Охват пожара
+WorldRatings.Health.Name=Охват здоровья
+WorldRatings.Jail.Name=Тюрьмы
+WorldRatings.Museum.Name=Музеи
+WorldRatings.Police.Name=Охват полиций
+WorldRatings.PopGrowth.Name=Рост города
+WorldRatings.School.Name=Охват школы
+WorldRatings.Services.Name=Обслуживания и занятность
+WorldRatings.Sport.Name=Средства воссоздания
+WorldRatings.Taxes.Name=Тягла
+WorldRatings.Unemployment.Name=Занятость

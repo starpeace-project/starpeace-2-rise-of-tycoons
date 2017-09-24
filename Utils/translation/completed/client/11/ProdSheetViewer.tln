@@ -1,0 +1,12 @@
+ReadNews.Text=Прочитайте новости
+lvConnections.Columns=4
+lvConnections.Columns.0=Клиент
+lvConnections.Columns.1=Компания
+lvConnections.Columns.2=Сбывания
+lvConnections.Columns.3=T. Цена
+PricePc.Hint=0%
+Label3.Caption=Цена:
+Price.Caption=0%
+btnHireSuppliers.Hint=Щелкните здесь для того чтобы предложить ваш продукт к клиентам
+btnHireSuppliers.Text=Предложение
+btnDelete.Hint=Щелкните здесь для того чтобы уничтожить клиента

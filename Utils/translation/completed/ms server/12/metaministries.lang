@@ -1,0 +1,10 @@
+﻿TycoonLevels.BeyondLegend.Cond=Du måste att betala %s till IFELEN. Du måste ha en genomsnittlig vinstförhållandeöverman till %s/h. att underhålla dina prestigar mer stor än 15000.
+Target=Ministries
+LangId=12
+Ministries.Ministry1.Name=Vård-
+Ministries.Ministry2.Name=Utbildning
+Ministries.Ministry3.Name=Försvar
+Ministries.Ministry4.Name=Jordbruk
+Ministries.Ministry5.Name=Ljus bransch
+Ministries.Ministry6.Name=Skurkrollbransch
+Ministries.Ministry7.Name=Kommers

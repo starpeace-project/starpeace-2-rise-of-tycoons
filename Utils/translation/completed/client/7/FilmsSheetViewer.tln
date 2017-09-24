@@ -1,0 +1,11 @@
+Button2.Caption=取り消しなさい
+Label1.Caption=タイトル:
+btnLaunch.Text=進水
+NameLabel.Caption=n/a
+Label2.Caption=時間:
+Label3.Caption=予算:
+btnCancelFilm.Text=取り消し
+btnReleaseFilm.Text=解放
+xfer_FilmBudget.Text=$10,000,000
+cbAutoRelease.Caption=自動解放
+xfer_FilmTime.Text=12

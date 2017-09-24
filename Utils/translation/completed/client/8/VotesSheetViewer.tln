@@ -1,0 +1,6 @@
+Speaker.Caption=아무도
+lvVotes.Columns=4
+lvVotes.Columns.0=후보자
+lvVotes.Columns.1=등급
+lvVotes.Columns.2=유효한 투표
+lvVotes.Columns.3=점

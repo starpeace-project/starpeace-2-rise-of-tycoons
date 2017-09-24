@@ -1,0 +1,12 @@
+eTown.Hint=Den Namen einer Stadt hier eintragen, um die Suche nach Klienten auf solche Stadt zu begrenzen
+ftInveKind.TabNames=3
+ftInveKind.TabNames.0=VORHANDEN
+ftInveKind.TabNames.1=UNTERSUCHUNG
+ftInveKind.TabNames.2=Sich ENTWICKELT
+btnResearch.Hint=Hier klicken, um die Forschung zu beginnen
+btnResearch.Text=Forschung
+btnStop.Hint=Hier klicken, um die Forschung zu stoppen
+btnStop.Text=Stoppen
+btnSell.Hint=Hier klicken, um die Forschung zu verkaufen
+btnSell.Text=Verkauf
+btnClose.Text=Abschluss

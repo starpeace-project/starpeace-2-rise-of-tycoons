@@ -1,0 +1,18 @@
+SISTEMA
+%s ha entrato in %s
+%s ha lasciato %s.
+Scav canaliare “%s„, generato da %s. 
+utente
+utenti
+e
+Avete bisogno di una parola d'accesso di entrare in questa scanalatura.
+Non ci sono informazioni associate a questo oggetto.
+Gli assistenti sono occupati lime di sostegno generare. Attendere prego.
+Sostegno al disc completato.
+IL POSTINO
+Avete posta da %s (%s).
+scanalatura inserita %s %s.
+ingresso inserito %s.
+scanalatura di sinistra %s. di %s.
+ingresso di sinistra di %s.
+L'assistente andrà giù per manutenzione in resoconto di %d. Tempo morto previsto valutato per essere aprox. resoconto di %d.

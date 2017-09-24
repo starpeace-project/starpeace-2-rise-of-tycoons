@@ -1,0 +1,12 @@
+eTown.Hint=Écrire le nom d'une ville ici pour limiter la recherche des clients à une telle ville
+ftInveKind.TabNames=3
+ftInveKind.TabNames.0=DISPONIBLE
+ftInveKind.TabNames.1=RECHERCHE
+ftInveKind.TabNames.2=DÉVELOPPÉ
+btnResearch.Hint=Cliquer ici pour commencer la recherche
+btnResearch.Text=Recherche
+btnStop.Hint=Cliquer ici pour arrêter la recherche
+btnStop.Text=Arrêter
+btnSell.Hint=Cliquer ici pour vendre la recherche
+btnSell.Text=Vente
+btnClose.Text=Fin

@@ -1,0 +1,8 @@
+=
+=
+strOperatingNormally=« Fonctionnant normalement »
+strStopped=« Arrêté par le propriétaire »
+strOperationTrouble=« Ennui d'opération »
+strNotBeingReceived=« Un approvisionnement essentiel (ou plus) ne sont pas reçus »
+strNotEnoughMoney=« Pas assez d'argent à fonctionner »
+strNotEnoughSupplies=« Pas asse'approvisionnements »

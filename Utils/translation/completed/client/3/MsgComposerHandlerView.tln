@@ -1,0 +1,8 @@
+CaptionPanel.Caption=UNBEKANNTE STÖRUNG
+SendBtn.Hint=Klicken, um Ihre Mitteilung zu senden
+SendBtn.Text=Senden
+SaveBtn.Hint=Klicken, um Ihre Mitteilung zu speichern
+SaveBtn.Text=Speichern
+CloseBtn.Hint=Diese Mitteilung schließen
+CloseBtn.Text=Schließen
+Label1.Caption=Zu:

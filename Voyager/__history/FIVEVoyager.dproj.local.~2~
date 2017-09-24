@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2010/05/27 17:40:59.805.pas,C:\starpeace\Source\Voyager\Unit2.pas=C:\starpeace\Source\Voyager\music1.pas</Transaction>
+    <Transaction>2010/05/27 17:40:59.805.dfm,C:\starpeace\Source\Voyager\Unit2.dfm=C:\starpeace\Source\Voyager\music1.dfm</Transaction>
+    <Transaction>2011/01/07 08:01:41.517.pas,C:\starpeace\Source\Voyager\Unit3.pas=C:\starpeace\Source\Voyager\URLHandlers\wlogon.pas</Transaction>
+    <Transaction>2011/01/07 08:01:41.535.dfm,C:\starpeace\Source\Voyager\Unit3.dfm=C:\starpeace\Source\Voyager\URLHandlers\wlogon.dfm</Transaction>
+    <Transaction>2011/01/07 09:32:03.989.pas,C:\starpeace\Source\Voyager\URLHandlers\wlogon.pas=</Transaction>
+    <Transaction>2011/01/07 09:32:03.989.dfm,C:\starpeace\Source\Voyager\URLHandlers\wlogon.dfm=</Transaction>
+    <Transaction>2011/01/09 07:21:59.805.pas,C:\starpeace\Source\Voyager\Unit1.pas=C:\starpeace\Source\Voyager\URLHandlers\worldlogonhandler.pas</Transaction>
+    <Transaction>2011/02/23 00:42:11.535.pas,C:\starpeace\Source\Voyager\Unit1.pas=C:\starpeace\Source\Voyager\URLHandlers\buildhandler.pas</Transaction>
+    <Transaction>2011/02/23 00:49:18.182.pas,C:\starpeace\Source\Voyager\Unit3.pas=C:\starpeace\Source\Voyager\URLHandlers\builder.pas</Transaction>
+    <Transaction>2011/02/23 00:49:18.182.dfm,C:\starpeace\Source\Voyager\Unit3.dfm=C:\starpeace\Source\Voyager\URLHandlers\builder.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,2228 @@
+6
+Advertiser
+Owner
+Price
+Overpaid
+Last
+Quality
+Last Value:
+n/a
+Cost:
+n/a
+Advertisement:
+0%
+0
+Click here to hire new clients
+Hire
+Click here to modify the selected connection
+Modify
+3
+Name
+Town
+Viewers
+
+
+Panel
+
+
+0%
+Budget:
+0%
+Interest:
+0%
+0%
+Lend to neutrals
+Lend to enemies
+Term (years):
+30%
+20
+Borrow money from the bank
+Borrow
+Demolish this facility
+Demolish
+Close this facility
+Close
+Amount:
+Borrow money here:
+Name:
+The bank has no enough founds to pay now.
+4
+Debtor
+Amount
+Interest
+Term
+President:
+None
+Popular Rating:
+Tycoons Rating:
+Mandate Nº:
+Years to Elections:
+None
+None
+None
+None
+Click to visit the president politics page
+Visit President Politics Page
+QOL:
+100
+%
+6
+Name
+Population
+QOL
+Commerce
+Wealth
+Tax
+Tax: 0%
+0%
+Elect
+Mayor:
+ChangeLogView
+
+
+GradientBox1
+Click here to make these news not appear again
+I KNOW
+Show these news again, later
+LATER
+Legacy Online News
+
+Panel1
+
+Panel1
+
+
+1
+There are no new events to report
+Downloading chart information...
+Sorry: No history information will be available until the end of this year.
+Close this window
+CLOSE
+Type your comments here:
+No channels to show
+Click to create a channel
+Create Channel
+Click to join a channel
+Join Channel
+Click to leave the channel
+Leave Channel
+WELCOME TO Starpeace CHAT.
+WELCOME TO Starpeace CHAT.
+Secret Meeting
+Chat
+Click to ignore user currently selected
+Ignore User
+Click to chat while browsing the map
+Chat over Map
+Click to follow the selected user
+Follow User
+Click to get voice chat panel
+Talk Panel
+Log
+Log
+Close window
+No information...
+Receiving:
+n/a
+n/a
+Requesting:
+Ratio:
+n/a
+0%
+Confirm Password
+This is the first time you log into Parallel Domain.
+Please confirm your password:
+Password:
+Confirm Password:
+Enter password here
+Confirm password here
+OK
+Cancel
+Connecting...
+Please wait...
+
+
+
+GradientBox1
+Unknown
+
+Reputation:
+
+Money:
+
+n/a
+
+Expenses:
+
+n/a
+
+n/a
+
+Close application
+x
+
+2
+TEAMS
+HISTORY
+
+Connecting
+
+NewId
+
+Teams
+
+History
+
+Please wait while Starpeace connects to the Crimininal files...
+
+You don't have a Criminal Identity. If you want to create one, you must choose a criminal alias. This alias is unique and secret. It will be used to identify your actions in this planet.
+
+Enter Your Criminal Alias Here:
+
+Display overlay map tools
+Create Criminal Id
+NOTE: Should you become bored of this Alias, you will have to reset your entire criminal profile. Try to pick an alias that you would keep for your whole life.
+
+
+
+ERROR!
+
+Team:
+
+Display overlay map tools
+Disband Team
+Display overlay map tools
+M I S S I O N
+Display overlay map tools
+Set Headquarters
+Display overlay map tools
+Go to Headquarters
+Display overlay map tools
+New Team
+n/a
+
+Cost:
+
+Net Profit:
+
+n/a
+
+Years operating:
+
+n/a
+
+Display overlay map tools
+View Criminal Roster
+Display overlay map tools
+Team History
+
+
+
+
+Click here to Hire a criminal
+
+
+READY!
+READY!
+...
+
+
+
+Slot2
+
+Panel5
+
+Click here to Hire a criminal
+
+
+READY!
+READY!
+...
+
+Panel4
+
+Panel5
+
+Click here to Hire a criminal
+
+
+READY!
+READY!
+...
+
+Panel4
+
+Panel5
+
+Click here to Hire a criminal
+
+
+READY!
+READY!
+...
+
+Panel4
+
+Panel5
+
+Click here to Hire a criminal
+
+
+READY!
+READY!
+...
+
+Panel4
+
+Panel5
+
+Click here to Hire a criminal
+
+
+READY!
+READY!
+...
+
+Panel4
+
+Panel5
+
+Click here to Hire a criminal
+
+
+READY!
+READY!
+...
+
+Panel4
+
+
+
+Click here to Hire a criminal
+
+
+READY!
+READY!
+...
+
+
+
+
+
+
+
+Delete this Identity
+HINT: You must Set a headquarters for this team.
+HINT: You must Set a headquarters for this team.
+Crime
+
+Close window
+x
+HISTORY
+HISTORY
+
+
+
+
+
+
+2
+AVAILABLE
+COMPLETED
+
+Available
+
+Complete
+
+
+
+
+Display overlay map tools
+T R A I N
+Display overlay map tools
+Close
+
+
+
+
+Display overlay map tools
+Close
+
+CriminalRosterView
+
+Criminals willing to join this team:
+
+Display overlay map tools
+< PREVIOUS
+Display overlay map tools
+MORE >
+Display overlay map tools
+H I R E
+Close application
+x
+Panel4
+
+Panel5
+
+
+Panel4
+
+Panel5
+
+
+Panel4
+
+Panel5
+
+
+Panel4
+
+Panel5
+
+
+CriminalView
+
+
+GradientBox1
+James Bulger
+
+Display overlay map tools
+Fire!
+Display overlay map tools
+Train
+Display overlay map tools
+Move
+Display overlay map tools
+History
+0%
+Salary:
+
+n/a
+
+Role in the Team:
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+Close application
+x
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+
+
+Panel3
+
+Panel4
+
+
+No comments
+No comments
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Enter description of shortcut here
+Shortcut
+Select shortcut
+Text
+Add
+Cancel
+Title:
+Launch
+n/a
+Time:
+Budget:
+Cancel
+Release
+$10,000,000
+Auto Release
+12
+Recurrent Movie Production
+Jump to the client's world
+JUMP TO WORLD
+1
+Enter chat text here...
+Call a Game Master
+CALL GAME MASTER
+Display Options
+OPTIONS
+CLOSE
+Talking to GM:
+None
+List of Game Masters
+Move Game Master up in priority list
+MOVE UP
+Move Game Master down in priority list
+MOVE DOWN
+Remove Game Master from list
+REMOVE
+Make Game Master one of your favorites
+FAVORITE
+Give Game Master normal treatment
+NORMAL
+Ignore this Game Master
+IGNORED
+Set GM Priority:
+CLOSE
+Organize Game Masters in the list below:
+Move Up
+Move Down
+-
+Priority
+Highest
+Normal
+Ignored!
+Delete
+Talking to you:
+3
+Alias
+Level
+World
+Waiting for you:
+3
+Alias
+Level
+World
+&File
+E&xit
+Shortcuts
+Minimize
+Chat!
+Wait!
+HintBoxWindow
+
+
+Hint Text
+
+Close window
+x
+Close history window
+Close
+HISTORY
+HISTORY
+Name:
+Creator:
+n/a
+Age:
+n/a
+Click to close this facility
+Close
+Click to demolish this facility
+Demolish
+n/a
+Click to connect this facility to others in the map
+Connect
+Cost:
+n/a
+ROI:
+n/a
+Name:
+Owner:
+n/a
+Cost:
+n/a
+ROI:
+n/a
+Age:
+n/a
+Click to close this facility
+Close
+Clisk to demolish this facility
+Demolish
+Click to connect this facility to others in the map
+Connect
+n/a
+Connects this facility to all your stores
+Sell to all stores
+Connects this facility to all your factories
+Sell to all factories
+Connects this facility to all your warehouses
+Sell to all warehouses
+Disconnects this facility from all your stores
+Don't sell to stores
+Connects this facility to all your factories
+Don't sell to factories
+Connects this facility to all your warehouses
+Don't sell to warehouses
+Trade Mode:
+Trade with:
+3
+Company Warehouse
+Exporter
+Importer
+3
+None
+Allies only
+Anyone
+
+OK
+Name:
+Company:
+Overpayment:
+x
+
+Cancel
+Delete
+0%
+0%
+n/a
+n/a
+Owner:
+Town:
+Click to search for clients for the selected product
+SEARCH >
+Count:
+Enter a company name to limit search for clients to facilities of that company only
+Import Warehouses
+Check if you want to include import warehouses in the search for clients
+Regular Warehouses
+Check if you want to include regular warehouses in the search for clients
+Stores
+Check if you want to include stores in the search for clients
+Factories
+Check if you want check factories while search for clients
+Select maximum of clients you want to search for
+20
+3
+Building
+Owner
+Town
+Select all found clients
+Select All
+Unselect all found clients
+Unselect All
+Click to start selling to all selected clients
+SELL TO SELECTED
+Close
+Enter the name of a town here to limit the search for clients to such town
+3
+AVAILABLE
+RESEARCHING
+DEVELOPED
+Click here to start the research
+Research
+Click here to stop the research
+Stop
+Click here to sell the research
+Sell
+Close
+RESEARCH
+Downloading...
+n/a
+n/a
+No suppliers
+Open
+Close
+Close
+Open
+Close
+The loan was granted.
+The bank rejected your request.
+The bank has not enough founds to pay now.
+Unknown error.
+Downloading...
+No loans...
+%s years
+one year
+None
+None
+None
+None
+Start
+Stop
+Start
+Downloading map...
+Open
+Close
+Already
+%s year(s)
+Never
+n/a
+%s only
+Close
+Open
+Close
+Open
+Close
+Close
+Open
+Close
+None
+Downloading...
+Downloading...
+Sell (+%s)
+no minister
+None
+Downloading...
+Stop
+Picture transfer stopped.
+Stop
+Sending the picture.
+Now you are ready to send this nice picture, click Send to proceed.
+Processing image.
+Could not sent the picture, please retry later.
+Voyager is sending the picture to the server.
+Could not send the picture to the server.
+Send
+Retry
+%s years
+one year
+%s points
+None
+None
+None
+None
+None
+n/a
+Downloading...
+No clients
+Open
+Close
+Already
+%s year(s)
+Never
+n/a
+n/a
+Close
+Open
+Close
+Open
+Close
+Already
+%s year(s)
+Never
+Close
+Open
+Close
+n/a
+n/a
+Downloading...
+None
+No suppliers
+%s years
+one year
+%s points
+None
+None
+None
+None
+None
+n/a
+n/a
+n/a
+n/a
+n/a
+Downloading...
+Empty
+Downloading...
+Empty
+Downloading...
+Empty
+Downloading...
+Subsidized
+Subsidized
+None
+Tax: %s%%
+Subsidized
+Open
+Close
+Already
+%s year(s)
+Never
+n/a
+Close
+Open
+Close
+Open
+Close
+Already
+%s year(s)
+Never
+n/a
+Close
+Open
+Close
+An unknow error ocurred when trying to download the map.
+Legacy Online could not write map file on your system.
+Legacy Online could not locate the map file on the server.
+Legacy Online could not decompress the map. Please check for extra drive space.
+An unknow error ocurred when trying to download the map.
+Map download failed.
+Download Aborted.
+%s Do you want to try again?
+Updating map...
+Loading mail frames...
+Loading chat frames...
+Starting sound and music...
+Loading toolbar frame...
+Loading image info...
+Initializing map...
+Error
+The Logon data you specified was incorrect or there is a problem in the communication with the servers. Please be sure that you have an active connection to the Internet.
+Error
+An unknow error ocurred in the communication with the servers. Please try again. If this happens too often, please report to Oceanus.
+Title
+None
+None
+None
+%s (of %s)
+None
+None
+None
+%s (of %s)
+None
+None
+None
+%s (of %s)
+%d ( of %d )
+%d ( of %d )
+%d ( of %d )
+Date: %s
+Downloading...
+Error: Invalid team name
+Game Master:
+Game Master Server:
+Game Master is busy right now, there are %d requests pending, please wait or try to call another game master.
+Game Master Server:
+Game Master is away right now, please wait or try to call another game master.
+Game Master Server:
+Game Master is online!
+Game Master Server:
+Game Master was disconnected, please try to connect to another game master.
+Call
+Call
+Hang up
+Costumer
+None
+Downloading...
+Tax: %d%%
+Tax: %s
+Highest
+Normal
+Ignored!
+Cannot join channel
+This channel is full. You may try later, when some of the users in there have left.
+Cannot join channel
+Invalid password.
+Enter chat text here...
+A NEW CHANNEL (%s) WAS CREATED.
+CHANNEL %s WAS CLOSED.
+NOW CHATTING IN %s
+BACK TO THE LOBBY.
+Headlines: %s
+updating...
+Full Screen Chat
+Chat over Map
+Click over a facility on the map to establish connection.
+Hint: To abort operation click when the forbiden cursor is displayed.
+Hint: Use a single click to select a facility on the map. Right click to invoke QuickWeb options.
+Construction cost: %s
+Hint: Use right click to cancel operation.
+Click over a facility on the map to estabish connection.
+Hint: To abort operation click when the forbiden cursor is displayed.
+Error
+You have no rights to demolish this road.
+Error
+Cannot demolish road.
+CONSTRUCTION REQUEST REJECTED
+The Mayor of the city doesn't allow a building of this type on this location. Please note that the zone of this location (indicated by color) has to match with the zone type of the facility you intended to build. Buildings zone type are shown besides the facility icon on the Build Panel.
+CONSTRUCTION REQUEST REJECTED
+You cannot build there. Area not clear.
+CONSTRUCTION REQUEST REJECTED
+You have reached the limit of buildings you can own. Demolish some buildings or try to advance to the next level.
+CONSTRUCTION FAILED
+Cannot build facility here. Please make sure you are operating at least one company.
+Error
+Cannot connect facilities.
+Error
+Cannot connect facilities.
+No facility selected.
+Hint: Use a single click to select a facility on the map. Right click to invoke QuickWeb options.
+RE:
+Re: %s
+Subject: %s
+From: %s
+FW:
+FW: %s
+Subject: %s
+From: %s
+This message did not reach any address.
+Cannot perfom this action, Mail Server is down.
+Could not save the message.
+Cannot perfom this action, Mail Server is down.
+Error: %s
+one line
+%d lines
+Main Headquarters
+Industry Headquarters
+Office and Residential Headquarters
+Commerce Headquarters
+Public Affairs Headquarters
+Hi Class LoCost Residentials
+Middle Class LoCost Residentials
+Low Class LoCost Residentials
+Hi Class Residentials
+Middle Class Residentials
+Low Class Residentials
+Offices
+Farms
+Food Processors
+Chemical Industries
+Mines
+Textile Industries
+Metal Industries
+Electronic Components Factories
+Clothes Factories
+Household Appliances Factories
+Business Machines Factories
+Heavy Industries
+Car Factories
+Construction Industries
+Pharmaceutics Industries
+Plastics Industries
+Toy Factories
+Oil Rigs
+Refineries
+Liquor Factories
+Food Stores
+Clothes Stores
+HHA Stores
+Car Stores
+Supermarkets
+Bars
+Restaurants
+Movies
+Drug Stores
+Toy Stores
+Gas Stations
+Software Firms
+Hospitals
+Schools
+Police Stations
+Fire Stations
+Correctionals
+Parks
+Banks
+TV Stations
+TV Antenna
+Cold Warehouse
+Chemical Warehouse
+General Warehouse
+Fabrics Warehouse
+Ore Warehouse
+Monuments
+%d bytes/s
+0 bytes/s
+%d bytes/s
+0 bytes/s
+Connecting to world...
+SYSTEM
+Could not establish connection with servers.
+You supplied an invalid name.
+You supplied an invalid password.
+There was an error trying to connect to server. Please be sure that you have an active connection to the Internet.
+There was an error trying to connect to server. Please be sure that you have an active connection to the Internet.
+There was an error trying to connect to server. Your request was denied.
+An unknown error has ocurred. Please report to Oceanus if this happens too often.
+Error
+SYSTEM
+Invalid Password
+Both passwords must match!
+SYSTEM
+Connection to server has dropped. Wait while Voyager tries to reconnect...
+SYSTEM
+Now you are acting as %s.
+You were successfully reconnected.
+SYSTEM
+There was an error changing your identity to %s.
+Attempt to reconnect failed. Trying again...
+%d unread messages.
+%d unread messages.
+Indicates arrival of new mail
+SURGEON NOTICE: Do not perform intercourse with an alien life form, unless it is from the opposite sex.
+SURGEON NOTICE: Do not run with sharp objects. Always run with blunt objects.
+SURGEON NOTICE: Cigarette can kill you, your family and all your friends.
+SURGEON NOTICE: Antipodes do not bite.
+NEWS: Michael Jackson's mummy escaped museum of Louvre.
+NEWS: Ford announces it will produce cars again.
+SURGEON NOTICE: Dynamite gets better with time. If you find old dynamite in your refrigerator call for help.
+NEWS: STAR WAR Episode XII, Princess Zuloo finally gets the girl.
+NEWS: Astronomers and physicians find the Moon is the cause of most stomach disorders.
+SURGEON NOTICE: Hats can cause hair loss and cronic headache. Physicians recommend the use of helmets.
+NEWS: Giant lizzard sighted on top of flying saucer. Officials said both could be UFOs.
+NEWS: Prohibition on video games is withdrawn in England.
+NEWS: Canada withdraws its troops from Washington after successful mediation of the King of Arabia.
+NEWS: New Federal law states dead people are dead until proved otherwise.
+NEWS: Could chocolate icecream become the cure for cancer? Experts say no way.
+NEWS: Paleontologists discover all T-Rex evidence was planted in the early XX century by COMIC producers.
+NEWS: New anti-matter propulsor pushes space travel technology a bit further.
+NEWS: An identical replica of Keops pyramid was found under the Keops pyramid.
+NEWS: Study unveils frogs are multiplying in the human colonies.
+NEWS: A derivative work from Heinsenberg's law proves robots won't be ever well suited for domestic applications.
+SYSTEM
+Locating a Game Master. Please wait...
+SYSTEM
+You disconnected from Game Master %s.
+None
+CALL GAME MASTER
+SYSTEM
+You are online with the Game Master %s.
+SYSTEM
+The Game Master %s has accepted your call. Your request made the number %d. Please wait until the Game Master is ready to help you.
+HANG UP
+SYSTEM
+There are no Game Masters available at this moment. Plase try later.
+SYSTEM
+There was an error trying to contact a Game Master. Plase try again.
+SYSTEM
+Your message could not reach the Game Master.
+All servers down. Plase try later.
+Error
+Could not connect to server. Please check your Internet connection and try again.
+Connecting to %s...
+Sign in failed. The Alias you supplied seems to be invalid. Please try again.
+Sign in failed. The password you supplied seems to be invalid. Please try again.
+Sign in failed. There was an error accessing the servers. Please check your Internet connection and try again.
+Error
+Error
+Legacy Online could not jump to the selected world. We recommend you to use the standard sign-in procedure.
+Downloading...
+America
+Signing in...
+Connecting to secure server...
+Signing in...
+America
+Europe
+Asia
+Updating...
+[ECLIPSED]
+None.
+%s. Population: %s Investors: %s Year: %s Online: %s Min Nobility: %s Reset Date: %s
+Welcome to the Univesal Map. Click on any of the worlds above to display extended information.
+Updating...
+Open
+Close
+Close
+Open
+Close
+n/a
+SYSTEM
+Scanning...
+Enter chat text here...
+Downloading %s map. This may take a few seconds...
+Scanning...
+LINKS
+Highest
+Normal
+Ignored!
+Game Master:
+Game Master Server:
+Game Master is busy right now, there are %d requests pending, please wait or try to call another game master.
+Game Master Server:
+Game Master is away right now, please wait or try to call another game master.
+Game Master Server:
+connected to %s
+Game Master Server:
+Game Master is online!
+Game Master Server:
+Game Master is busy, please wait a bit for him.
+Game Master Server:
+Game Master was disconnected, please try to connect to another game master.
+Call
+Call
+Hang up
+Costumer
+Ok
+Add
+There are conflicts!!
+Enter the GMS name!
+Enter your name!
+Cannot connect to GM Server, try again later or check GM Server settings
+User has been Idle : %d secs
+User has been waiting : %d secs
+Company: %s   Money: %s
+Cannot connect to GM Server, try again later or check GM Server settings.
+Me:
+CLIENTS
+COMMERCE
+GENERAL
+HISTORY
+JOBS
+LOANS
+MANAGEMENT
+MINISTERIES
+PRODUCTS
+PUBLICITY
+RESEARCHES
+RESIDENTIALS
+SERVICES
+SUPPLIES
+TAXES
+Sell
+MAUSOLEUM
+Your are required to subscribe to the game in order to continue playing. Click OK to close this window and navigate to the subscription page.
+Your account on Legacy Online has been temporarily frozen. Click OK to close this window and navigate to a page where you will receive information regarding this situation.
+Upgrade
+Stop
+TOWNS
+FILMS
+ANTENNAS
+VOTES
+Search...
+Server Busy
+You have been disconnected from the server.
+Buy
+Account Already Exists
+The Screen Name or Sega.com Password you entered is incorrect.
+Serial Maxed
+Invalid Serial
+Subscriber Id Not Found
+You cannot build there. This buildning is too close to another building of the same class.
+Legacy Online servers are creating backup files for this world. This may take from seconds to minutes depending on the size of the world. While it lasts you can continue to browse the map and inspect buildings, but some options, like Build, will be disabled. Note that the disk icon in your toolbar lights up during backup. You will only see this message box this time.
+SERVER BACKUP
+SERVER BACKUP ENDED
+Legacy Online servers have finished backup. You may continue to play without limitation.
+Are you sure you want to demolish your %s?
+Warning!
+Same Company
+Same City
+Click here to see the tournament rules.
+Overall Progress.   
+KBytes (of 
+Estimated Time: 
+hours. 
+hour. 
+minutes. 
+minute. 
+Could not create directory.
+Error
+Installation failed.
+Failed to complete installation.
+Could not run main application. Error code: 
+Failed to complete operation.
+ERROR: Operation failed due an unknown error.
+Error writing to disk (
+ERROR: Found corrupted file (
+ERROR: Decompression failed (
+). Check for extra drive space.
+ERROR: Index file corrupted. Please report to Sega.
+ERROR: File download failed (
+HELLO! THIS PROGRAM WILL INSTALL LEGACY ONLINE ON  YOUR COMPUTER. PLEASE ENTER THE INFORMATION REQUIRED.
+Could not initialize Web client. Please be sure you have installed Internet Explorer 4.0 or greater.
+YES
+NO
+Done
+Finding Resource: 
+Downloading: 
+Please wait...
+Decompressing 
+organicwaste
+fert
+grainFarma
+mill
+cotton
+trouser
+fruitFarma
+fruitpie
+rubbersap
+rubbertree
+rubberfact
+shoefact
+vegFarma
+stewfact
+organicMine
+polymer
+nylon
+shirt
+Cattlefarma
+burgerfact
+rawChemMine
+miningchem
+leather
+leatherjacket
+This is a gmabling den mission
+this is a bank robbery mission
+this is a road destroy mission
+A game by
+Click here to start
+NEW ACCOUNT
+SIGN IN
+CANCEL
+Username:
+Password:
+Welcome to Starpeace. Please provide your Username and Password.
+Enter your Starpeace alias here
+Enter your Starpeace password here
+Now choose the world you want to enter:
+ENTER SELECTED WORLD
+GO TO UNIVERSE MAP
+REFRESH ALL
+REFRESH SELECTED
+6
+Name
+Population
+Investors
+Online
+Year
+PING (msec)
+Jump to a world you have already visited:
+Click to jump to the selected planet
+GO!
+Incoming Settings
+Check this box to allow this facility to be configured based on the settings of another facility.
+Clone Settings
+Click to clone the settings of this facility
+Clone
+Upgrade
+Click to upgrade this facility.
+Downgrade
+Click to downgrade this facility.
+Upgrading
+Level:
+Pending:
+Next Upgrade:
+1
+Accept Incoming Settings.
+Check if you want to configure this facility using the settings of another facility
+Only for facilities in this town.
+Check to limit the effect of the cloning only for facilities in this town
+Only for facilities in this company.
+Check to limit the effect of the cloning only for facilities in this company
+Hint: Use a single click to select a facility on the map. Right click to invoke QuickWeb options.
+Hint: Use a single click to select a facility on the map. Right click to invoke QuickWeb options.
+No facility selected
+No facility selected
+Go back to your previous location on the map
+< BACK
+Go forward to the next location you visited
+NEXT >
+Go to the nearest Town Hall
+GO TOWN HALL
+Get more info about the selected building (same as right-click over the building)
+INSPECT
+Display overlay map tools
+OVERLAY
+ZoomIn
+Zoom in
+ZoomOut
+Zoom out
+Show City Zones overlay
+CITY ZONES
+RotateCW
+Rotate CW
+RotateCCW
+Rotate CCW
+Date
+Zoom in (small map)
++
+Zoom out (small map)
+-
+Close chat box
+x
+Shows
+User Name
+Shows which user you are currently chasing
+List of useful links to facilities in the map
+List of useful links to facilities in the map
+Click to add the selected facility to the links
+ADD
+Click to remove facility from links
+DEL
+Click to jump to the link
+GO
+LINKS
+LINKS
+Facilities that are losing money appear shaded in red
+Signal losing facilities
+Active Overlay:
+Show the name which overlay is currently visible
+Choose the overlay map you want to show
+48
+NONE
+Building Zones
+Towns
+Beauty
+High-class population
+Middle-class population
+Low-class population
+QOL
+Crime
+Pollution
+BAP
+Trousers
+Bakery
+Shoes
+Fruit Pies
+Cutlery
+Table Cloth
+Fresh Buns
+Glasses
+Plates
+Small Car
+Televisions
+Ties
+Suits
+Under Wear
+Hats
+Socks
+Lingerie
+Scarves
+Leather Trousers
+Sports Cars
+MP3 Players
+Printers
+Camcorder
+Hoovers
+DVD Players
+Kettle
+Microwaves
+Toasters
+Cookers
+Motor Bikes
+Mobile Phones
+Car Wash Kit
+Car Polish
+Car Air Freshener
+Fluffy Dice
+Humvee
+PC
+Signal losing facilities
+Facilities that are losing money show shaded in red
+MapOptionsView
+
+
+Processed Food services
+
+Fresh Food services
+
+2
+VISIBILITY
+MAPS
+Panel1
+
+
+
+
+
+Visibility
+
+Maps
+
+
+Hide High-class Residentials
+
+Hide Mid-class Residentials
+
+Hide Low-class Residentials
+
+Hide Offices
+
+Hide Stores
+
+Hide Factories
+
+Hide all
+
+Show all
+
+Hide Warehouses
+
+Beauty and Land value
+
+Population
+
+Quality of Life
+
+Crime
+
+Pollution
+
+Bussines Areas
+
+Fresh Food
+
+Processed Food
+
+Clothes
+
+House Hold
+
+Cars
+
+Restaurants
+
+Bars
+SERVICES
+
+GENERAL
+
+
+Normal
+
+
+
+
+
+CLOSE
+Set Words of Wisdom
+Words of Wisdom:
+Cancel Transcendence
+4
+Ministry
+Minister
+Rating
+Budget
+Next Year's Budget:
+Set Budget
+Depose
+Minister:
+Elect
+MisionView
+
+Choose a mission
+
+Step 1 of 3
+
+Close application
+x
+
+1
+
+2
+
+3
+
+4
+
+Click on a mission to see its requirements.
+
+Display overlay map tools
+Choose Mission
+Display overlay map tools
+Camcel
+
+3
+Gambling den
+Bank Robbery
+Road destroy
+Fraud
+Terrorize and Demean
+Vandalize
+Robery
+Bank Robery
+Sabotage
+This mission requires you to pick a building on the map. Click on the "Pick Target" button and the click on the building you want to be the target of the mission.
+
+Display overlay map tools
+Pick Target
+Display overlay map tools
+< BACK
+Display overlay map tools
+CONTINUE >
+Plan the mission here. Once you have assigned the proper roles to the team member you will be able to start the mission.
+
+This is the typical bank robbery. The team will collect all the money from the counters and the clients and the vault, if you choose so.
+
+Briefing:
+
+Display overlay map tools
+S T A R T
+Display overlay map tools
+< BACK
+2
+Role
+Skill level
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Display overlay map tools
+Close
+Mission log:
+
+
+
+
+The Mayor of the city doesn't allow a building of this type on this location. Please note that the zone of this location (indicated by color) has to match with the zone type of the facility you intended to build. Buildings zone types are shown besides th 
+OK
+CANCEL
+UNKNOWN ERROR
+Click to send your message
+Send
+Click to save your message
+Save
+Close this message
+Close
+To:
+Subject:
+CREATE NEW CHANNEL
+CREATE NEW CHANNEL
+Click to create a new channel
+Create
+Cancel
+Choose a name for the new channel:
+You can protect the channel with a password:
+Re-enter the password :
+Enter channel name here
+Enter channel password here
+Check your password here
+Choose a game:
+Maximum of players allowed:
+0
+2
+CHAT CHANNEL
+GAME CHANNEL
+NewTeamDlg
+
+Close window
+x
+
+Team Name:
+
+Display overlay map tools
+New Team
+Display overlay map tools
+Cancel
+CREATE A TEAM
+CREATE A TEAM
+
+
+ERROR!
+
+
+
+
+
+
+
+
+
+
+
+
+
+Options
+5
+Graphics
+Sound
+Network
+Privacy
+Extra
+&Visible facilities:
+Click to hide all facilities
+&Hide All
+Click to show all facilities
+&Show All
+Use transparency
+Check to see transparent buildings
+Show building animations
+Check to see animated buildings
+Show cars
+Check to see cars
+Show planes
+Check to see planes
+List of available facilities
+&Transparent overlays
+Check to have transparent overlay maps
+Sound FX Volume:
+Regulate map sounds volume here
+50%
+Music Volume:
+Regulate music volume here
+50%
+Playlist:
+Shows a list of selected titles
+Click to add a music file to your playlist
+Add file
+Click to add a whole folder
+Add directory
+Click to eliminate a file from the playlist
+Delete file
+Click to download more music
+Download more music
+Enable sounds
+Click to enable map sounds
+Sent:
+Received:
+Total Sent:
+0
+0
+0
+Avg Rate:
+0 bytes/sec
+Total Received:
+0 bytes/sec
+Rate:
+0
+Latency:
+0
+Use Quick Logon
+Check to enable quick logon
+Ignore List:
+Remove from List
+Automatically Enter Channel on Logon:
+Channel Name:
+Channel Password:
+Save chat session to a file
+Save
+Language:
+Click to change language
+Activate Language
+Resolution
+Frequency
+Apply
+Owner:
+Town:
+Click to search for suppliers of the selected product
+SEARCH >
+Count:
+Enter a company name to limit search for suppliers to facilities of that company only
+Export Warehouses
+Check to include export warehouses in the search for suppliers
+Regular Warehouses
+Check to include regular warehouses in the search for suppliers
+City Trade Centers
+Check to include trade centers in the search for suppliers
+Factories
+Check to include factories in the search for suppliers
+5
+Building
+Owner
+Town
+Price
+Quality
+Select all found suppliers
+Select All
+Unselect all found suppliers
+Unselect All
+Buy from selected suppliers
+BUY FROM SELECTED
+Close
+Enter a town name to limit search for suppliers to facilities of that company only 
+Select maximum of suppliers you want to search for
+20
+ENTER PASSWORD
+ENTER PASSWORD
+Enter Password here:
+OK
+Cancel
+Load your picture from a disk file
+Load
+Preview your picture
+Preview
+Send your picture
+Send
+Close
+Zoom in
++
+Zoom out
+-
+SEND YOUR PICTURE
+SEND YOUR PICTURE
+Preview
+
+
+
+
+2034
+
+35
+
+36
+
+37
+
+38
+
+39
+
+40
+
+41
+
+42
+
+43
+
+44
+
+2045
+
+v1
+
+v1
+
+v1
+
+v1
+
+v1
+
+v1
+
+v1
+
+v1
+
+v1
+
+v1
+
+v1
+
+v1
+
+Mayor:
+n/a
+City Hall Prestige:
+Popular Rating:
+Tycoons Rating:
+Mandate Nº:
+Years to Elections:
+n/a
+n/a
+n/a
+n/a
+n/a
+Click to go to the politics page
+Visit Politics Page
+QOL:
+100
+%
+Rate the Mayor
+Read News
+4
+Customer
+Company
+Sales
+T. Cost
+0%
+Price:
+0%
+Click here to offer your product to customers
+Offer
+Click here to delete a customer
+Delete
+Quick Logon
+
+User Name:
+
+Password:
+
+
+NOTE: If you are a newcommer (or your name does not appear in the list above) just press Cancel and go through the Standard Logon procedure. You can enable the Quick Logon later from the Options Page.
+
+
+
+OK
+
+Cancel
+
+Use last Password
+
+Disable Quick Logon in the future
+
+
+
+Name:
+Owner:
+100%
+n/a
+Crime Resistance:
+n/a
+Pollution Resistance:
+Extra Privacy:
+n/a
+n/a
+Extra Beauty:
+n/a
+Age:
+n/a
+Rent:
+100%
+Maintenance:
+100%
+100%
+Click to close this building
+Close
+Click to repair this building
+Repair
+Click to demolish this building
+Demolish
+n/a
+Cost:
+n/a
+ROI:
+n/a
+
+Name:
+Owner:
+n/a
+Age:
+n/a
+Click to close this facility
+Close
+Click to demolish thios facility
+Demolish
+Click to connect this facility to others in the map
+Connect
+n/a
+Cost:
+n/a
+ROI:
+n/a
+0%
+Supply:
+n/a
+n/a
+Local Demand:
+Price:
+n/a
+
+Keyboard shortcuts
+Registered Keyboard shortcuts
+3
+Description
+Shortcut
+Text
+Add...
+Click to add a shortcut
+Edit...
+Click to edit a shorcut
+Delete
+Click to eliminate a shortcut
+Close
+Click to close this window
+Trains
+
+
+
+
+X:
+
+Y:
+
+_
+
+_
+
+Count:
+
+_
+
+Angle:
+
+_
+
+Last Value:
+n/a
+Cost:
+n/a
+7
+Facility
+Owner
+Price
+Overpaid
+Last
+Quality
+T. Cost
+Min Quality:
+0%
+0%
+Max Price:
+0%
+0%
+Click here to hire new clients
+Hire
+Click here to modify the selected connection
+Modify
+Ordered by quality
+Buy Supply
+SurfaceViewer
+
+
+
+DO IT!
+
+
+400
+
+400
+
+?. User Name
+Shows your name and your position in the NTA ranking
+$000,000,000
+Shows how much money you have
+Company name
+Shows the name of the active company
+($0/h)
+Shows how much you are making per hour
+n/a
+Shows the world's current date
+0/0
+Shows the number of building slots you have build and the total number of building slots available
+Shows the number of building slots you have build and the total number of building slots available
+Indicates somebody is looking at the same area as you
+You have got mail!
+Indicates someone is trying to chat with you
+Bankruptcy warning
+Indicates somebody is looking at the same area as you
+No new mail
+Indicates someone is trying to chat with you
+Bankruptcy warning
+The cube spins when Legacy Online is navigating
+Minimize application
+–
+Close application
+x
+You are not connected to the Server
+The Server is busy doing a backup
+Connected to the Server 
+Workers
+0%
+0
+0
+100
+100
+0%
+%
+%
+Professionals
+0%
+0
+0
+100
+100
+0%
+%
+%
+Executives
+0
+100
+100
+0%
+0
+0%
+%
+%
+Vacancies:
+Average Wage:
+Spending Power:
+Minimum Wage:
+Private Vacancies:
+Private Vacancies:
+Low Class
+0
+0
+0
+%
+%
+Middle Class
+0
+0
+0
+%
+%
+High Class
+0
+0
+0
+%
+%
+Vacancies:
+Quality Index:
+Rent Price:
+General Index:
+0
+8
+Name
+Demand
+Offer
+Capacity
+Ratio
+IFEL Price
+Avg. Price
+Quality
+10
+Name
+Produced
+Bought
+Prod. Capacity
+Buy Capacity
+Sell Price
+Sell Q.
+Buy Price
+Buy Q.
+Max. Price
+3
+Name
+Value
+Last Year
+Tax
+Subsidize
+PercPanel
+0%
+Tax: 0%
+Value:
+Set
+10000000
+Name:
+0%
+Hours on air:
+n/a
+Advertisement:
+0%
+0%
+Click to close the station
+Close
+Click to demolish the station
+Demolish
+0%
+Click to connect the station to facilities in the map
+Connect
+Creator:
+n/a
+Age:
+n/a
+Cost:
+n/a
+ROI:
+n/a
+
+Universal Map
+3
+Official Worlds
+Tournament Worlds
+Player Worlds
+ Worlds found in this area:
+Sort by:
+Pop
+Investors
+Year
+PING
+Welcome to the Univesal Map. Click on any of the worlds above to display extended information.
+Jump to the planet currently selected
+JUMP TO PLANET
+Refresh planet list displayed above
+REFRESH PLANET LIST
+Name:
+Creator:
+n/a
+Age:
+n/a
+Click to close this facility
+Close
+Click to demolish this facility
+Demolish
+n/a
+Click to connect this facility to others in the map
+Connect
+Cost:
+n/a
+ROI:
+n/a
+
+wait
+
+
+Loading
+
+NewInstallation
+
+Updating
+
+Loading...
+
+
+
+Legacy Online will be installed in the following directory:
+
+
+
+Minimize
+
+Quit
+
+Browse...
+
+Install
+
+C:\Program Files\Oceanus\Legacy Online\
+
+
+Searching for new components...
+
+
+Minimize
+
+Quit
+
+Retry
+
+Prgress
+
+Start
+
+Overall progress:
+
+
+Legacy Online finished downloading the main components. Now Legacy Online is pre-downloading images to speed performance. You can start playing anytime. 
+
+
+Play Now
+
+
+HTMLView
+
+HELLO!
+HELLO!
+UPGRADE
+OK
+Cancel
+Cost:
+$25,000,000,000
+Levels:
+Notification, Double click to restore
+Close window
+x
+Minimize window
+–
+HELLO WORLD!
+HELLO WORLD!
+Loading...
+Hold down to talk through your microphone
+T A L K
+Last speaker:
+None
+4
+Candidate
+Rating
+Valid Votes
+Points
+Vote
+Legacy Online
+Name:
+Owner:
+n/a
+Cost:
+n/a
+ROI:
+n/a
+Age:
+n/a
+Click to close this facility
+Close
+Clisk to demolish this facility
+Demolish
+Click to connect this facility to others in the map
+Connect
+n/a
+Connects this facility to all your stores
+Sell to all stores
+Connects this facility to all your factories
+Sell to all factories
+Connects this facility to all your warehouses
+Sell to all warehouses
+Disconnects this facility from all your stores
+Don't sell to stores
+Connects this facility to all your factories
+Don't sell to factories
+Connects this facility to all your warehouses
+Don't sell to warehouses
+Trade Mode:
+Trade with:
+3
+Company Warehouse
+Exporter
+Importer
+3
+None
+Allies only
+Anyone
+Close application
+x
+Minimize application
+–
+Workers
+0 (of 0)
+50%
+1 (100%)
+100%
+Professionals
+0 (of 0)
+50%
+5 (100%)
+100%
+Executives
+0 (of 0)
+50%
+1 (100%)
+100%
+Current Workers
+Work Force Quality
+Salaries

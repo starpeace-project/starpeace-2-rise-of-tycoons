@@ -1,0 +1,17 @@
+lvConnections.Columns=6
+lvConnections.Columns.0=Рекламодатель
+lvConnections.Columns.1=Предприниматель
+lvConnections.Columns.2=Цена
+lvConnections.Columns.3=Переплащено
+lvConnections.Columns.4=Последнее
+lvConnections.Columns.5=Качество
+Label1.Caption=Последнее значение:
+xfer_FluidValue.Caption=n/a
+Label2.Caption=Цена:
+xfer_LastCost.Caption=n/a
+Label3.Caption=Реклама:
+xfer_AdPerc.Hint=0%
+lbAdPerc.Caption=0
+btnHireSuppliers.Hint=Щелкните здесь для того чтобы нанять новых клиентов
+btnHireSuppliers.Text=Найем
+btnModify.Hint=Щелкните здесь для того чтобы доработать выбранное соединение

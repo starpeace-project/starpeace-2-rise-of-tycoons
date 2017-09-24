@@ -1,0 +1,14 @@
+﻿Ministries.Ministry8.Name=Alloggiamento
+Target=Projects
+LangId=4
+Projects.College.Name=Istituti universitari
+Projects.Disposal.Name=Eliminazione di immondizia
+Projects.Fire.Name=Riempimento del fuoco
+Projects.Health.Name=Riempimento di salute
+Projects.Jail.Name=Prigioni
+Projects.Museum.Name=Musei
+Projects.Police.Name=Riempimento della polizia
+Projects.School.Name=Riempimento della scuola
+Projects.Services.Name=Servizi e divertimento
+Projects.Sport.Name=Facilità di ricreazione
+Projects.Unemployment.Name=Disoccupazione

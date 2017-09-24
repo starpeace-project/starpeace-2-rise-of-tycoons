@@ -1,0 +1,11 @@
+Label3.Caption=租价格：
+Label9.Caption=总索引：
+xfer_GQOS.Caption=0
+lvServices.Columns=8
+lvServices.Columns.0=名字
+lvServices.Columns.1=需求
+lvServices.Columns.2=提议
+lvServices.Columns.3=容量
+lvServices.Columns.4=比率
+lvServices.Columns.5=IFEL价格
+lvServices.Columns.6=Avg。 价格

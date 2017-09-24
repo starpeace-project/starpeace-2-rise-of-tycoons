@@ -1,0 +1,8 @@
+=""
+=""
+strOperatingNormally="A abóbada está operando-se normalmente"
+strStopped="A abóbada foi parada pelo proprietário"
+strNotFunctioning="A abóbada não está funcionando corretamente"
+strNeedsSuppliers="Umas ou várias fontes básicas não estão sendo recebidas de todo"
+strNeedsBudget="Não há bastante dinheiro a operar-se"
+strNotEnoughSupplies="A abóbada não está sendo fornecida enquanto precisa de trabalhar corretamente"

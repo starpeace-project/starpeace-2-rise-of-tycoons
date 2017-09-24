@@ -1,0 +1,149 @@
+unit shoefact;
+
+interface
+
+  uses
+    Kernel, Population, WorkCenterBlock, Surfaces, OutputEvaluators,
+    StdFluids, BackupInterfaces, PolluterWorkCenter, Accounts;
+
+  type
+    TMetashoefactBlock =
+      class(TMetaPolluterWorkCenterBlock)
+        public
+          constructor Create(anId            : string;
+                             aCapacities     : array of TFluidValue;
+                             aOrganicMatMax  : TFluidValue;
+                             aChemicalMax    : TFluidValue;
+                             aCompMax        : TFluidValue;
+                             aLegalServMax   : TFluidValue;
+                             aFabThreadsMax  : TFluidValue;
+                             aMaxBudget      : TMoney;
+                             aBlockClass     : CBlock);
+      end;
+
+    TshoefactBlock =
+      class(TPolluterWorkCenterBlock)
+        private
+          fleathersheet : TInputData;
+          frubber  : TInputData;
+          fshoes : TOutputData;
+      end;
+
+  procedure RegisterBackup;
+
+
+implementation
+
+  uses
+    ClassStorage, MathUtils, StdAccounts;
+
+  // TMetaTextilIndustryBlock
+
+  constructor TMetashoefactBlock.Create(anId            : string;
+                                              aCapacities     : array of TFluidValue;
+                                              aOrganicMatMax  : TFluidValue;
+                                              aChemicalMax    : TFluidValue;
+                                              aCompMax        : TFluidValue;
+                                              aLegalServMax   : TFluidValue;
+                                              aFabThreadsMax  : TFluidValue;
+                                              aMaxBudget      : TMoney;
+                                              aBlockClass     : CBlock);
+    var
+      Sample    : TshoefactBlock;
+    begin
+      inherited Create(anId,
+        aCapacities,
+        accIdx_shoefact_Supplies,
+        accIdx_shoefact_Products,
+        accIdx_shoefact_Salaries,
+        accIdx_shoefact_Maintenance,
+        aBlockClass);
+        
+      Sample := nil;
+
+      // Inputs
+      MetaInputs.Insert(
+        TMetaInput.Create(
+          tidGate_leathersheet,
+          inputZero,
+          InputData(aOrganicMatMax, 100),
+          InputData(0, 0),
+          qIlimited,
+          TPullInput,
+          TMetaFluid(TheClassStorage.ClassById[tidClassFamily_Fluids, tidFluid_leathersheet]),
+          5,
+          mglBasic,
+          [mgoptCacheable, mgoptEditable],
+          sizeof(Sample.fleathersheet),
+          Sample.Offset(Sample.fleathersheet)));
+      MetaInputs.Insert(
+        TMetaInput.Create(
+          tidGate_rubber,
+          inputZero,                                            
+          InputData(aChemicalMax, 100),
+          InputData(0, 0),
+          qIlimited,
+          TPullInput,
+          TMetaFluid(TheClassStorage.ClassById[tidClassFamily_Fluids, tidFluid_rubber]),
+          5,
+          mglBasic,
+          [mgoptCacheable, mgoptEditable],
+          sizeof(Sample.frubber),
+          Sample.Offset(Sample.frubber)));
+
+      // Company Inputs
+      if aCompMax > 0
+        then RegisterCompanyInput(tidFluid_CompServ, aCompMax, false);
+      if aLegalServMax > 0
+        then RegisterCompanyInput(tidFluid_LegalServ, aLegalServMax, false);
+
+      // Outputs
+      MetaOutputs.Insert(
+        TMetaOutput.Create(
+          tidGate_shoes,
+          FluidData(aFabThreadsMax, 100),
+          TPullOutput,
+          TMetaFluid(TheClassStorage.ClassById[tidClassFamily_Fluids, tidFluid_shoes]),
+          5,
+          [mgoptCacheable, mgoptEditable],
+          sizeof(Sample.fshoes),
+          Sample.Offset(Sample.fshoes)));
+
+      // MetaEvaluators
+      with TMetaOutputEvaluator.Create(
+        aMaxBudget,
+        0,
+        OutputByName[tidGate_shoes],
+        TOutputEvaluator) do
+        begin
+          FullOpenTime  := 30;
+          FullCloseTime := 31;
+          RegisterInput(
+            TMetaInputInfo.Create(
+              InputByName[tidGate_leathersheet],
+              1000,
+              1));
+          RegisterInput(
+            TMetaInputInfo.Create(
+              InputByName[tidGate_rubber],
+              400,
+              1));
+
+          // Company Inputs
+          if aCompMax > 0
+            then RegisterCompanyInput(0, 0.05, 0.05, aCompMax);
+          if aLegalServMax > 0
+            then RegisterCompanyInput(intcond(aCompMax > 0, 1, 0), 0.03, 0.02, aLegalServMax);
+
+          Register(MetaEvaluatorPool);
+        end;
+    end;
+
+  procedure RegisterBackup;
+    begin
+      BackupInterfaces.RegisterClass(TshoefactBlock);
+    end;
+
+
+end.
+

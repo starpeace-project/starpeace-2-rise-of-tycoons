@@ -1,0 +1,16 @@
+TownProdSheetViewer.Caption=
+TownProdSheetViewer.Hint=
+Panel1.Caption=
+Panel1.Hint=
+lvProducts.Columns=10
+lvProducts.Columns.0=Name
+lvProducts.Columns.1=Produced
+lvProducts.Columns.2=Bought
+lvProducts.Columns.3=Prod. Capacity
+lvProducts.Columns.4=Buy Capacity
+lvProducts.Columns.5=Sell Price
+lvProducts.Columns.6=Sell Q.
+lvProducts.Columns.7=Buy Price
+lvProducts.Columns.8=Buy Q.
+lvProducts.Columns.9=Max. Price
+lvProducts.Hint=

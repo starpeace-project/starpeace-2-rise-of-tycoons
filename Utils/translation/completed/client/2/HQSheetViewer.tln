@@ -1,0 +1,16 @@
+HintText.Hint=HISTOIRE
+Label1.Caption=Nom :
+Label2.Caption=Créateur :
+xfer_Creator.Caption=Non-déterminé
+Label6.Caption=Âge :
+xfer_MetaFacilityName.Caption=Non-déterminé
+btnClose.Hint=Clic pour fermer ce service
+btnClose.Text=Fin
+btnDemolish.Hint=Cliquer pour démolir ce service
+btnDemolish.Text=Démolir
+NameLabel.Caption=Non-déterminé
+btnConnect.Hint=Cliquer pour relier ce service à d'autres dans la carte
+btnConnect.Text=Relier
+Label8.Caption=Coût :
+lbCost.Caption=Non-déterminé
+Label9.Caption=ROI :

@@ -1,0 +1,17 @@
+lvConnections.Columns=6
+lvConnections.Columns.0=Annonceur
+lvConnections.Columns.1=Propriétaire
+lvConnections.Columns.2=Prix
+lvConnections.Columns.3=Sur-payé
+lvConnections.Columns.4=Bout
+lvConnections.Columns.5=Qualité
+Label1.Caption=Dernière valeur :
+xfer_FluidValue.Caption=Non-déterminé
+Label2.Caption=Coût :
+xfer_LastCost.Caption=Non-déterminé
+Label3.Caption=Publicité :
+xfer_AdPerc.Hint=0%
+lbAdPerc.Caption=0
+btnHireSuppliers.Hint=Cliquer ici pour engager de nouveaux clients
+btnHireSuppliers.Text=Location
+btnModify.Hint=Cliquer ici pour modifier le raccordement choisi

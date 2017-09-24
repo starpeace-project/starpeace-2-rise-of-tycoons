@@ -1,0 +1,10 @@
+btnCancel.Text=Annuleer Transcendence
+lvMinisteries.Columns=4
+lvMinisteries.Columns.0=Ministerie
+lvMinisteries.Columns.1=Minister
+lvMinisteries.Columns.2=Classificatie
+lvMinisteries.Columns.3=Begroting
+lbBudget.Caption=Volgend jaar Begroting:
+btnSetBudget.Text=Vastgestelde Begroting
+btnDeposeClick.Test=Getuig
+lbMinister.Caption=Minister:

@@ -1,0 +1,58 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{af77828f-3b63-46f2-9003-042af5fe36e4}</ProjectGuid>
+    <MainSource>RDOClient.dpr</MainSource>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <DCC_DCCCompiler>DCC32</DCC_DCCCompiler>
+    <DCC_DependencyCheckOutputName>..\..\..\..\dll\RDOClient.dll</DCC_DependencyCheckOutputName>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <Version>7.0</Version>
+    <DCC_Alignment>1</DCC_Alignment>
+    <DCC_DebugInformation>False</DCC_DebugInformation>
+    <DCC_WriteableConstants>True</DCC_WriteableConstants>
+    <DCC_LocalDebugSymbols>False</DCC_LocalDebugSymbols>
+    <DCC_Optimize>False</DCC_Optimize>
+    <DCC_SymbolReferenceInfo>0</DCC_SymbolReferenceInfo>
+    <DCC_ExeOutput>s:\Release\Servers\Web objects</DCC_ExeOutput>
+    <DCC_DcuOutput>..\..\..\..\Dcu</DCC_DcuOutput>
+    <DCC_ObjOutput>..\..\..\..\Dcu</DCC_ObjOutput>
+    <DCC_HppOutput>..\..\..\..\Dcu</DCC_HppOutput>
+    <DCC_UnitSearchPath>$(DELPHI)\Lib\Debug;..\..\Common;..\;..\..\..\Kernel;..\..\..\Utils\NetWork;..\..\..\Utils\Misc;..\..\..\Persistence</DCC_UnitSearchPath>
+    <DCC_ResourcePath>$(DELPHI)\Lib\Debug;..\..\Common;..\;..\..\..\Kernel;..\..\..\Utils\NetWork;..\..\..\Utils\Misc;..\..\..\Persistence</DCC_ResourcePath>
+    <DCC_ObjPath>$(DELPHI)\Lib\Debug;..\..\Common;..\;..\..\..\Kernel;..\..\..\Utils\NetWork;..\..\..\Utils\Misc;..\..\..\Persistence</DCC_ObjPath>
+    <DCC_IncludePath>$(DELPHI)\Lib\Debug;..\..\Common;..\;..\..\..\Kernel;..\..\..\Utils\NetWork;..\..\..\Utils\Misc;..\..\..\Persistence</DCC_IncludePath>
+    <DCC_Define>AutoServer;RELEASE</DCC_Define>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <Version>7.0</Version>
+    <DCC_WriteableConstants>True</DCC_WriteableConstants>
+    <DCC_Optimize>False</DCC_Optimize>
+    <DCC_SymbolReferenceInfo>0</DCC_SymbolReferenceInfo>
+    <DCC_ExeOutput>C:\starpeace\dll</DCC_ExeOutput>
+    <DCC_UnitSearchPath>$(DELPHI)\Source\Win32\rtl\common;$(DELPHI)\Source\Win32\rtl\win;$(DELPHI)\Source\Win32\vcl;C:\starpeace\Source\Kernel;C:\starpeace\Source\StdBlocks;C:\starpeace\Source\Class Storage;C:\starpeace\Source\Cache;C:\starpeace\Source\Rdo\Common;C:\starpeace\Source\RDO\Server;C:\starpeace\Source\Utils\Network;C:\starpeace\Source\RDO\Client\;C:\starpeace\Source\Persistence;C:\starpeace\Source\Utils\Misc;C:\starpeace\Source\Surfaces;C:\starpeace\Source\Mail;C:\starpeace\Source\Tasks;C:\starpeace\Source\logs;C:\starpeace\Source\Inventions;C:\starpeace\Source\utils\vcl;C:\starpeace\Source\Circuits</DCC_UnitSearchPath>
+    <DCC_ResourcePath>$(DELPHI)\Source\Win32\rtl\common;$(DELPHI)\Source\Win32\rtl\win;$(DELPHI)\Source\Win32\vcl;C:\starpeace\Source\Kernel;C:\starpeace\Source\StdBlocks;C:\starpeace\Source\Class Storage;C:\starpeace\Source\Cache;C:\starpeace\Source\Rdo\Common;C:\starpeace\Source\RDO\Server;C:\starpeace\Source\Utils\Network;C:\starpeace\Source\RDO\Client\;C:\starpeace\Source\Persistence;C:\starpeace\Source\Utils\Misc;C:\starpeace\Source\Surfaces;C:\starpeace\Source\Mail;C:\starpeace\Source\Tasks;C:\starpeace\Source\logs;C:\starpeace\Source\Inventions;C:\starpeace\Source\utils\vcl;C:\starpeace\Source\Circuits</DCC_ResourcePath>
+    <DCC_ObjPath>$(DELPHI)\Source\Win32\rtl\common;$(DELPHI)\Source\Win32\rtl\win;$(DELPHI)\Source\Win32\vcl;C:\starpeace\Source\Kernel;C:\starpeace\Source\StdBlocks;C:\starpeace\Source\Class Storage;C:\starpeace\Source\Cache;C:\starpeace\Source\Rdo\Common;C:\starpeace\Source\RDO\Server;C:\starpeace\Source\Utils\Network;C:\starpeace\Source\RDO\Client\;C:\starpeace\Source\Persistence;C:\starpeace\Source\Utils\Misc;C:\starpeace\Source\Surfaces;C:\starpeace\Source\Mail;C:\starpeace\Source\Tasks;C:\starpeace\Source\logs;C:\starpeace\Source\Inventions;C:\starpeace\Source\utils\vcl;C:\starpeace\Source\Circuits</DCC_ObjPath>
+    <DCC_IncludePath>$(DELPHI)\Source\Win32\rtl\common;$(DELPHI)\Source\Win32\rtl\win;$(DELPHI)\Source\Win32\vcl;C:\starpeace\Source\Kernel;C:\starpeace\Source\StdBlocks;C:\starpeace\Source\Class Storage;C:\starpeace\Source\Cache;C:\starpeace\Source\Rdo\Common;C:\starpeace\Source\RDO\Server;C:\starpeace\Source\Utils\Network;C:\starpeace\Source\RDO\Client\;C:\starpeace\Source\Persistence;C:\starpeace\Source\Utils\Misc;C:\starpeace\Source\Surfaces;C:\starpeace\Source\Mail;C:\starpeace\Source\Tasks;C:\starpeace\Source\logs;C:\starpeace\Source\Inventions;C:\starpeace\Source\utils\vcl;C:\starpeace\Source\Circuits</DCC_IncludePath>
+    <DCC_Define>AutoServer;DEBUG</DCC_Define>
+  </PropertyGroup>
+  <ProjectExtensions>
+    <Borland.Personality>Delphi.Personality</Borland.Personality>
+    <Borland.ProjectType>VCLApplication</Borland.ProjectType>
+    <BorlandProject>
+<BorlandProject><Delphi.Personality><Parameters><Parameters Name="RunParams">/ProcessID:{D76E8FD5-5268-4558-B269-287DD7ED5CB9}</Parameters><Parameters Name="HostApplication">C:\WINNT\system32\DLLHOST.EXE</Parameters><Parameters Name="UseLauncher">False</Parameters><Parameters Name="LoadAllSymbols">True</Parameters><Parameters Name="LoadUnspecifiedSymbols">False</Parameters></Parameters><VersionInfo><VersionInfo Name="IncludeVerInfo">False</VersionInfo><VersionInfo Name="AutoIncBuild">False</VersionInfo><VersionInfo Name="MajorVer">1</VersionInfo><VersionInfo Name="MinorVer">0</VersionInfo><VersionInfo Name="Release">0</VersionInfo><VersionInfo Name="Build">0</VersionInfo><VersionInfo Name="Debug">False</VersionInfo><VersionInfo Name="PreRelease">False</VersionInfo><VersionInfo Name="Special">False</VersionInfo><VersionInfo Name="Private">False</VersionInfo><VersionInfo Name="DLL">False</VersionInfo><VersionInfo Name="Locale">1033</VersionInfo><VersionInfo Name="CodePage">1252</VersionInfo></VersionInfo><VersionInfoKeys><VersionInfoKeys Name="CompanyName"></VersionInfoKeys><VersionInfoKeys Name="FileDescription"></VersionInfoKeys><VersionInfoKeys Name="FileVersion">1.0.0.0</VersionInfoKeys><VersionInfoKeys Name="InternalName"></VersionInfoKeys><VersionInfoKeys Name="LegalCopyright"></VersionInfoKeys><VersionInfoKeys Name="LegalTrademarks"></VersionInfoKeys><VersionInfoKeys Name="OriginalFilename"></VersionInfoKeys><VersionInfoKeys Name="ProductName"></VersionInfoKeys><VersionInfoKeys Name="ProductVersion">1.0.0.0</VersionInfoKeys><VersionInfoKeys Name="Comments"></VersionInfoKeys></VersionInfoKeys><Source><Source Name="MainSource">RDOClient.dpr</Source></Source><TypeLibOptions><TypeLibOptions Name="AutoRegisterTLB">False</TypeLibOptions><TypeLibOptions Name="AutoGenImportAssembly">False</TypeLibOptions></TypeLibOptions></Delphi.Personality></BorlandProject></BorlandProject>
+  </ProjectExtensions>
+  <Import Project="$(MSBuildBinPath)\Borland.Delphi.Targets" />
+  <ItemGroup>
+    <DelphiCompile Include="RDOClient.dpr">
+      <MainSource>MainSource</MainSource>
+    </DelphiCompile>
+    <DCCReference Include="..\RDOMarshalers.pas" />
+    <DCCReference Include="..\RDOObjectProxy.pas" />
+    <DCCReference Include="..\WinSockRDOConnection.pas">
+      <Form>CoClass</Form>
+    </DCCReference>
+    <DCCReference Include="RDOClient_TLB.pas" />
+  </ItemGroup>
+</Project>

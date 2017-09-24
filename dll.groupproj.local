@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2010/04/01 11:58:28.276.groupproj,C:\Users\darren\Documents\RAD Studio\Projects\ProjectGroup1.groupproj=C:\starpeace\Source\dll.groupproj</Transaction>
+  </Transactions>
+	<Default.Personality>
+		<Projects ActiveProject="CacheManager.dll"/>
+	</Default.Personality>
+</BorlandProject>

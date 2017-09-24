@@ -1,0 +1,11 @@
+lvServices.Columns.7=Качество
+lvProducts.Columns=10
+lvProducts.Columns.0=Имя
+lvProducts.Columns.1=Произведено
+lvProducts.Columns.2=Куплено
+lvProducts.Columns.3=Prod. Емкость
+lvProducts.Columns.4=Купите емкость
+lvProducts.Columns.5=Продайте цену
+lvProducts.Columns.6=Продайте Q.
+lvProducts.Columns.7=Купите цену
+lvProducts.Columns.8=Купите Q.

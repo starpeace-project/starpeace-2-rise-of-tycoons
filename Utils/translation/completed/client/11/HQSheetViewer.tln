@@ -1,0 +1,16 @@
+HintText.Hint=ИСТОРИЯ
+Label1.Caption=Имя:
+Label2.Caption=Создатель:
+xfer_Creator.Caption=n/a
+Label6.Caption=Время:
+xfer_MetaFacilityName.Caption=n/a
+btnClose.Hint=Щелчок для того чтобы закрыть это средство
+btnClose.Text=Конец
+btnDemolish.Hint=Щелкните для того чтобы сокрушить это средство
+btnDemolish.Text=Сокрушьте
+NameLabel.Caption=n/a
+btnConnect.Hint=Щелкните для того чтобы соединить это средство к другим в карте
+btnConnect.Text=Соединитесь
+Label8.Caption=Цена:
+lbCost.Caption=n/a
+Label9.Caption=ROI:

@@ -1,0 +1,18 @@
+SISTEMA
+%s incorporou %s
+%s deixou %s.
+Canalizar “%s”, criado por %s. 
+usuário
+usuários
+e
+Você precisa uma senha de incorporar esta canaleta.
+Não há nenhuma informação associada a este objeto.
+Os usuários são ocupados limas alternativas criar. Esperar por favor.
+Apoio ao disco terminado.
+O CARTEIRO
+Você tem o correio de %s (%s).
+canaleta incorporada %s %s.
+entrada entrada %s.
+canaleta esquerda %s. de %s.
+entrada esquerda de %s.
+O usuário irá para baixo para a manutenção em minutos de %d. Tempo ocioso da máquina previsto estimado para ser aprox. minutos de %d.

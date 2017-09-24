@@ -1,0 +1,17 @@
+lvConnections.Columns=6
+lvConnections.Columns.0=광고주
+lvConnections.Columns.1=소유자
+lvConnections.Columns.2=가격
+lvConnections.Columns.3=과불하는
+lvConnections.Columns.4=마지막
+lvConnections.Columns.5=질
+Label1.Caption=마지막 가치:
+xfer_FluidValue.Caption=n/a
+Label2.Caption=비용:
+xfer_LastCost.Caption=n/a
+Label3.Caption=광고:
+xfer_AdPerc.Hint=0%
+lbAdPerc.Caption=0
+btnHireSuppliers.Hint=새로운 클라이언트를 고용하기 위하여 여기에서 누르십시오
+btnHireSuppliers.Text=고용
+btnModify.Hint=선정한 연결을 변경하기 위하여 여기에서 누르십시오

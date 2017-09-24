@@ -1,0 +1,12 @@
+ReadNews.Text=뉴스를 읽으십시오
+lvConnections.Columns=4
+lvConnections.Columns.0=고객
+lvConnections.Columns.1=회사
+lvConnections.Columns.2=판매
+lvConnections.Columns.3=T. 비용
+PricePc.Hint=0%
+Label3.Caption=가격:
+Price.Caption=0%
+btnHireSuppliers.Hint=고객에게 당신의 제품을 제안하기 위하여 여기에서 누르십시오
+btnHireSuppliers.Text=제안
+btnDelete.Hint=고객을 삭제하기 위하여 여기에서 누르십시오

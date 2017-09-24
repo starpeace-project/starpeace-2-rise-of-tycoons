@@ -1,0 +1,10 @@
+btnCancel.Text=Отмените трансцендентальность
+lvMinisteries.Columns=4
+lvMinisteries.Columns.0=Министерство
+lvMinisteries.Columns.1=Mинистр
+lvMinisteries.Columns.2=Номинальность
+lvMinisteries.Columns.3=Бюджетя
+lbBudget.Caption=Бюджетя следующего года:
+btnSetBudget.Text=Установите бюджетю
+btnDeposeClick.Test=Depose
+lbMinister.Caption=Mинистр:

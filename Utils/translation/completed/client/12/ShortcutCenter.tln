@@ -1,0 +1,14 @@
+=
+ShortcutCenter.Caption=Skriva genvägar
+Label1.Caption=Registrerings skriva genvägar
+ListView1.Columns=3
+ListView1.Columns.0=Beskrivning
+ListView1.Columns.1=Genväg
+ListView1.Columns.2=Text
+Button1.Caption=Tillfoga…,
+Button1.Hint=Klicka för att tillfoga en genväg
+Button2.Caption=Redigera…,
+Button2.Hint=Klicka för att redigera en shorcut
+Button3.Caption=Borttagnings
+Button3.Hint=Klicka för att avlägsna en genväg
+Button4.Caption=Nära

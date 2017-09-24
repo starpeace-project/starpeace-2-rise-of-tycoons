@@ -1,0 +1,29 @@
+#------------------------------------------------------------------------------
+VERSION = BWS.01
+#------------------------------------------------------------------------------
+!ifndef ROOT
+ROOT = $(MAKEDIR)\..
+!endif
+#------------------------------------------------------------------------------
+MAKE = $(ROOT)\bin\make.exe -$(MAKEFLAGS) -f$**
+DCC = $(ROOT)\bin\dcc32.exe $**
+BRCC = $(ROOT)\bin\brcc32.exe $**
+#------------------------------------------------------------------------------
+PROJECTS = FIVELogs.dll FIVECacheServer.exe MailBrowser.dll MailMessage.dll
+#------------------------------------------------------------------------------
+default: $(PROJECTS)
+#------------------------------------------------------------------------------
+
+FIVELogs.dll: FIVELogs.dpr
+  $(DCC)
+
+FIVECacheServer.exe: ..\Cache Server\FIVECacheServer.dpr
+  $(DCC)
+
+MailBrowser.dll: ..\Mail\MailBrowser.dpr
+  $(DCC)
+
+MailMessage.dll: ..\Mail\saved\MailMessage.dpr
+  $(DCC)
+
+

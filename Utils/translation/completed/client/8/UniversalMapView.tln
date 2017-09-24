@@ -1,0 +1,16 @@
+=
+lbName.Caption=보편적인 지도
+Tabs.TabNames=3
+Tabs.TabNames.0=공식적인 세계
+Tabs.TabNames.1=경기 대회 세계
+Tabs.TabNames.2=선수 세계
+Label11.Caption= 이 지역에서 찾아내는 세계:
+Label9.Caption=종류:
+RadioButton1.Caption=대중 음악
+RadioButton2.Caption=투자자
+RadioButton3.Caption=년
+RadioButton4.Caption=PING
+Ticker.Caption=Univesal 지도에 환영. 장시간 정보를 표시하기 위하여 세계의 무엇이든을 위에 클릭하십시오.
+Jump.Hint=지금 선정된 행성에 뛰어오르십시오
+Jump.Text=행성에 뛰어오르십시오
+Refresh.Hint=상기 표시된 행성 명부를 상쾌하게 하십시오

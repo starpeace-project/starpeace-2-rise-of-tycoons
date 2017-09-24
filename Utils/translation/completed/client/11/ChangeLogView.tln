@@ -1,0 +1,17 @@
+lbMayor.Caption=Мэр:
+ChangeLogView.Caption=ChangeLogView
+ChangeLogView.Hint=
+GradientBox1.Hint=
+GradientBox1.Text=GradientBox1
+IKnowBtn.Hint=Щелкните здесь для того чтобы сделать этими новости не появляться снова
+IKnowBtn.Text=Я ЗНАЮ
+LaterBtn.Hint=Показывайте этим новости снова, более поздно
+LaterBtn.Text=Более ПОЗДНО
+header.Caption=Новости наследия он-лайн
+header.Hint=
+Panel1.Caption=Panel1
+Panel1.Hint=
+Panel2.Caption=Panel1
+Panel2.Hint=
+Log.Hint=
+Log.Lines=1

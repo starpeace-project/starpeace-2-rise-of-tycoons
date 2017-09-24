@@ -1,0 +1,14 @@
+﻿Ministries.Ministry8.Name=Logement
+Target=Projects
+LangId=2
+Projects.College.Name=Universités
+Projects.Disposal.Name=Enlèvement des ordures
+Projects.Fire.Name=Assurance du feu
+Projects.Health.Name=Assurance de santé
+Projects.Jail.Name=Prisons
+Projects.Museum.Name=Musées
+Projects.Police.Name=Assurance de police
+Projects.School.Name=Assurance d'école
+Projects.Services.Name=Services et amusement
+Projects.Sport.Name=Équipements de récréation
+Projects.Unemployment.Name=Le chômage

@@ -1,0 +1,10 @@
+﻿TycoonLevels.BeyondLegend.Cond=Вы должны оплатить %s к IFEL. Вы должны иметь среднего главного начальника коэффициента профита к %s/h. поддерживать вашу престижность больш чем 15000.
+Target=Ministries
+LangId=11
+Ministries.Ministry1.Name=Здоровье
+Ministries.Ministry2.Name=Образование
+Ministries.Ministry3.Name=Оборона
+Ministries.Ministry4.Name=Земледелие
+Ministries.Ministry5.Name=Светлая индустрия
+Ministries.Ministry6.Name=Тяжелая индустрия
+Ministries.Ministry7.Name=Коммерция

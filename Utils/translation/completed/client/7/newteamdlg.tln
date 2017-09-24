@@ -1,0 +1,17 @@
+Tabs.TabNames.1=ゲームチャネル
+NewTeamDlg.Caption=NewTeamDlg
+NewTeamDlg.Hint=
+CloseBtn.Hint=近い窓
+CloseBtn.Text=X
+Shape1.Hint=
+Label4.Caption=チーム名前:
+Label4.Hint=
+btCreate.Hint=表示上敷の地図用具
+btCreate.Text=新しいチーム
+btCancel.Hint=表示上敷の地図用具
+btCancel.Text=取り消し
+HintText.Caption=チームを作成しなさい
+HintText.Hint=チームを作成しなさい
+edTeamName.Hint=
+edTeamName.Text=
+pnError.Caption=間違い!

@@ -1,0 +1,2821 @@
+Comptes
+0
+Bénéfice net (pertes)
+Routes
+Impôts [l'année dernière]
+Fermes
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Construction
+Machines commerciales
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Prêts
+Industries automobiles
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Argent reçu
+Usines chimiques
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Argent envoyé
+Vêtements
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Loyers
+Construction
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Entretien
+Électronique
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Réparations
+Traitement des denrées alimentaires des produits alimentaires
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Loyers
+Industrie lourd
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Entretien
+Industries d'appareils
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Jouets
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Residentials
+Réparations
+Industrie métallurgique
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Mines
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Plates-formes pétrolières
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Salaires
+Industrie textile
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Raffineries
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Budget de l'État
+Logiciel
+Coût de services
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Plastiques
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Frais d'exploitation
+Services juridiques
+Coût de services
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Voitures
+Coût de marchandises vendues
+Salaires
+Revenu de ventes
+Magasins de vêtements
+Coût de marchandises vendues
+Salaires
+Revenu de ventes
+Nourriture
+Coût de marchandises vendues
+Salaires
+Revenu de ventes
+Barres
+Coût de marchandises vendues
+Salaires
+Revenu de ventes
+Commerce
+Sièges sociaux
+Appareils électroménagers
+Coût de marchandises vendues
+Salaires
+Revenu de ventes
+Magasins de jouet
+Coût de marchandises vendues
+Salaires
+Revenu de ventes
+Researchs
+Supermarchés
+Coût de marchandises vendues
+Salaires
+Revenu de ventes
+Salaires
+Restaurants
+Coût de marchandises vendues
+Salaires
+Revenu de ventes
+Équipement
+Salles de cinéma
+Coût de permis de film
+Salaires
+Revenus de film
+Services
+Coût d'exécution
+Entrepôts
+Coût de marchandises vendues
+Revenu de ventes
+Salaires
+Frais d'exploitation
+TV
+Coûts de production
+Revenu de publicité
+Salaires
+Frais d'exploitation
+Industries
+Propriétés locatives
+Pharmacie
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Spécial
+Production de boisson alcoolisée
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Compensations
+Banque
+Paiements de débiteurs
+Emprunts émis
+Prêt
+Paiements de prêt
+Équipements publics
+Salaires
+Drugstores
+Coût de marchandises vendues
+Salaires
+Revenus de ventes
+Stations service
+Coût de marchandises vendues
+Salaires
+Revenus
+Bureaux
+Sociétés
+Construction de routes
+Démolition de route
+Entretien de route
+Impôt foncier
+Moulins de bois de charpente
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Magasins de meubles
+Coût de marchandises vendues
+Salaires
+Revenu de ventes
+Magasins de livre
+Coût de marchandises vendues
+Salaires
+Revenu de ventes
+Industrie de meubles
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Boutiques informatiques
+Coût de marchandises vendues
+Salaires
+Revenu de ventes
+Studios de film
+Coût de matériaux
+Autorise le revenu
+Salaires
+Coûts de production
+Salons funèbres
+Matériaux de coût
+Salaires
+Revenus funèbres
+Industrie du papier
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Usine d'impression
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Industrie CD
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Magasins de CD
+Coût de marchandises vendues
+Salaires
+Revenu de ventes
+Perte organique
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Engrais
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Ferme A de grain
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Moulin
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Usine de coton
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Usine de pantalon
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Magasin de pantalon
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Boulangerie
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Ferme de fruit
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Usine de chaussure
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Usine en caoutchouc
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+SÃ¨ve en caoutchouc
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Arbre en caoutchouc
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Usine de pâté en croûte de fruit
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Magasin de chaussure
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Magasin de pâté en croûte de fruit
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Ferme végétale A  
+Coût de matières premières premières   
+Revenu de ventes    
+Salaires    
+Frais d'exploitation    
+Usine de ragoût    
+Coût de matières premières premières    
+Revenu de ventes    
+Salaires    
+Frais d'exploitation    
+Mine organique    
+Coût de matières premières premières   
+Revenu de ventes    
+Salaires    
+Frais d'exploitation    
+Usine de polymère   
+Coût de matières premières premières    
+Revenu de ventes    
+Salaires    
+Frais d'exploitation    
+Usine en nylon
+Coût de matières premières premières    
+Revenu de ventes    
+Salaires    
+Frais d'exploitation    
+Usine de chemise
+Coût de matières premières premières    
+Revenu de ventes    
+Salaires    
+Frais d'exploitation    
+Les bétail cultivent A   
+Coût de matières premières premières    
+Revenu de ventes    
+Salaires    
+Frais d'exploitation   
+Usine d'hamburger  
+Coût de matières premières premières    
+Revenu de ventes    
+Salaires    
+Frais d'exploitation    
+Mine chimique crue
+Coût de matières premières premières    
+Revenu de ventes    
+Salaires    
+Frais d'exploitation    
+Usine chimique de extraction
+Coût de matières premières premières    
+Revenu de ventes    
+Salaires    
+Frais d'exploitation    
+Usine en cuir
+Coût de matières premières premières    
+Revenu de ventes    
+Salaires    
+Frais d'exploitation    
+Usine de veste en cuir
+Coût de matières premières premières    
+Revenu de ventes    
+Salaires    
+Frais d'exploitation
+Magasin d'hamburger
+Coût de matières premières premières    
+Revenu de ventes    
+Salaires    
+Frais d'exploitation    
+Magasin de veste en cuir
+Coût de matières premières premières    
+Revenu de ventes    
+Salaires    
+Frais d'exploitation      
+Magasin de ragoût
+Coût de matières premières premières    
+Revenu de ventes    
+Salaires    
+Frais d'exploitation       
+Magasin de chemise
+Coût de matières premières premières    
+Revenu de ventes    
+Salaires
+Frais d'exploitation
+Fabrication de TV
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Petite industrie automobile
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Mines de fer
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Mines de silicium
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Mines de houille
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Industrie sidérurgique
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Industrie de puce de mémoire
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Magasins de TV
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Petits concessionnaires automobiles
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Mines de cuivre
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Mines en céramique
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Huile de pin
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Industrie de cuivre
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Usines d'unité centrale de traitement
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Industrie automobile de sports
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Fabrication de PC
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Concessionnaires automobiles de sports
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Mine en aluminium
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Mine de cryolithe
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Mine de silane
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Industrie d'aluminium
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Industrie de TFT
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Industrie de vélo de moteur
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Industrie de téléphone portable
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Magasin de téléphone portable
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Agence de Mike de moteur
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Industrie de moteur
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Industrie de pneu
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Humvee Indsutry
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Industrie de cuiseur
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Agence de Humvee
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Magasin de cuiseur
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Industrie du verre
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Industrie de Conveyorbelt
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Industrie d'ordinateur de gestion
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Industrie concrète
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Industrie lourd
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Industrie de serveur
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Industrie de plaque de plâtre
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Industrie robotique
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Industrie de machine commerciale
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Mine de gypse
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Mine de pierre à chaux
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Mine de gravier
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Industrie du bâtiment
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Industrie de système de contrôle
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Industrie de système de réseau
+Coût de matières premières premières
+Revenu de ventes
+Salaires
+Frais d'exploitation
+Services
+0
+Barres
+Voitures
+Habillement et chaussures
+Pharmacie
+Nourriture traitée
+Nourriture fraîche
+Gaz
+Appareils électroménagers
+Films
+Restaurants
+Jouets
+Livres
+Meubles
+Ordinateurs
+Enterrements
+Cd
+Pantalon
+Boulangerie
+Chaussures
+Pâtés en croûte de fruit
+Vestes en cuir
+Repas d'hamburger de Mc Puglands
+Chemises
+Ragoût irlandais
+Couverts
+Tissu de Tableau
+Pains frais
+Verres
+Plats
+Petite voiture
+Télévisions
+Cravates
+Costumes
+Sous l'usage
+Chapeaux
+Chaussettes
+Lingerie
+Écharpes
+Pantalon en cuir
+Voitures de sport
+Joueurs MP3
+Imprimeurs
+Caméscope
+Aspirateurs
+Joueurs de DVD
+Bouilloire
+Micro-ondes
+Grille-pain
+Cuiseurs
+Vélos de moteur
+Téléphones portables
+Kit de lavage de voiture
+Polonais de voiture
+Refraîchissant d'air de voiture
+Matrices pelucheuses
+Humvee
+PC
+Équipements
+0
+Grande ferme
+Grandes fermes
+Grand processeur de nourriture
+Grands processeurs de nourriture
+Magasin de nourriture
+Magasins de nourriture
+Ferme
+Fermes
+Processeur de nourriture
+Processeurs de nourriture
+Dôme de Guruh
+Dômes de Guruh
+Dôme de Lothar
+Dômes de Lothar
+Cuvette noire
+Cuvettes noires
+Dôme d'âmes
+Dômes d'âmes
+Bas bâtiments génériques de classe
+Bas buildingss génériques de classe
+Capitol
+Capitols
+Piqûre
+Piqûres
+Arc de Davis
+Arcs de Davis
+Tour de néon de Mc
+Tours de néon de Mc
+Prison
+Prisons
+Prison
+Prisons
+Prison
+Prisons
+Caserne de pompiers
+Casernes de pompiers
+Commissariat de police
+Commissariats de police
+Prison
+Prisons
+Prison
+Prisons
+Banque
+Banques
+Barre
+Barres
+Industrie de machines commerciales
+Machines commerciales Industrys
+Usine de voiture
+Voiture Factorys
+Magasin de voiture
+Magasins de voiture
+Grand parc
+Grands parcs
+Usine chimique
+Usines chimiques
+Petite usine chimique
+Petites usines chimiques
+Mine chimique
+Mines chimiques
+Petite mine chimique
+Petites mines chimiques
+Magasin de vêtements
+Magasins de vêtements
+Usine d'habillement
+Habillement Factorys
+Petite usine d'habillement
+Petit Factorys d'habillement
+Mine de houille
+Mines de houille
+Petite mine de houille
+Petites mines de houille
+Entreprises de logiciel
+Entreprises de logiciel
+Industrie du bâtiment
+Construction Industrys
+Industrie électronique
+Industrys électronique
+Petite industrie électronique
+Petit Industrys électronique
+Ferme
+Fermes
+Processeur de nourriture
+Processeurs de nourriture
+Petit processeur de nourriture
+Petits processeurs de nourriture
+Magasin de nourriture
+Magasins de nourriture
+Sièges sociaux de compagnie
+Compagnie Headquarterss
+Industrie de machines
+Machines Industrys
+Usine d'appareils
+Appareils Factorys
+Petite usine d'appareils
+Petits appareils Factorys
+Magasin d'appareils électroménagers
+Magasins d'appareils électroménagers
+Aiguille
+Aiguilles
+Chambre de ballon
+Chambres de ballon
+Entonnoir
+Entonnoirs
+Maison
+Maisons
+Bâtiment de première qualité générique
+Bâtiments de première qualité génériques
+Hôpital
+Hôpitaux
+Parc de lézard
+Parcs de lézard
+Parc de lutin
+Parcs de lutin
+Parc de poulet
+Parcs de poulet
+Parc étranger
+Parcs étrangers
+Université
+Universités
+Décharge
+Décharges
+Prison
+Prisons
+Musée
+Musées
+Courts de tennis
+Courtss de tennis
+Hôtel de ville
+Hôtels de ville
+Centre commercial
+Centres commerciaux
+Sièges sociaux d'industrie
+Industrie Headquarterss
+Société d'avocats
+Sociétés d'avocats
+Statue de la liberté
+Statue de Libertys
+Usine de boisson alcoolisée
+Usines de boisson alcoolisée
+Maisons réutilisées
+Homess réutilisé
+Bâtiments réutilisés
+Buildingss réutilisé
+Bidons de sardine
+Sardine Canss
+Bas bâtiment générique de classe
+Bas bâtiments génériques de classe
+Parc
+Parcs
+Industrie métallurgique
+Métal Industrys
+Petite industrie métallurgique
+Petit métal Industrys
+Tour de rêves
+Tours de rêves
+Les champignons
+Le Mushroomss
+Les douilles
+Le Bushingss
+Screwer
+Screwers
+Châteaux
+Castless
+Bâtiment générique de la bourgeoisie
+Bâtiments génériques de la bourgeoisie
+Mine
+Mines
+Petite mine
+Petites mines
+Salle de cinéma
+Salles de cinéma
+Nervures
+Ribss
+Boule rouge
+Boules rouges
+Duango
+Duangos
+Caserne de police et de pompiers 
+Casernes de police et de pompiers
+Sièges sociaux civiques d'affaires
+Affaires civiques Headquarterss
+Sièges sociaux d'immobiliers
+Immobiliers Headquarterss
+Restaurant
+Restaurants
+École
+Écoles
+Sièges sociaux de commerce
+Sièges sociaux de commerce
+Mine de silicium
+Mines de silicium
+Petite mine de silicium
+Petites mines de silicium
+Petite ferme
+Petites fermes
+Petit parc
+Petits parcs
+Mine en pierre
+Mines en pierre
+Petite mine en pierre
+Petites mines en pierre
+Grand marché
+Grands marchés
+Marché aux puces
+Marchés aux puces
+Industrie textile
+Textile Industrys
+Petite industrie textile
+Petit textile Industrys
+Tour d'IFEL
+Tours d'IFEL
+Usine de jouet
+Jouet Factorys
+Magasin de jouet
+Magasins de jouet
+Antenne de TV
+Antennes de TV
+TV
+TV
+Université
+Universités
+Musée
+Musées
+Université
+Universités
+Musée
+Musées
+Université
+Universités
+Musée
+Musées
+École
+Écoles
+Université
+Universités
+Musée
+Musées
+Université
+Universités
+Musée
+Musées
+Parc de lézard
+Parcs de lézard
+Parc de lutin
+Parcs de lutin
+Parc de poulet
+Parcs de poulet
+Parc étranger
+Parcs étrangers
+Décharge
+Décharges
+Parc de lézard
+Parcs de lézard
+Parc de lutin
+Parcs de lutin
+Parc de poulet
+Parcs de poulet
+Parc étranger
+Parcs étrangers
+Décharge
+Décharges
+Parc de lézard
+Parcs de lézard
+Parc de lutin
+Parcs de lutin
+Parc de poulet
+Parcs de poulet
+Parc étranger
+Parcs étrangers
+Décharge
+Décharges
+Grand parc
+Grands parcs
+Hôpital
+Hôpitaux
+Statue de la liberté
+Statue de Libertys
+Parc
+Parcs
+Petit parc
+Petits parcs
+Parc de lézard
+Parcs de lézard
+Parc de lutin
+Parcs de lutin
+Parc de poulet
+Parcs de poulet
+Parc étranger
+Parcs étrangers
+Décharge
+Décharges
+Parc de lézard
+Parcs de lézard
+Parc de lutin
+Parcs de lutin
+Parc de poulet
+Parcs de poulet
+Parc étranger
+Parcs étrangers
+Décharge
+Décharges
+Usine de voiture
+Voiture Factorys
+Magasin de voiture
+Magasins de voiture
+Grande usine chimique
+Grandes usines chimiques
+Grande mine chimique
+Grandes mines chimiques
+Grande mine de houille
+Grandes mines de houille
+Industrie du bâtiment
+Construction Industrys
+Industrie de machines
+Machines Industrys
+Grande industrie métallurgique
+Grand Industrys métallurgique
+Grande mine
+Grandes mines
+Grande mine de silicium
+Grandes mines de silicium
+Usine chimique
+Usines chimiques
+Mine chimique
+Mines chimiques
+Mine de houille
+Mines de houille
+Industrie métallurgique
+Industrys métallurgique
+Mine
+Mines
+Mine de silicium
+Mines de silicium
+Mine en pierre
+Mines en pierre
+Grande mine en pierre
+Grandes mines en pierre
+Dôme de Guruh
+Dômes de Guruh
+Dôme de Lothar
+Dômes de Lothar
+Cuvette noire
+Cuvettes noires
+Dôme d'âmes
+Dômes d'âmes
+Bas bâtiments génériques de classe
+Bas buildingss génériques de classe
+Aiguille
+Aiguilles
+Chambre de ballon
+Chambres de ballon
+Entonnoir
+Entonnoirs
+Maison
+Maisons
+Bâtiment de première qualité générique
+Bâtiments de première qualité génériques
+Courts de tennis
+Courtss de tennis
+Maisons réutilisées
+Homess réutilisé
+Bâtiments réutilisés
+Buildingss réutilisé
+Bidons de sardine
+Sardine Canss
+Bas bâtiment générique de classe
+Bas bâtiments génériques de classe
+Tour de rêves
+Tours de rêves
+Les champignons
+Le Mushroomss
+Les douilles
+Le Bushingss
+Screwer
+Screwers
+Châteaux
+Castless
+Bâtiment générique de la bourgeoisie
+Bâtiments génériques de la bourgeoisie
+Palais de Zharot
+Palais de Zharot
+Palais noir
+Palais noirs
+Dôme de chevaliers
+Dômes de chevaliers
+Pavillon de chevaliers
+Pavillons de chevaliers
+Bâtiments de première qualité génériques
+Buildingss de première qualité génériques
+Ville de nuage
+Nuage Citys
+Le ciel de l'ouvrier
+Les cieux de l'ouvrier
+La ruche
+Les ruches
+Tour ene ivoire
+Tours enes ivoire
+Peut fleurir
+Fleurs de mai
+Le poulpe
+L'Octopuss
+Solarium
+Solariums
+Le tourbillon
+Les tourbillons
+Chambre de Katana
+Chambres de Katana
+Chambre de Sohei
+Chambres de Sohei
+Chambre de Tarakawa
+Chambres de Tarakawa
+Bâtiments de première qualité peu coûteux
+Buildingss de première qualité peu coûteux
+Bâtiment de Katana
+Bâtiments de Katana
+Bâtiment de Nikotori
+Bâtiments de Nikotori
+Bâtiment de Hazobito
+Bâtiments de Hazobito
+Bâtiment de Hisogari
+Bâtiments de Hisogari
+Bâtiments LowClass peu coûteux
+Buildingss LowClass peu coûteux
+Salles de Somsei-Taj
+Somsei-Taj Roomss
+Salles de Marakas
+Marakas Roomss
+Salles de Yohito
+Yohito Roomss
+Salles de Hirijoto-Manko
+Hirijoto-Manko Roomss
+Bâtiments peu coûteux de classe moyenne
+Buildingss peu coûteux de classe moyen
+Courts de tennis
+Courtss de tennis
+Courts de tennis
+Courtss de tennis
+Dôme d'infirmière
+Dômes d'infirmière
+Zoo d'infirmière
+Zoos d'infirmière
+Salles d'infirmière
+Infirmière Roomss
+Fraternité d'infirmière
+Infirmière Fraternitys
+Bâtiments génériques de la bourgeoisie
+Buildingss génériques de la bourgeoisie
+Palais de Xanadu
+Palais de Xanadu
+Oreillette
+Oreillettes
+Le Willington
+Le Willingtons
+Chapeau d'or
+Chapeaux d'or
+Place de Kent
+Places de Kent
+Tours de Lisgar
+Lisgar Towerss
+Bâtiments de première qualité génériques
+Buildingss de première qualité génériques
+Tours de Playfair
+Playfair Towerss
+Salles d'Arlington
+Arlington Roomss
+L'oreillette de César
+Les oreillettes de César
+La Sicile
+Le Sicilys
+Bas bâtiment générique de classe
+Bas bâtiments génériques de classe
+Appartements de Gladston.
+Gladston Apts.s
+Quincy
+Quincys
+Tours de Metcalfe
+Metcalfe Towerss
+Appartements de Delmar.
+Delmar Apts.s
+Appartements de coucher du soleil.
+Coucher du soleil Apts.s
+Bâtiments génériques de la bourgeoisie
+Buildingss génériques de la bourgeoisie
+Courts de tennis
+Courtss de tennis
+Bâtiment spontané
+Bâtiments spontanés
+Courts de tennis
+Courtss de tennis
+Palais de Zharot
+Palais de Zharot
+Palais noir
+Palais noirs
+Dôme de chevaliers
+Dômes de chevaliers
+Pavillon de chevaliers
+Pavillons de chevaliers
+Bâtiments de première qualité génériques
+Buildingss de première qualité génériques
+Industrie de machines commerciales
+Machines commerciales Industrys
+Grande industrie de vêtements
+Grands vêtements Industrys
+Drugstore
+Drugstores
+Grande industrie électronique
+Grand Industrys électronique
+Grande usine d'appareils
+Grands appareils Factorys
+Industrie pharmaceutique
+Industrys pharmaceutique
+Industrie de vêtements
+Vêtements Industrys
+Industrie électronique
+Industrys électronique
+Usine d'appareils
+Appareils Factorys
+Industrie textile
+Textile Industrys
+Grande industrie textile
+Grand textile Industrys
+Grand parc
+Grands parcs
+Ville de nuage
+Nuage Citys
+Le ciel de l'ouvrier
+Les cieux de l'ouvrier
+La ruche
+Les ruches
+Tour ene ivoire
+Tours enes ivoire
+Statue de la liberté
+Statue de Libertys
+Peut fleurir
+Fleurs de mai
+Parc
+Parcs
+Le poulpe
+L'Octopuss
+Petit parc
+Petits parcs
+Solarium
+Solariums
+Tour d'IFEL
+Tours d'IFEL
+Le tourbillon
+Les tourbillons
+Machines commerciales
+Affaires Machiness
+Industrie automobile
+Voiture Industrys
+Magasin de voiture
+Magasins de voiture
+Usine chimique
+Usines chimiques
+Mine chimique
+Mines chimiques
+Magasin de vêtements
+Magasins de vêtements
+Industrie de la confection
+Habillement Industrys
+Mine de houille
+Mines de houille
+Industrie du bâtiment
+Construction Industrys
+Industrie électronique
+Industrys électronique
+Ferme
+Fermes
+Processeur de nourriture
+Processeurs de nourriture
+Magasin de nourriture
+Magasins de nourriture
+Sièges sociaux de compagnie
+Compagnie Headquarterss
+Industrie de machines
+Machines Industrys
+Appareils électroménagers
+Ménage Appliancess
+Magasin d'électro-ménagers
+Magasins d'électro-ménagers
+Chambre de Katana
+Chambres de Katana
+Chambre de Sohei
+Chambres de Sohei
+Chambre de Tarakawa
+Chambres de Tarakawa
+Bâtiments de première qualité peu coûteux
+Buildingss de première qualité peu coûteux
+Hôpital
+Hôpitaux
+Sièges sociaux d'industries
+Industries Headquarterss
+Statue de la liberté
+Statue de Libertys
+Bâtiment de Katana
+Bâtiments de Katana
+Bâtiment de Nikotori
+Bâtiments de Nikotori
+Bâtiment de Hazobito
+Bâtiments de Hazobito
+Bâtiment de Hisogari
+Bâtiments de Hisogari
+Bâtiments LowClass peu coûteux
+Buildingss LowClass peu coûteux
+Industrie métallurgique
+Métal Industrys
+Salles de Somsei-Taj
+Somsei-Taj Roomss
+Salles de Marakas
+Marakas Roomss
+Salles de Yohito
+Yohito Roomss
+Salles de Hirijoto-Manko
+Hirijoto-Manko Roomss
+Bâtiments peu coûteux de classe moyenne
+Buildingss peu coûteux de classe moyen
+Mine
+Mines
+Industrie en plastique
+Industrys en plastique
+Caserne de police et de pompiers
+Casernes de police et de pompiers
+Sièges sociaux civiques d'affaires
+Affaires civiques Headquarterss
+Sièges sociaux d'immobiliers
+Immobiliers Headquarterss
+École
+Écoles
+Sièges sociaux de commerce
+Sièges sociaux de commerce
+Mine de silicium
+Mines de silicium
+Petite usine chimique
+Petites usines chimiques
+Petite mine chimique
+Petites mines chimiques
+Petite industrie de la confection
+Petit Industrys d'habillement
+Petite mine de houille
+Petites mines de houille
+Petite industrie électronique
+Petit Industrys électronique
+Petite ferme
+Petites fermes
+Petit processeur de nourriture
+Petits processeurs de nourriture
+Petits appareils électroménagers
+Petit ménage Appliancess
+Petite industrie métallurgique
+Petit métal Industrys
+Petite mine
+Petites mines
+Petite mine de silicium
+Petites mines de silicium
+Petite mine en pierre
+Petites mines en pierre
+Petite industrie textile
+Petit textile Industrys
+Parc de lézard
+Parcs de lézard
+Parc de lutin
+Parcs de lutin
+Parc de poulet
+Parcs de poulet
+Parc étranger
+Parcs étrangers
+Université
+Universités
+Décharge
+Décharges
+Prison
+Prisons
+Musée
+Musées
+Courts de tennis
+Courtss de tennis
+Mine en pierre
+Mines en pierre
+Marché de Takuri
+Marchés de Takuri
+Marché de Tamakura
+Marchés de Tamakura
+Marché de Satoi
+Marchés de Satoi
+Industrie textile
+Textile Industrys
+Tour d'IFEL
+Tours d'IFEL
+Hôtel de ville
+Hôtels de ville
+Centre commercial
+Centres commerciaux
+Antenne de TV
+Antennes de TV
+TV
+TV
+Usine CD
+Usines CD
+Magasin CD
+Magasins de CD
+Sièges sociaux de ministère
+Ministère Headquarterss
+Sièges sociaux de ministère
+Ministère Headquarterss
+Sièges sociaux de ministère
+Ministère Headquarterss
+Sièges sociaux de ministère
+Ministère Headquarterss
+Sièges sociaux de ministère
+Ministère Headquarterss
+Sièges sociaux de ministère
+Ministère Headquarterss
+Sièges sociaux de ministère
+Ministère Headquarterss
+Sièges sociaux de ministère
+Ministère Headquarterss
+Grand parc
+Grands parcs
+Parc
+Parcs
+Yamamoto
+Yamamotos
+Tanakuta
+Tanakutas
+Racleur de Sato
+Racleurs de Sato
+Racleur de Kunawa
+Racleurs de Kunawa
+Koto-ku
+Koto-kus
+Petit parc
+Petits parcs
+Dôme de joie
+Dôme des joies
+Moab correctionnel
+Moab Correctionals
+Dôme de machines commerciales
+Dômes de machines commerciales
+Dôme de voitures
+Dômes de voitures
+Magasin de voiture
+Magasins de voiture
+Grand parc
+Grands parcs
+Dôme de produits chimiques
+Dômes de produits chimiques
+Mine chimique
+Mines chimiques
+Magasin de vêtements
+Magasins de vêtements
+Dôme des vêtements
+Dômes des vêtements
+Mine de houille
+Mines de houille
+Entreprises de logiciel
+Entreprises de logiciel
+Dôme de construction
+Dômes de construction
+Tour civique d'affaires
+Tours civiques d'affaires
+Dôme des morceaux
+Dôme de Chipss
+Cratère de nourriture
+Cratères de nourriture
+Dôme de nourriture
+Dômes de nourriture
+Magasin de nourriture
+Magasins de nourriture
+Station service
+Stations service
+Cathédrale de Moab
+Cathédrales de Moab
+Dôme de machines
+Dômes de machines
+Dôme d'appareils électroménagers
+Dômes d'appareils électroménagers
+Magasin d'appareils électroménagers
+Magasins d'appareils électroménagers
+Tour de commerce
+Tours de commerce
+Tour d'industries
+Tours d'industries
+Société d'avocats
+Sociétés d'avocats
+Statue de la liberté
+Statue de Libertys
+Parc
+Parcs
+Dôme en métal
+Dômes en métal
+Mine
+Mines
+Salle de cinéma
+Salles de cinéma
+Basilique de Moab
+Basiliques de Moab
+Crysler foncé
+Cryslers foncé
+Plate-forme pétrolière
+Plates-formes pétrolières
+Dôme de raffinerie
+Dômes de raffinerie
+Tour d'immobiliers
+Tours d'immobiliers
+Dôme de dîner
+Dômes de dîner
+Mine de silicium
+Mines de silicium
+Petit parc
+Petits parcs
+Parc de lézard
+Parcs de lézard
+Parc de lutin
+Parcs de lutin
+Parc de poulet
+Parcs de poulet
+Parc étranger
+Parcs étrangers
+Université
+Universités
+Décharge
+Décharges
+Prison
+Prisons
+Musée
+Musées
+Courts de tennis
+Courtss de tennis
+Mine en pierre
+Mines en pierre
+Supermarché de Moab
+Supermarchés de Moab
+Dôme des fils
+Dôme de Threadss
+Tour d'IFEL
+Tours d'IFEL
+Hôtel de ville
+Hôtels de ville
+Centre commercial
+Centres commerciaux
+Antenne de TV
+Antennes de TV
+TV
+TV
+Dôme d'infirmière
+Dômes d'infirmière
+Zoo d'infirmière
+Zoos d'infirmière
+Salles d'infirmière
+Infirmière Roomss
+Fraternité d'infirmière
+Infirmière Fraternitys
+Bâtiments génériques de la bourgeoisie
+Buildingss génériques de la bourgeoisie
+Barre
+Barres
+Industrie de machines commerciales
+Machines commerciales Industrys
+Usine de voiture
+Voiture Factorys
+Magasin de voiture
+Magasins de voiture
+Grand parc
+Grands parcs
+Grande usine chimique
+Grandes usines chimiques
+Grande mine chimique
+Grandes mines chimiques
+Grande industrie de vêtements
+Grands vêtements Industrys
+Grande mine de houille
+Grandes mines de houille
+Entreprises de logiciel
+Entreprises de logiciel
+Industrie du bâtiment
+Construction Industrys
+Drugstore
+Drugstores
+Grande industrie électronique
+Grand Industrys électronique
+Grande ferme
+Grandes fermes
+Caserne de pompiers
+Casernes de pompiers
+Grand processeur de nourriture
+Grands processeurs de nourriture
+Magasin de nourriture
+Magasins de nourriture
+Sièges sociaux de compagnie
+Sièges sociaux de compagnie
+Industrie de machines
+Machines Industrys
+Grande usine d'appareils
+Grands appareils Factorys
+Palais de Xanadu
+Palais de Xanadu
+Oreillette
+Oreillettes
+Le Willington
+Le Willingtons
+Chapeau d'or
+Chapeaux d'or
+Place de Kent
+Places de Kent
+Tours de Lisgar
+Lisgar Towerss
+Bâtiments de première qualité génériques
+Buildingss de première qualité génériques
+Hôpital
+Hôpitaux
+Sièges sociaux d'industrie
+Industrie Headquarterss
+Société d'avocats
+Sociétés d'avocats
+Statue de la liberté
+Statue de Libertys
+Tours de Playfair
+Playfair Towerss
+Salles d'Arlington
+Arlington Roomss
+L'oreillette de César
+Les oreillettes de César
+La Sicile
+Le Sicilys
+Bas bâtiment générique de classe
+Bas bâtiments génériques de classe
+Parc
+Parcs
+Grande industrie métallurgique
+Grand Industrys métallurgique
+Appartements de Gladston.
+Gladston Apts.s
+Quincy
+Quincys
+Tours de Metcalfe
+Metcalfe Towerss
+Appartements de Delmar.
+Delmar Apts.s
+Appartements de coucher du soleil.
+Coucher du soleil Apts.s
+Bâtiments génériques de la bourgeoisie
+Buildingss génériques de la bourgeoisie
+Grande mine
+Grandes mines
+La salle de cinéma de Delmar
+Les salles de cinéma de Delmar
+La salle de cinéma de Baltimore
+Les salles de cinéma de Baltimore
+Piqûre
+Piqûres
+Arc de Davis
+Arcs de Davis
+Tour de néon de Mc
+Tours de néon de Mc
+Industrie pharmaceutique
+Industrys pharmaceutique
+Commissariat de police
+Commissariats de police
+Sièges sociaux civiques d'affaires
+Affaires civiques Headquarterss
+Sièges sociaux d'immobiliers
+Immobiliers Headquarterss
+Restaurant
+Restaurants
+École
+Écoles
+Sièges sociaux de commerce
+Sièges sociaux de commerce
+Grande mine de silicium
+Grandes mines de silicium
+Usine chimique
+Usines chimiques
+Mine chimique
+Mines chimiques
+Industrie de vêtements
+Vêtements Industrys
+Mine de houille
+Mines de houille
+Industrie électronique
+Industrys électronique
+Ferme
+Fermes
+Processeur de nourriture
+Processeurs de nourriture
+Usine d'appareils
+Appareils Factorys
+Industrie métallurgique
+Industrys métallurgique
+Mine
+Mines
+Petit parc
+Petits parcs
+Mine de silicium
+Mines de silicium
+Mine en pierre
+Mines en pierre
+Industrie textile
+Textile Industrys
+Parc de lézard
+Parcs de lézard
+Parc de lutin
+Parcs de lutin
+Parc de poulet
+Parcs de poulet
+Parc étranger
+Parcs étrangers
+Université
+Universités
+Décharge
+Décharges
+Prison
+Prisons
+Musée
+Musées
+Courts de tennis
+Courtss de tennis
+Grande mine en pierre
+Grandes mines en pierre
+Mail
+Mails
+Supermarché
+Supermarchés
+Marché
+Marchés
+Grande industrie textile
+Grand textile Industrys
+Tour d'IFEL
+Tours d'IFEL
+Hôtel de ville
+Hôtels de ville
+Centre commercial
+Centres commerciaux
+Antenne de TV
+Antennes de TV
+TV
+TV
+Bâtiment spontané
+Bâtiments spontanés
+Parc de lézard
+Parcs de lézard
+Parc de lutin
+Parcs de lutin
+Parc de poulet
+Parcs de poulet
+Parc étranger
+Parcs étrangers
+Université
+Universités
+Décharge
+Décharges
+Prison
+Prisons
+Musée
+Musées
+Courts de tennis
+Courtss de tennis
+Stockage chimique
+Stockages chimiques
+Entreposage au froid
+Entreposages au froid
+Stockage de tissus
+Stockages de tissus
+Stockage général
+Stockages généraux
+Stockage de minerai
+Stockages de minerai
+Entreposage au froid superbe
+Entreposages au froid superbes
+Stockage d'importation
+Stockages d'importation
+Stockage d'exportation
+Stockages d'exportation
+Contrôleur de population du monde
+Contrôleurs de population du monde
+Les casernes
+Le Barrackss
+Flèche
+Flèches
+Dôme de ciel
+Dômes de ciel
+Vendeur de ciel
+Vendeurs de ciel
+Galaxie
+Galaxies
+Le ressort
+Les ressorts
+Taramagushi
+Taramagushies
+Salles bleues
+Salles bleues
+Mariko rond
+Marikos rond
+Petit Koto
+Petits Kotos
+Hutte blanche
+Huttes blanches
+Salles de Lyon
+Salles de Lyon
+Manoir bleu
+Manoirs bleus
+Manoir rose
+Manoirs roses
+Salles de Mountbatten
+Salles de Mountbatten
+L'ambassadeur
+Les ambassadeurs
+La flèche
+Les flèches
+Mausolée de légende
+Mausolées de légende
+Mausolée de paradigme
+Mausolées de paradigme
+Centre de recherches
+Centres de recherches
+Stockage de produit chimique d'UW
+Stockages de produit chimique d'UW
+Entreposage au froid d'UW
+Entreposages au froid d'UW
+Stockage de tissus d'UW
+Stockages de tissus d'UW
+Stockage général d'UW
+Stockages généraux d'UW
+Stockage de minerai d'UW
+Stockages de minerai d'UW
+Entreposage au froid superbe d'UW
+Entreposages au froid superbes d'UW
+Stockage d'importation
+Stockages d'importation
+Stockage d'exportation
+Stockages d'exportation
+Moulin de bois de charpente
+Moulins de bois de charpente
+Magasin de livre
+Magasins de livre
+Usine de meubles
+Usines de meubles
+Magasin de meubles
+Magasins de meubles
+Boutique informatique
+Boutiques informatiques
+Studios de film
+Studios de film
+Salon funèbre
+Salons funèbres
+Salon funèbre
+Salons funèbres
+Industrie du papier
+Industries du papier
+Usine d'impression
+Usines d'impression
+Usine d'impression
+Usines d'impression
+Portique
+Portails
+Sièges sociaux de compagnie
+Sièges sociaux de compagnie
+Sièges sociaux de compagnie
+Sièges sociaux de compagnie
+Sièges sociaux de compagnie
+Sièges sociaux de compagnie
+Sièges sociaux de compagnie
+Sièges sociaux de compagnie
+Perte organique
+Perte organique
+Petite perte organique
+Petite perte organique
+Usine d'engrais
+Usines d'engrais
+Petite usine d'engrais
+Petites usines d'engrais
+Ferme A de grain
+Ferme A de grain
+Petite ferme A de grain
+Petite ferme A de grain
+Moulin
+Moulins
+Petit moulin
+Petits moulins
+Usine de coton
+Usines de coton
+Petite usine de coton
+Petites usines de coton
+Usine de pantalon
+Usines de pantalon
+Petite usine de pantalon
+Petites usines de pantalon
+Magasin de pantalon
+Magasins de pantalon
+Boulangerie
+Bakerys
+Usine de Fruitpie
+Usine de Fruitpie
+Ferme A de fruit
+Ferme A de fruit
+Usine en caoutchouc de sÃ¨ve
+Usines en caoutchouc de sÃ¨ve
+Plantation d'arbre en caoutchouc
+Plantations d'arbre en caoutchouc
+Usine en caoutchouc
+Usines en caoutchouc
+Usine de chaussure
+Usines de chaussure
+Magasin de pâté en croûte de fruit
+Magasins de pâté en croûte de fruit
+Magasin de chaussure
+Magasins de chaussure
+Petite ferme végétale A
+Petite ferme végétale A
+Ferme végétale A
+Ferme végétale A
+Petite usine de ragoût
+Petites usines de ragoût
+Usine de ragoût
+Usines de ragoût
+Petite mine organique
+Petites mines organiques
+Mine organique
+Mines organiques
+Petite usine de polymère
+Petites usines de polymère
+usine de polymère
+usines de polymère
+Petite usine en nylon
+Petites usines en nylon
+Usine en nylon
+Usines en nylon
+Petite usine de chemise
+Petites usines de chemise
+Usine de chemise
+Usines de chemise
+Magasin de ragoût
+Magasins de chaussure
+Magasin de chemise
+Magasins de chemise
+Les petits bétail cultivent A
+Les petits bétail cultivent A
+Les bétail cultivent A
+Ferme A de bétail
+Petite usine d'hamburger
+Petites usines d'hamburger
+Usine d'hamburger
+Usines d'hamburger
+Petite mine chimique crue
+Petites mines chimiques crues
+Mine chimique crue
+Mines chimiques crues
+Usine chimique de petite exploitation
+Usines chimiques de petite exploitation
+Usine chimique de extraction
+Usines chimiques de extraction
+Petite usine en cuir
+Petites usines en cuir
+Usine en cuir
+Usines en cuir
+Petite usine de veste en cuir
+Petites usines de veste en cuir
+Usine de veste en cuir
+Usines de veste en cuir
+Magasin de barre d'hamburger
+Magasins de barre d'hamburger
+Magasin de veste en cuir
+Magasins de veste en cuir
+Mine de fer
+Mines de fer
+Petite mine de fer
+Petites mines de fer
+Mine de silicium
+Mines de silicium
+Petite mine de silicium
+Petites mines de silicium
+Mine de houille
+Mines de houille
+Petite mine de houille
+Petites mines de houille
+Industrie sidérurgique
+Industries sidérurgiques
+Petite industrie sidérurgique
+Petites industries sidérurgiques
+Usine de puce de mémoire
+Usines de puce de mémoire
+Petite unité de production de puces de Memeory
+Petites usines de puce de mémoire
+Petite usine de voiture
+Petites usines de voiture
+Usine de TV
+Usines de TV
+Petite usine de TV
+Petites usines de TV
+Magasin de TV
+Magasins de TV
+Petit concessionnaire automobile
+Petits concessionnaires automobiles
+Magasin de voiture de sport
+Magasins de voiture de sport
+Petite industrie de PC
+Petites industries de PC
+Industrie de PC
+Industries de PC
+Usine de voiture de sport
+Usines de voiture de sport
+Petite usine d'unité centrale de traitement
+Petites usines d'unité centrale de traitement
+Usine d'unité centrale de traitement
+Usines d'unité centrale de traitement
+Petite industrie de cuivre
+Petites industries de cuivre
+Industrie de cuivre
+Industries de cuivre
+Petit oléagineux de pin
+Petits oléagineux de pin
+Oléagineux de pin
+Oléagineux de pin
+Petite mine en céramique
+Petites mines en céramique
+Mine en céramique
+Mines en céramique
+Petite mine de cuivre
+Petites mines de cuivre
+Mine de cuivre
+Mines de cuivre
+Mine en aluminium
+Mines en aluminium
+Petite mine en aluminium
+Petites mines en aluminium
+Mine de Cyrolite
+Mines de cryolithe
+Petite mine de cryolithe
+Petites mines de cryolithe
+Mine de silane
+Mines de silane
+Petite mine de silane
+Petites mines de silane
+Industrie d'aluminium
+Industries d'aluminium
+Petite industrie d'aluminium
+Petite industrie d'aluminium
+Usine de TFT
+Usines de TFT
+Petite usine de TFT
+Petites usines de TFT
+Usine de vélo de moteur
+Usines de vélo de moteur
+Usine de téléphone portable
+Usines de téléphone portable
+Petite usine de téléphone portable
+Petites usines de téléphone portable
+Magasin de téléphone portable
+Magasins de téléphone portable
+Agence de vélo de moteur
+Agences de vélo de moteur
+Usine de moteurs
+Usines de moteurs
+Industrie de pneu
+Industries de pneu
+Usine de Humvee
+Usines de Humvee
+Industrie de cuiseur
+Industries de cuiseur
+Agence de Humvee
+Agences de Humvee
+Magasin de cuiseur
+Magasins de cuiseur
+Mine de gypse
+Mines de gypse
+Mine de pierre à chaux
+Mines de pierre à chaux
+Mine de gravier
+Mine de gravier
+Industrie du bâtiment
+Industries du bâtiment
+Usine de système de contrôle
+Usines de système de contrôle
+Usine de système de réseau
+Usines de système de réseau
+Industrie concrète
+Industries de Conscrete
+Industrie lourd
+Heavy Industries
+Usine de serveur
+Usines de serveur
+Industrie de plaque de plâtre
+Industries de plaque de plâtre
+Usine robotique de système
+Usines robotiques de système
+Industrie de machine commerciale
+Industries de machine commerciale
+Usine en verre
+Usines en verre
+Usine de système de Conveyorbelt
+Usines de système de Conveyorbelt
+Industrie d'ordinateur de gestion
+Industries d'ordinateur de gestion
+Fluides
+0
+Publicité
+coups
+coups/jour
+Machines commerciales
+articles
+articles/jour
+Voitures
+voitures
+voitures/semaine
+Produits chimiques
+kilogramme
+kg/day
+Vêtements
+articles
+articles/jour
+Services informatiques
+heures
+heures/semaine
+Force de construction
+tonnes
+tonnes/jour
+Pharmacie
+kilogramme
+kg/day
+Nourriture traitée
+articles
+articles/jour
+Composants électroniques
+articles
+articles/jour
+Tissus et fils
+mètres
+mètres/jour
+Films
+Films
+Films/jour
+Nourriture fraîche
+kilogramme
+kg/day
+Essence
+lt
+lt/day
+hiPeople
+personnes
+personnes/mois
+hiWorkForce
+ouvriers
+ouvriers/jour
+Appareils électroménagers
+articles
+articles/jour
+Services juridiques
+heures
+heures/semaine
+Boissons alcoolisées
+articles
+articles/jour
+loPeople
+personnes
+personnes/mois
+loWorkForce
+ouvriers
+ouvriers/jour
+Machines
+machines
+machines/jour
+Métaux
+kilogramme
+kg/day
+midPeople
+personnes
+personnes/mois
+midWorkForce
+ouvriers
+ouvriers/jour
+Bureaux
+Pétrole brut
+lt
+lt/day
+Minerai
+kilogramme
+kg/day
+Produits chimiques crus
+kilogramme
+kg/day
+Charbon
+kilogramme
+kg/day
+Silicium
+kilogramme
+kg/day
+Pierre
+kilogramme
+kg/day
+Matériaux organiques
+kilogramme
+kg/day
+Plastiques
+kilogramme
+kg/day
+Jouets
+articles
+articles/jour
+Bois de construction
+kilogramme
+kg/day
+Livres
+livres
+livres/jour
+Meubles
+articles
+articles/jour
+Papier
+kilogramme
+kg/day
+Cd
+Cd
+Cd/jour
+Matériel imprimé
+kilogramme
+kg/day
+Engrais
+kilogramme
+kg/day
+Engrais
+kilogramme
+kg/day
+Blé
+kilogramme
+kg/day
+Coton
+kilogramme
+kg/day
+Farine
+kilogramme
+kg/day
+Feuilles de coton
+Mètres
+Mètres/jour
+Pantalon
+article
+articles/jour
+pommes
+article
+articles/jour
+oranges
+article
+articles/jour
+rubbertree
+article
+articles/jour
+rubbersap
+article
+articles/jour
+rubbermat
+article
+articles/jour
+fruitpie
+article
+articles/jour
+chaussures
+article
+articles/jour
+carottes
+article
+articles/jour
+pommes de terre
+article
+articles/jour
+ragoût
+article
+articles/jour
+orgaincchems
+article
+articles/jour
+polymères
+article
+articles/jour
+nylon
+article
+articles/jour
+chemises
+article
+articles/jour
+boeuf
+article
+articles/jour
+leathermat
+article
+articles/jour
+hamburgers
+article
+articles/jour
+rawchem
+article
+articles/jour
+miningchem
+article
+articles/jour
+leathersheet
+article
+articles/jour
+leatherjacket
+article
+articles/jour
+minerai de fer
+article
+articles/jour
+charbon
+article
+articles/jour
+acier
+article
+articles/jour
+silicium
+article
+articles/jour
+puces de mémoire
+article
+articles/jour
+petites voitures
+article
+articles/jour
+minerai de cuivre
+article
+articles/jour
+minerai en céramique
+article
+articles/jour
+huile de pin
+article
+articles/jour
+cuivre
+article
+articles/jour
+morceau d'unité centrale de traitement
+article
+articles/jour
+voiture de sport
+article
+articles/jour
+système de PC
+article
+articles/jour
+minerai en aluminium
+article
+articles/jour
+silane
+article
+articles/jour
+aluminium
+article
+articles/jour
+cryolithe
+article
+articles/jour
+écran de tft
+article
+articles/jour
+motocyclette
+article
+articles/jour
+téléphone portable
+article
+articles/jour
+pneus
+article
+articles/jour
+moteur
+article
+articles/jour
+TV
+article
+articles/jour
+humvee
+article
+articles/jour
+verre
+article
+articles/jour
+Cuiseur
+article
+articles/jour
+Concret
+article
+articles/jour
+Plaque de plâtre
+article
+articles/jour
+Système robotique
+article
+articles/jour
+Système de contrôle
+article
+articles/jour
+Système de Conveyorbelt 
+article
+articles/jour
+Système de réseau
+article
+articles/jour
+Ordinateur de gestion
+article
+articles/jour
+Serveurs
+article
+articles/jour
+Gypse
+article
+articles/jour
+Pierre à chaux
+article
+articles/jour
+Gravier
+article
+articles/jour
+FacilityKinds
+0
+Capitol
+Bureaux
+Sièges sociaux
+Fermes
+Usines
+Équipements publics
+Residentials
+Commerce
+Spécial
+Hôtel de ville
+Centre commercial
+Public
+Domaines de Magna
+Bureaux
+Sièges sociaux
+Fermes
+Usines
+Public
+Residentials
+Commerce
+Spécial
+Hôtel de ville
+Centre commercial
+Équipements
+Équipements
+Équipements
+Équipements
+Équipements
+Équipements
+Équipements
+Équipements
+Bureaux
+Public
+Commerce
+Industries
+Residentials
+Sièges sociaux
+Spécial
+Hôtel de ville
+Centre commercial
+Bureaux
+Sièges sociaux
+Fermes
+Usines
+Public
+Residentials
+Commerce
+Spécial
+Hôtel de ville
+Centre commercial
+Entrepôts
+Commerce
+Sièges sociaux
+Spécial
+TycoonLevels
+0
+Apprenti
+Étude toujours de l'économie. Protégé par l'IFEL, a la priorité dans des listes de fournisseur et de client. Le coût d'un bâtiment est retourné si le bâtiment est démoli. Peut augmenter jusqu'à des équipements de %s. Peut acheter des centres commerciaux. 50%% de dépenses de recherches est retourné à la fin de l'année. 
+Entrepreneur
+Est protégé par l'IFEL, a toujours certaines priorités dans des listes de fournisseur et de client. 2/3 du coût d'un bâtiment est retourné si le bâtiment est démoli. Peut augmenter jusqu'à des équipements de %s. Peut acheter des centres commerciaux. 30%% de dépenses de recherches est retourné à la fin de l'année. 
+Vous devez payer la dette originale à l'IFEL ($100.000.000). Vous devez avoir un supérieur moyen de rapport de bénéfice à $1,000/h
+Légende
+800 points de prestige. Avoir accès aux technologies de la rangée 5. Ne peut pas acheter des centres commerciaux. Aucuns priorites, aucune protection contre l'IFEL. Peut augmenter jusqu'à des équipements de %s.
+Vous devez payer $40.000.000.000 à l'IFEL. Vous devez avoir un supérieur moyen de rapport de bénéfice au prestige plus considérablement que 15000 de $500,000/h.  
+Maître
+200 points de prestige. Avoir accès aux technologies de la rangée 3. Ne peut pas acheter des centres commerciaux. Aucuns priorites, aucune protection contre l'IFEL. Peut augmenter jusqu'à des équipements de %s.
+Vous devez payer $2.000.000.000 à l'IFEL. Supérieur moyen de rapport de bénéfice au prestige plus considérablement que 2500 de $50,000/h.  
+Paradigme
+400 points de prestige. Avoir accès aux technologies de la rangée 4. Ne peut pas acheter des centres commerciaux. Aucuns priorites, aucune protection contre l'IFEL. Peut augmenter jusqu'à des équipements de %s.
+Vous devez payer $20.000.000.000 à l'IFEL. Supérieur moyen de rapport de bénéfice au prestige plus considérablement que 5000 de $100,000/h. 
+Brasseur d'affaires
+100 points de prestige. Avoir accès aux technologies de la rangée 2. Ne peut pas acheter des centres commerciaux. Aucuns priorites, aucune protection contre l'IFEL. Peut augmenter jusqu'à des équipements de %s. 
+Vous devez payer $500.000.000 à l'IFEL. Vous devez avoir un supérieur moyen de rapport de bénéfice à $5,000/h
+Au delà de la légende
+points de prestige de %s. Ne peut pas acheter des centres commerciaux. Aucuns priorites, aucune protection contre l'IFEL. Peut augmenter jusqu'à des équipements de %s. 
+Vous devez payer %s à l'IFEL. Vous devez faire maintenir à un supérieur moyen de rapport de bénéfice à %s/h. votre prestige plus considérablement que 15000.
+Ministères
+0
+Santé
+Éducation
+La défense
+Agriculture
+Industrie légère
+Industrie lourd
+Commerce
+Logement
+Projets
+0
+Universités
+Enlèvement des ordures
+Assurance du feu
+Assurance de santé
+Prisons
+Musées
+Assurance de police
+Assurance d'école
+Services et amusement
+Équipements de récréation
+Le chômage
+Richesse économique
+PublicFacilities
+0
+Universités
+Enlèvement des ordures
+Assurance du feu
+Assurance de santé
+Prisons
+Musées
+Assurance de police
+Assurance d'école
+Équipements de récréation
+Estimations
+0
+Accomplissement de campagne
+Universités
+Enlèvement des ordures
+Assurance du feu
+Assurance de santé
+Prisons
+Musées
+Assurance de police
+Croissance de ville
+Assurance d'école
+Services et amusement
+Équipements de récréation
+Impôts
+Emploi
+Richesse économique
+WorldProjects
+0
+Universités
+Enlèvement des ordures
+Assurance du feu
+Assurance de santé
+Prisons
+Musées
+Assurance de police
+Assurance d'école
+Services et amusement
+Équipements de récréation
+Le chômage
+Richesse économique
+WorldRatings
+0
+Accomplissement de campagne
+Universités
+Enlèvement des ordures
+Assurance du feu
+Assurance de santé
+Prisons
+Musées
+Assurance de police
+Croissance de ville
+Assurance d'école
+Services et amusement
+Équipements de récréation
+Impôts
+Emploi
+Richesse économique
+Ce service appartient à %s. Il n'y a aucun conseil pour vous.
+Aucuns conseils pour ce service.
+Conseil : Arrêter tous les équipements qui perdent l'argent.
+Conseil : Aller « INSPECTENT » et engagent quelques fournisseurs.
+Avertissement : Ce service a besoin du fournisseur pour %s.
+Avertissement : Le fournisseur de %s se sont laissés tomber. Engager des autres fournisseurs.
+Avertissement : Les ventes de %s ont chuté. Obtenir loué par des autres équipements.
+Conseil : Vous importez %s parce que vos fournisseurs se vendent à des autres personnes.
+Avertissement : Vos fournisseurs de %s vendent leur production entière aux personnes différentes.
+Avertissement : ce service a besoin de plus de main-d'oeuvre de %s.
+Avertissement : Pas assez d'appui de compagnie. Vous devez construire les sièges sociaux de compagnie ou les envisager de l'améliorer, si vous l'avez déjà construit.
+Avertissement : Ce service a besoin de la main-d'oeuvre de %s.
+Évolution : %d%%
+Mise à niveau de niveau : %d
+Conseil : Le centre commercial a été loué pour construire ceci. Vous pourriez engager quelqu'un meilleur marché.
+Avertissement : Vous devez attirer plus de personnes à ce bâtiment.
+Conseil : Vous devez attirer plus de personnes à ce bâtiment.
+Conseil : Vous pouvez encore attirer plus de personnes à ce bâtiment.
+Conseil : Il y a trop peu de personnes dans %s. Vous devrez concurrencer violemment. Essai rendant le loyer inférieur.
+Félicitations : Ce bâtiment fonctionne BIEN. Peut-être vous pouvez se lever le loyer un peu.
+occupation de %d%% %s
+immobiliers de %s
+[fermé]
+%d%% réparé
+habitants de %d. charmes de %d. QOL : qualité de voisinage de %d%% : beauté de %d%% : crime de %d%% : pollution de %d%% : %d%%.
+Conseil : Le site Web d'hôtel de ville de visite pour trouver des informations valables.
+Conseil : Le site Web du centre commercial de visite pour voir qui est se vendant ou achetant ce qui.
+citoyens de %d de %s déplacés en le jour passé.
+%d%% dû à de bonnes offres résidentielles, 
+%d%% pour trouver un travail, 
+%d%% dû à la bonne qualité des services publics.
+les citoyens de %d de %s ont sorti le jour passé.
+%d%% dus aux salaires et aux conditions de travail, 
+%d%% dû aux conditions résidentielles, 
+%d%% dus à la basse assurance des services publics, 
+%d%% dû au chômage, 
+%d%% dû au manque de produits et de services.
+%d%% dû aux désastres.
+Aucuns mouvements de %s.
+habitants de %s
+%s %s (unemp de %d%%)
+Conseil : Être sûr qu'il y a assez d'ouvriers pour effectuer la recherche.
+%s, attendent svp tandis que la recherche est accomplie…
+Conseil : Aller « INSPECTENT » pour effectuer de nouveaux researchs.
+recherche de %d%% accomplie
+Recherchant %s. coûté : %s.
+Compagnie soutenue à %d%%.
+Exécution de recherches : %s.
+Conseil : Essayez-vous de se vendre principalement aux personnes de première qualité ? Alors la qualité est la clef.
+Conseil : Essayez-vous de se vendre principalement à de basses personnes de classe ? Alors le prix est la clef.
+Avertissement : Vous avez un problème avec la concurrence. Obtenir une certaine publicité.
+Avertissement : Il coud que vous visez des costumers d'une manière fausse.
+Conseil : Essayer d'attirer plus de clients en offrant une meilleure qualité et des prix.
+Félicitations : Ce service fonctionne BIEN. Quoi qu'il en soit vous pourriez s'occuper de plus de personnes.
+Félicitations : Ce service fonctionne BIEN. Garder juste de cette façon.
+Avertissement : le besoin de service de %s plus approvisionnements.
+Le service commencé juste il y a peu d'heures, là ne sont aucun conseil pour maintenant.
+Clients potentiels (par jour) : %d salut, %d mi, %d bas. Clients réels : %d salut, %d mi, %d bas.
+Conseil : Production de %s. Vous n'avez aucun client.
+Avertissement : Ce service exige de %s de produire. Engager quelques fournisseurs ou essai pour sur-payer ceux que vous avez déjà.
+Conseil : Ce service a besoin de plus de %s pour produire %s.
+Conseil : Aller « INSPECTENT » et engagent plus de fournisseurs pour %s.
+Conseil : Vous êtes des achats d'un centre commercial. Trouver quelques fournisseurs locaux.
+Il n'y a rien que nous pouvons faire au sujet du temps mais attendre.
+Avertissement : Ne peut pas fonctionner jusqu'à ce que vous recherchiez encore %s.
+Avertissement : Ce service manque des services. Vérifier l'étiquette de services sur le panneau d'INSPECTION.
+approvisionnements
+Conseil : Cette ville exige plus de residentials pour des personnes de %s.
+Conseil : Les nouveaux magasins et d'autres services encourageraient l'activité économique.
+Avertissement : Il y a des %d%% du chômage dans des personnes de %s.
+Avertissement : Il y a un problème avec %s.
+Conseil : Vous devriez attirer plus d'ouvriers à ce service au cas où vous voudriez se lever son rapport d'opération.
+Avertissement : Pas assez d'appui de compagnie. Vous devez construire les sièges sociaux de compagnie ou les envisager de l'améliorer, si vous l'avez déjà construit.
+assurance de %s à travers la ville rapportée à %d%%.
+Cette ville n'est pas peuplée !
+%s n'est pas peuplé. Investir ici et l'ordre de %s te donnera une somme d'argent d'aditional.
+Les citoyens de %s exigent plus de %s.
+Les citoyens de %s exigent plus de %s.
+Pour plus d'informations sur la visite %s de %s, le journal local.
+%s résidentiel. habitants de %d. %d%% résistant au crime, %d%% résistant à la pollution. Qualité de conception : %d%%.
+bureaux de %d à louer. Qualité de conception : %d%%.
+Produit jusqu'à
+%s de %s
+Exige
+%s
+Utilise :
+Exige la recherche %s à %s.
+Magasins jusqu'à 
+%d %s de %s
+Ventes jusqu'à
+par niveau.
+Achats jusqu'à
+pour servir des clients de %d maximum
+ATTENTION ! LE MAIRE OF %S A DEMANDÉ LA DÉMOLITION DE CE BÂTIMENT DÛ À L'URBANISME. LA DÉMOLITION AURA LIEU EN MOIS DE %D. L'IFEL PAYERA LE PROPRIÉTAIRE %S COMME COMPENSATION.
+Commande des compagnies de %d, les équipements de %d, tuiles de %d dans la carte (%s dans des impôts fonciers).
+articles réalisés par %d de recherches.
+A été élu maire de %s dans la campagne de %d.
+Était le maire de %s de %d à %d avec un %d%% de l'estimation populaire.
+A été mis le feu du maire de %s dans %d.
+Était le président de %s de %d à %d avec un %d%% de l'estimation populaire.
+A été élu président de %s dans la campagne de %d.
+Était le ministre de %s de %d à %d avec un %d%% de l'estimation d'IFEL.
+A été nommé ministre de %s dans la campagne de %d par %s.
+A été déclaré dans bankrupty dans %d
+Dépassé dans %d
+Niveau réalisé %s dans %d
+N'a pas pu améliorer de niveau l'année dernière. Vous n'avez pas payé $%.0n
+N'a pas pu améliorer de niveau l'année dernière. Vous avez besoin d'un rapport moyen de bénéfice de $%.0n/h (vous avez eu l'année dernière $%.0n/h)
+Vous devez être élu maire au moins une fois
+Vous devez être élu président au moins une fois
+N'a pas pu améliorer de niveau l'année dernière. Vous avez besoin des points de prestige de %d
+Niveau perdu %s dans %d. Vous n'avez pas eu les points required de prestige de %d
+Niveau perdu %s dans %d. Vous n'avez pas eu le rapport moyen required de bénéfice de $%.0n/h (vous avez eu l'année dernière $%.0n/h)
+Niveau perdu %s dans %d.
+%s jointif dans %d
+et
+Maire des impôts réglés de %s pour %s à %s%%.
+Maire d'ensemble de %s une subvention pour %s.
+%s a lancé une campagne pour %s.
+campagne withdrawed par %s pour %s
+%s a été élu maire de %s.
+%s était maire réélu de %s.
+%s n'a aucun maire.
+%s a été mis le feu du maire de %s.
+%s a enlevé ses subventions. La population est déjà plus grande que 9.000.
+%s était bankrupt avoué.
+%s a construit %s près de %s.
+%s a fait un compte remettre à zéro.
+%s a joint %s.
+La carte satellite de %s a été mise à jour.
+%s a été nommé %s.
+%s a été élu président de %s
+%s était président réélu de %s.
+%s n'a aucun président.
+%s a lancé une campagne pour la présidence de %s.
+campagne withdrawed par %s pour la présidence de %s.
+points de prestige de %d de la publicité.
+%d%% opérationnel.
+Président : %s.
+Président évalué à %d%%. années de %d aux élections.
+Aucun président. années de %d aux élections.
+Conseil : Si vous avez plus les points de 1000 de prestige vous pouvez lancer votre campagne pour la présidence de %s.
+visionneuses de %d
+%d%% évaluant
+Heures par jour de la radiodiffusion %d. %d%% de films publicitaires. %d%% de temps de films publicitaires vendu. antennes de %d mondiales. Qualité de station de télévision : %d%%, efficacité : %d%%.
+Main d'oeuvre de location à %d%%
+%s : %d de %d.
+AVERTISSEMENT : Il n'y a aucune antenne attachée à ce service. Utiliser le bouton de relier dans le panneau d'INSPECTION pour relier une antenne.
+Assistance potentielle : %d.
+Estimation de la Manche : %d%%.
+CONSEIL : Employer « relient » le bouton dans le panneau d'INSPECTION pour relier cette antenne à une station.
+%d%% accompli.
+En raison arrêté des conditions atmosphériques.
+bureaux de %d loués. index de qualité de %d. BAP : %d%%. Beauté : %d%%. Crime : %d%%. Pollution %d%%.
+Immeuble de bureaux
+%d%% de bureaux loués
+Stockage :
+%s de %s à l'index qualiy de %d%%.
+Ministre de %s
+Ministère de %s
+ventes de %s à %d%%
+production de %s : %d%%
+Production : %d%%
+%s de %s à l'index de qualité de %d%%, efficacité de %d%%.
+Prix : %s
+Permis : %s
+Mettre en application. Coût : %s
+Mettre en application. Coût : %s /h
+Équipements : %d
+Noblesse : spécialiste de %s
+Prestige : spécialiste de %s
+Niveau : %s
+Réduction de livre de paie : %s%%
+Qualité du travail : %s%%
+Beauté : %s%%
+Entretien : %s%%
+Intimité : %s%%
+Sécurité : %s%%
+Environnement : %s%%
+Efficacité : %s%%
+Charmes : spécialiste de %s
+Qualité : spécialiste de %s
+Date prévue de transcendance : % de jours J.
+AVERTISSEMENT ! Tous les équipements appartenant à %s disparaîtront excepté ce bâtiment. Ceci peut affecter vos équipements en ce monde.
+Arbres croissants à %d%%
+Autorisation : index de qualité de « %s » : %d%%.
+Pelliculage : jour %d de « %s » de %d, %d%% fait.
+Maintenant jouant :
+De première qualité
+La bourgeoisie
+Basse classe
+Cadres
+Professionnels
+Ouvriers
+points de prestige de %d.
+Arrêté par %s.
+Arrêté : a besoin de raccordements.
+Arrêté : a besoin d'argent.
+loué
+rejeté par la politique de compagnie
+a été déjà loué
+raccordement non permis
+ne peut pas avoir plus que des raccordements de %d
+Approvisionnements
+Clients
+Raccordement à
+%s emprunté par %s du %s.
+Maire de %s
+maire
+Recherche « %s » accomplie. Vérifier les nouveaux articles en votre page de construction.
+Rechercher « %s » accompli.
+Recherche vendue. Quelques articles ont été désactivés en votre page de construction.
+Recherche vendue.
+%s avec succès transféré.
+%s attend avec intérêt l'échec de %s.
+%s devient neutre à %s.
+fidélité vouée par %s à %s.
+%s aspire pour réaliser le niveau %s.
+%s avancé au niveau %s.
+%s pour avancer au niveau %s.
+%s est sous l'examen minutieux de faillite.
+NOUVELLE ANNÉE HEUREUSE !
+niveau perdu %s. de %s.
+NTA
+Prestige
+Richesse
+Efficacité : %d%%
+Charmes : %d
+Généralités
+Commerce
+Industrie
+Immobiliers
+Loyer|%d|Entretien|%d|
+Fournisseurs|%d|
+Prix|%d|Fournisseurs|%d|Annonces|%d|
+Prix|%d|Fournisseurs|%d|Clients|%d|
+Salaires|%d|
+Loyer|%d|Entretien|%d|
+Production : 
+Tournoi

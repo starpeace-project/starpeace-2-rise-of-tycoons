@@ -1,0 +1,2821 @@
+Accounts
+0
+Net Profit (losses)
+Roads
+Taxes [Last Year]
+Farms
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Construction
+Business Machines
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Loans
+Car industries
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Money Recieved
+Chemical plants
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Money Sent
+Clothes
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Rents
+Construction
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Maintenance
+Electronic
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Repairs
+Food Processing
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Rents
+Heavy industry
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Maintenance
+Appliance Industries
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Toys
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Residentials
+Repairs
+Metallurgic industry
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Mines
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Oil rigs
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Salaries
+Textile industry
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Refineries
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+State Budget
+Software
+Cost of services
+Sales revenue
+Salaries
+Operating costs
+Plastics
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Operating costs
+Legal Services
+Cost of services
+Sales revenue
+Salaries
+Operating costs
+Cars
+Cost of goods sold
+Salaries
+Sales revenue
+Clothes Stores
+Cost of goods sold
+Salaries
+Sales revenue
+Food
+Cost of goods sold
+Salaries
+Sales revenue
+Bars
+Cost of goods sold
+Salaries
+Sales revenue
+Commerce
+Headquarters
+Household Appliances
+Cost of goods sold
+Salaries
+Sales revenue
+Toy Stores
+Cost of goods sold
+Salaries
+Sales revenue
+Researchs
+Supermarkets
+Cost of goods sold
+Salaries
+Sales revenue
+Salaries
+Restaurants
+Cost of goods sold
+Salaries
+Sales revenue
+Equipment
+Movie Theaters
+Cost of movie licenses
+Salaries
+Movie revenues
+Services
+Implementation Cost
+Warehouses
+Cost of goods sold
+Sales revenue
+Salaries
+Operating costs
+TV
+Production costs
+Advertisement revenue
+Salaries
+Operating costs
+Industries
+Rental properties
+Pharmaceutics
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Special
+Liquor Production
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Compensations
+Bank
+Debtors payments
+Issued loans
+Loan
+Loan payments
+Public Facilities
+Salaries
+Drug Stores
+Cost of goods sold
+Salaries
+Sales revenues
+Gas Stations
+Cost of goods sold
+Salaries
+Revenues
+Offices
+Firms
+Road Construction
+Road Demolition
+Road Maintenance
+Land Tax
+Lumber Mills
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Furniture Stores
+Cost of goods sold
+Salaries
+Sales revenue
+Book Stores
+Cost of goods sold
+Salaries
+Sales revenue
+Furniture Industry
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Computer Stores
+Cost of goods sold
+Salaries
+Sales revenue
+Movie Studios
+Cost of materials
+Licences revenue
+Salaries
+Production costs
+Funeral Parlors
+Cost Materials
+Salaries
+Funeral revenues
+Paper Industry
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Printing Plant
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+CD Industry
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+CD Stores
+Cost of goods sold
+Salaries
+Sales revenue
+Organic Waste
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Fertiliser
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Grain Farm A
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Mill
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Cotton Plant
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Trouser Plant
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Trouser Shop
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Bakery
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Fruit Farm
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Shoe Factory
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Rubber Factory
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Rubber Sap
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Rubber Tree
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Fruit Pie Factory
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Shoe Shop
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Fruit Pie Shop
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Vegtable Farm A  
+Cost of raw materials   
+Sales revenue    
+Salaries    
+Operating costs    
+Stew Factory    
+Cost of raw materials    
+Sales revenue    
+Salaries    
+Operating costs    
+Organic mine    
+Cost of raw materials   
+Sales revenue    
+Salaries    
+Operating costs    
+Polymer Factory   
+Cost of raw materials    
+Sales revenue    
+Salaries    
+Operating costs    
+Nylon Factory
+Cost of raw materials    
+Sales revenue    
+Salaries    
+Operating costs    
+Shirt factory
+Cost of raw materials    
+Sales revenue    
+Salaries    
+Operating costs    
+Cattle Farm A   
+Cost of raw materials    
+Sales revenue    
+Salaries    
+Operating costs   
+Burger Factory  
+Cost of raw materials    
+Sales revenue    
+Salaries    
+Operating costs    
+Raw Chemical mine
+Cost of raw materials    
+Sales revenue    
+Salaries    
+Operating costs    
+Mining Chemical Plant
+Cost of raw materials    
+Sales revenue    
+Salaries    
+Operating costs    
+Leather factory
+Cost of raw materials    
+Sales revenue    
+Salaries    
+Operating costs    
+Leather jacket plant
+Cost of raw materials    
+Sales revenue    
+Salaries    
+Operating costs
+Burger Shop
+Cost of raw materials    
+Sales revenue    
+Salaries    
+Operating costs    
+Leather Jacket Shop
+Cost of raw materials    
+Sales revenue    
+Salaries    
+Operating costs      
+Stew Shop
+Cost of raw materials    
+Sales revenue    
+Salaries    
+Operating costs       
+Shirt Shop
+Cost of raw materials    
+Sales revenue    
+Salaries
+Operating costs
+TV Manufacturing
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Small Car Industry
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Iron Mines
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Silicon Mines
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Coal Mines
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Steel Industry
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Memory Chip Industry
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+TV Stores
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Small Car Dealerships
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Copper Mines
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Ceramic Mines
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Pine Oil
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Copper Industry
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+CPU Plants
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Sports Car Industry
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+PC Manufacture
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Sports Car Dealerships
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Aluminium Mine
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Cryolite Mine
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Silane Mine
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Aluminium Industry
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+TFT Industry
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Motor Bike Industry
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Mobile Phone Industry
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Mobile Phone Store
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Motor Mike Dealership
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Engine Industry
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Tire Industry
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Humvee Indsutry
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Cooker Industry
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Humvee Dealership
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Cooker Store
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Glass Industry
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Conveyorbelt Industry
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Business Computer Industry
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Concrete Industry
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Heavy Industry
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Server Industry
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Plasterboard Industry
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Robotic Industry
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Business Machine Industry
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Gypsum Mine
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Limestone Mine
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Gravel Mine
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Construction Industry
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Control System Industry
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Network System Industry
+Cost of raw materials
+Sales revenue
+Salaries
+Operating costs
+Services
+0
+Bars
+Cars
+Clothing and Footwear
+Pharmaceutics
+Processed Food
+Fresh Food
+Gas
+Household Appliances
+Movies
+Restaurants
+Toys
+Books
+Furniture
+Computers
+Funerals
+CDs
+Trousers
+Bakery
+Shoes
+Fruit Pies
+Leather Jackets
+Mc Puglands Burger Meal
+Shirts
+Irish Stew
+Cutlery
+Table Cloth
+Fresh Buns
+Glasses
+Plates
+Small Car
+Televisions
+Ties
+Suits
+Under Wear
+Hats
+Socks
+Lingerie
+Scarves
+Leather Trousers
+Sports Cars
+MP3 Players
+Printers
+Camcorder
+Hoovers
+DVD Players
+Kettle
+Microwaves
+Toasters
+Cookers
+Motor Bikes
+Mobile Phones
+Car Wash Kit
+Car Polish
+Car Air Freshener
+Fluffy Dice
+Humvee
+PC
+Facilities
+0
+Large Farm
+Large Farms
+Large Food Processor
+Large Food Processors
+Food Store
+Food Stores
+Farm
+Farms
+Food Processor
+Food Processors
+Guruh Dome
+Guruh Domes
+Lothar Dome
+Lothar Domes
+Black Bowl
+Black Bowls
+Souls Dome
+Souls Domes
+Generic low class buildings
+Generic low class buildingss
+Capitol
+Capitols
+Sting
+Stings
+Davis Bow
+Davis Bows
+Mc Neon Tower
+Mc Neon Towers
+Jail
+Jails
+Jail
+Jails
+Jail
+Jails
+Fire Station
+Fire Stations
+Police Station
+Police Stations
+Jail
+Jails
+Jail
+Jails
+Bank
+Banks
+Bar
+Bars
+Business Machines Industry
+Business Machines Industrys
+Car Factory
+Car Factorys
+Car Store
+Car Stores
+Big Park
+Big Parks
+Chemical Plant
+Chemical Plants
+Small Chemical Plant
+Small Chemical Plants
+Chemical Mine
+Chemical Mines
+Small Chemical Mine
+Small Chemical Mines
+Clothes Store
+Clothes Stores
+Clothing Factory
+Clothing Factorys
+Small Clothing Factory
+Small Clothing Factorys
+Coal Mine
+Coal Mines
+Small Coal Mine
+Small Coal Mines
+Software Firm
+Software Firms
+Construction Industry
+Construction Industrys
+Electronic Industry
+Electronic Industrys
+Small Electronic Industry
+Small Electronic Industrys
+Farm
+Farms
+Food Processor
+Food Processors
+Small Food Processor
+Small Food Processors
+Food Store
+Food Stores
+Company Headquarters
+Company Headquarterss
+Machinery Industry
+Machinery Industrys
+Appliances Factory
+Appliances Factorys
+Small Appliances Factory
+Small Appliances Factorys
+Household Appliances Store
+Household Appliances Stores
+Needle
+Needles
+Balloon House
+Balloon Houses
+Funnel
+Funnels
+Cottage
+Cottages
+Generic high class building
+Generic high class buildings
+Hospital
+Hospitals
+Lizard Park
+Lizard Parks
+Goblin Park
+Goblin Parks
+Chicken Park
+Chicken Parks
+Alien Park
+Alien Parks
+College
+Colleges
+Dump
+Dumps
+Jail
+Jails
+Museum
+Museums
+Tennis courts
+Tennis courtss
+Town Hall
+Town Halls
+Trade Center
+Trade Centers
+Industry Headquarters
+Industry Headquarterss
+Lawyers Firm
+Lawyers Firms
+Statue of Liberty
+Statue of Libertys
+Liquor plant
+Liquor plants
+Recycled Homes
+Recycled Homess
+Recycled Buildings
+Recycled Buildingss
+Sardine Cans
+Sardine Canss
+Generic low class building
+Generic low class buildings
+Park
+Parks
+Metal Industry
+Metal Industrys
+Small Metal Industry
+Small Metal Industrys
+Dreams Tower
+Dreams Towers
+The Mushrooms
+The Mushroomss
+The Bushings
+The Bushingss
+Screwer
+Screwers
+Castles
+Castless
+Generic middle class building
+Generic middle class buildings
+Mine
+Mines
+Small Mine
+Small Mines
+Movie Theater
+Movie Theaters
+Ribs
+Ribss
+Red Ball
+Red Balls
+Duango
+Duangos
+Police and Fire Station 
+Police and Fire Stations
+Civic Affairs Headquarters
+Civic Affairs Headquarterss
+Real Estates Headquarters
+Real Estates Headquarterss
+Restaurant
+Restaurants
+School
+Schools
+Commerce Headquarters
+Commerce Headquarters
+Silicon Mine
+Silicon Mines
+Small Silicon Mine
+Small Silicon Mines
+Small Farm
+Small Farms
+Small Park
+Small Parks
+Stone Mine
+Stone Mines
+Small Stone Mine
+Small Stone Mines
+Big Market
+Big Markets
+Flea Market
+Flea Markets
+Textile Industry
+Textile Industrys
+Small Textile Industry
+Small Textile Industrys
+IFEL Tower
+IFEL Towers
+Toy Factory
+Toy Factorys
+Toy Store
+Toy Stores
+TV Antenna
+TV Antennas
+TV
+TVs
+College
+Colleges
+Museum
+Museums
+College
+Colleges
+Museum
+Museums
+College
+Colleges
+Museum
+Museums
+School
+Schools
+College
+Colleges
+Museum
+Museums
+College
+Colleges
+Museum
+Museums
+Lizard Park
+Lizard Parks
+Goblin Park
+Goblin Parks
+Chicken Park
+Chicken Parks
+Alien Park
+Alien Parks
+Dump
+Dumps
+Lizard Park
+Lizard Parks
+Goblin Park
+Goblin Parks
+Chicken Park
+Chicken Parks
+Alien Park
+Alien Parks
+Dump
+Dumps
+Lizard Park
+Lizard Parks
+Goblin Park
+Goblin Parks
+Chicken Park
+Chicken Parks
+Alien Park
+Alien Parks
+Dump
+Dumps
+Big Park
+Big Parks
+Hospital
+Hospitals
+Statue of Liberty
+Statue of Libertys
+Park
+Parks
+Small Park
+Small Parks
+Lizard Park
+Lizard Parks
+Goblin Park
+Goblin Parks
+Chicken Park
+Chicken Parks
+Alien Park
+Alien Parks
+Dump
+Dumps
+Lizard Park
+Lizard Parks
+Goblin Park
+Goblin Parks
+Chicken Park
+Chicken Parks
+Alien Park
+Alien Parks
+Dump
+Dumps
+Car Factory
+Car Factorys
+Car Store
+Car Stores
+Large Chemical Plant
+Large Chemical Plants
+Large Chemical Mine
+Large Chemical Mines
+Large Coal Mine
+Large Coal Mines
+Construction Industry
+Construction Industrys
+Machinery Industry
+Machinery Industrys
+Large Metallurgic Industry
+Large Metallurgic Industrys
+Large Mine
+Large Mines
+Large Silicon Mine
+Large Silicon Mines
+Chemical Plant
+Chemical Plants
+Chemical Mine
+Chemical Mines
+Coal Mine
+Coal Mines
+Metallurgic Industry
+Metallurgic Industrys
+Mine
+Mines
+Silicon Mine
+Silicon Mines
+Stone Mine
+Stone Mines
+Large Stone Mine
+Large Stone Mines
+Guruh Dome
+Guruh Domes
+Lothar Dome
+Lothar Domes
+Black Bowl
+Black Bowls
+Souls Dome
+Souls Domes
+Generic low class buildings
+Generic low class buildingss
+Needle
+Needles
+Balloon House
+Balloon Houses
+Funnel
+Funnels
+Cottage
+Cottages
+Generic high class building
+Generic high class buildings
+Tennis courts
+Tennis courtss
+Recycled Homes
+Recycled Homess
+Recycled Buildings
+Recycled Buildingss
+Sardine Cans
+Sardine Canss
+Generic low class building
+Generic low class buildings
+Dreams Tower
+Dreams Towers
+The Mushrooms
+The Mushroomss
+The Bushings
+The Bushingss
+Screwer
+Screwers
+Castles
+Castless
+Generic middle class building
+Generic middle class buildings
+Zharot Palace
+Zharot Palaces
+Black Palace
+Black Palaces
+Knights Dome
+Knights Domes
+Knights Bungalow
+Knights Bungalows
+Generic high class buildings
+Generic high class buildingss
+Cloud City
+Cloud Citys
+Worker's Heaven
+Worker's Heavens
+The Hive
+The Hives
+Ivory Tower
+Ivory Towers
+May Flower
+May Flowers
+The Octopus
+The Octopuss
+Solarium
+Solariums
+The Whirlpool
+The Whirlpools
+Katana House
+Katana Houses
+Sohei House
+Sohei Houses
+Tarakawa House
+Tarakawa Houses
+Low-cost HighClass buildings
+Low-cost HighClass buildingss
+Katana Building
+Katana Buildings
+Nikotori Building
+Nikotori Buildings
+Hazobito Building
+Hazobito Buildings
+Hisogari Building
+Hisogari Buildings
+Low-cost LowClass buildings
+Low-cost LowClass buildingss
+Somsei-Taj Rooms
+Somsei-Taj Roomss
+Marakas Rooms
+Marakas Roomss
+Yohito Rooms
+Yohito Roomss
+Hirijoto-Manko Rooms
+Hirijoto-Manko Roomss
+Low-cost MiddleClass buildings
+Low-cost MiddleClass buildingss
+Tennis courts
+Tennis courtss
+Tennis courts
+Tennis courtss
+Nurse Dome
+Nurse Domes
+Nurse Zoo
+Nurse Zoos
+Nurse Rooms
+Nurse Roomss
+Nurse Fraternity
+Nurse Fraternitys
+Generic middle class buildings
+Generic middle class buildingss
+Xanadu Palace
+Xanadu Palaces
+Atrium
+Atriums
+The Willington
+The Willingtons
+Golden Cap
+Golden Caps
+Kent Square
+Kent Squares
+Lisgar Towers
+Lisgar Towerss
+Generic high class buildings
+Generic high class buildingss
+Playfair Towers
+Playfair Towerss
+Arlington Rooms
+Arlington Roomss
+Caesar's Atrium
+Caesar's Atriums
+The Sicily
+The Sicilys
+Generic low class building
+Generic low class buildings
+Gladston Apts.
+Gladston Apts.s
+Quincy
+Quincys
+Metcalfe Towers
+Metcalfe Towerss
+Delmar Apts.
+Delmar Apts.s
+Sunset Apts.
+Sunset Apts.s
+Generic middle class buildings
+Generic middle class buildingss
+Tennis courts
+Tennis courtss
+Spontaneous building
+Spontaneous buildings
+Tennis courts
+Tennis courtss
+Zharot Palace
+Zharot Palaces
+Black Palace
+Black Palaces
+Knights Dome
+Knights Domes
+Knights Bungalow
+Knights Bungalows
+Generic high class buildings
+Generic high class buildingss
+Business Machines Industry
+Business Machines Industrys
+Large Clothes Industry
+Large Clothes Industrys
+Drug Store
+Drug Stores
+Large Electronic Industry
+Large Electronic Industrys
+Large Appliances Factory
+Large Appliances Factorys
+Pharmaceutical Industry
+Pharmaceutical Industrys
+Clothes Industry
+Clothes Industrys
+Electronic Industry
+Electronic Industrys
+Appliances Factory
+Appliances Factorys
+Textile Industry
+Textile Industrys
+Large Textile Industry
+Large Textile Industrys
+Big Park
+Big Parks
+Cloud City
+Cloud Citys
+Worker's Heaven
+Worker's Heavens
+The Hive
+The Hives
+Ivory Tower
+Ivory Towers
+Statue of Liberty
+Statue of Libertys
+May Flower
+May Flowers
+Park
+Parks
+The Octopus
+The Octopuss
+Small Park
+Small Parks
+Solarium
+Solariums
+IFEL Tower
+IFEL Towers
+The Whirlpool
+The Whirlpools
+Business Machines
+Business Machiness
+Car Industry
+Car Industrys
+Car Store
+Car Stores
+Chemical Plant
+Chemical Plants
+Chemical Mine
+Chemical Mines
+Clothes Store
+Clothes Stores
+Clothing Industry
+Clothing Industrys
+Coal Mine
+Coal Mines
+Construction Industry
+Construction Industrys
+Electronic Industry
+Electronic Industrys
+Farm
+Farms
+Food Processor
+Food Processors
+Food Store
+Food Stores
+Company Headquarters
+Company Headquarterss
+Machinery Industry
+Machinery Industrys
+Household Appliances
+Household Appliancess
+Appliances Store
+Appliances Stores
+Katana House
+Katana Houses
+Sohei House
+Sohei Houses
+Tarakawa House
+Tarakawa Houses
+Low-cost HighClass buildings
+Low-cost HighClass buildingss
+Hospital
+Hospitals
+Industries Headquarters
+Industries Headquarterss
+Statue of Liberty
+Statue of Libertys
+Katana Building
+Katana Buildings
+Nikotori Building
+Nikotori Buildings
+Hazobito Building
+Hazobito Buildings
+Hisogari Building
+Hisogari Buildings
+Low-cost LowClass buildings
+Low-cost LowClass buildingss
+Metal Industry
+Metal Industrys
+Somsei-Taj Rooms
+Somsei-Taj Roomss
+Marakas Rooms
+Marakas Roomss
+Yohito Rooms
+Yohito Roomss
+Hirijoto-Manko Rooms
+Hirijoto-Manko Roomss
+Low-cost MiddleClass buildings
+Low-cost MiddleClass buildingss
+Mine
+Mines
+Plastic Industry
+Plastic Industrys
+Police and Fire Station
+Police and Fire Stations
+Civic Affairs Headquarters
+Civic Affairs Headquarterss
+Real Estates Headquarters
+Real Estates Headquarterss
+School
+Schools
+Commerce Headquarters
+Commerce Headquarters
+Silicon Mine
+Silicon Mines
+Small Chemical Plant
+Small Chemical Plants
+Small Chemical Mine
+Small Chemical Mines
+Small Clothing Industry
+Small Clothing Industrys
+Small Coal Mine
+Small Coal Mines
+Small Electronic Industry
+Small Electronic Industrys
+Small Farm
+Small Farms
+Small Food Processor
+Small Food Processors
+Small Household Appliances
+Small Household Appliancess
+Small Metal Industry
+Small Metal Industrys
+Small Mine
+Small Mines
+Small Silicon Mine
+Small Silicon Mines
+Small Stone Mine
+Small Stone Mines
+Small Textile Industry
+Small Textile Industrys
+Lizard Park
+Lizard Parks
+Goblin Park
+Goblin Parks
+Chicken Park
+Chicken Parks
+Alien Park
+Alien Parks
+College
+Colleges
+Dump
+Dumps
+Jail
+Jails
+Museum
+Museums
+Tennis courts
+Tennis courtss
+Stone Mine
+Stone Mines
+Takuri Market
+Takuri Markets
+Tamakura Market
+Tamakura Markets
+Satoi Market
+Satoi Markets
+Textile Industry
+Textile Industrys
+IFEL Tower
+IFEL Towers
+Town Hall
+Town Halls
+Trade Center
+Trade Centers
+TV Antenna
+TV Antennas
+TV
+TVs
+CD Plant
+CD Plants
+CD Store
+CD Stores
+Ministry Headquarters
+Ministry Headquarterss
+Ministry Headquarters
+Ministry Headquarterss
+Ministry Headquarters
+Ministry Headquarterss
+Ministry Headquarters
+Ministry Headquarterss
+Ministry Headquarters
+Ministry Headquarterss
+Ministry Headquarters
+Ministry Headquarterss
+Ministry Headquarters
+Ministry Headquarterss
+Ministry Headquarters
+Ministry Headquarterss
+Big Park
+Big Parks
+Park
+Parks
+Yamamoto
+Yamamotos
+Tanakuta
+Tanakutas
+Sato Scraper
+Sato Scrapers
+Kunawa Scraper
+Kunawa Scrapers
+Koto-ku
+Koto-kus
+Small Park
+Small Parks
+Dome of Joy
+Dome of Joys
+Moab Correctional
+Moab Correctionals
+Business Machines Dome
+Business Machines Domes
+Cars Dome
+Cars Domes
+Car Store
+Car Stores
+Big Park
+Big Parks
+Chemicals Dome
+Chemicals Domes
+Chemical Mine
+Chemical Mines
+Clothes Store
+Clothes Stores
+Dome of Clothes
+Domes of Clothes
+Coal Mine
+Coal Mines
+Software Firm
+Software Firms
+Construction Dome
+Construction Domes
+Civic Affairs Tower
+Civic Affairs Towers
+Dome of Chips
+Dome of Chipss
+Food Crater
+Food Craters
+Food Dome
+Food Domes
+Food Store
+Food Stores
+Gas Station
+Gas Stations
+Moab Cathedral
+Moab Cathedrals
+Machinery Dome
+Machinery Domes
+Household Appliances Dome
+Household Appliances Domes
+Household Appliances Store
+Household Appliances Stores
+Commerce Tower
+Commerce Towers
+Industries Tower
+Industries Towers
+Lawyers Firm
+Lawyers Firms
+Statue of Liberty
+Statue of Libertys
+Park
+Parks
+Metals Dome
+Metals Domes
+Mine
+Mines
+Movie Theater
+Movie Theaters
+Moab Basilica
+Moab Basilicas
+Dark Crysler
+Dark Cryslers
+Oil Rig
+Oil Rigs
+Refinery Dome
+Refinery Domes
+Real Estates Tower
+Real Estates Towers
+Dinner Dome
+Dinner Domes
+Silicon Mine
+Silicon Mines
+Small Park
+Small Parks
+Lizard Park
+Lizard Parks
+Goblin Park
+Goblin Parks
+Chicken Park
+Chicken Parks
+Alien Park
+Alien Parks
+College
+Colleges
+Dump
+Dumps
+Jail
+Jails
+Museum
+Museums
+Tennis courts
+Tennis courtss
+Stone Mine
+Stone Mines
+Moab Supermarket
+Moab Supermarkets
+Dome of Threads
+Dome of Threadss
+IFEL Tower
+IFEL Towers
+Town Hall
+Town Halls
+Trade Center
+Trade Centers
+TV Antenna
+TV Antennas
+TV
+TVs
+Nurse Dome
+Nurse Domes
+Nurse Zoo
+Nurse Zoos
+Nurse Rooms
+Nurse Roomss
+Nurse Fraternity
+Nurse Fraternitys
+Generic middle class buildings
+Generic middle class buildingss
+Bar
+Bars
+Business Machines Industry
+Business Machines Industrys
+Car Factory
+Car Factorys
+Car Store
+Car Stores
+Big Park
+Big Parks
+Large Chemical Plant
+Large Chemical Plants
+Large Chemical Mine
+Large Chemical Mines
+Large Clothes Industry
+Large Clothes Industrys
+Large Coal Mine
+Large Coal Mines
+Software Firm
+Software Firms
+Construction Industry
+Construction Industrys
+Drug Store
+Drug Stores
+Large Electronic Industry
+Large Electronic Industrys
+Large Farm
+Large Farms
+Fire Station
+Fire Stations
+Large Food Processor
+Large Food Processors
+Food Store
+Food Stores
+Company Headquarters
+Company Headquarters
+Machinery Industry
+Machinery Industrys
+Large Appliances Factory
+Large Appliances Factorys
+Xanadu Palace
+Xanadu Palaces
+Atrium
+Atriums
+The Willington
+The Willingtons
+Golden Cap
+Golden Caps
+Kent Square
+Kent Squares
+Lisgar Towers
+Lisgar Towerss
+Generic high class buildings
+Generic high class buildingss
+Hospital
+Hospitals
+Industry Headquarters
+Industry Headquarterss
+Lawyers Firm
+Lawyers Firms
+Statue of Liberty
+Statue of Libertys
+Playfair Towers
+Playfair Towerss
+Arlington Rooms
+Arlington Roomss
+Caesar's Atrium
+Caesar's Atriums
+The Sicily
+The Sicilys
+Generic low class building
+Generic low class buildings
+Park
+Parks
+Large Metallurgic Industry
+Large Metallurgic Industrys
+Gladston Apts.
+Gladston Apts.s
+Quincy
+Quincys
+Metcalfe Towers
+Metcalfe Towerss
+Delmar Apts.
+Delmar Apts.s
+Sunset Apts.
+Sunset Apts.s
+Generic middle class buildings
+Generic middle class buildingss
+Large Mine
+Large Mines
+Delmar's Movie Theater
+Delmar's Movie Theaters
+Baltimore's Movie Theater
+Baltimore's Movie Theaters
+Sting
+Stings
+Davis Bow
+Davis Bows
+Mc Neon Tower
+Mc Neon Towers
+Pharmaceutical Industry
+Pharmaceutical Industrys
+Police Station
+Police Stations
+Civic Affairs Headquarters
+Civic Affairs Headquarterss
+Real Estates Headquarters
+Real Estates Headquarterss
+Restaurant
+Restaurants
+School
+Schools
+Commerce Headquarters
+Commerce Headquarters
+Large Silicon Mine
+Large Silicon Mines
+Chemical Plant
+Chemical Plants
+Chemical Mine
+Chemical Mines
+Clothes Industry
+Clothes Industrys
+Coal Mine
+Coal Mines
+Electronic Industry
+Electronic Industrys
+Farm
+Farms
+Food Processor
+Food Processors
+Appliances Factory
+Appliances Factorys
+Metallurgic Industry
+Metallurgic Industrys
+Mine
+Mines
+Small Park
+Small Parks
+Silicon Mine
+Silicon Mines
+Stone Mine
+Stone Mines
+Textile Industry
+Textile Industrys
+Lizard Park
+Lizard Parks
+Goblin Park
+Goblin Parks
+Chicken Park
+Chicken Parks
+Alien Park
+Alien Parks
+College
+Colleges
+Dump
+Dumps
+Jail
+Jails
+Museum
+Museums
+Tennis courts
+Tennis courtss
+Large Stone Mine
+Large Stone Mines
+Mall
+Malls
+Supermarket
+Supermarkets
+Mart
+Marts
+Large Textile Industry
+Large Textile Industrys
+IFEL Tower
+IFEL Towers
+Town Hall
+Town Halls
+Trade Center
+Trade Centers
+TV Antenna
+TV Antennas
+TV
+TVs
+Spontaneous building
+Spontaneous buildings
+Lizard Park
+Lizard Parks
+Goblin Park
+Goblin Parks
+Chicken Park
+Chicken Parks
+Alien Park
+Alien Parks
+College
+Colleges
+Dump
+Dumps
+Jail
+Jails
+Museum
+Museums
+Tennis courts
+Tennis courtss
+Chemical Storage
+Chemical Storages
+Cold Storage
+Cold Storages
+Fabrics Storage
+Fabrics Storages
+General Storage
+General Storages
+Ore Storage
+Ore Storages
+Super Cold Storage
+Super Cold Storages
+Import Storage
+Import Storages
+Export Storage
+Export Storages
+World Population Controller
+World Population Controllers
+The Barracks
+The Barrackss
+Spire
+Spires
+Sky Dome
+Sky Domes
+Sky Seller
+Sky Sellers
+Galaxie
+Galaxies
+The Spring
+The Springs
+Taramagushi
+Taramagushies
+Blue Rooms
+Blue Rooms
+Round Mariko
+Round Marikos
+Small Koto
+Small Kotos
+White Hut
+White Huts
+Lyon Rooms
+Lyon Rooms
+Blue Mansion
+Blue Mansions
+Pink Mansion
+Pink Mansions
+Mountbatten Rooms
+Mountbatten Rooms
+The Ambassador
+The Ambassadors
+The Spire
+The Spires
+Legend Mausoleum
+Legend Mausoleums
+Paradigm Mausoleum
+Paradigm Mausoleums
+Research Center
+Research Centers
+UW Chemical Storage
+UW Chemical Storages
+UW Cold Storage
+UW Cold Storages
+UW Fabrics Storage
+UW Fabrics Storages
+UW General Storage
+UW General Storages
+UW Ore Storage
+UW Ore Storages
+UW Super Cold Storage
+UW Super Cold Storages
+Import Storage
+Import Storages
+Export Storage
+Export Storages
+Lumber Mill
+Lumber Mills
+Book Store
+Book Stores
+Furniture Factory
+Furniture Factories
+Furniture Store
+Furniture Stores
+Computer Store
+Computer Stores
+Movie Studios
+Movie Studios
+Funeral Parlor
+Funeral Parlors
+Funeral Parlor
+Funeral Parlors
+Paper Industry
+Paper Industries
+Printing Plant
+Printing Plants
+Printing Plant
+Printing Plants
+Portal
+Portals
+Company Headquarters
+Company Headquarters
+Company Headquarters
+Company Headquarters
+Company Headquarters
+Company Headquarters
+Company Headquarters
+Company Headquarters
+Organic waste
+Organic waste
+Small Organic waste
+Small Organic waste
+Fertiliser Plant
+Fertiliser Plants
+Small Fertiliser Plant
+Small Fertiliser Plants
+Grain Farm A
+Grain Farm A
+Small Grain Farm A
+Small Grain Farm A
+Mill
+Mills
+Small Mill
+Small Mills
+Cotton Plant
+Cotton Plants
+Small Cotton Plant
+Small Cotton Plants
+Trouser Plant
+Trouser Plants
+Small Trouser Plant
+Small Trouser Plants
+Trouser Shop
+Trouser Shops
+Bakery
+Bakerys
+Fruitpie Factory
+Fruitpie Factory's
+Fruit Farm A
+Fruit Farm A's
+Rubber Sap Factory
+Rubber Sap Factories
+Rubber Tree Plantation
+Rubber Tree Plantations
+Rubber Factory
+Rubber Factories
+Shoe Factory
+Shoe Factories
+Fruit Pie Shop
+Fruit Pie Shops
+Shoe Shop
+Shoe Shops
+Small Vegtable Farm A
+Small Vegtable Farm A's
+Vegtable Farm A
+Vegtable Farm A's
+Small stew factory
+Small stew factories
+Stew factory
+Stew factories
+Small organic Mine
+Small organic Mines
+Organic Mine
+Organic Mines
+Small polymer Factory
+Small polymer Factories
+polymer Factory
+polymer Factories
+Small Nylon Factory
+Small Nylon Factories
+Nylon Factory
+Nylon Factories
+Small Shirt Factory
+Small Shirt Factories
+Shirt Factory
+Shirt Factories
+Stew Shop
+Shoe Shops
+Shirt Shop
+Shirt Shops
+Small Cattle farm A
+Small Cattle farm A's
+Cattle farm A
+Cattle farm A's
+Small Burger factory
+Small Burger factories
+Burger factory
+Burger factories
+Small Raw Chemical Mine
+Small Raw Chemical Mines
+Raw Chemical Mine
+Raw Chemical Mines
+Small Mining chemical plant
+Small Mining chemical plants
+Mining chemical plant
+Mining chemical plants
+Small Leather plant
+Small Leather plants
+Leather plant
+Leather plants
+Small Leather jacket plant
+Small Leather jacket plants
+Leather jacket plant
+Leather jacket plants
+Burger bar Shop
+Burger bar Shops
+Leather Jacket Shop
+Leather Jacket Shops
+Iron Mine
+Iron Mines
+Small Iron Mine
+Small Iron Mines
+Silicon Mine
+Silicon Mines
+Small Silicon Mine
+Small Silicon Mines
+Coal Mine
+Coal Mines
+Small Coal Mine
+Small Coal Mines
+Steel Industry
+Steel Industries
+Small Steel Industry
+Small Steel Industries
+Memory Chip Plant
+Memory Chip Plants
+Small Memeory Chip Plant
+Small Memory Chip Plants
+Small Car Plant
+Small Car Plants
+TV Manufacturing Plant
+TV Manufacturing Plants
+Small TV Manufacturing Plant
+Small TV Manufacturing Plants
+TV Store
+TV Stores
+Small Car Dealership
+Small Car Dealerships
+Sports Car Store
+Sports Car Stores
+Small PC Industry
+Small PC Industries
+PC Industry
+PC Industries
+Sports Car Manufacturing Plant
+Sports Car Manufacturing Plants
+Small CPU Plant
+Small CPU Plants
+CPU Plant
+CPU Plants
+Small Copper Industry
+Small Copper Industries
+Copper Industry
+Copper Industries
+Small Pine Oil Plant
+Small Pine Oil Plants
+Pine Oil Plant
+Pine Oil Plants
+Small Ceramic Mine
+Small Ceramic Mines
+Ceramic Mine
+Ceramic Mines
+Small Copper Mine
+Small Copper Mines
+Copper Mine
+Copper Mines
+Aluminium Mine
+Aluminium Mines
+Small Aluminium Mine
+Small Aluminium Mines
+Cyrolite Mine
+Cryolite Mines
+Small Cryolite Mine
+Small Cryolite Mines
+Silane Mine
+Silane Mines
+Small Silane Mine
+Small Silane Mines
+Aluminium Industry
+Aluminium Industries
+Small Aluminium Industry
+Small Aluminium Industry
+TFT Plant
+TFT Plants
+Small TFT Plant
+Small TFT Plants
+Motor Bike Plant
+Motor Bike Plants
+Mobile Phone Plant
+Mobile Phone Plants
+Small Mobile Phone Plant
+Small Mobile Phone Plants
+Mobile Phone Store
+Mobile Phone Stores
+Motor Bike Dealership
+Motor Bike Dealerships
+Engine Plant
+Engine Plants
+Tire Industry
+Tire Industries
+Humvee Plant
+Humvee Plants
+Cooker Industry
+Cooker Industries
+Humvee Dealership
+Humvee Dealerships
+Cooker Store
+Cooker Stores
+Gypsum Mine
+Gypsum Mines
+Limestone Mine
+Limestone Mines
+Gravel Mine
+Gravel Mine
+Construction Industry
+Construction Industries
+Control System Plant
+Control System Plants
+Network System Plant
+Network System plants
+Concrete Industry
+Conscrete Industries
+Heavy Industry
+Heavy Industries
+Server Plant
+Server Plants
+Plasterboard Industry
+Plasterboard Industries
+Robotic System Plant
+Robotic System Plants
+Business Machine Industry
+Business Machine Industries
+Glass Plant
+Glass Plants
+Conveyorbelt System Plant
+Conveyorbelt System Plants
+Business Computer Industry
+Business Computer Industries
+Fluids
+0
+Advertisement
+hits
+hits/day
+Business Machines
+items
+items/day
+Cars
+cars
+cars/week
+Chemicals
+kg
+kg/day
+Clothes
+items
+items/day
+Computer Services
+hours
+hours/week
+Construction Force
+tons
+tons/day
+Pharmaceutics
+kg
+kg/day
+Processed Food
+items
+items/day
+Electronic Components
+items
+items/day
+Fabrics and Threads
+meters
+meters/day
+Films
+Films
+Films/day
+Fresh Food
+kg
+kg/day
+Gasoline
+lt
+lt/day
+hiPeople
+persons
+persons/month
+hiWorkForce
+workers
+workers/day
+Household appliances
+items
+items/day
+Legal Services
+hours
+hours/week
+Liquors
+items
+items/day
+loPeople
+persons
+persons/month
+loWorkForce
+workers
+workers/day
+Machinery
+machines
+machines/day
+Metals
+kg
+kg/day
+midPeople
+persons
+persons/month
+midWorkForce
+workers
+workers/day
+Offices
+Crude Oil
+lt
+lt/day
+Ore
+kg
+kg/day
+Raw Chemicals
+kg
+kg/day
+Coal
+kg
+kg/day
+Silicon
+kg
+kg/day
+Stone
+kg
+kg/day
+Organic Materials
+kg
+kg/day
+Plastics
+kg
+kg/day
+Toys
+items
+items/day
+Timber
+kg
+kg/day
+Books
+books
+books/day
+Furniture
+items
+items/day
+Paper
+kg
+kg/day
+CDs
+CDs
+CDs/day
+Printed Material
+kg
+kg/day
+Manure
+kg
+kg/day
+Fertiliser
+kg
+kg/day
+Wheat
+kg
+kg/day
+Cotton
+kg
+kg/day
+Flour
+kg
+kg/day
+Cotton Sheets
+Meters
+Meters/day
+Trousers
+item
+items/day
+apples
+item
+items/day
+oranges
+item
+items/day
+rubbertree
+item
+items/day
+rubbersap
+item
+items/day
+rubbermat
+item
+items/day
+fruitpie
+item
+items/day
+shoes
+item
+items/day
+carrots
+item
+items/day
+potatoes
+item
+items/day
+stew
+item
+items/day
+orgaincchems
+item
+items/day
+polymers
+item
+items/day
+nylon
+item
+items/day
+shirts
+item
+items/day
+beef
+item
+items/day
+leathermat
+item
+items/day
+burgers
+item
+items/day
+rawchem
+item
+items/day
+miningchem
+item
+items/day
+leathersheet
+item
+items/day
+leatherjacket
+item
+items/day
+iron ore
+item
+items/day
+coal
+item
+items/day
+steel
+item
+items/day
+silicon
+item
+items/day
+memory chips
+item
+items/day
+small cars
+item
+items/day
+copper ore
+item
+items/day
+ceramic ore
+item
+items/day
+pine oil
+item
+items/day
+copper
+item
+items/day
+cpu chip
+item
+items/day
+sports car
+item
+items/day
+pc system
+item
+items/day
+aluminium ore
+item
+items/day
+silane
+item
+items/day
+aluminium
+item
+items/day
+cryolite
+item
+items/day
+tft screen
+item
+items/day
+motorbike
+item
+items/day
+mobile phone
+item
+items/day
+tires
+item
+items/day
+engine
+item
+items/day
+tv
+item
+items/day
+humvee
+item
+items/day
+glass
+item
+items/day
+Cooker
+item
+items/day
+Concrete
+item
+items/day
+Plaster Board
+item
+items/day
+Robotic System
+item
+items/day
+Control System
+item
+items/day
+Conveyorbelt System 
+item
+items/day
+Network System
+item
+items/day
+Business Computer
+item
+items/day
+Servers
+item
+items/day
+Gypsum
+item
+items/day
+Limestone
+item
+items/day
+Gravel
+item
+items/day
+FacilityKinds
+0
+Capitol
+Offices
+Headquarters
+Farms
+Factories
+Public Facilities
+Residentials
+Commerce
+Special
+Town Hall
+Trade Center
+Public
+Magna Estates
+Offices
+Headquarters
+Farms
+Factories
+Public
+Residentials
+Commerce
+Special
+Town Hall
+Trade Center
+Facilities
+Facilities
+Facilities
+Facilities
+Facilities
+Facilities
+Facilities
+Facilities
+Offices
+Public
+Commerce
+Industries
+Residentials
+Headquarters
+Special
+Town Hall
+Trade Center
+Offices
+Headquarters
+Farms
+Factories
+Public
+Residentials
+Commerce
+Special
+Town Hall
+Trade Center
+Warehouses
+Commerce
+Headquarters
+Special
+TycoonLevels
+0
+Apprentice
+Still learning the economy. Protected by the IFEL, has priority in supplier and client lists. The cost of a building is returned if the building is demolished. Can build up to %s facilities. Can buy from Trade Centers. 50%% of research expenditures is returned at the end of the year. 
+Entrepreneur
+Still is protected by the IFEL, has certain priorities in supplier and client lists. 2/3 of the cost of a building is returned if the building is demolished. Can build up to %s facilities. Can buy from Trade Centers. 30%% of research expenditures is returned at the end of the year. 
+You have to pay the original debt to the IFEL ($100,000,000). You must have an average profit ratio superior to $1,000/h
+Legend
+800 prestige points. Have access to Tier 5 technologies. Cannot buy from Trade Centers. No priorites, no protection from the IFEL. Can build up to %s facilities.
+You have to pay $40,000,000,000 to the IFEL. You must have an average profit ratio superior to $500,000/h. Prestige greater than 15000.  
+Master
+200 prestige points. Have access to Tier 3 technologies. Cannot buy from Trade Centers. No priorites, no protection from the IFEL. Can build up to %s facilities.
+You have to pay $2,000,000,000 to the IFEL. Average profit ratio superior to $50,000/h Prestige greater than 2500.  
+Paradigm
+400 prestige points. Have access to Tier 4 technologies. Cannot buy from Trade Centers. No priorites, no protection from the IFEL. Can build up to %s facilities.
+You have to pay $20,000,000,000 to the IFEL. Average profit ratio superior to $100,000/h. Prestige greater than 5000. 
+Tycoon
+100 prestige points. Have access to Tier 2 technologies. Cannot buy from Trade Centers. No priorites, no protection from the IFEL. Can build up to %s facilities. 
+You have to pay $500,000,000 to the IFEL. You must have an average profit ratio superior to $5,000/h
+Beyond Legend
+%s prestige points. Cannot buy from Trade Centers. No priorites, no protection from the IFEL. Can build up to %s facilities. 
+You have to pay %s to the IFEL. You must have an average profit ratio superior to %s/h. Maintain your Prestige greater than 15000.
+Ministries
+0
+Health
+Education
+Defense
+Agriculture
+Light Industry
+Heavy Industry
+Commerce
+Housing
+Projects
+0
+Colleges
+Garbage Disposal
+Fire Coverage
+Health Coverage
+Jails
+Museums
+Police Coverage
+School Coverage
+Services and Amusement
+Recreation Facilities
+Unemployment
+Economic Wealth
+PublicFacilities
+0
+Colleges
+Garbage Disposal
+Fire Coverage
+Health Coverage
+Jails
+Museums
+Police Coverage
+School Coverage
+Recreation Facilities
+Ratings
+0
+Campaign Acomplishment
+Colleges
+Garbage Disposal
+Fire Coverage
+Health Coverage
+Jails
+Museums
+Police Coverage
+City Growth
+School Coverage
+Services and Amusement
+Recreation Facilities
+Taxes
+Employment
+Economic Wealth
+WorldProjects
+0
+Colleges
+Garbage Disposal
+Fire Coverage
+Health Coverage
+Jails
+Museums
+Police Coverage
+School Coverage
+Services and Amusement
+Recreation Facilities
+Unemployment
+Economic Wealth
+WorldRatings
+0
+Campaign Acomplishment
+Colleges
+Garbage Disposal
+Fire Coverage
+Health Coverage
+Jails
+Museums
+Police Coverage
+City Growth
+School Coverage
+Services and Amusement
+Recreation Facilities
+Taxes
+Employment
+Economic Wealth
+This facility belongs to %s. There are no hints for you.
+No hints for this facility.
+Hint: Stop all facilities that are losing money.
+Hint: Go to "INSPECT" and hire some suppliers.
+Warning: This facility needs supplier for %s.
+Warning: Supplier of %s have dropped. Hire another suppliers.
+Warning: Sales of %s have dropped. Get hired by another facilities.
+Hint: You are importing %s because your suppliers are selling to another people.
+Warning: Your suppliers of %s are selling their entire production to different people.
+Warning: this facility needs more %s work force.
+Warning: Not enough company support. You must build the Company Headquarters or consider upgrading it, if you already have built it.
+Warning: This facility needs %s work force.
+Upgrading: %d%%
+Upgrade Level: %d
+Hint: The Trade Center was hired to construct this. You could hire someone cheaper.
+Warning: You need to attract more people to this building.
+Hint: You need to attract more people to this building.
+Hint: You still can attract more people to this building.
+Hint: There are too few people in %s. You will have to compete fiercely. Try making the rent lower.
+Congratulations: This building is working OK. Perhaps you can rise the rent a little bit.
+%d%% %s occupancy
+%s real estate
+[closed]
+%d%% repaired
+%d inhabitants. %d desirability. QOL: %d%% Neighborhood Quality: %d%% Beauty: %d%% Crime: %d%% Pollution: %d%%.
+Hint: Visit Town Hall's Web Site to find valuable information.
+Hint: Visit Trade Center's Web Site to see who is selling or buying what.
+%d citizens of %s moved in last day.
+%d%% due to good residential offers, 
+%d%% to find a job, 
+%d%% due to good quality of public services.
+%d citizens of %s moved out last day.
+%d%% due to salaries and work conditions, 
+%d%% due to residential conditions, 
+%d%% due to low coverage of public services, 
+%d%% due to unemployment, 
+%d%% due to lack of products and services.
+%d%% due to disasters.
+No %s movements.
+%s inhabitants
+%s %s (%d%% unemp)
+Hint: Be sure there are enought workers to carry out the research.
+%s, please wait while research is completed...
+Hint: Go to "INSPECT" to carry out new researchs.
+%d%% research completed
+Researching %s. Cost: %s.
+Company supported at %d%%.
+Research Implementation: %s.
+Hint: Are you trying to sell mainly to high class people? Then quality is the key.
+Hint: Are you trying to sell mainly to low class people? Then price is the key.
+Warning: You have a problem with competition. Get some advertisement.
+Warning: It seams that you are targeting costumers in a wrong way.
+Hint: Try to attract more customers by offering better quality and prices.
+Congratulations: This facility is running OK. Anyway you could attend more people.
+Congratulations: This facility is running OK. Just keep this way.
+Warning: %s service need more supplies.
+The facility started just few hours ago, there are no hints for now.
+Potential customers (per day): %d hi, %d mid, %d low. Actual customers: %d hi, %d mid, %d low.
+Hint: Not producing %s. You have no customers.
+Warning: This facility requires %s to produce. Hire some suppliers or try to overpay those you already have.
+Hint: This facility needs more %s to produce %s.
+Hint: Go to "INSPECT" and hire more suppliers for %s.
+Hint: You are buying from a Trade Center. Find some local suppliers.
+There is nothing we can do about the weather but wait.
+Warning: Cannot operate until you research again %s.
+Warning: This facility is lacking services. Check the Services Tab on the INSPECT panel.
+supplies
+Hint: This town requires more residentials for %s people.
+Hint: New stores and other services would encourage economic activity.
+Warning: There is a %d%% of unemployment in %s people.
+Warning: There is a problem with %s.
+Hint: You should attract more workers to this facility in case you want to rise its operation ratio.
+Warning: Not enough company support. You must build the Company Headquarters or consider upgrading it, if you already have built it.
+%s coverage accross the city reported at %d%%.
+This city is not populated!
+%s is not populated. Invest here and the %s order will give you an aditional amount of money.
+Citizens of %s demand more %s.
+Citizens of %s demand more %s.
+For more information about %s visit %s, the local newspaper.
+%s residential. %d inhabitants. %d%% resistent to crime, %d%% resistent to pollution. Design quality: %d%%.
+%d offices to rent. Design quality: %d%%.
+Produces up to
+%s of %s
+Requires
+%s
+Employs:
+Requires research %s at %s.
+Stores up to 
+%d %s of %s
+Sells up to
+per level.
+Buys up to
+to serve %d customers maximum
+ATTENTION! THE MAYOR OF %s REQUESTED THE DEMOLITION OF THIS BUILDING DUE TO CITY PLANNING. DEMOLITION WILL TAKE PLACE IN %d MONTHS. THE IFEL WILL PAY THE OWNER %s AS A COMPENSATION.
+Controls %d companies, %d facilities, %d tiles in the map (%s in land taxes).
+%d completed research items.
+Was elected Mayor of %s in the campaign of %d.
+Was Mayor of %s from %d to %d with a %d%% of popular rating.
+Was fired from Mayor of %s in %d.
+Was President of %s from %d to %d with a %d%% of popular rating.
+Was elected President of %s in the campaign of %d.
+Was Minister of %s from %d to %d with a %d%% of IFEL rating.
+Was appointed Minister of %s in the campaign of %d by %s.
+Was declared in bankrupty in %d
+Transcended in %d
+Achieved level %s in %d
+Could not upgrade level last year. You failed to pay $%.0n
+Could not upgrade level last year. You require an average profit ratio of $%.0n/h (last year you had $%.0n/h)
+You need to be elected Mayor at least once
+You need to be elected President at least once
+Could not upgrade level last year. You require %d prestige points
+Lost level %s in %d. You didn't have the required %d prestige points
+Lost level %s in %d. You didn't have the required average profit ratio of $%.0n/h (last year you had $%.0n/h)
+Lost level %s in %d.
+Joined %s in %d
+and
+Mayor of %s set taxes for %s at %s%%.
+Mayor of %s set a subsidy for %s.
+%s launched a campaign for %s.
+%s withdrawed campaign for %s
+%s was elected Mayor of %s.
+%s was reelected Mayor of %s.
+%s has no Mayor.
+%s was fired from Mayor of %s.
+%s removed its subsidies. Population is already greater than 9,000.
+%s was declared bankrupt.
+%s built %s near %s.
+%s made an account reset.
+%s joined %s.
+The satellite map of %s has been updated.
+%s was appointed %s.
+%s was elected President of %s
+%s was reelected President of %s.
+%s has no President.
+%s launched a campaign for the Presidency of %s.
+%s withdrawed campaign for Presidency of %s.
+%d prestige points from publicity.
+%d%% operational.
+President: %s.
+President rated at %d%%. %d years to Elections.
+No President. %d years to Elections.
+Hint: If you have more than 1000 prestige points you can launch your campaign for the presidency of %s.
+%d viewers
+%d%% rating
+Broadcasting %d hours a day. %d%% of commercials. %d%% of commercials time sold. %d antennas worldwide. TV Station Quality: %d%%, efficiency: %d%%.
+Hiring workforce at %d%%
+%s: %d of %d.
+WARNING: There are no antennas attached to this facility. Use the Connect button in the INSPECT panel to connect an antenna.
+Potential audience: %d.
+Channel rating: %d%%.
+HINT: Use the "Connect" button in the INSPECT panel to connect this antenna to a station.
+%d%% completed.
+Stopped due to weather conditions.
+%d offices rented. %d quality index. BAP: %d%%. Beauty: %d%%. Crime: %d%%. Pollution %d%%.
+Office Building
+%d%% of offices rented
+Storing:
+%s of %s at %d%% qualiy index.
+Minister of %s
+Ministry of %s
+%s sales at %d%%
+%s production: %d%%
+Producing: %d%%
+%s of %s at %d%% quality index, %d%% efficiency.
+Price: %s
+License: %s
+Impl. Cost: %s
+Impl. Cost: %s /h
+Facilities: %d
+Nobility: %s pts
+Prestige: %s pts
+Level: %s
+Payroll reduction: %s%%
+Job quality: %s%%
+Beauty: %s%%
+Maintenance: %s%%
+Privacy: %s%%
+Security: %s%%
+Environment: %s%%
+Efficiency: %s%%
+Desirability: %s pts
+Quality: %s pts
+Estimated date of Transcendence: %d days.
+WARNING! All facilities belonging to %s will disappear except this building. This may affect your facilities in this world.
+Growing trees at %d%%
+Licensing: "%s"  Quality Index: %d%%.
+Filming: "%s" Day %d of %d, %d%% done.
+Now playing:
+High class
+Middle class
+Low class
+Executives
+Professionals
+Workers
+%d prestige points.
+Stopped by %s.
+Stopped: needs connections.
+Stopped: needs money.
+hired
+rejected by company policy
+was already hired
+connection not allowed
+cannot have more than %d connections
+Supplies
+Clients
+Connection to
+%s borrowed %s from the %s.
+Mayor of %s
+mayor
+Research "%s" completed. Check for new items in your Build page.
+Research "%s" completed.
+Research sold. Some items were disabled in your Build page.
+Research sold.
+%s successfully transferred.
+%s looks forward to the failure of %s.
+%s becomes neutral to %s.
+%s vowed loyalty to %s.
+%s aspires to achieve level %s.
+%s advanced to level %s.
+%s failed to advance to level %s.
+%s is under bankruptcy scrutiny.
+HAPPY NEW YEAR!
+%s lost level %s.
+NTA
+Prestige
+Wealth
+Efficiency: %d%%
+Desirability: %d
+General
+Commerce
+Industry
+Real Estate
+Rent|%d|Maintenance|%d|
+Suppliers|%d|
+Price|%d|Suppliers|%d|Ads|%d|
+Price|%d|Suppliers|%d|Clients|%d|
+Salaries|%d|
+Rent|%d|Maintenance|%d|
+Producing: 
+Tournament

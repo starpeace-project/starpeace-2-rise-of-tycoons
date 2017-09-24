@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{d083a713-0b5b-4a9e-83e1-528a1b788aad}</ProjectGuid>
+    <MainSource>GMCenter.dpr</MainSource>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <DCC_DCCCompiler>DCC32</DCC_DCCCompiler>
+    <DCC_DependencyCheckOutputName>..\..\..\..\release\gm\GMCenter.exe</DCC_DependencyCheckOutputName>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <Version>7.0</Version>
+    <DCC_Alignment>1</DCC_Alignment>
+    <DCC_DebugInformation>False</DCC_DebugInformation>
+    <DCC_WriteableConstants>True</DCC_WriteableConstants>
+    <DCC_LocalDebugSymbols>False</DCC_LocalDebugSymbols>
+    <DCC_SymbolReferenceInfo>0</DCC_SymbolReferenceInfo>
+    <DCC_ExeOutput>..\..\..\..\release\gm</DCC_ExeOutput>
+    <DCC_DcuOutput>..\..\..\..\DCU3</DCC_DcuOutput>
+    <DCC_ObjOutput>..\..\..\..\DCU3</DCC_ObjOutput>
+    <DCC_HppOutput>..\..\..\..\DCU3</DCC_HppOutput>
+    <DCC_UnitSearchPath>..\..\..\RDO\Client;..\..\..\RDO\Common;..\..\..\utils\winutils;..\..\..\utils\misc</DCC_UnitSearchPath>
+    <DCC_ResourcePath>..\..\..\RDO\Client;..\..\..\RDO\Common;..\..\..\utils\winutils;..\..\..\utils\misc</DCC_ResourcePath>
+    <DCC_ObjPath>..\..\..\RDO\Client;..\..\..\RDO\Common;..\..\..\utils\winutils;..\..\..\utils\misc</DCC_ObjPath>
+    <DCC_IncludePath>..\..\..\RDO\Client;..\..\..\RDO\Common;..\..\..\utils\winutils;..\..\..\utils\misc</DCC_IncludePath>
+    <DCC_Define>RELEASE</DCC_Define>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <Version>7.0</Version>
+    <DCC_WriteableConstants>True</DCC_WriteableConstants>
+    <DCC_SymbolReferenceInfo>0</DCC_SymbolReferenceInfo>
+    <DCC_ExeOutput>..\..\..\..\release\gm</DCC_ExeOutput>
+    <DCC_DcuOutput>..\..\..\..\DCU3</DCC_DcuOutput>
+    <DCC_ObjOutput>..\..\..\..\DCU3</DCC_ObjOutput>
+    <DCC_HppOutput>..\..\..\..\DCU3</DCC_HppOutput>
+    <DCC_UnitSearchPath>$(DELPHI)\Source\Win32\vcl;$(DELPHI)\Source\Win32\rtl\common;$(DELPHI)\Source\Win32\rtl\win;..\..\..\RDO\Client;..\..\..\RDO\Common;..\..\..\utils\winutils;..\..\..\utils\misc</DCC_UnitSearchPath>
+    <DCC_ResourcePath>$(DELPHI)\Source\Win32\vcl;$(DELPHI)\Source\Win32\rtl\common;$(DELPHI)\Source\Win32\rtl\win;..\..\..\RDO\Client;..\..\..\RDO\Common;..\..\..\utils\winutils;..\..\..\utils\misc</DCC_ResourcePath>
+    <DCC_ObjPath>$(DELPHI)\Source\Win32\vcl;$(DELPHI)\Source\Win32\rtl\common;$(DELPHI)\Source\Win32\rtl\win;..\..\..\RDO\Client;..\..\..\RDO\Common;..\..\..\utils\winutils;..\..\..\utils\misc</DCC_ObjPath>
+    <DCC_IncludePath>$(DELPHI)\Source\Win32\vcl;$(DELPHI)\Source\Win32\rtl\common;$(DELPHI)\Source\Win32\rtl\win;..\..\..\RDO\Client;..\..\..\RDO\Common;..\..\..\utils\winutils;..\..\..\utils\misc</DCC_IncludePath>
+    <DCC_Define>DEBUG</DCC_Define>
+  </PropertyGroup>
+  <ProjectExtensions>
+    <Borland.Personality>Delphi.Personality</Borland.Personality>
+    <Borland.ProjectType>VCLApplication</Borland.ProjectType>
+    <BorlandProject>
+<BorlandProject><Delphi.Personality><Parameters><Parameters Name="UseLauncher">False</Parameters><Parameters Name="LoadAllSymbols">True</Parameters><Parameters Name="LoadUnspecifiedSymbols">False</Parameters></Parameters><VersionInfo><VersionInfo Name="IncludeVerInfo">False</VersionInfo><VersionInfo Name="AutoIncBuild">False</VersionInfo><VersionInfo Name="MajorVer">1</VersionInfo><VersionInfo Name="MinorVer">0</VersionInfo><VersionInfo Name="Release">0</VersionInfo><VersionInfo Name="Build">0</VersionInfo><VersionInfo Name="Debug">False</VersionInfo><VersionInfo Name="PreRelease">False</VersionInfo><VersionInfo Name="Special">False</VersionInfo><VersionInfo Name="Private">False</VersionInfo><VersionInfo Name="DLL">False</VersionInfo><VersionInfo Name="Locale">1033</VersionInfo><VersionInfo Name="CodePage">1252</VersionInfo></VersionInfo><VersionInfoKeys><VersionInfoKeys Name="CompanyName"></VersionInfoKeys><VersionInfoKeys Name="FileDescription"></VersionInfoKeys><VersionInfoKeys Name="FileVersion">1.0.0.0</VersionInfoKeys><VersionInfoKeys Name="InternalName"></VersionInfoKeys><VersionInfoKeys Name="LegalCopyright"></VersionInfoKeys><VersionInfoKeys Name="LegalTrademarks"></VersionInfoKeys><VersionInfoKeys Name="OriginalFilename"></VersionInfoKeys><VersionInfoKeys Name="ProductName"></VersionInfoKeys><VersionInfoKeys Name="ProductVersion">1.0.0.0</VersionInfoKeys><VersionInfoKeys Name="Comments"></VersionInfoKeys></VersionInfoKeys><Source><Source Name="MainSource">GMCenter.dpr</Source></Source></Delphi.Personality></BorlandProject></BorlandProject>
+  </ProjectExtensions>
+  <Import Project="$(MSBuildBinPath)\Borland.Delphi.Targets" />
+  <ItemGroup>
+    <DelphiCompile Include="GMCenter.dpr">
+      <MainSource>MainSource</MainSource>
+    </DelphiCompile>
+    <DCCReference Include="..\..\..\Kernel\Collection.pas" />
+    <DCCReference Include="..\..\..\Kernel\SmartThreads.pas" />
+    <DCCReference Include="..\..\..\Logs\Logs.pas" />
+    <DCCReference Include="..\..\..\Protocol\Protocol.pas" />
+    <DCCReference Include="..\..\..\rdo\client\WinSockRDOConnection.pas" />
+    <DCCReference Include="..\..\..\Rdo\Common\ErrorCodes.pas" />
+    <DCCReference Include="..\..\..\Rdo\Common\LogFile.pas" />
+    <DCCReference Include="..\..\..\Rdo\Common\RDOInterfaces.pas" />
+    <DCCReference Include="..\..\..\Rdo\Common\RDOProtocol.pas" />
+    <DCCReference Include="..\..\..\Rdo\Common\RDOUtils.pas" />
+    <DCCReference Include="..\..\..\Rdo\Server\RDOObjectRegistry.pas" />
+    <DCCReference Include="..\..\..\Rdo\Server\RDOObjectServer.pas" />
+    <DCCReference Include="..\..\..\Rdo\Server\RDOQueryServer.pas" />
+    <DCCReference Include="..\..\..\Rdo\Server\RDOServer.pas" />
+    <DCCReference Include="..\..\..\Utils\CodeLib\AxlDebug.pas" />
+    <DCCReference Include="..\..\..\Utils\CodeLib\Threads.pas" />
+    <DCCReference Include="..\..\..\Utils\Misc\CompStringsParser.pas" />
+    <DCCReference Include="..\..\..\Utils\Misc\MathUtils.pas" />
+    <DCCReference Include="..\..\..\Utils\Misc\Matrix.pas" />
+    <DCCReference Include="..\..\..\Utils\Misc\StrUtils.pas" />
+    <DCCReference Include="..\..\..\Utils\Network\SocketComp.pas" />
+    <DCCReference Include="..\..\..\Utils\Network\SpoolPackets.pas" />
+    <DCCReference Include="..\..\..\Voyager\Components\BlockTicker.pas" />
+    <DCCReference Include="..\..\..\Voyager\Components\FramedButton.pas" />
+    <DCCReference Include="..\..\..\Voyager\Components\InternationalizerComponent.pas" />
+    <DCCReference Include="..\..\..\Voyager\Components\MarqueeCtrl.pas" />
+    <DCCReference Include="..\..\..\Voyager\Components\VisualControls.pas" />
+    <DCCReference Include="..\..\..\Voyager\Config.pas" />
+    <DCCReference Include="..\..\..\Voyager\Events.pas" />
+    <DCCReference Include="..\..\..\Voyager\Literals.pas" />
+    <DCCReference Include="..\..\..\Voyager\VoyagerInterfaces.pas" />
+    <DCCReference Include="..\..\..\Voyager\VoyagerServerInterfaces.pas" />
+    <DCCReference Include="..\..\GameMaster.pas" />
+    <DCCReference Include="..\..\GMKernel.pas" />
+    <DCCReference Include="..\ChatUtils.pas" />
+    <DCCReference Include="..\GMList.pas" />
+    <DCCReference Include="EditShortcut.pas">
+      <Form>EditShortcutForm</Form>
+    </DCCReference>
+    <DCCReference Include="GameMasterLogon.pas">
+      <Form>Logon</Form>
+    </DCCReference>
+    <DCCReference Include="GMChat.pas">
+      <Form>GMView</Form>
+    </DCCReference>
+    <DCCReference Include="GMURDOMger.pas" />
+    <DCCReference Include="ShortcutForm.pas">
+      <Form>ShortcutCenter</Form>
+    </DCCReference>
+    <DCCReference Include="TextShortcuts.pas" />
+  </ItemGroup>
+</Project>

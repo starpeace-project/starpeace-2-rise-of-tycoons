@@ -1,0 +1,11 @@
+Label3.Caption=Czynszowy Cena:
+Label9.Caption=Ogólny Wskaźnik:
+xfer_GQOS.Caption=(0)
+lvServices.Columns=8
+lvServices.Columns.0=Imię
+lvServices.Columns.1=Żądanie
+lvServices.Columns.2=Oferta
+lvServices.Columns.3=Pojemność
+lvServices.Columns.4=Współczynnik
+lvServices.Columns.5=IFEL Cena
+lvServices.Columns.6=Avg. Cena

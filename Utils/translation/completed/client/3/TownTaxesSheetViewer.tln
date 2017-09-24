@@ -1,0 +1,12 @@
+lvProducts.Columns.9=Max. Preis
+lvTaxes.Columns=3
+lvTaxes.Columns.0=Name
+lvTaxes.Columns.1=Wert
+lvTaxes.Columns.2=Letztes Jahr
+rbTax.Caption=Steuer
+rbSubsidize.Caption=Subventionieren
+PercPanel.Caption=PercPanel
+pbTax.Hint=0%
+lbTax.Caption=Steuer: 0%
+Label1.Caption=Wert:
+fbSet.Text=Satz

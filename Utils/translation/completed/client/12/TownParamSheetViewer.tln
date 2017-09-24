@@ -1,0 +1,11 @@
+Label3.Caption=Hyra prissätter:
+Label9.Caption=Allmänt index:
+xfer_GQOS.Caption=0
+lvServices.Columns=8
+lvServices.Columns.0=Känt
+lvServices.Columns.1=Begäran
+lvServices.Columns.2=Erbjudande
+lvServices.Columns.3=Kapacitet
+lvServices.Columns.4=Förhållande
+lvServices.Columns.5=IFEL prissätter
+lvServices.Columns.6=Avg. Prissätta

@@ -1,0 +1,17 @@
+Refresh.Text=FÖRNYA PLANET LISTAR
+Label1.Caption=Namnge:
+Label2.Caption=Skapare:
+xfer_Creator.Caption=n/a
+Label6.Caption=Ålder:
+xfer_MetaFacilityName.Caption=n/a
+btnClose.Hint=Klicka till slutet denna lätthet
+btnClose.Text=Nära
+btnDemolish.Hint=Klicka för att demolera denna lätthet
+btnDemolish.Text=Demolera
+NameLabel.Caption=n/a
+btnConnect.Hint=Klicka för att förbinda denna lätthet till andra i kartlägga
+btnConnect.Text=Förbind
+Label8.Caption=Kosta:
+lbCost.Caption=n/a
+Label9.Caption=ROI:
+lbROI.Caption=n/a

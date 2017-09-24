@@ -1,0 +1,18 @@
+SYSTEEM
+%s is %s ingegaan
+%s heeft %s. verlaten.
+Kanaal „%s“, geleid tot door %s. 
+gebruiker
+gebruikers
+en
+U hebt een wachtwoord nodig om dit kanaal in te gaan.
+Er is geen informatie bijbehorend aan dit voorwerp.
+De servers zijn bezig het tot stand brengen van reservebestanden. Gelieve te wachten.
+Voltooide file aan schijf.
+DE BRIEVENBESTELLER
+U hebt post van %s (%s).
+%s ingegaan kanaal %s.
+%s ingegane hal.
+%s verlaten kanaal %s.
+%s verlaten hal.
+De server zal voor onderhoud in %d notulen dalen. Verwachte onderbreking geschat om te zijn aprox. %d notulen.

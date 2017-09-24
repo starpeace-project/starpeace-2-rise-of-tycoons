@@ -1,0 +1,15 @@
+=
+=
+strGeneralInformation="Ogólny Informacja"
+strFacilityKind="Łatwość rodzaj"
+strTown="Miasteczko"
+strCluster="Grono"
+strCompany="Firma"
+strCEO="CEO"
+strOperation="Operacja"
+strWorkforce="Siła robocza"
+strHighClass="Wysoki klasa"
+strWorkers="pracownik"
+strOf=""
+strMiddleClass="Klasa średnia"
+strLowClass="Depresja klasa"

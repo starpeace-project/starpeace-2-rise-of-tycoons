@@ -1,0 +1,9 @@
+btnConnect.Text=SALTARE AL MONDO
+ChatLine.Lines=1
+ChatLine.Lines.0=Digitare il testo di chiacchierata qui…
+btnConnect.Hint=Denominare un padrone del gioco
+btnConnect.Text=DENOMINARE IL PADRONE DEL GIOCO
+btGMOptions.Hint=Visualizzare le opzioni
+btGMOptions.Text=OPZIONI
+btClose.Text=FINE
+Label8.Caption=Comunicando con GM:

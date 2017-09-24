@@ -1,0 +1,11 @@
+﻿Projects.Wealth.Name=Ökonomischer Reichtum
+Target=PublicFacilities
+LangId=3
+PublicFacilities.College.Name=Hochschulen
+PublicFacilities.Disposal.Name=Abfall-Beseitigung
+PublicFacilities.Fire.Name=Feuer-Abdeckung
+PublicFacilities.Health.Name=Gesundheits-Abdeckung
+PublicFacilities.Jail.Name=Gefängnisse
+PublicFacilities.Museum.Name=Museen
+PublicFacilities.Police.Name=Polizei-Abdeckung
+PublicFacilities.School.Name=Schule-Abdeckung

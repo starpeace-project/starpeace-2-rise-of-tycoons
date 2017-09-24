@@ -1,0 +1,11 @@
+Label14.Caption=%
+lvTowns.Columns=6
+lvTowns.Columns.0=Känt
+lvTowns.Columns.1=Befolkning
+lvTowns.Columns.2=QOL
+lvTowns.Columns.3=Kommers
+lvTowns.Columns.4=Rikedom
+lvTowns.Columns.5=Skatt
+lbTax.Caption=Skatt: 0%
+pbTax.Hint=0%
+btnElect.Text=Utvalt

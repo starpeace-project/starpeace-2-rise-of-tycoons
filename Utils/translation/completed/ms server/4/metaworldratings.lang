@@ -1,0 +1,17 @@
+﻿WorldProjects.Wealth.Name=Condizione economica
+Target=WorldRatings
+LangId=4
+WorldRatings.CampaignAccuracy.Name=Realizzazione di campagna
+WorldRatings.College.Name=Istituti universitari
+WorldRatings.Disposal.Name=Eliminazione di immondizia
+WorldRatings.Fire.Name=Riempimento del fuoco
+WorldRatings.Health.Name=Riempimento di salute
+WorldRatings.Jail.Name=Prigioni
+WorldRatings.Museum.Name=Musei
+WorldRatings.Police.Name=Riempimento della polizia
+WorldRatings.PopGrowth.Name=Sviluppo della città
+WorldRatings.School.Name=Riempimento della scuola
+WorldRatings.Services.Name=Servizi e divertimento
+WorldRatings.Sport.Name=Facilità di ricreazione
+WorldRatings.Taxes.Name=Tasse
+WorldRatings.Unemployment.Name=Occupazione

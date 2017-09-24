@@ -1,0 +1,11 @@
+Button2.Caption=Décommander
+Label1.Caption=Titre :
+btnLaunch.Text=Lancement
+NameLabel.Caption=Non-déterminé
+Label2.Caption=Temps :
+Label3.Caption=Budget :
+btnCancelFilm.Text=Annulation
+btnReleaseFilm.Text=Dégagement
+xfer_FilmBudget.Text=$10.000.000
+cbAutoRelease.Caption=Dégagement automatique
+xfer_FilmTime.Text=12

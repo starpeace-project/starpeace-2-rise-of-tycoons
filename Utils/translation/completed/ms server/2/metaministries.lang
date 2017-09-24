@@ -1,0 +1,10 @@
+﻿TycoonLevels.BeyondLegend.Cond=Vous devez payer %s à l'IFEL. Vous devez faire maintenir à un supérieur moyen de rapport de bénéfice à %s/h. votre prestige plus considérablement que 15000.
+Target=Ministries
+LangId=2
+Ministries.Ministry1.Name=Santé
+Ministries.Ministry2.Name=Éducation
+Ministries.Ministry3.Name=La défense
+Ministries.Ministry4.Name=Agriculture
+Ministries.Ministry5.Name=Industrie légère
+Ministries.Ministry6.Name=Industrie lourd
+Ministries.Ministry7.Name=Commerce

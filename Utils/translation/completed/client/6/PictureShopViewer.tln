@@ -1,0 +1,14 @@
+btnCancel.Text=Annuleer
+btnLoad.Hint=Laad uw beeld van een schijfdossier
+btnLoad.Text=Lading
+btnPreview.Hint=Voorproef uw beeld
+btnPreview.Text=Voorproef
+btnSend.Hint=Verzend uw beeld
+btnSend.Text=Verzend
+btnCancel.Text=Sluit
+ZoomIn.Hint=Gezoem binnen
+ZoomIn.Text=+
+ZoomOut.Hint=Gezoem uit
+ZoomOut.Text=-
+Marquee.Caption=VERZEND UW BEELD
+Marquee.Hint=VERZEND UW BEELD

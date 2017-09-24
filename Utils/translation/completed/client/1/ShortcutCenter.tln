@@ -1,0 +1,14 @@
+=
+ShortcutCenter.Caption=Atajos de teclado
+Label1.Caption=Atajos de teclado registrados
+ListView1.Columns=3
+ListView1.Columns.0=Descripción
+ListView1.Columns.1=Atajo
+ListView1.Columns.2=Texto
+Button1.Caption=Agregar…
+Button1.Hint=Chascar para agregar un atajo
+Button2.Caption=Corregir…
+Button2.Hint=Chascar para corregir un shorcut
+Button3.Caption=Cancelación
+Button3.Hint=Chascar para eliminar un atajo
+Button4.Caption=Cerrarse

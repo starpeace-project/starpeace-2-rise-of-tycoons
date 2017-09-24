@@ -1,0 +1,10 @@
+btnCancel.Text=초월을 취소하십시오
+lvMinisteries.Columns=4
+lvMinisteries.Columns.0=내각
+lvMinisteries.Columns.1=성직자
+lvMinisteries.Columns.2=등급
+lvMinisteries.Columns.3=예산
+lbBudget.Caption=내년의 예산:
+btnSetBudget.Text=예산을 놓으십시오
+btnDeposeClick.Test=면직시키십시오
+lbMinister.Caption=성직자:

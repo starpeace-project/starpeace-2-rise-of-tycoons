@@ -1,0 +1,4 @@
+btnModify.Text=변경하십시오
+lvAntennas.Columns=3
+lvAntennas.Columns.0=이름
+lvAntennas.Columns.1=도시

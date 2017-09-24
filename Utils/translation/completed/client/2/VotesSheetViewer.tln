@@ -1,0 +1,6 @@
+Speaker.Caption=Aucun
+lvVotes.Columns=4
+lvVotes.Columns.0=Candidat
+lvVotes.Columns.1=Estimation
+lvVotes.Columns.2=Voix valides
+lvVotes.Columns.3=Points

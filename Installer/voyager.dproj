@@ -1,0 +1,123 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{dd397ef6-77e5-49d6-a8d1-7889fec638c8}</ProjectGuid>
+    <MainSource>voyager.dpr</MainSource>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <DCC_DCCCompiler>DCC32</DCC_DCCCompiler>
+    <DCC_DependencyCheckOutputName>E:\Program Files\sp\voyager.exe</DCC_DependencyCheckOutputName>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <Version>7.0</Version>
+    <DCC_AssertionsAtRuntime>False</DCC_AssertionsAtRuntime>
+    <DCC_DebugInformation>False</DCC_DebugInformation>
+    <DCC_WriteableConstants>True</DCC_WriteableConstants>
+    <DCC_LocalDebugSymbols>False</DCC_LocalDebugSymbols>
+    <DCC_SymbolReferenceInfo>0</DCC_SymbolReferenceInfo>
+    <DCC_UnitAlias>WinTypes=Windows;WinProcs=Windows;DbiTypes=BDE;DbiProcs=BDE;DbiErrs=BDE</DCC_UnitAlias>
+    <DCC_ExeOutput>E:\Program Files\sp</DCC_ExeOutput>
+    <DCC_UnitSearchPath>..\voyager\components;..\rdo\client;..\rdo\common;..\utils\network\;..\utils\Synchro;..\Kernel;..\Voyager\Components\WebBrowser;..\utils\misc;..\utils\debug;..\Utils\WinUtils;..\Utils\DirectX;..\Utils\DXMedia;..\Utils\DirectX;..\Utils\Voice\Utils;..\voyager;..\voyager\URLHandlers;C:\starpeace\Source\Utils\Vcl;C:\starpeace\Source\Utils\Misc;..\logs</DCC_UnitSearchPath>
+    <DCC_ResourcePath>..\voyager\components;..\rdo\client;..\rdo\common;..\utils\network\;..\utils\Synchro;..\Kernel;..\Voyager\Components\WebBrowser;..\utils\misc;..\utils\debug;..\Utils\WinUtils;..\Utils\DirectX;..\Utils\DXMedia;..\Utils\DirectX;..\Utils\Voice\Utils;..\voyager;..\voyager\URLHandlers;C:\starpeace\Source\Utils\Vcl;C:\starpeace\Source\Utils\Misc;..\logs</DCC_ResourcePath>
+    <DCC_ObjPath>..\voyager\components;..\rdo\client;..\rdo\common;..\utils\network\;..\utils\Synchro;..\Kernel;..\Voyager\Components\WebBrowser;..\utils\misc;..\utils\debug;..\Utils\WinUtils;..\Utils\DirectX;..\Utils\DXMedia;..\Utils\DirectX;..\Utils\Voice\Utils;..\voyager;..\voyager\URLHandlers;C:\starpeace\Source\Utils\Vcl;C:\starpeace\Source\Utils\Misc;..\logs</DCC_ObjPath>
+    <DCC_IncludePath>..\voyager\components;..\rdo\client;..\rdo\common;..\utils\network\;..\utils\Synchro;..\Kernel;..\Voyager\Components\WebBrowser;..\utils\misc;..\utils\debug;..\Utils\WinUtils;..\Utils\DirectX;..\Utils\DXMedia;..\Utils\DirectX;..\Utils\Voice\Utils;..\voyager;..\voyager\URLHandlers;C:\starpeace\Source\Utils\Vcl;C:\starpeace\Source\Utils\Misc;..\logs</DCC_IncludePath>
+    <DCC_Define>EXCMAGIC_GUI;USE_CABSDLL;BETAxxx;BETAREGxxx;RELEASE</DCC_Define>
+    <DCC_UNSAFE_TYPE>True</DCC_UNSAFE_TYPE>
+    <DCC_UNSAFE_CODE>True</DCC_UNSAFE_CODE>
+    <DCC_UNSAFE_CAST>True</DCC_UNSAFE_CAST>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <Version>7.0</Version>
+    <DCC_AssertionsAtRuntime>False</DCC_AssertionsAtRuntime>
+    <DCC_DebugInformation>False</DCC_DebugInformation>
+    <DCC_WriteableConstants>True</DCC_WriteableConstants>
+    <DCC_LocalDebugSymbols>False</DCC_LocalDebugSymbols>
+    <DCC_SymbolReferenceInfo>0</DCC_SymbolReferenceInfo>
+    <DCC_UnitAlias>WinTypes=Windows;WinProcs=Windows;DbiTypes=BDE;DbiProcs=BDE;DbiErrs=BDE</DCC_UnitAlias>
+    <DCC_ExeOutput>E:\Program Files\sp</DCC_ExeOutput>
+    <DCC_UnitSearchPath>..\voyager\components;..\rdo\client;..\rdo\common;..\utils\network\;..\utils\Synchro;..\Kernel;..\Voyager\Components\WebBrowser;..\utils\misc;..\utils\debug;..\Utils\WinUtils;..\Utils\DirectX;..\Utils\DXMedia;..\Utils\DirectX;..\Utils\Voice\Utils;..\voyager;..\voyager\URLHandlers;C:\starpeace\Source\Utils\Vcl;C:\starpeace\Source\Utils\Misc;..\logs</DCC_UnitSearchPath>
+    <DCC_ResourcePath>..\voyager\components;..\rdo\client;..\rdo\common;..\utils\network\;..\utils\Synchro;..\Kernel;..\Voyager\Components\WebBrowser;..\utils\misc;..\utils\debug;..\Utils\WinUtils;..\Utils\DirectX;..\Utils\DXMedia;..\Utils\DirectX;..\Utils\Voice\Utils;..\voyager;..\voyager\URLHandlers;C:\starpeace\Source\Utils\Vcl;C:\starpeace\Source\Utils\Misc;..\logs</DCC_ResourcePath>
+    <DCC_ObjPath>..\voyager\components;..\rdo\client;..\rdo\common;..\utils\network\;..\utils\Synchro;..\Kernel;..\Voyager\Components\WebBrowser;..\utils\misc;..\utils\debug;..\Utils\WinUtils;..\Utils\DirectX;..\Utils\DXMedia;..\Utils\DirectX;..\Utils\Voice\Utils;..\voyager;..\voyager\URLHandlers;C:\starpeace\Source\Utils\Vcl;C:\starpeace\Source\Utils\Misc;..\logs</DCC_ObjPath>
+    <DCC_IncludePath>..\voyager\components;..\rdo\client;..\rdo\common;..\utils\network\;..\utils\Synchro;..\Kernel;..\Voyager\Components\WebBrowser;..\utils\misc;..\utils\debug;..\Utils\WinUtils;..\Utils\DirectX;..\Utils\DXMedia;..\Utils\DirectX;..\Utils\Voice\Utils;..\voyager;..\voyager\URLHandlers;C:\starpeace\Source\Utils\Vcl;C:\starpeace\Source\Utils\Misc;..\logs</DCC_IncludePath>
+    <DCC_Define>EXCMAGIC_GUI;USE_CABSDLL;BETAxxx;BETAREGxxx;DEBUG</DCC_Define>
+    <DCC_UNSAFE_TYPE>True</DCC_UNSAFE_TYPE>
+    <DCC_UNSAFE_CODE>True</DCC_UNSAFE_CODE>
+    <DCC_UNSAFE_CAST>True</DCC_UNSAFE_CAST>
+  </PropertyGroup>
+  <ProjectExtensions>
+    <Borland.Personality>Delphi.Personality</Borland.Personality>
+    <Borland.ProjectType>VCLApplication</Borland.ProjectType>
+    <BorlandProject>
+<BorlandProject xmlns=""> <Delphi.Personality>   <Parameters>
+      <Parameters Name="UseLauncher">False</Parameters>
+      <Parameters Name="LoadAllSymbols">True</Parameters>
+      <Parameters Name="LoadUnspecifiedSymbols">False</Parameters>
+    </Parameters>
+    <VersionInfo>
+      <VersionInfo Name="IncludeVerInfo">True</VersionInfo>
+      <VersionInfo Name="AutoIncBuild">False</VersionInfo>
+      <VersionInfo Name="MajorVer">2</VersionInfo>
+      <VersionInfo Name="MinorVer">0</VersionInfo>
+      <VersionInfo Name="Release">1</VersionInfo>
+      <VersionInfo Name="Build">4</VersionInfo>
+      <VersionInfo Name="Debug">False</VersionInfo>
+      <VersionInfo Name="PreRelease">False</VersionInfo>
+      <VersionInfo Name="Special">False</VersionInfo>
+      <VersionInfo Name="Private">False</VersionInfo>
+      <VersionInfo Name="DLL">False</VersionInfo>
+      <VersionInfo Name="Locale">1033</VersionInfo>
+      <VersionInfo Name="CodePage">1252</VersionInfo>
+    </VersionInfo>
+    <VersionInfoKeys>
+      <VersionInfoKeys Name="CompanyName">Oceanus Comunications</VersionInfoKeys>
+      <VersionInfoKeys Name="FileDescription">Legacy Online</VersionInfoKeys>
+      <VersionInfoKeys Name="FileVersion">2.0.1.4</VersionInfoKeys>
+      <VersionInfoKeys Name="InternalName"></VersionInfoKeys>
+      <VersionInfoKeys Name="LegalCopyright"></VersionInfoKeys>
+      <VersionInfoKeys Name="LegalTrademarks"></VersionInfoKeys>
+      <VersionInfoKeys Name="OriginalFilename"></VersionInfoKeys>
+      <VersionInfoKeys Name="ProductName"></VersionInfoKeys>
+      <VersionInfoKeys Name="ProductVersion">1.0.0.0</VersionInfoKeys>
+      <VersionInfoKeys Name="Comments"></VersionInfoKeys>
+    </VersionInfoKeys>
+    <Source>
+      <Source Name="MainSource">voyager.dpr</Source>
+    </Source>
+  </Delphi.Personality> </BorlandProject></BorlandProject>
+  </ProjectExtensions>
+  <ItemGroup />
+  <ItemGroup>
+    <DelphiCompile Include="voyager.dpr">
+      <MainSource>MainSource</MainSource>
+    </DelphiCompile>
+    <DCCReference Include="..\Kernel\Collection.pas" />
+    <DCCReference Include="..\Kernel\SmartThreads.pas" />
+    <DCCReference Include="..\Utils\CodeLib\AxlDebug.pas" />
+    <DCCReference Include="..\Utils\CodeLib\Threads.pas" />
+    <DCCReference Include="..\Utils\Debug\ExceptHandle.pas" />
+    <DCCReference Include="..\Utils\Debug\ExcMagic.pas" />
+    <DCCReference Include="..\Utils\Misc\CompStringsParser.pas" />
+    <DCCReference Include="..\Utils\Misc\DelphiStreamUtils.pas" />
+    <DCCReference Include="..\Utils\Misc\LookForFolder.pas" />
+    <DCCReference Include="..\Utils\Misc\MathUtils.pas" />
+    <DCCReference Include="..\Utils\MP3Play\MP3Reader.pas" />
+    <DCCReference Include="..\Utils\Network\SocketComp.pas" />
+    <DCCReference Include="..\Utils\Network\URL2File.pas" />
+    <DCCReference Include="..\Utils\Network\URLUtils.pas" />
+    <DCCReference Include="..\Utils\Synchro\CabUtils.pas" />
+    <DCCReference Include="..\Utils\Synchro\Synchro.pas" />
+    <DCCReference Include="..\Utils\Synchro\SyncIndex.pas" />
+    <DCCReference Include="..\voyager\components\MarqueeCtrl.pas" />
+    <DCCReference Include="..\Voyager\Components\WebBrowser\CustomWebBrowser.pas" />
+    <DCCReference Include="..\Voyager\Components\WebBrowser\InternetSecurityManager.pas" />
+    <DCCReference Include="..\Voyager\Components\WebBrowser\Mshtmhst.pas" />
+    <DCCReference Include="..\Voyager\Components\WebBrowser\SHDocVw.pas" />
+    <DCCReference Include="..\Voyager\Components\WebBrowser\URLMon2.pas" />
+    <DCCReference Include="PickSiteForm.pas">
+      <Form>PickSiteFrm</Form>
+    </DCCReference>
+    <DCCReference Include="UpdateForm.pas">
+      <Form>UpdateFrm</Form>
+    </DCCReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Borland.Delphi.Targets" />
+</Project>

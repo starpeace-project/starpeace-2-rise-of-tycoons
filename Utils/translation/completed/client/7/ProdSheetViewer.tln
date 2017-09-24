@@ -1,0 +1,12 @@
+ReadNews.Text=ニュースを読みなさい
+lvConnections.Columns=4
+lvConnections.Columns.0=顧客
+lvConnections.Columns.1=会社
+lvConnections.Columns.2=販売
+lvConnections.Columns.3=T.費用
+PricePc.Hint=0%
+Label3.Caption=価格:
+Price.Caption=0%
+btnHireSuppliers.Hint=顧客にあなたのプロダクトを提供するためにここにかちりと鳴らしなさい
+btnHireSuppliers.Text=提供
+btnDelete.Hint=顧客を削除するためにここにかちりと鳴らしなさい

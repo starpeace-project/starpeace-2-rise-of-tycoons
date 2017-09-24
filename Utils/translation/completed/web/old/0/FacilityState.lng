@@ -1,0 +1,8 @@
+<%
+strOperatingNormally="The dome is operating normally"
+strStopped="The dome was stopped by the owner"
+strNotFunctioning="The dome is not functioning properly"
+strNeedsSuppliers="One or more basic supplies are not being received at all"
+strNeedsBudget="There is not enough money to operate"
+strNotEnoughSupplies="The dome is not being supplied as it needs to work properly"
+%>

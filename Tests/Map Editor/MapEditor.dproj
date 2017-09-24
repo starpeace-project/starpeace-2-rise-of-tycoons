@@ -1,0 +1,121 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{3bc7c8b8-a80f-496a-a3e5-4f9f696238b8}</ProjectGuid>
+    <MainSource>MapEditor.dpr</MainSource>
+    <Configuration Condition=" '$(Configuration)' == '' ">Release</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <DCC_DCCCompiler>DCC32</DCC_DCCCompiler>
+    <DCC_DependencyCheckOutputName>MapEditor.exe</DCC_DependencyCheckOutputName>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <Version>7.0</Version>
+    <DCC_WriteableConstants>True</DCC_WriteableConstants>
+    <DCC_Optimize>False</DCC_Optimize>
+    <DCC_GenerateStackFrames>True</DCC_GenerateStackFrames>
+    <DCC_UnitSearchPath>C:\starpeace\Source\Land\rtl\common;C:\starpeace\Source\Land\rtl\win;C:\starpeace\Source\Land\vcl;..\..\Voyager;..\..\Utils\Graphics;..\..\Utils\GameAPI;..\..\Utils\Misc;..\..\Utils\CodeLib;..\..\Land;..\..\Kernel;..\..\Protocol;..\..\Cache;..\..\Utils\Misc;..\..\Utils\WinUtils;..\..\Utils\SoundLib;..\..\Utils\Synchro;..\..\Utils\Network;..\..\Utils\DirectX;C:\starpeace\Source\Logs</DCC_UnitSearchPath>
+    <DCC_ResourcePath>C:\starpeace\Source\Land\rtl\common;C:\starpeace\Source\Land\rtl\win;C:\starpeace\Source\Land\vcl;..\..\Voyager;..\..\Utils\Graphics;..\..\Utils\GameAPI;..\..\Utils\Misc;..\..\Utils\CodeLib;..\..\Land;..\..\Kernel;..\..\Protocol;..\..\Cache;..\..\Utils\Misc;..\..\Utils\WinUtils;..\..\Utils\SoundLib;..\..\Utils\Synchro;..\..\Utils\Network;..\..\Utils\DirectX;C:\starpeace\Source\Logs</DCC_ResourcePath>
+    <DCC_ObjPath>C:\starpeace\Source\Land\rtl\common;C:\starpeace\Source\Land\rtl\win;C:\starpeace\Source\Land\vcl;..\..\Voyager;..\..\Utils\Graphics;..\..\Utils\GameAPI;..\..\Utils\Misc;..\..\Utils\CodeLib;..\..\Land;..\..\Kernel;..\..\Protocol;..\..\Cache;..\..\Utils\Misc;..\..\Utils\WinUtils;..\..\Utils\SoundLib;..\..\Utils\Synchro;..\..\Utils\Network;..\..\Utils\DirectX;C:\starpeace\Source\Logs</DCC_ObjPath>
+    <DCC_IncludePath>C:\starpeace\Source\Land\rtl\common;C:\starpeace\Source\Land\rtl\win;C:\starpeace\Source\Land\vcl;..\..\Voyager;..\..\Utils\Graphics;..\..\Utils\GameAPI;..\..\Utils\Misc;..\..\Utils\CodeLib;..\..\Land;..\..\Kernel;..\..\Protocol;..\..\Cache;..\..\Utils\Misc;..\..\Utils\WinUtils;..\..\Utils\SoundLib;..\..\Utils\Synchro;..\..\Utils\Network;..\..\Utils\DirectX;C:\starpeace\Source\Logs</DCC_IncludePath>
+    <DCC_Define>ISOVIEWER</DCC_Define>
+    <DCC_UNSAFE_TYPE>True</DCC_UNSAFE_TYPE>
+    <DCC_UNSAFE_CODE>True</DCC_UNSAFE_CODE>
+    <DCC_UNSAFE_CAST>True</DCC_UNSAFE_CAST>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <Version>7.0</Version>
+    <DCC_WriteableConstants>True</DCC_WriteableConstants>
+    <DCC_Optimize>False</DCC_Optimize>
+    <DCC_GenerateStackFrames>True</DCC_GenerateStackFrames>
+    <DCC_UnitSearchPath>..\..\Utils\GameAPI;..\..\Utils\Graphics;..\..\Voyager;..\..\Utils\Misc;..\..\Utils\CodeLib;..\..\Land;..\..\Kernel;..\..\Protocol;..\..\Cache;..\..\Utils\Misc;..\..\Utils\WinUtils;..\..\Utils\SoundLib;..\..\Utils\Synchro;..\..\Utils\Network;..\..\Utils\DirectX;C:\starpeace\Source\Logs</DCC_UnitSearchPath>
+    <DCC_ResourcePath>..\..\Utils\GameAPI;..\..\Utils\Graphics;..\..\Voyager;..\..\Utils\Misc;..\..\Utils\CodeLib;..\..\Land;..\..\Kernel;..\..\Protocol;..\..\Cache;..\..\Utils\Misc;..\..\Utils\WinUtils;..\..\Utils\SoundLib;..\..\Utils\Synchro;..\..\Utils\Network;..\..\Utils\DirectX;C:\starpeace\Source\Logs</DCC_ResourcePath>
+    <DCC_ObjPath>..\..\Utils\GameAPI;..\..\Utils\Graphics;..\..\Voyager;..\..\Utils\Misc;..\..\Utils\CodeLib;..\..\Land;..\..\Kernel;..\..\Protocol;..\..\Cache;..\..\Utils\Misc;..\..\Utils\WinUtils;..\..\Utils\SoundLib;..\..\Utils\Synchro;..\..\Utils\Network;..\..\Utils\DirectX;C:\starpeace\Source\Logs</DCC_ObjPath>
+    <DCC_IncludePath>..\..\Utils\GameAPI;..\..\Utils\Graphics;..\..\Voyager;..\..\Utils\Misc;..\..\Utils\CodeLib;..\..\Land;..\..\Kernel;..\..\Protocol;..\..\Cache;..\..\Utils\Misc;..\..\Utils\WinUtils;..\..\Utils\SoundLib;..\..\Utils\Synchro;..\..\Utils\Network;..\..\Utils\DirectX;C:\starpeace\Source\Logs</DCC_IncludePath>
+    <DCC_Define>ISOVIEWER;DEBUG</DCC_Define>
+    <DCC_UNSAFE_TYPE>True</DCC_UNSAFE_TYPE>
+    <DCC_UNSAFE_CODE>True</DCC_UNSAFE_CODE>
+    <DCC_UNSAFE_CAST>True</DCC_UNSAFE_CAST>
+  </PropertyGroup>
+  <ProjectExtensions>
+    <Borland.Personality>Delphi.Personality</Borland.Personality>
+    <Borland.ProjectType>VCLApplication</Borland.ProjectType>
+    <BorlandProject>
+<BorlandProject xmlns=""> <Delphi.Personality>   <Parameters>
+      <Parameters Name="RunParams">C:\Work\Five\Release\Client\Cache Zyrane</Parameters>
+      <Parameters Name="DebugSourceDirs">..\..\Utils\GameAPI;..\..\Utils\Graphics;..\..\Voyager;..\..\Utils\Misc;..\..\Utils\CodeLib;..\..\Land;..\..\Kernel;..\..\Protocol;..\..\Cache;..\..\Utils\WinUtils;..\..\Utils\SoundLib;..\..\Utils\Synchro;..\..\Utils\Network;..\..\Utils\DirectX</Parameters>
+      <Parameters Name="UseLauncher">False</Parameters>
+      <Parameters Name="LoadAllSymbols">True</Parameters>
+      <Parameters Name="LoadUnspecifiedSymbols">False</Parameters>
+    </Parameters>
+    <VersionInfo>
+      <VersionInfo Name="IncludeVerInfo">False</VersionInfo>
+      <VersionInfo Name="AutoIncBuild">False</VersionInfo>
+      <VersionInfo Name="MajorVer">1</VersionInfo>
+      <VersionInfo Name="MinorVer">0</VersionInfo>
+      <VersionInfo Name="Release">0</VersionInfo>
+      <VersionInfo Name="Build">0</VersionInfo>
+      <VersionInfo Name="Debug">False</VersionInfo>
+      <VersionInfo Name="PreRelease">False</VersionInfo>
+      <VersionInfo Name="Special">False</VersionInfo>
+      <VersionInfo Name="Private">False</VersionInfo>
+      <VersionInfo Name="DLL">False</VersionInfo>
+      <VersionInfo Name="Locale">1033</VersionInfo>
+      <VersionInfo Name="CodePage">1252</VersionInfo>
+    </VersionInfo>
+    <VersionInfoKeys>
+      <VersionInfoKeys Name="FileVersion">1.0.0.0</VersionInfoKeys>
+    </VersionInfoKeys>
+    <Source>
+      <Source Name="MainSource">MapEditor.dpr</Source>
+    </Source>
+  </Delphi.Personality> </BorlandProject></BorlandProject>
+  </ProjectExtensions>
+  <Import Project="$(MSBuildBinPath)\Borland.Delphi.Targets" />
+  <ItemGroup>
+    <DelphiCompile Include="MapEditor.dpr">
+      <MainSource>MainSource</MainSource>
+    </DelphiCompile>
+    <DCCReference Include="..\..\Class Packer\VisualClassManager.pas" />
+    <DCCReference Include="..\..\Gm\GMKernel.pas" />
+    <DCCReference Include="..\..\Utils\CodeLib\Animations.pas" />
+    <DCCReference Include="..\..\Utils\CodeLib\AxlDebug.pas" />
+    <DCCReference Include="..\..\Utils\CodeLib\CoreTypes.pas" />
+    <DCCReference Include="..\..\Utils\CodeLib\ScrollRegions.pas" />
+    <DCCReference Include="..\..\Utils\CodeLib\ShutDown.pas" />
+    <DCCReference Include="..\..\Utils\CodeLib\Threads.pas" />
+    <DCCReference Include="..\..\Utils\CodeLib\ThreadTimer.pas" />
+    <DCCReference Include="..\..\Utils\CodeLib\TimerTicker.pas" />
+    <DCCReference Include="..\..\Utils\CodeLib\Warnings.pas" />
+    <DCCReference Include="..\..\Voyager\VoyagerUIEvents.pas" />
+    <DCCReference Include="AccidentImageViewerControl.pas" />
+    <DCCReference Include="IsometricMap\FiveIsometricMap.pas" />
+    <DCCReference Include="IsometricMap\IsometricMap.pas" />
+    <DCCReference Include="IsometricMap\IsometricMapTypes.pas" />
+    <DCCReference Include="MapEditorMain.pas">
+      <Form>MapEditorMainForm</Form>
+    </DCCReference>
+    <DCCReference Include="MapIsoView\BuildClasses.pas" />
+    <DCCReference Include="MapIsoView\Circuits.pas" />
+    <DCCReference Include="MapIsoView\CircuitsHandler.pas" />
+    <DCCReference Include="MapIsoView\Concrete.pas" />
+    <DCCReference Include="MapIsoView\FiveTypes.pas" />
+    <DCCReference Include="MapIsoView\FocusTypes.pas" />
+    <DCCReference Include="MapIsoView\GameControl.pas" />
+    <DCCReference Include="MapIsoView\GameTypes.pas" />
+    <DCCReference Include="MapIsoView\ImageCache.pas" />
+    <DCCReference Include="MapIsoView\ImageLoader.pas" />
+    <DCCReference Include="MapIsoView\Lander.pas" />
+    <DCCReference Include="MapIsoView\LanderTypes.pas" />
+    <DCCReference Include="MapIsoView\LocalCacheManager.pas" />
+    <DCCReference Include="MapIsoView\LocalCacheTypes.pas" />
+    <DCCReference Include="MapIsoView\Map.pas" />
+    <DCCReference Include="MapIsoView\MapControl.pas" />
+    <DCCReference Include="MapIsoView\MapTypes.pas" />
+    <DCCReference Include="MapIsoView\Railroads.pas" />
+    <DCCReference Include="MapIsoView\Roads.pas" />
+    <DCCReference Include="MapIsoView\SoundCache.pas" />
+    <DCCReference Include="MapIsoView\SoundMixer.pas" />
+    <DCCReference Include="MapIsoView\Sounds.pas" />
+    <DCCReference Include="MapIsoView\SoundTypes.pas" />
+    <DCCReference Include="MasterURLHandler.pas" />
+  </ItemGroup>
+</Project>

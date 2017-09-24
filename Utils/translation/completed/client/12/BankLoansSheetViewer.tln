@@ -1,0 +1,5 @@
+lbBankResult.Caption=Packa ihop har inga nog grundar för att betala nu.
+lvLoans.Columns=4
+lvLoans.Columns.0=Gäldenär
+lvLoans.Columns.1=Belopp
+lvLoans.Columns.2=Intressera

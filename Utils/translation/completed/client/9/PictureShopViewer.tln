@@ -1,0 +1,14 @@
+btnCancel.Text=Odwoływać
+btnLoad.Hint=Ładować twój obrazek od talerzowy kartoteka
+btnLoad.Text=Ładunek
+btnPreview.Hint=Zapowiedź twój obrazek
+btnPreview.Text=Zapowiedź
+btnSend.Hint=Wysyłać twój obrazek
+btnSend.Text=Wysyłać
+btnCancel.Text=Zamykać
+ZoomIn.Hint=Zbliżać wewnątrz
+ZoomIn.Text=+
+ZoomOut.Hint=Zoom zoom
+ZoomOut.Text=-
+Marquee.Caption=WYSYŁAĆ TWÓJ OBRAZEK
+Marquee.Hint=WYSYŁAĆ TWÓJ OBRAZEK

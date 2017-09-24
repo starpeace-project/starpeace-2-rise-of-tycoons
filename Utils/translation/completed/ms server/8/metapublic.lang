@@ -1,0 +1,11 @@
+﻿Projects.Wealth.Name=경제 부
+Target=PublicFacilities
+LangId=8
+PublicFacilities.College.Name=대학
+PublicFacilities.Disposal.Name=쓰레기 분쇄 처리
+PublicFacilities.Fire.Name=불 적용
+PublicFacilities.Health.Name=의료보험 커버 내역
+PublicFacilities.Jail.Name=감옥
+PublicFacilities.Museum.Name=박물관
+PublicFacilities.Police.Name=경찰 적용
+PublicFacilities.School.Name=학교 적용

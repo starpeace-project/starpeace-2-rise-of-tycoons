@@ -1,0 +1,14 @@
+btnCancel.Text=取消
+btnLoad.Hint=从磁盘文件装载您的图片
+btnLoad.Text=装载
+btnPreview.Hint=预览您的图片
+btnPreview.Text=预览
+btnSend.Hint=送您的图片
+btnSend.Text=送
+btnCancel.Text=关闭
+ZoomIn.Hint=放大
+ZoomIn.Text=+
+ZoomOut.Hint=徒升
+ZoomOut.Text=-
+Marquee.Caption=送您的图片
+Marquee.Hint=送您的图片

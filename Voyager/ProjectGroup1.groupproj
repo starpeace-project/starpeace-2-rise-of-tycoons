@@ -1,0 +1,40 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{3247cf54-4e28-49d9-83bc-4065594f9e72}</ProjectGuid>
+  </PropertyGroup>
+  <ItemGroup />
+  <ItemGroup />
+  <ProjectExtensions>
+    <Borland.Personality>Default.Personality</Borland.Personality>
+    <Borland.ProjectType />
+    <BorlandProject>
+  <BorlandProject xmlns=""> <Default.Personality> </Default.Personality> </BorlandProject></BorlandProject>
+  </ProjectExtensions>
+  <Target Name="Project1">
+    <MSBuild Projects="Project1.dproj" Targets="" />
+  </Target>
+  <Target Name="Project1:Clean">
+    <MSBuild Projects="Project1.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="Project1:Make">
+    <MSBuild Projects="Project1.dproj" Targets="Make" />
+  </Target>
+  <Target Name="FIVEVoyager">
+    <MSBuild Projects="FIVEVoyager.dproj" Targets="" />
+  </Target>
+  <Target Name="FIVEVoyager:Clean">
+    <MSBuild Projects="FIVEVoyager.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="FIVEVoyager:Make">
+    <MSBuild Projects="FIVEVoyager.dproj" Targets="Make" />
+  </Target>
+  <Target Name="Build">
+    <CallTarget Targets="Project1;FIVEVoyager" />
+  </Target>
+  <Target Name="Clean">
+    <CallTarget Targets="Project1:Clean;FIVEVoyager:Clean" />
+  </Target>
+  <Target Name="Make">
+    <CallTarget Targets="Project1:Make;FIVEVoyager:Make" />
+  </Target>
+</Project>

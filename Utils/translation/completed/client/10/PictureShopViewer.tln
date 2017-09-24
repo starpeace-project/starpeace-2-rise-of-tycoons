@@ -1,0 +1,14 @@
+btnCancel.Text=Cancelamento
+btnLoad.Hint=Carregar seu retrato de uma lima de disco
+btnLoad.Text=Carga
+btnPreview.Hint=Inspecionar seu retrato
+btnPreview.Text=Inspeção prévia
+btnSend.Hint=Emitir seu retrato
+btnSend.Text=Emitir
+btnCancel.Text=Fechar
+ZoomIn.Hint=Zumbir dentro
+ZoomIn.Text=+
+ZoomOut.Hint=Zumbido para fora
+ZoomOut.Text=-
+Marquee.Caption=EMITIR SEU RETRATO
+Marquee.Hint=EMITIR SEU RETRATO

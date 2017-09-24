@@ -1,0 +1,10 @@
+btnCancel.Text=Décommander la transcendance
+lvMinisteries.Columns=4
+lvMinisteries.Columns.0=Ministère
+lvMinisteries.Columns.1=Ministre
+lvMinisteries.Columns.2=Estimation
+lvMinisteries.Columns.3=Budget
+lbBudget.Caption=Le budget de l'année prochaine :
+btnSetBudget.Text=Placer le budget
+btnDeposeClick.Test=Déposer
+lbMinister.Caption=Ministre :

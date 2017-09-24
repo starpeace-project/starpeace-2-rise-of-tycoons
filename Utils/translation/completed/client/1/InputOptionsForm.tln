@@ -1,0 +1,12 @@
+=
+btnOK.Text=AUTORIZACIÓN
+Label1.Caption=Nombre:
+Label2.Caption=Compañía:
+overPay.Caption=Pago excesivo:
+btnClose.Text=x
+FramedButton1.Hint=
+FramedButton1.Text=Cancelación
+btnDelete1.Text=Cancelación
+peOverPay.Hint=el 0%
+OverPayPerc.Caption=el 0%
+facName.Caption=n/a

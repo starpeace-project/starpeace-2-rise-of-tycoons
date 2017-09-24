@@ -1,0 +1,17 @@
+Label2.Caption=Assunto:
+Marquee.Caption=CRIAR A CANALETA NOVA
+Marquee.Hint=CRIAR A CANALETA NOVA
+btnCreate.Hint=Estalar para criar uma canaleta nova
+btnCreate.Text=Criar
+btnCancel.Text=Cancelar
+Label1.Caption=Escolher um nome para a canaleta nova:
+Label2.Caption=Você pode proteger a canaleta com uma senha:
+Label3.Caption=Re-enter a senha:
+ChannelName.Hint=Dar entrada com o nome da canaleta aqui
+Password.Hint=Incorporar a senha da canaleta aqui
+PasswordCheck.Hint=Verific sua senha aqui
+Label4.Caption=Escolher um jogo:
+Label5.Caption=Máximo dos jogadores permitidos:
+Edit1.Text=0
+Tabs.TabNames=2
+Tabs.TabNames.0=CANALETA DO BATE-PAPO

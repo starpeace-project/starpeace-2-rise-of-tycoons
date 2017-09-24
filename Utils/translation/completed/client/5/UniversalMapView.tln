@@ -1,0 +1,16 @@
+=
+lbName.Caption=普遍地图
+Tabs.TabNames=3
+Tabs.TabNames.0=正式世界
+Tabs.TabNames.1=比赛世界
+Tabs.TabNames.2=球员世界
+Label11.Caption= 在这个区域找到的世界：
+Label9.Caption=排序：
+RadioButton1.Caption=流行音乐
+RadioButton2.Caption=投资者
+RadioButton3.Caption=年
+RadioButton4.Caption=PING
+Ticker.Caption=欢迎到Univesal地图。 点击其中任一个世界上面显示延长的信息。
+Jump.Hint=跳跃到当前选择的这个行星
+Jump.Text=跳跃到行星
+Refresh.Hint=刷新被显示的行星名单以上

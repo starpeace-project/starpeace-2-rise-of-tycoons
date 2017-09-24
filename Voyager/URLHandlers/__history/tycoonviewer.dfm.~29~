@@ -1,0 +1,343 @@
+object tycoonview: Ttycoonview
+  Left = 0
+  Top = 0
+  Caption = 'tycoonview'
+  ClientHeight = 732
+  ClientWidth = 184
+  Color = clBlack
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = True
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Image1: TImage
+    Left = 8
+    Top = 16
+    Width = 25
+    Height = 33
+    Picture.Data = {
+      0954474946496D61676547494638396117002000B300006EA192608D80679789
+      59837752796D4B6E6445645B3046403E5A523750492638321B2824141E1B0D14
+      1206090900000021F9040908000F002C0000000017002000836EA192608D8067
+      978959837752796D4B6E6445645B3046403E5A523750492638321B2824141E1B
+      0D1412060909000000046FF0C949ABBD38EBCDBBFF93B32464B2780D02AC2C90
+      704ED0B60497CC73B315788B6C841EABA6090A01BFE211B9512D159A866059D8
+      30A63D418721ACC2842FCE00273B6C16465A47714C2A855A2BB607DD380C7047
+      67C1C3853B0D06732B3A200A7D000620210A82858B90919292110021F9040908
+      000F002C0000000017002000836EA192608D8067978959837752796D4B6E6445
+      645B3046403E5A523750492638321B2824141E1B0D1412060909000000046FF0
+      C949ABBD38EBCDBBFF93B32464B2780D02AC2C90704ED0B60497CC73B315788B
+      6C841EABA6090A01BFE211B9512D159A866059D830A63D418721ACC2842FCE00
+      273B6C16465A47714C2A855A2BB607DD380C704767C1C3853B0D06732B3A200A
+      7D000620210A82858B90919292110021F9040908000F002C0000000017002000
+      836EA192608D8067978959837752796D4B6E6445645B3046403E5A5237504926
+      38321B2824141E1B0D1412060909000000046FF0C949ABBD38EBCDBBFF93B324
+      64B2780D02AC2C90704ED0B60497CC73B315788B6C841EABA6090A01BFE211B9
+      512D159A866059D830A63D418721ACC2842FCE00273B6C16465A47714C2A855A
+      2BB607DD380C704767C1C3853B0D06732B3A200A7D000620210A82858B909192
+      92110021F9040908000F002C0000000017002000836EA192608D806797895983
+      7752796D4B6E6445645B3046403E5A523750492638321B2824141E1B0D141206
+      0909000000046FF0C949ABBD38EBCDBBFF93B32464B2780D02AC2C90704ED0B6
+      0497CC73B315788B6C841EABA6090A01BFE211B9512D159A866059D830A63D41
+      8721ACC2842FCE00273B6C16465A47714C2A855A2BB607DD380C704767C1C385
+      3B0D06732B3A200A7D000620210A82858B9091929211003B}
+  end
+  object uname: TFramedButton
+    Left = 39
+    Top = 32
+    Width = 137
+    Height = 17
+    Cursor = crHandPoint
+    TextColor = clBlack
+    FrameColor = clBlack
+    SelTextColor = 9829363
+    DisableColor = clBlack
+    SelFrameColor = clBlack
+    FrameMargin = 0
+    TextMargin = 0
+    Align = fbaLeft
+    Framed = True
+    HilFramed = True
+    NorGrpColor = clBlack
+    SelGrpColor = clWhite
+    GrpBkColor = clBlack
+    GroupIndex = 0
+    Selected = False
+    Text = 'uname'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = 9829363
+    Font.Height = -16
+    Font.Name = 'Tahoma'
+    Font.Style = [fsBold]
+    ParentFont = False
+  end
+  object cimg: TFramedButton
+    Left = 26
+    Top = 279
+    Width = 100
+    Height = 17
+    Cursor = crHandPoint
+    TextColor = clBlack
+    FrameColor = clBlack
+    SelTextColor = 9829363
+    DisableColor = clBlack
+    SelFrameColor = clBlack
+    FrameMargin = 0
+    TextMargin = 0
+    Align = fbaLeft
+    Framed = True
+    HilFramed = True
+    NorGrpColor = clBlack
+    SelGrpColor = clWhite
+    GrpBkColor = clBlack
+    GroupIndex = 0
+    Selected = False
+    Text = 'change'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = 9829363
+    Font.Height = -11
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentFont = False
+    OnClick = cimgClick
+  end
+  object bcur: TFramedButton
+    Left = 39
+    Top = 336
+    Width = 137
+    Height = 25
+    Cursor = crHandPoint
+    TextColor = clBlack
+    FrameColor = 5541207
+    SelTextColor = 9829363
+    DisableColor = clBlack
+    SelFrameColor = 5541207
+    FrameMargin = 0
+    TextMargin = 0
+    Align = fbaCenter
+    Framed = True
+    HilFramed = True
+    NorGrpColor = clBlack
+    SelGrpColor = clWhite
+    GrpBkColor = clBlack
+    GroupIndex = 0
+    Selected = False
+    Text = 'Curriculum'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWhite
+    Font.Height = -11
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentFont = False
+    OnClick = bcurClick
+  end
+  object bbank: TFramedButton
+    Left = 39
+    Top = 367
+    Width = 137
+    Height = 25
+    Cursor = crHandPoint
+    TextColor = clBlack
+    FrameColor = 5541207
+    SelTextColor = 9829363
+    DisableColor = clBlack
+    SelFrameColor = 5541207
+    FrameMargin = 0
+    TextMargin = 0
+    Align = fbaCenter
+    Framed = True
+    HilFramed = True
+    NorGrpColor = clBlack
+    SelGrpColor = clWhite
+    GrpBkColor = clBlack
+    GroupIndex = 0
+    Selected = False
+    Text = 'Bank Account'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWhite
+    Font.Height = -11
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentFont = False
+    OnClick = bbankClick
+  end
+  object bpl: TFramedButton
+    Left = 39
+    Top = 398
+    Width = 137
+    Height = 25
+    Cursor = crHandPoint
+    TextColor = clBlack
+    FrameColor = 5541207
+    SelTextColor = 9829363
+    DisableColor = clBlack
+    SelFrameColor = 5541207
+    FrameMargin = 0
+    TextMargin = 0
+    Align = fbaCenter
+    Framed = True
+    HilFramed = True
+    NorGrpColor = clBlack
+    SelGrpColor = clWhite
+    GrpBkColor = clBlack
+    GroupIndex = 0
+    Selected = False
+    Text = 'Profit and Loss'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWhite
+    Font.Height = -11
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentFont = False
+    OnClick = bplClick
+  end
+  object bis: TFramedButton
+    Left = 39
+    Top = 429
+    Width = 137
+    Height = 25
+    Cursor = crHandPoint
+    TextColor = clBlack
+    FrameColor = 5541207
+    SelTextColor = 9829363
+    DisableColor = clBlack
+    SelFrameColor = 5541207
+    FrameMargin = 0
+    TextMargin = 0
+    Align = fbaCenter
+    Framed = True
+    HilFramed = True
+    NorGrpColor = clBlack
+    SelGrpColor = clWhite
+    GrpBkColor = clBlack
+    GroupIndex = 0
+    Selected = False
+    Text = 'Initial Suppliers'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWhite
+    Font.Height = -11
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentFont = False
+  end
+  object bcomp: TFramedButton
+    Left = 39
+    Top = 460
+    Width = 137
+    Height = 25
+    Cursor = crHandPoint
+    TextColor = clBlack
+    FrameColor = 5541207
+    SelTextColor = 9829363
+    DisableColor = clBlack
+    SelFrameColor = 5541207
+    FrameMargin = 0
+    TextMargin = 0
+    Align = fbaCenter
+    Framed = True
+    HilFramed = True
+    NorGrpColor = clBlack
+    SelGrpColor = clWhite
+    GrpBkColor = clBlack
+    GroupIndex = 0
+    Selected = False
+    Text = 'Companies'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWhite
+    Font.Height = -11
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentFont = False
+    OnClick = bcompClick
+  end
+  object bstrat: TFramedButton
+    Left = 39
+    Top = 491
+    Width = 137
+    Height = 25
+    Cursor = crHandPoint
+    TextColor = clBlack
+    FrameColor = 5541207
+    SelTextColor = 9829363
+    DisableColor = clBlack
+    SelFrameColor = 5541207
+    FrameMargin = 0
+    TextMargin = 0
+    Align = fbaCenter
+    Framed = True
+    HilFramed = True
+    NorGrpColor = clBlack
+    SelGrpColor = clWhite
+    GrpBkColor = clBlack
+    GroupIndex = 0
+    Selected = False
+    Text = 'Startegy'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWhite
+    Font.Height = -11
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentFont = False
+  end
+  object uimg: TWebBrowser
+    Left = 26
+    Top = 73
+    Width = 150
+    Height = 200
+    TabOrder = 0
+    ControlData = {
+      4C000000810F0000AC1400000000000000000000000000000000000000000000
+      000000004C000000000000000000000001000000E0D057007335CF11AE690800
+      2B2E126208000000000000004C0000000114020000000000C000000000000046
+      8000000000000000000000000000000000000000000000000000000000000000
+      00000000000000000100000000000000000000000000000000000000}
+  end
+  object Memo1: TMemo
+    Left = 148
+    Top = 55
+    Width = 561
+    Height = 89
+    Lines.Strings = (
+      '<html>'
+      '<script language="JScript">'
+      ''
+      #9'function onPageLoad()'
+      #9'{'
+      #9#9'if (!document.all.picture.complete)'
+      #9#9#9
+      
+        'document.all.picture.src = "http://www.starpeacelive.com/five/Vi' +
+        'sual/Voyager/NewTycoon/images/nopicture.jpg"'
+      #9'}'
+      ''
+      ''
+      '</script>'
+      ''
+      
+        '<body style="margin-top: 0px; margin-left: 0px;overflow:hidden" ' +
+        'onLoad="onPageLoad()" scrolling="no" '
+      'frameborder="0">'
+      #9
+      
+        #9'<img id=picture src="[treplace1]" border="0" width=150 height=2' +
+        '00 alt="">'
+      #9
+      ''
+      '</body>'
+      ''
+      '</html>')
+    TabOrder = 1
+  end
+  object Memo2: TMemo
+    Left = 148
+    Top = 142
+    Width = 493
+    Height = 89
+    Lines.Strings = (
+      'Memo2')
+    TabOrder = 2
+  end
+end

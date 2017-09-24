@@ -1,0 +1,12 @@
+lvProducts.Columns.9=最高。 価格
+lvTaxes.Columns=3
+lvTaxes.Columns.0=名前
+lvTaxes.Columns.1=価値
+lvTaxes.Columns.2=去年
+rbTax.Caption=税
+rbSubsidize.Caption=助成金を支給しなさい
+PercPanel.Caption=PercPanel
+pbTax.Hint=0%
+lbTax.Caption=税: 0%
+Label1.Caption=価値:
+fbSet.Text=セット

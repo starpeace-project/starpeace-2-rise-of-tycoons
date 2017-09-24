@@ -1,0 +1,14 @@
+=
+ShortcutCenter.Caption=Atalhos de teclado
+Label1.Caption=Atalhos de teclado registados
+ListView1.Columns=3
+ListView1.Columns.0=Descrição
+ListView1.Columns.1=Atalho
+ListView1.Columns.2=Texto
+Button1.Caption=Adicionar…
+Button1.Hint=Estalar para adicionar um atalho
+Button2.Caption=Editar…
+Button2.Hint=Estalar para editar um shorcut
+Button3.Caption=Supressão
+Button3.Hint=Estalar para eliminar um atalho
+Button4.Caption=Fechar

@@ -1,0 +1,6 @@
+Speaker.Caption=どれも
+lvVotes.Columns=4
+lvVotes.Columns.0=候補者
+lvVotes.Columns.1=評価
+lvVotes.Columns.2=有効票
+lvVotes.Columns.3=ポイント

@@ -1,0 +1,16 @@
+N2.Caption=감소
+Label1.Caption=당신 말하기:
+OnlineList.Columns=3
+OnlineList.Columns.0=별명으로
+OnlineList.Columns.1=수준
+OnlineList.Columns.2=세계
+Label2.Caption=당신을 기다리기:
+WaitingList.Columns=3
+WaitingList.Columns.0=별명으로
+WaitingList.Columns.1=수준
+WaitingList.Columns.2=세계
+File1.Caption=&File
+EXitMnu.Caption=E&xit
+Shortcuts1.Caption=편법
+Minimize1.Caption=극소화하십시오
+Chat1.Caption=잡담!

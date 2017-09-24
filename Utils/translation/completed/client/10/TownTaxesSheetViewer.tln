@@ -1,0 +1,12 @@
+lvProducts.Columns.9=Preço máximo
+lvTaxes.Columns=3
+lvTaxes.Columns.0=Nome
+lvTaxes.Columns.1=Valor
+lvTaxes.Columns.2=O ano passado
+rbTax.Caption=Imposto
+rbSubsidize.Caption=Subvencionar
+PercPanel.Caption=PercPanel
+pbTax.Hint=0%
+lbTax.Caption=Imposto: 0%
+Label1.Caption=Valor:
+fbSet.Text=Jogo

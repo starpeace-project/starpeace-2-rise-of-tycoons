@@ -1,0 +1,12 @@
+lvProducts.Columns.9=Max. Prissätta
+lvTaxes.Columns=3
+lvTaxes.Columns.0=Namnge
+lvTaxes.Columns.1=Värdera
+lvTaxes.Columns.2=I fjol
+rbTax.Caption=Skatt
+rbSubsidize.Caption=Subventionera
+PercPanel.Caption=PercPanel
+pbTax.Hint=0%
+lbTax.Caption=Skatt: 0%
+Label1.Caption=Värdera:
+fbSet.Text=Uppsättning

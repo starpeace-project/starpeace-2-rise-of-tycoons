@@ -1,0 +1,17 @@
+Tabs.TabNames.1=HET KANAAL VAN HET SPEL
+NewTeamDlg.Caption=NewTeamDlg
+NewTeamDlg.Hint=
+CloseBtn.Hint=Dicht venster
+CloseBtn.Text=x
+Shape1.Hint=
+Label4.Caption=De Naam van het team:
+Label4.Hint=
+btCreate.Hint=De hulpmiddelen van de de bekledingskaart van de vertoning
+btCreate.Text=Nieuw Team
+btCancel.Hint=De hulpmiddelen van de de bekledingskaart van de vertoning
+btCancel.Text=Annuleer
+HintText.Caption=CRE?ëR EEN TEAM
+HintText.Hint=CRE?ëR EEN TEAM
+edTeamName.Hint=
+edTeamName.Text=
+pnError.Caption=FOUT!

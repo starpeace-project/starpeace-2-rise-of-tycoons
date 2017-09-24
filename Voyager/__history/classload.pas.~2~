@@ -1,0 +1,159 @@
+unit classload;
+
+interface
+   uses MapTypes, VisualClassManager,BuildClasses,classes,sysutils;
+
+
+   function loadclass : integer;
+   function  ParseSoundData(const str : string) : TSoundData;
+
+
+implementation
+  function ParseSoundData(const str : string) : TSoundData;
+    var
+      i   : integer;
+      len : integer;
+      aux : string;
+      map : TStringList;
+    begin
+      map := TStringList.Create;
+      try
+        len := length(str);
+        i := 1;
+        while i <= len do
+          begin
+            aux := '';
+            while str[i] = #32 do
+              inc(i);
+            while (i <= len) and (str[i] <> ',') do
+              begin
+                aux := aux + str[i];
+                inc(i);
+              end;
+            inc(i);
+            map.Add(aux);
+          end;
+        aux := map.Values['wave'];
+        if aux <> ''
+          then Result.wavefile := 'cache\Sound\' + aux
+          else Result.wavefile := '';
+        aux := map.Values['aten'];
+        try
+          if aux <> ''
+            then Result.atenuation := StrToFloat(aux)
+            else Result.atenuation := 1;
+        except
+          Result.atenuation := 1;
+        end;
+        aux := map.Values['prio'];
+        try
+          if aux <> ''
+            then Result.priority := StrToInt(aux)
+            else Result.priority := 0;
+        except
+          Result.priority := 0;
+        end;
+        aux := map.Values['loop'];
+        try
+          if aux <> ''
+            then Result.looped := boolean(StrToInt(aux))
+            else Result.looped := false;
+        except
+          Result.looped := false;
+        end;
+        aux := map.Values['prob'];
+        try
+          if aux <> ''
+            then Result.probability := StrToFloat(aux)
+            else Result.probability := 1;
+        except
+          Result.probability := 1;
+        end;
+        aux := map.Values['per'];
+        try
+          if aux <> ''
+            then Result.period := StrToInt(aux)
+            else Result.period := 0;
+        except
+          Result.period := 0;
+        end;
+      finally
+        map.Free;
+      end;
+    end;
+
+  function loadclass : integer;
+    var
+      stream : tstream;
+      path : string;
+      aux    : TBuildingClass;
+      VCls   : VisualClassManager.TVisualClass;
+      i      : integer;
+      j      : integer;
+
+     function ParseEfxData(const efxdata : string) : TEfxData;
+      var
+        i   : integer;
+        len : integer;
+        aux : string;
+        map : TStringList;
+      begin
+        map := TStringList.Create;
+        try
+          len := length(efxdata);
+          i := 1;
+          while i <= len do
+            begin
+              aux := '';
+              while efxdata[i] = #32 do
+                inc(i);
+              while (i <= len) and (efxdata[i] <> ',') do
+                begin
+                  aux := aux + efxdata[i];
+                  inc(i);
+                end;
+              inc(i);
+              map.Add(aux);
+            end;
+          aux := map.Values['id'];
+          try
+            if aux <> ''
+              then Result.id := StrToInt(aux)
+              else Result.id := -1;
+          except
+            Result.id := -1;
+          end;
+          aux := map.Values['x'];
+          try
+            if aux <> ''
+              then Result.x := StrToInt(aux)
+              else Result.x := 0;
+          except
+            Result.x := 0;
+          end;
+          aux := map.Values['y'];
+          try
+            if aux <> ''
+              then Result.y := StrToInt(aux)
+              else Result.y := 0;
+          except
+            Result.y := 0;
+          end;
+          Result.Options := [];
+          aux := map.Values['animated'];
+          try
+            if (aux <> '') and (StrToInt(aux) = 1)
+              then include(Result.Options, eoAnimated);
+          except
+          end;
+          aux := map.Values['glassed'];
+          try
+            if (aux <> '') and (StrToInt(aux) = 1)
+              then include(Result.Options, eoGlassed);
+          except
+          end;
+        finally
+          map.Free;
+        end;
+      end;
+end.

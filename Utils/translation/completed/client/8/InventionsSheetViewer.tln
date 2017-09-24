@@ -1,0 +1,12 @@
+eTown.Hint=그런 도시로 클라이언트를 위한 수색을 제한하기 위하여 도시의 이름을 여기에서 입력하십시오
+ftInveKind.TabNames=3
+ftInveKind.TabNames.0=유효한
+ftInveKind.TabNames.1=연구
+ftInveKind.TabNames.2=발전하는
+btnResearch.Hint=연구를 시작하기 위하여 여기에서 누르십시오
+btnResearch.Text=연구
+btnStop.Hint=연구를 멈추기 위하여 여기에서 누르십시오
+btnStop.Text=멈추십시오
+btnSell.Hint=연구를 판매하기 위하여 여기에서 누르십시오
+btnSell.Text=인기 상품
+btnClose.Text=마지막

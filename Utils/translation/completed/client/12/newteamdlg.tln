@@ -1,0 +1,17 @@
+Tabs.TabNames.1=LEKEN KANALISERAR
+NewTeamDlg.Caption=NewTeamDlg
+NewTeamDlg.Hint=
+CloseBtn.Hint=Nära fönster
+CloseBtn.Text=x
+Shape1.Hint=
+Label4.Caption=Känt lag:
+Label4.Hint=
+btCreate.Hint=Skärm överdrar kartlägger bearbetar
+btCreate.Text=Nytt lag
+btCancel.Hint=Skärm överdrar kartlägger bearbetar
+btCancel.Text=Annullering
+HintText.Caption=SKAPA ETT LAG
+HintText.Hint=SKAPA ETT LAG
+edTeamName.Hint=
+edTeamName.Text=
+pnError.Caption=FEL!

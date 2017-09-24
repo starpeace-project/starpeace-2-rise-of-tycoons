@@ -1,0 +1,16 @@
+N2.Caption=Schrap
+Label1.Caption=Het spreken aan u:
+OnlineList.Columns=3
+OnlineList.Columns.0=Alias
+OnlineList.Columns.1=Niveau
+OnlineList.Columns.2=Wereld
+Label2.Caption=Het wachten op u:
+WaitingList.Columns=3
+WaitingList.Columns.0=Alias
+WaitingList.Columns.1=Niveau
+WaitingList.Columns.2=Wereld
+File1.Caption=&File
+EXitMnu.Caption=E&xit
+Shortcuts1.Caption=Kortere weg
+Minimize1.Caption=Minimaliseer
+Chat1.Caption=Praatje!

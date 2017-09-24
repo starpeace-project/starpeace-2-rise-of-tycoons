@@ -1,0 +1,17 @@
+=
+=
+strGoBack=”Gå tillbaka i historia”,
+strGoForward=”Gå framåtriktat i historia”,
+strRefresh=”Förnya alla beskådar”,
+strStopNavigation=”Stoppa navigering”,
+strStarpeaceHP=”Starpeace hemsida”,
+strBuild=”Skärmbyggandemeny”,
+strInvestorVisa=”Få en aktieägarevisa”,
+strSearch=”Sök rengöringsduken”,
+strProfile=”Användaren profilerar”,
+strMapView=”Kartlägga beskådar”,
+strUniverseView=”Universum beskådar”,
+strMail=”Posta”,
+strChat=”Prata”,
+strOptions=”Alternativ”,
+strGMHelp=”Appell GMs för hjälp”,

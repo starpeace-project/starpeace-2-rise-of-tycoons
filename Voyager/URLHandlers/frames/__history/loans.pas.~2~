@@ -1,0 +1,29 @@
+unit loans;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms, 
+  Dialogs, FramedButton, StdCtrls, ExtCtrls;
+
+type
+  TFrame2 = class(TFrame)
+    Panel1: TPanel;
+    bname: TLabel;
+    bdate: TLabel;
+    bamount: TLabel;
+    brate: TLabel;
+    bterm: TLabel;
+    bnext: TLabel;
+    brepay: TFramedButton;
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+implementation
+
+{$R *.dfm}
+
+end.

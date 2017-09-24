@@ -1,0 +1,17 @@
+lbMayor.Caption=Alcalde:
+ChangeLogView.Caption=ChangeLogView
+ChangeLogView.Hint=
+GradientBox1.Hint=
+GradientBox1.Text=GradientBox1
+IKnowBtn.Hint=Chascar aquí para hacer que estas noticias no aparecen otra vez
+IKnowBtn.Text=SÉ
+LaterBtn.Hint=Demostrar estas noticias otra vez, más adelante
+LaterBtn.Text=MÁS ADELANTE
+header.Caption=Noticias en línea de la herencia
+header.Hint=
+Panel1.Caption=Panel1
+Panel1.Hint=
+Panel2.Caption=Panel1
+Panel2.Hint=
+Log.Hint=
+Log.Lines=1

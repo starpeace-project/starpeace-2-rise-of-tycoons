@@ -1,0 +1,2228 @@
+6
+Annonceur
+Propriétaire
+Prix
+Sur-payé
+Bout
+Qualité
+Dernière valeur :
+Non-déterminé
+Coût :
+Non-déterminé
+Publicité :
+0%
+0
+Cliquer ici pour engager de nouveaux clients
+Location
+Cliquer ici pour modifier le raccordement choisi
+Modifier
+3
+Nom
+Ville
+Visionneuses
+
+
+Panneau
+
+
+0%
+Budget :
+0%
+Intérêt :
+0%
+0%
+Prêter aux neutres
+Prêter aux ennemis
+Limite (années) :
+30%
+20
+Argent d'emprunt de la banque
+Emprunt
+Démolir ce service
+Démolir
+Fermer ce service
+Se fermer
+Quantité :
+Argent d'emprunt ici :
+Nom :
+La banque n'a aucun assez fonde pour payer maintenant.
+4
+Débiteur
+Quantité
+Intérêt
+Limite
+Président :
+Aucun
+Estimation populaire :
+Évaluation de brasseurs d'affaires :
+Mandat Nº :
+Années aux élections :
+Aucun
+Aucun
+Aucun
+Aucun
+Clic pour visiter la page de la politique de président
+Le Président Politics Page de visite
+QOL :
+100
+%
+6
+Nom
+Population
+QOL
+Commerce
+Richesse
+Impôt
+Impôt : 0%
+0%
+Élire
+Maire :
+ChangeLogView
+
+
+GradientBox1
+Cliquer ici pour faire ces nouvelles ne pas apparaître encore
+JE SAIS
+Montrer ces nouvelles encore, plus tard
+PLUS TARD
+Nouvelles en ligne de legs
+
+Panel1
+
+Panel1
+
+
+1
+Il n'y a aucun nouvel événement à rapporter
+L'information de diagramme de téléchargement…
+Désolé : Aucune information d'histoire ne sera disponible jusqu'à la fin de cette année.
+Fermer cette fenêtre
+FIN
+Dactylographier vos commentaires ici :
+Aucuns canaux à montrer
+Cliquer pour créer un canal
+Créer la Manche
+Cliquer pour joindre un canal
+Joindre la Manche
+Cliquer pour laisser le canal
+Laisser la Manche
+BIENVENUE à la CAUSERIE de Starpeace.
+BIENVENUE à la CAUSERIE de Starpeace.
+Réunion secrète
+Causerie
+Cliquer pour ignorer l'utilisateur actuellement choisi
+Ignorer l'utilisateur
+Cliquer pour causer tout en passant en revue la carte
+Causer au-dessus de la carte
+Cliquer pour suivre l'utilisateur choisi
+Suivre l'utilisateur
+Cliquer pour obtenir le panneau de causerie de voix
+Parler le panneau
+Notation
+Notation
+Fenêtre étroite
+Aucune information…
+Réception :
+Non-déterminé
+Non-déterminé
+Demande :
+Rapport :
+Non-déterminé
+0%
+Confirment le mot de passe
+C'est la première fois vous notation dans le domaine parallèle.
+Veuillez confirmer votre mot de passe :
+Mot de passe :
+Confirmer le mot de passe :
+Entrer le mot de passe ici
+Confirmer le mot de passe ici
+OK
+Annulation
+Se relier…
+Attendre svp…
+
+
+
+GradientBox1
+Inconnu
+
+Réputation :
+
+Argent :
+
+Non-déterminé
+
+Dépenses :
+
+Non-déterminé
+
+Non-déterminé
+
+Application étroite
+X
+
+2
+ÉQUIPES
+HISTOIRE
+
+Se relier
+
+NewId
+
+Équipes
+
+Histoire
+
+Attendre svp tandis que Starpeace se relie au Crimininal classe…
+
+Vous n'avez pas une identité criminelle. Si vous voulez créer un, vous devez choisir un criminel dit. Ce nom d'emprunt est unique et secret. Il sera employé pour identifier vos actions en cette planète.
+
+Écrire votre nom d'emprunt criminel ici :
+
+Montrer les outils de carte de recouvrement
+Créer l'identification criminelle
+NOTE : Si vous devenez ennuyeux de ce nom d'emprunt, vous devrez remettre à zéro votre profil criminel entier. Essayer de sélectionner un nom d'emprunt que vous garderiez pour votre vie entière.
+
+
+
+ERREUR !
+
+Équipe :
+
+Outils de carte de recouvrement d'affichage
+Congédier l'équipe
+Montrer les outils de carte de recouvrement
+M I S S I O N
+Outils de carte de recouvrement d'affichage
+Placer les sièges sociaux
+Montrer les outils de carte de recouvrement
+Aller aux sièges sociaux
+Montrer les outils de carte de recouvrement
+Nouvelle équipe
+Non-déterminé
+
+Coût :
+
+Bénéfice net :
+
+Non-déterminé
+
+Années d'opération :
+
+Non-déterminé
+
+Outils de carte de recouvrement d'affichage
+Rôle de criminel de vue
+Outils de carte de recouvrement d'affichage
+Histoire d'équipe
+
+
+
+
+Cliquer ici pour engager un criminel
+
+
+PRÉPARER !
+PRÉPARER !
+…
+
+
+
+Slot2
+
+Panel5
+
+Cliquer ici pour engager un criminel
+
+
+PRÉPARER !
+PRÉPARER !
+…
+
+Panel4
+
+Panel5
+
+Cliquer ici pour engager un criminel
+
+
+PRÉPARER !
+PRÉPARER !
+…
+
+Panel4
+
+Panel5
+
+Cliquer ici pour engager un criminel
+
+
+PRÉPARER !
+PRÉPARER !
+…
+
+Panel4
+
+Panel5
+
+Cliquer ici pour engager un criminel
+
+
+PRÉPARER !
+PRÉPARER !
+…
+
+Panel4
+
+Panel5
+
+Cliquer ici pour engager un criminel
+
+
+PRÉPARER !
+PRÉPARER !
+…
+
+Panel4
+
+Panel5
+
+Cliquer ici pour engager un criminel
+
+
+PRÉPARER !
+PRÉPARER !
+…
+
+Panel4
+
+
+
+Cliquer ici pour engager un criminel
+
+
+PRÉPARER !
+PRÉPARER !
+…
+
+
+
+
+
+
+
+Supprimer cette identité
+CONSEIL : Vous devez placer des sièges sociaux pour cette équipe.
+CONSEIL : Vous devez placer des sièges sociaux pour cette équipe.
+Crime
+
+Fenêtre étroite
+X
+HISTOIRE
+HISTOIRE
+
+
+
+
+
+
+2
+DISPONIBLE
+ACCOMPLI
+
+Disponible
+
+Complet
+
+
+
+
+Outils de carte de recouvrement d'affichage
+T R A I N
+Outils de carte de recouvrement d'affichage
+Fin
+
+
+
+
+Outils de carte de recouvrement d'affichage
+Fin
+
+CriminalRosterView
+
+Criminels voulant joindre cette équipe :
+
+Outils de carte de recouvrement d'affichage
+< PRÉCÉDENT
+Outils de carte de recouvrement d'affichage
+PLUS >
+Outils de carte de recouvrement d'affichage
+H I R E
+Application étroite
+X
+Panel4
+
+Panel5
+
+
+Panel4
+
+Panel5
+
+
+Panel4
+
+Panel5
+
+
+Panel4
+
+Panel5
+
+
+CriminalView
+
+
+GradientBox1
+James Bulger
+
+Outils de carte de recouvrement d'affichage
+Le feu !
+Outils de carte de recouvrement d'affichage
+Train
+Outils de carte de recouvrement d'affichage
+Mouvement
+Outils de carte de recouvrement d'affichage
+Histoire
+0%
+Salaire :
+
+Non-déterminé
+
+Rôle dans l'équipe :
+
+Non-déterminé
+
+Non-déterminé
+
+Non-déterminé
+
+Non-déterminé
+
+Non-déterminé
+
+Non-déterminé
+
+Non-déterminé
+
+Non-déterminé
+
+Non-déterminé
+
+Non-déterminé
+
+Non-déterminé
+
+Non-déterminé
+
+Non-déterminé
+
+Application étroite
+X
+Non-déterminé
+
+Non-déterminé
+
+Non-déterminé
+
+Non-déterminé
+
+Non-déterminé
+
+Non-déterminé
+
+Non-déterminé
+
+Non-déterminé
+
+Non-déterminé
+
+Non-déterminé
+
+Non-déterminé
+
+
+
+Panel3
+
+Panel4
+
+
+Aucuns commentaires
+Aucuns commentaires
+
+
+
+
+
+
+
+
+
+
+
+
+Description
+Écrire la description du raccourci ici
+Raccourci
+Choisir le raccourci
+Texte
+Ajouter
+Décommander
+Titre :
+Lancement
+Non-déterminé
+Temps :
+Budget :
+Annulation
+Dégagement
+$10.000.000
+Dégagement automatique
+12
+Production récurrente de film
+Sauter au monde du client
+SAUTER AU MONDE
+1
+Entrer dans le texte de causerie ici…
+Appeler un maître de jeu
+APPELER LE MAÎTRE DE JEU
+Présenter les options
+OPTIONS
+FIN
+Parler au GM :
+Aucun
+Liste de maîtres de jeu
+Déplacer le maître de jeu vers le haut dans la liste prioritaire
+SE RELEVER
+Déplacer le maître de jeu vers le bas dans la liste prioritaire
+ABAISSER
+Enlever le maître de jeu de la liste
+ENLEVER
+Faire le maître un de jeu de vos favoris
+FAVORI
+Donner le traitement de normale de maître de jeu
+NORMAL
+Ignorer ce maître de jeu
+IGNORÉ
+Fixer la priorité de GM :
+FIN
+Organiser les maîtres de jeu dans la liste ci-dessous :
+Se relever
+Abaisser
+-
+Priorité
+Le plus haut
+Normal
+Ignoré !
+Suppression
+Te parler :
+3
+Dit
+Niveau
+Monde
+Attente de vous :
+3
+Dit
+Niveau
+Monde
+&File
+E&xit
+Raccourcis
+Réduire au minimum
+Causerie !
+Attente !
+HintBoxWindow
+
+
+Texte de conseil
+
+Fenêtre étroite
+X
+Fenêtre étroite d'histoire
+Fin
+HISTOIRE
+HISTOIRE
+Nom :
+Créateur :
+Non-déterminé
+Âge :
+Non-déterminé
+Clic pour fermer ce service
+Fin
+Cliquer pour démolir ce service
+Démolir
+Non-déterminé
+Cliquer pour relier ce service à d'autres dans la carte
+Relier
+Coût :
+Non-déterminé
+ROI :
+Non-déterminé
+Nom :
+Propriétaire :
+Non-déterminé
+Coût :
+Non-déterminé
+ROI :
+Non-déterminé
+Âge :
+Non-déterminé
+Clic pour fermer ce service
+Fin
+Clisk pour démolir ce service
+Démolir
+Cliquer pour relier ce service à d'autres dans la carte
+Relier
+Non-déterminé
+Relie ce service à tous vos magasins
+Vente à tous magasins
+Relie ce service à toutes vos usines
+Vente à toutes les usines
+Relie ce service à tous vos entrepôts
+Vente à tous les entrepôts
+Démonte ce service de tous vos magasins
+Ne pas vendre aux magasins
+Relie ce service à toutes vos usines
+Ne pas vendre aux usines
+Relie ce service à tous vos entrepôts
+Ne pas vendre aux entrepôts
+Commercer le mode :
+Le commerce avec :
+3
+Entrepôt de compagnie
+Exportateur
+Importateur
+3
+Aucun
+Alliés seulement
+N'importe qui
+
+OK
+Nom :
+Compagnie :
+Paiement excessif :
+X
+
+Annulation
+Suppression
+0%
+0%
+Non-déterminé
+Non-déterminé
+Propriétaire :
+Ville :
+Clic pour rechercher des clients pour le produit choisi
+RECHERCHE >
+Compte :
+Écrire un nom de compagnie pour limiter la recherche des clients aux équipements de cette compagnie seulement
+Importer les entrepôts
+Vérifier si vous voulez inclure des entrepôts d'importation dans la recherche des clients
+Entrepôts réguliers
+Vérifier si vous voulez inclure les entrepôts réguliers dans la recherche des clients
+Magasins
+Vérifier si vous voulez inclure des magasins dans la recherche des clients
+Usines
+Vérifier si vous voulez des usines de contrôle tandis que recherche des clients
+Maximum choisi des clients que vous voulez rechercher
+20
+3
+Bâtiment
+Propriétaire
+Ville
+Choisir tous les clients trouvés
+Choisir tous
+Unselect tout a trouvé des clients
+Unselect tout
+Cliquer pour commencer à se vendre à tous les clients choisis
+VENDRE À CHOISIR
+Se fermer
+Écrire le nom d'une ville ici pour limiter la recherche des clients à une telle ville
+3
+DISPONIBLE
+RECHERCHE
+DÉVELOPPÉ
+Cliquer ici pour commencer la recherche
+Recherche
+Cliquer ici pour arrêter la recherche
+Arrêter
+Cliquer ici pour vendre la recherche
+Vente
+Fin
+RECHERCHE
+Téléchargement…
+Non-déterminé
+Non-déterminé
+Aucuns fournisseurs
+Ouvert
+Fin
+Fin
+Ouvert
+Fin
+On a accordé le prêt.
+La banque a rejeté votre demande.
+La banque n'a pas assez fonde pour payer maintenant.
+Erreur inconnue.
+Téléchargement…
+Aucuns prêts…
+années de %s
+un an
+Aucun
+Aucun
+Aucun
+Aucun
+Début
+Arrêt
+Début
+Carte de téléchargement…
+Ouvert
+Fin
+Déjà
+années de %s
+Jamais
+Non-déterminé
+%s seulement
+Fin
+Ouvert
+Fin
+Ouvert
+Fin
+Fin
+Ouvert
+Fin
+Aucun
+Téléchargement…
+Téléchargement…
+Vente (+%s)
+aucun ministre
+Aucun
+Téléchargement…
+Arrêt
+Transfert d'image arrêté.
+Arrêt
+Envoi de l'image.
+Maintenant vous êtes prêt à envoyer cette image gentille, clic envoyez pour procéder.
+Traitement de l'image.
+N'a pas pu envoyé l'image, svp réessayer plus tard.
+Voyager envoie l'image au serveur.
+N'a pas pu envoyer l'image au serveur.
+Envoyer
+Tentative
+années de %s
+un an
+points de %s
+Aucun
+Aucun
+Aucun
+Aucun
+Aucun
+Non-déterminé
+Téléchargement…
+Aucuns clients
+Ouvert
+Fin
+Déjà
+années de %s
+Jamais
+Non-déterminé
+Non-déterminé
+Fin
+Ouvert
+Fin
+Ouvert
+Fin
+Déjà
+années de %s
+Jamais
+Fin
+Ouvert
+Fin
+Non-déterminé
+Non-déterminé
+Téléchargement…
+Aucun
+Aucuns fournisseurs
+années de %s
+un an
+points de %s
+Aucun
+Aucun
+Aucun
+Aucun
+Aucun
+Non-déterminé
+Non-déterminé
+Non-déterminé
+Non-déterminé
+Non-déterminé
+Téléchargement…
+Vide
+Téléchargement…
+Vide
+Téléchargement…
+Vide
+Téléchargement…
+Subventionné
+Subventionné
+Aucun
+Impôt : %s%%
+Subventionné
+Ouvert
+Fin
+Déjà
+années de %s
+Jamais
+Non-déterminé
+Fin
+Ouvert
+Fin
+Ouvert
+Fin
+Déjà
+années de %s
+Jamais
+Non-déterminé
+Fin
+Ouvert
+Fin
+Une erreur d'unknow s'est produite en essayant de télécharger la carte.
+Le legs en ligne n'a pas pu écrire le dossier de carte sur votre système.
+Le legs en ligne n'a pas pu localiser le dossier de carte sur le serveur.
+Le legs en ligne n'a pas pu décomprimer la carte. Vérifier svp l'espace supplémentaire d'entraînement.
+Une erreur d'unknow s'est produite en essayant de télécharger la carte.
+Téléchargement de carte échoué.
+Téléchargement avorté.
+%s voulez-vous essayer encore ?
+Mettant à jour la carte…
+Armatures de courrier de chargement…
+Armatures de chargement de causerie…
+Commençant le bruit et la musique…
+Armature de barre porte-outils de chargement…
+Information d'image de chargement…
+Carte de initialisation…
+Erreur
+Les données d'ouverture que vous avez spécifiées étaient incorrectes ou il y a un problème dans la communication avec les serveurs. Veuillez être sûr que vous avez un raccordement actif à l'Internet.
+Erreur
+Une erreur d'unknow s'est produite dans la communication avec les serveurs. Essayer svp encore. Si ceci se produit trop souvent, faire rapport svp à Oceanus.
+Titre
+Aucun
+Aucun
+Aucun
+%s (de %s)
+Aucun
+Aucun
+Aucun
+%s (de %s)
+Aucun
+Aucun
+Aucun
+%s (de %s)
+%d (de %d)
+%d (de %d)
+%d (de %d)
+Date : %s
+Téléchargement…
+Erreur : Nom inadmissible d'équipe
+Maître de jeu :
+Serveur de maître de jeu :
+Le maître de jeu est occupé en ce moment, il y a des demandes de %d en suspens, attend svp ou essaye d'appeler un autre maître de jeu.
+Serveur de maître de jeu :
+Le maître de jeu est parti en ce moment, attend svp ou essaye d'appeler un autre maître de jeu.
+Serveur de maître de jeu :
+Le maître de jeu est en ligne !
+Serveur de maître de jeu :
+Le maître de jeu était disconnected, essayent svp de se relier à un autre maître de jeu.
+Appel
+Appel
+Raccrocher
+Costumer
+Aucun
+Téléchargement…
+Impôt : %d%%
+Impôt : %s
+Le plus haut
+Normal
+Ignoré !
+Ne peut pas joindre le canal
+Ce canal est plein. Vous pouvez essayer plus tard, quand certains des utilisateurs dedans là sont partis.
+Ne peut pas joindre le canal
+Mot de passe inadmissible.
+Entrer dans le texte de causerie ici…
+UN NOUVEAU CANAL (%S) A ÉTÉ CRÉÉ.
+LE CANAL %S ÉTAIT FERMÉ.
+MAINTENANT CAUSANT DANS %S
+DE NOUVEAU À L'ENTRÉE.
+Titres : %s
+mise à jour…
+Causerie pleine page
+Causerie au-dessus de carte
+Clic au-dessus d'un service sur la carte pour établir le raccordement.
+Conseil : Pour avorter le clic d'opération quand le curseur de forbiden est montré.
+Conseil : Employer un clic simple pour choisir un service sur la carte. Droite - cliquer pour appeler des options de QuickWeb.
+Coût de construction : %s
+Conseil : Droite d'utilisation - clic pour décommander l'opération.
+Clic au-dessus d'un service sur la carte au raccordement d'estabish.
+Conseil : Pour avorter le clic d'opération quand le curseur de forbiden est montré.
+Erreur
+Vous n'avez aucun droit de démolir cette route.
+Erreur
+Ne peut pas démolir la route.
+DEMANDE DE CONSTRUCTION REJETÉE
+Le maire de la ville ne permet pas un bâtiment de ce type sur cet endroit. Veuillez noter que la zone de cet endroit (indiqué par couleur) doit s'assortir avec le type de zone du service que vous avez eu l'intention d'établir. Le type de zone de bâtiments sont montrés sans compter que l'icône de service sur le panneau de construction.
+DEMANDE DE CONSTRUCTION REJETÉE
+Vous ne pouvez pas construire là. Secteur non clair.
+DEMANDE DE CONSTRUCTION REJETÉE
+Vous avez atteint la limite des bâtiments que vous pouvez posséder. Démolir quelques bâtiments ou essayer d'avancer au prochain niveau.
+CONSTRUCTION ÉCHOUÉE
+Ne peut pas établir le service ici. S'assurer svp que vous opérez au moins une compagnie.
+Erreur
+Ne peut pas relier des équipements.
+Erreur
+Ne peut pas relier des équipements.
+Aucun service choisi.
+Conseil : Employer un clic simple pour choisir un service sur la carte. Droite - cliquer pour appeler des options de QuickWeb.
+RE :
+Re : %s
+Objet : %s
+De : %s
+FW :
+FW : %s
+Objet : %s
+De : %s
+Ce message n'a atteint aucune adresse.
+Ne peut pas le perfom cette action, mail server est en baisse.
+N'a pas pu sauver le message.
+Ne peut pas le perfom cette action, mail server est en baisse.
+Erreur : %s
+une ligne
+lignes de %d
+Sièges sociaux principaux
+Sièges sociaux d'industrie
+Bureau et sièges sociaux résidentiels
+Sièges sociaux de commerce
+Sièges sociaux d'affaires publiques
+Salut classe LoCost Residentials
+La bourgeoisie LoCost Residentials
+Basse classe LoCost Residentials
+Salut classe Residentials
+La bourgeoisie Residentials
+Basse classe Residentials
+Bureaux
+Fermes
+Processeurs de nourriture
+Industries chimiques
+Mines
+Industries textiles
+Industries métallurgiques
+Usines de composants électroniques
+Usines de vêtements
+Usines d'appareils électroménagers
+Usines de machines commerciales
+Heavy Industries
+Usines de voiture
+Industries du bâtiment
+Industries de pharmacie
+Industries de plastiques
+Usines de jouet
+Plates-formes pétrolières
+Raffineries
+Usines de boisson alcoolisée
+Magasins de nourriture
+Magasins de vêtements
+Magasins de HHA
+Magasins de voiture
+Supermarchés
+Barres
+Restaurants
+Films
+Drugstores
+Magasins de jouet
+Stations service
+Entreprises de logiciel
+Hôpitaux
+Écoles
+Commissariats de police
+Casernes de pompiers
+Correctionals
+Parcs
+Banques
+Stations de télévision
+Antenne de TV
+Entrepôt froid
+Entrepôt chimique
+Entrepôt général
+Entrepôt de tissus
+Entrepôt de minerai
+Monuments
+%d bytes/s
+0 bytes/s
+%d bytes/s
+0 bytes/s
+Se relier au monde…
+SYSTÈME
+N'a pas pu établir le raccordement avec des serveurs.
+Vous avez fourni un nom inadmissible.
+Vous avez fourni un mot de passe inadmissible.
+Il y avait une erreur essayant de se relier au serveur. Veuillez être sûr que vous avez un raccordement actif à l'Internet.
+Il y avait une erreur essayant de se relier au serveur. Veuillez être sûr que vous avez un raccordement actif à l'Internet.
+Il y avait une erreur essayant de se relier au serveur. Votre demande a été niée.
+Une erreur inconnue s'est produite. Veuillez rapporter à Oceanus si ceci se produit trop souvent.
+Erreur
+SYSTÈME
+Mot de passe inadmissible
+Les deux mots de passe doivent s'assortir !
+SYSTÈME
+Le raccordement au serveur a chuté. Attendre tandis qu'essais de Voyager à rebrancher…
+SYSTÈME
+Maintenant vous agissez en tant que %s.
+Vous avez été avec succès rebranché.
+SYSTÈME
+Il y avait une erreur changeant votre identité en %s.
+Tentative de rebrancher failed. Essai encore…
+messages non lus de %d.
+messages non lus de %d.
+Indique l'arrivée du nouveau courrier
+NOTIFICATION DE CHIRURGIEN : Ne pas exécuter les rapports avec une forme de vie étrangère, à moins qu'elle soit du sexe opposé.
+NOTIFICATION DE CHIRURGIEN : Ne pas courir avec les objets pointus. Courir toujours avec les objets émoussés.
+NOTIFICATION DE CHIRURGIEN : La cigarette peut tuer vous, votre famille et tous vos amis.
+NOTIFICATION DE CHIRURGIEN : Les antipodes ne mordent pas.
+NOUVELLES : Musée échappé par maman de Michael Jackson de Louvre.
+NOUVELLES : Ford annonce qu'il produira des voitures encore.
+NOTIFICATION DE CHIRURGIEN : La dynamite devient meilleure avec du temps. Si vous trouvez la vieille dynamite dans votre appel de réfrigérateur pour l'aide.
+NOUVELLES : L'épisode XII, princesse Zuloo de GUERRE DES ÉTOILES obtient finalement la fille.
+NOUVELLES : Les astronomes et les médecins trouvent que la lune est la cause de la plupart des troubles d'estomac.
+NOTIFICATION DE CHIRURGIEN : Les chapeaux peuvent causer la perte de cheveux et le mal de tête cronic. Les médecins recommandent l'utilisation des casques.
+NOUVELLES : Lizzard géant aperçu sur la soucoupe en vol. Les fonctionnaires ont déclaré que tous les deux pourraient être UFOs.
+NOUVELLES : La prohibition sur des jeux vidéo est retirée en Angleterre.
+NOUVELLES : Le Canada retire ses troupes de Washington après la médiation réussie du roi de l'Arabie.
+NOUVELLES : Les personnes mortes de nouveaux états fédéraux de loi sont mortes jusqu'à avéré autrement.
+NOUVELLES : La glace de chocolat a-t-elle pu devenir le traitement pour le cancer ? Les experts ne disent aucune manière.
+NOUVELLES : Les paléontologistes découvrent que toute l'évidence de T-Rex a été plantée en siècle XX tôt par les producteurs COMIQUES.
+NOUVELLES : Le nouveau propulsor d'antimatière pousse la technologie de voyage dans l'espace un peu plus loin.
+NOUVELLES : Une reproduction identique de pyramide de Keops a été trouvée sous la pyramide de Keops.
+NOUVELLES : L'étude dévoile des grenouilles se multiplient dans les colonies humaines.
+NOUVELLES : Un travail dérivé de la loi de Heinsenberg s'avère que les robots ne seront pas toujours bien adaptés pour des applications domestiques.
+SYSTÈME
+Localiser un maître de jeu. Attendre svp…
+SYSTÈME
+Vous avez démonté du maître %s. de jeu.
+Aucun
+MAÎTRE DE JEU D'APPEL
+SYSTÈME
+Vous êtes en ligne avec le maître %s. de jeu.
+SYSTÈME
+Le maître %s de jeu a accepté votre appel. Votre demande a fait le nombre %d. Attendre svp jusqu'à ce que le maître de jeu soit prêt à vous aider.
+RACCROCHER
+SYSTÈME
+Il n'y a aucun maître de jeu disponible à ce moment. Essai de Plase plus tard.
+SYSTÈME
+Il y avait une erreur essayant d'entrer en contact avec un maître de jeu. Essai de Plase encore.
+SYSTÈME
+Votre message n'a pas pu atteindre le maître de jeu.
+Tous les serveurs vers le bas. Essai de Plase plus tard.
+Erreur
+N'a pas pu se relier au serveur. Veuillez vérifier votre connexion internet et essai encore.
+Se relier à %s…
+Signer dedans échoué. Le nom d'emprunt que vous avez fourni semble être inadmissible. Essayer svp encore.
+Signer dedans échoué. Le mot de passe que vous avez fourni semble être inadmissible. Essayer svp encore.
+Signer dedans échoué. Il y avait une erreur accédant aux serveurs. Veuillez vérifier votre connexion internet et essai encore.
+Erreur
+Erreur
+Le legs en ligne n'a pas pu sauter au monde choisi. Nous vous recommandons pour employer le procédé standard de sign-in.
+Téléchargement…
+L'Amérique
+Signature dans…
+Se relier pour fixer le serveur…
+Signature dans…
+L'Amérique
+L'Europe
+L'Asie
+Mise à jour…
+[ÉCLIPSÉ]
+Aucun.
+%s. Population : investisseurs de %s : année de %s : %s en ligne : noblesse minimum de %s : date de remise de %s : %s
+Bienvenue à la carte d'Univesal. Cliquer dessus les mondes l'uns des ci-dessus pour montrer l'information prolongée.
+Mise à jour…
+Ouvert
+Fin
+Fin
+Ouvert
+Fin
+Non-déterminé
+SYSTÈME
+Balayage…
+Entrer dans le texte de causerie ici…
+Carte du téléchargement %s. Ceci peut prendre quelques secondes…
+Balayage…
+LIENS
+Le plus haut
+Normal
+Ignoré !
+Maître de jeu :
+Serveur de maître de jeu :
+Le maître de jeu est occupé en ce moment, il y a des demandes de %d en suspens, attend svp ou essaye d'appeler un autre maître de jeu.
+Serveur de maître de jeu :
+Le maître de jeu est parti en ce moment, attend svp ou essaye d'appeler un autre maître de jeu.
+Serveur de maître de jeu :
+relié à %s
+Serveur de maître de jeu :
+Le maître de jeu est en ligne !
+Serveur de maître de jeu :
+Le maître de jeu est occupé, attendent svp un peu lui.
+Serveur de maître de jeu :
+Le maître de jeu était disconnected, essayent svp de se relier à un autre maître de jeu.
+Appel
+Appel
+Raccrocher
+Costumer
+Ok
+Ajouter
+Il y a des conflits ! !
+Écrire le nom de GMS !
+Écrire votre nom !
+Ne peut pas se relier au serveur de GM, essayer encore plus tard ou vérifier des arrangements de serveur de GM
+L'utilisateur a été à vide : sec de %d
+L'utilisateur avait attendu : sec de %d
+Compagnie : argent de %s : %s
+Ne peut pas se relier au serveur de GM, essayer encore plus tard ou vérifier des arrangements de serveur de GM.
+Je :
+CLIENTS
+COMMERCE
+GÉNÉRALITÉS
+HISTOIRE
+LES TRAVAUX
+PRÊTS
+GESTION
+MINISTERIES
+PRODUITS
+PUBLICITÉ
+RECHERCHE
+RESIDENTIALS
+SERVICES
+APPROVISIONNEMENTS
+IMPÔTS
+Vente
+MAUSOLÉE
+Votre sont priés de souscrire au jeu afin de continuer de jouer. Cliquer l'OK pour fermer cette fenêtre et pour diriger à la page d'abonnement.
+Votre compte sur le legs en ligne a été temporairement gelé. Cliquer l'OK pour fermer cette fenêtre et pour diriger à une page où vous recevrez l'information concernant cette situation.
+Mise à niveau
+Arrêt
+VILLES
+FILMS
+ANTENNES
+VOIX
+Recherche…
+Serveur occupé
+Vous avez été démonté du serveur.
+Achat
+Le compte existe déjà
+Le nom d'écran ou le mot de passe de Sega.com que vous avez entré est incorrect.
+Maxed périodique
+Publication périodique inadmissible
+Identification d'abonné non trouvée
+Vous ne pouvez pas construire là. Ce qui buildning est trop proche d'un autre bâtiment de la même classe.
+Les serveurs en ligne de legs créent les dossiers de secours pour ce monde. Ceci peut prendre des secondes aux minutes selon la taille du monde. Tandis qu'il dure vous pouvez continuer à passer en revue la carte et à inspecter des bâtiments, mais quelques options, comme la construction, seront handicapées. Noter que l'icône de disque dans votre barre porte-outils s'allume pendant le support. Vous verrez seulement cette boîte de message cette fois.
+SUPPORT DE SERVEUR
+SUPPORT DE SERVEUR FINI
+Les serveurs en ligne de legs ont fini le support. Vous pouvez continuer à jouer sans limitation.
+Êtes-vous sûr vous voulez-vous démolir votre %s ?
+Avertissement !
+La même compagnie
+La même ville
+Cliquer ici pour voir les règles de tournoi.
+Progrès global.   
+K bytes (de 
+Temps prévu : 
+heures. 
+heure. 
+minutes. 
+minute. 
+N'a pas pu créer l'annuaire.
+Erreur
+Installation échouée.
+Pour accomplir l'installation.
+N'a pas pu courir l'application principale. Code d'erreur : 
+Pour accomplir l'opération.
+ERREUR : Dû failed d'opération une erreur inconnue.
+Erreur écrivant au disque (
+ERREUR : Fichier altéré trouvé (
+ERREUR : Décompression échouée (
+). Vérifier l'espace supplémentaire d'entraînement.
+ERREUR : Dossier d'index corrompu. Faire rapport svp à Sega.
+ERREUR : Téléchargement de dossier échoué (
+BONJOUR ! CE PROGRAMME INSTALLERA LE LEGS EN LIGNE SUR VOTRE ORDINATEUR. VEUILLEZ ÉCRIRE L'INFORMATION REQUISE.
+N'a pas pu initialiser le web client. Veuillez être sûr que vous avez installé Internet Explorer 4.0 ou plus grand.
+OUI
+NON
+Fait
+Conclusion de la ressource : 
+Téléchargement : 
+Attendre svp…
+Décompression 
+organicwaste
+fert
+grainFarma
+moulin
+coton
+pantalon
+fruitFarma
+fruitpie
+rubbersap
+rubbertree
+rubberfact
+shoefact
+vegFarma
+stewfact
+organicMine
+polymère
+nylon
+chemise
+Cattlefarma
+burgerfact
+rawChemMine
+miningchem
+cuir
+leatherjacket
+C'est une mission gmabling de repaire
+c'est une mission de vol de banque
+c'est une route détruisent la mission
+Un jeu près
+Cliquer ici pour commencer
+NOUVEAU COMPTE
+SIGNER DEDANS
+ANNULATION
+Username :
+Mot de passe :
+Bienvenue à Starpeace. Veuillez fournir votre username et mot de passe.
+Entrer dans votre Starpeace dit ici
+Entrer votre mot de passe de Starpeace ici
+Choisir maintenant le monde que vous voulez entrer :
+ENTRER DANS LE MONDE CHOISI
+ALLER À LA CARTE D'UNIVERS
+RÉGÉNÉRER TOUS
+RÉGÉNÉRER CHOISI
+6
+Nom
+Population
+Investisseurs
+En ligne
+Année
+PING (milliseconde)
+Sauter à un monde que vous avez déjà visité :
+Cliquer pour sauter à la planète choisie
+ALLER !
+Arrangements entrants
+Vérifier cette boîte pour permettre à ce service d'être configuré a basé sur les arrangements d'un autre service.
+Copier les arrangements
+Cliquer pour copier les arrangements de ce service
+Clone
+Mise à niveau
+Clic pour améliorer ce service.
+Downgrade
+Clic pour descendre ce service.
+Évolution
+Niveau :
+En attendant :
+Prochaine mise à niveau :
+1
+Accepter les arrangements entrants.
+Vérifier si vous voulez configurer ce service using les arrangements d'un autre service
+Seulement pour des équipements en cette ville.
+Vérifier pour limiter l'effet du clonage seulement pour des équipements en cette ville
+Seulement pour des équipements à cette compagnie.
+Vérifier pour limiter l'effet du clonage seulement pour des équipements à cette compagnie
+Conseil : Employer un clic simple pour choisir un service sur la carte. Droite - cliquer pour appeler des options de QuickWeb.
+Conseil : Employer un clic simple pour choisir un service sur la carte. Droite - cliquer pour appeler des options de QuickWeb.
+Aucun service choisi
+Aucun service choisi
+Retourner à votre endroit précédent sur la carte
+< ARRIÈRE
+Aller en avant au prochain endroit que vous avez visité
+APRÈS >
+Aller à hôtel de ville le plus proche
+DISPARAISSENT HÔTEL DE VILLE
+Obtenir plus d'information au sujet du bâtiment choisi (mêmes que le right-click au-dessus du bâtiment)
+INSPECTER
+Montrer les outils de carte de recouvrement
+RECOUVREMENT
+ZoomIn
+Bourdonner dedans
+ZoomOut
+Bourdonnement dehors
+Montrer le recouvrement de zones de ville
+ZONES DE VILLE
+RotateCW
+Tourner l'onde entretenue
+RotateCCW
+Tourner le CCW
+Date
+Bourdonner dedans (la petite carte)
++
+Bourdonnement dehors (petite carte)
+-
+Boîte étroite de causerie
+X
+Montre
+Nom d'utilisateur
+Montre quel utilisateur vous chassez actuellement
+Liste de liens utiles aux équipements dans la carte
+Liste de liens utiles aux équipements dans la carte
+Cliquer pour ajouter le service choisi aux liens
+AJOUTER
+Cliquer pour enlever le service des liens
+DEL
+Cliquer pour sauter au lien
+ALLER
+LIENS
+LIENS
+Les équipements qui perdent l'argent semblent ombragés en rouge
+Équipements perdants de signal
+Recouvrement actif :
+Montrer au nom quel recouvrement est actuellement évident
+Choisir la carte de recouvrement que vous voulez montrer
+48
+AUCUN
+Zones de bâtiment
+Villes
+Beauté
+Population de première qualité
+Population de classe moyen
+Population Low-class
+QOL
+Crime
+Pollution
+BAP
+Pantalon
+Boulangerie
+Chaussures
+Pâtés en croûte de fruit
+Couverts
+Tissu de Tableau
+Pains frais
+Verres
+Plats
+Petite voiture
+Télévisions
+Cravates
+Costumes
+Sous l'usage
+Chapeaux
+Chaussettes
+Lingerie
+Écharpes
+Pantalon en cuir
+Voitures de sport
+Joueurs MP3
+Imprimeurs
+Caméscope
+Aspirateurs
+Joueurs de DVD
+Bouilloire
+Micro-ondes
+Grille-pain
+Cuiseurs
+Vélos de moteur
+Téléphones portables
+Kit de lavage de voiture
+Polonais de voiture
+Refraîchissant d'air de voiture
+Matrices pelucheuses
+Humvee
+PC
+Équipements perdants de signal
+Les équipements qui perdent l'exposition d'argent ont ombragé en rouge
+MapOptionsView
+
+
+Services de traiteur traités
+
+Services de traiteur frais
+
+2
+VISIBILITÉ
+CARTES
+Panel1
+
+
+
+
+
+Visibilité
+
+Cartes
+
+
+Peau Residentials de première qualité
+
+Mi-classe Residentials de peau
+
+Peau Residentials Low-class
+
+Bureaux de peau
+
+Magasins de peau
+
+Usines de peau
+
+Cacher tous
+
+Montrer tous
+
+Cacher les entrepôts
+
+Valeur de beauté et de terre
+
+Population
+
+Qualité de vie
+
+Crime
+
+Pollution
+
+Régions de Bussines
+
+Nourriture fraîche
+
+Nourriture traitée
+
+Vêtements
+
+Prise de Chambre
+
+Voitures
+
+Restaurants
+
+Barres
+SERVICES
+
+GÉNÉRALITÉS
+
+
+Normal
+
+
+
+
+
+FIN
+Placer les mots de la sagesse
+Mots de la sagesse :
+Décommander la transcendance
+4
+Ministère
+Ministre
+Estimation
+Budget
+Le budget de l'année prochaine :
+Placer le budget
+Déposer
+Ministre :
+Élire
+MisionView
+
+Choisir une mission
+
+Étape 1 de 3
+
+Application étroite
+X
+
+1
+
+2
+
+3
+
+4
+
+Cliquer dessus une mission pour voir ses conditions.
+
+Montrer les outils de carte de recouvrement
+Choisir la mission
+Montrer les outils de carte de recouvrement
+Camcel
+
+3
+Repaire de jeu
+Vol de banque
+La route détruisent
+Fraude
+Terroriser et humilier
+Vandalize
+Robery
+Banque Robery
+Sabotage
+Cette mission exige de vous de sélectionner un bâtiment sur la carte. Cliquer dessus le bouton « de cible de sélection » et le clic sur le bâtiment que vous voulez être la cible de la mission.
+
+Montrer les outils de carte de recouvrement
+Sélectionner la cible
+Montrer les outils de carte de recouvrement
+< ARRIÈRE
+Outils de carte de recouvrement d'affichage
+CONTINUER >
+Prévoir la mission ici. Une fois que vous avez assigné les rôles appropriés au membre de l'équipe vous pourrez commencer la mission.
+
+C'est le vol de banque typique. L'équipe rassemblera tout l'argent des compteurs et les clients et la chambre forte, si vous choisissez ainsi.
+
+Briefing :
+
+Outils de carte de recouvrement d'affichage
+S T A R T
+Outils de carte de recouvrement d'affichage
+< ARRIÈRE
+2
+Rôle
+Niveau de compétence
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Outils de carte de recouvrement d'affichage
+Fin
+Notation de mission :
+
+
+
+
+Le maire de la ville ne permet pas un bâtiment de ce type sur cet endroit. Veuillez noter que la zone de cet endroit (indiqué par couleur) doit s'assortir avec le type de zone du service que vous avez eu l'intention d'établir. Des types de zone de bâtiments sont montrés sans compter que le Th 
+OK
+ANNULATION
+ERREUR INCONNUE
+Cliquer pour envoyer votre message
+Envoyer
+Cliquer pour sauver votre message
+Économiser
+Fermer ce message
+Se fermer
+:
+Objet :
+CRÉER LE NOUVEAU CANAL
+CRÉER LE NOUVEAU CANAL
+Cliquer pour créer un nouveau canal
+Créer
+Décommander
+Choisir un nom pour le nouveau canal :
+Vous pouvez protéger le canal avec un mot de passe :
+Réintroduire le mot de passe :
+Écrire le nom de canal ici
+Entrer le mot de passe de canal ici
+Vérifier votre mot de passe ici
+Choisir un jeu :
+Maximum des joueurs permis :
+0
+2
+CANAL DE CAUSERIE
+CANAL DE JEU
+NewTeamDlg
+
+Fenêtre étroite
+X
+
+Nom d'équipe :
+
+Outils de carte de recouvrement d'affichage
+Nouvelle équipe
+Outils de carte de recouvrement d'affichage
+Annulation
+CRÉER UNE ÉQUIPE
+CRÉER UNE ÉQUIPE
+
+
+ERREUR !
+
+
+
+
+
+
+
+
+
+
+
+
+
+Options
+5
+Graphiques
+Bruit
+Réseau
+Intimité
+Supplémentaire
+équipements &Visible :
+Clic pour cacher tous les équipements
+&Hide tout
+Clic pour montrer tous les équipements
+&Show tout
+Employer le transparent
+Vérifier pour voir les bâtiments transparents
+Montrer les animations de bâtiment
+Vérifier pour voir les bâtiments animated
+Montrer les voitures
+Vérifier pour voir des voitures
+Montrer les avions
+Vérifier pour voir des avions
+Liste d'équipements disponibles
+recouvrements &Transparent
+Vérifier pour avoir les cartes transparentes de recouvrement
+Retentir le volume de FX :
+Régler le volume de bruits de carte ici
+50%
+Volume de musique :
+Régler le volume de musique ici
+50%
+Liste de reproduction :
+Montre une liste de titres choisis
+Cliquer pour ajouter un dossier de musique à votre liste de reproduction
+Ajouter le dossier
+Cliquer pour ajouter une chemise entière
+Ajouter l'annuaire
+Cliquer pour éliminer un dossier de la liste de reproduction
+Supprimer le dossier
+Cliquer pour télécharger plus de musique
+Télécharger plus de musique
+Permettre les bruits
+Cliquer pour permettre des bruits de carte
+Envoyé :
+Reçu :
+Total envoyé :
+0
+0
+0
+Taux d'Avg :
+0 bytes/sec
+Total reçu :
+0 bytes/sec
+Taux :
+0
+Latence :
+0
+Employer l'ouverture rapide
+Vérifier pour permettre l'ouverture rapide
+Ignorer la liste :
+Enlever de la liste
+Entrer dans automatiquement la Manche sur l'ouverture :
+Nom de la Manche :
+Mot de passe de la Manche :
+Sauver la session de causerie à un dossier
+Économiser
+Langue :
+Clic pour changer la langue
+Activer la langue
+Résolution
+Fréquence
+Appliquer
+Propriétaire :
+Ville :
+Clic pour rechercher des fournisseurs du produit choisi
+RECHERCHE >
+Compte :
+Écrire un nom de compagnie pour limiter la recherche des fournisseurs aux équipements de cette compagnie seulement
+Exporter les entrepôts
+Vérifier pour inclure des entrepôts d'exportation dans la recherche des fournisseurs
+Entrepôts réguliers
+Vérifier pour inclure les entrepôts réguliers dans la recherche des fournisseurs
+Centres commerciaux de ville
+Vérifier pour inclure les centres commerciaux dans la recherche des fournisseurs
+Usines
+Vérifier pour inclure des usines dans la recherche des fournisseurs
+5
+Bâtiment
+Propriétaire
+Ville
+Prix
+Qualité
+Choisir tous les fournisseurs trouvés
+Choisir tous
+Unselect tout a trouvé des fournisseurs
+Unselect tout
+Achat des fournisseurs choisis
+ACHAT DE CHOISIR
+Fin
+Écrire un nom de ville pour limiter la recherche des fournisseurs aux équipements de cette compagnie seulement 
+Maximum choisi des fournisseurs que vous voulez rechercher
+20
+ENTRER LE MOT DE PASSE
+ENTRER LE MOT DE PASSE
+Entrer le mot de passe ici :
+OK
+Annulation
+Charger votre image d'un fichier-disque
+Charge
+Visionner votre image
+Prévision
+Envoyer votre image
+Envoyer
+Se fermer
+Bourdonner dedans
++
+Bourdonnement dehors
+-
+ENVOYER VOTRE IMAGE
+ENVOYER VOTRE IMAGE
+Prévision
+
+
+
+
+2034
+
+35
+
+36
+
+37
+
+38
+
+39
+
+40
+
+41
+
+42
+
+43
+
+44
+
+2045
+
+v1
+
+v1
+
+v1
+
+v1
+
+v1
+
+v1
+
+v1
+
+v1
+
+v1
+
+v1
+
+v1
+
+v1
+
+Maire :
+Non-déterminé
+Prestige d'hôtel de ville :
+Estimation populaire :
+Évaluation de brasseurs d'affaires :
+Mandat Nº :
+Années aux élections :
+Non-déterminé
+Non-déterminé
+Non-déterminé
+Non-déterminé
+Non-déterminé
+Cliquer pour aller à la page de la politique
+Visiter la page de la politique
+QOL :
+100
+%
+Évaluer le maire
+Lire les nouvelles
+4
+Client
+Compagnie
+Ventes
+T. Coût
+0%
+Prix :
+0%
+Cliquer ici pour offrir votre produit aux clients
+Offre
+Cliquer ici pour supprimer un client
+Suppression
+Ouverture rapide
+
+Nom d'utilisateur :
+
+Mot de passe :
+
+
+NOTE : Si vous êtes un newcommer (ou votre nom n'apparaît pas dans l'annulation de presse de liste ci-dessus) juste et ne passe pas par le procédé d'ouverture standard. Vous pouvez permettre l'ouverture rapide plus tard de la page d'options.
+
+
+
+OK
+
+Annulation
+
+Employer le dernier mot de passe
+
+Désactiver l'ouverture rapide à l'avenir
+
+
+
+Nom :
+Propriétaire :
+100%
+Non-déterminé
+Résistance de crime :
+Non-déterminé
+Résistance de pollution :
+Intimité supplémentaire :
+Non-déterminé
+Non-déterminé
+Beauté supplémentaire :
+Non-déterminé
+Âge :
+Non-déterminé
+Loyer :
+100%
+Entretien :
+100%
+100%
+Clic pour fermer ce bâtiment
+Fin
+Clic pour réparer ce bâtiment
+Réparation
+Cliquer pour démolir ce bâtiment
+Démolir
+Non-déterminé
+Coût :
+Non-déterminé
+ROI :
+Non-déterminé
+
+Nom :
+Propriétaire :
+Non-déterminé
+Âge :
+Non-déterminé
+Clic pour fermer ce service
+Fin
+Cliquer pour démolir le service de thios
+Démolir
+Cliquer pour relier ce service à d'autres dans la carte
+Relier
+Non-déterminé
+Coût :
+Non-déterminé
+ROI :
+Non-déterminé
+0%
+Approvisionnement :
+Non-déterminé
+Non-déterminé
+Une demande locale :
+Prix :
+Non-déterminé
+
+Raccourcis clavier
+Raccourcis clavier enregistrés
+3
+Description
+Raccourci
+Texte
+Ajouter…
+Cliquer pour ajouter un raccourci
+Éditer…
+Cliquer pour éditer un shorcut
+Suppression
+Cliquer pour éliminer un raccourci
+Se fermer
+Cliquer pour fermer cette fenêtre
+Trains
+
+
+
+
+X :
+
+Y :
+
+_
+
+_
+
+Compte :
+
+_
+
+Angle :
+
+_
+
+Dernière valeur :
+Non-déterminé
+Coût :
+Non-déterminé
+7
+Service
+Propriétaire
+Prix
+Sur-payé
+Bout
+Qualité
+T. Coût
+Qualité minimum :
+0%
+0%
+Prix maxima :
+0%
+0%
+Cliquer ici pour engager de nouveaux clients
+Location
+Cliquer ici pour modifier le raccordement choisi
+Modifier
+Passé commande par qualité
+Acheter l'approvisionnement
+SurfaceViewer
+
+
+
+LE FAIRE !
+
+
+400
+
+400
+
+?. Nom d'utilisateur
+Montre votre nom et votre position dans le rang de NTA
+$000.000.000
+Montre combien d'argent vous avez
+Nom de compagnie
+Montre le nom de la compagnie active
+($0/h)
+Montre combien vous faites par heure
+Non-déterminé
+Montre la date du jour du monde
+0/0
+Montre le nombre de fentes de bâtiment que vous avez la construction et tout le nombre de fentes de bâtiment disponibles
+Montre le nombre de fentes de bâtiment que vous avez la construction et tout le nombre de fentes de bâtiment disponibles
+Indique que quelqu'un regarde le même secteur que vous
+Vous avez le courrier !
+Indique que quelqu'un essaye de causer avec vous
+Avertissement de faillite
+Indique que quelqu'un regarde le même secteur que vous
+Aucun nouveau courrier
+Indique que quelqu'un essaye de causer avec vous
+Avertissement de faillite
+Le cube tourne quand le legs en ligne dirige
+Réduire au minimum l'application
+-
+Clôturer l'application
+X
+Vous n'êtes pas relié au serveur
+Le serveur est occupé à faire un support
+Relié au serveur 
+Ouvriers
+0%
+0
+0
+100
+100
+0%
+%
+%
+Professionnels
+0%
+0
+0
+100
+100
+0%
+%
+%
+Cadres
+0
+100
+100
+0%
+0
+0%
+%
+%
+Vacances d'emploi :
+Salaire moyen :
+Pouvoir d'achat :
+Salaire minimum :
+Vacances d'emploi privées :
+Vacances d'emploi privées :
+Basse classe
+0
+0
+0
+%
+%
+La bourgeoisie
+0
+0
+0
+%
+%
+De première qualité
+0
+0
+0
+%
+%
+Vacances d'emploi :
+Index de qualité :
+Prix de loyer :
+Index général :
+0
+8
+Nom
+Demande
+Offre
+Capacité
+Rapport
+Prix d'IFEL
+Avg. Prix
+Qualité
+10
+Nom
+Produit
+Acheté
+Aiguillon. Capacité
+Acheter la capacité
+Vendre le prix
+Vendre le Q.
+Acheter le prix
+Acheter le Q.
+Prix maximal
+3
+Nom
+Valeur
+L'année dernière
+Impôt
+Subventionner
+PercPanel
+0%
+Impôt : 0%
+Valeur :
+Ensemble
+10000000
+Nom :
+0%
+Heures sur l'air :
+Non-déterminé
+Publicité :
+0%
+0%
+Clic pour fermer la station
+Fin
+Cliquer pour démolir la station
+Démolir
+0%
+Cliquer pour relier la station aux équipements dans la carte
+Relier
+Créateur :
+Non-déterminé
+Âge :
+Non-déterminé
+Coût :
+Non-déterminé
+ROI :
+Non-déterminé
+
+Carte universelle
+3
+Mondes officiels
+Mondes de tournoi
+Mondes de joueur
+ Mondes trouvés dans ce secteur :
+Sorte par :
+Bruit
+Investisseurs
+Année
+PING
+Bienvenue à la carte d'Univesal. Cliquer dessus les mondes l'uns des ci-dessus pour montrer l'information prolongée.
+Sauter à la planète actuellement choisie
+SAUTER À LA PLANÈTE
+Régénérer la liste de planète montrée ci-dessus
+RÉGÉNÉRER LA LISTE DE PLANÈTE
+Nom :
+Créateur :
+Non-déterminé
+Âge :
+Non-déterminé
+Clic pour fermer ce service
+Fin
+Cliquer pour démolir ce service
+Démolir
+Non-déterminé
+Cliquer pour relier ce service à d'autres dans la carte
+Relier
+Coût :
+Non-déterminé
+ROI :
+Non-déterminé
+
+attente
+
+
+Chargement
+
+NewInstallation
+
+Mise à jour
+
+Chargement…
+
+
+
+Le legs en ligne sera installé dans l'annuaire suivant :
+
+
+
+Réduire au minimum
+
+Stopper
+
+Passer en revue…
+
+Installer
+
+en ligne de C:\Program Files\Oceanus\Legacy \
+
+
+Recherche de nouveaux composants…
+
+
+Réduire au minimum
+
+Stopper
+
+Tentative
+
+Prgress
+
+Début
+
+Progrès global :
+
+
+Téléchargement de finition en ligne de legs les composants principaux. Maintenant le legs en ligne est des images de pré-téléchargement pour expédier l'exécution. Vous pouvez commencer à jouer n'importe quand. 
+
+
+Jeu maintenant
+
+
+HTMLView
+
+BONJOUR !
+BONJOUR !
+MISE À NIVEAU
+OK
+Annulation
+Coût :
+$25.000.000.000
+Niveaux :
+Avis, clic de double à reconstituer
+Fenêtre étroite
+X
+Réduire au minimum la fenêtre
+-
+BONJOUR MONDE !
+BONJOUR MONDE !
+Chargement…
+Maintenir pour parler par votre microphone
+T A L K
+Dernier haut-parleur :
+Aucun
+4
+Candidat
+Estimation
+Voix valides
+Points
+Voix
+Legs en ligne
+Nom :
+Propriétaire :
+Non-déterminé
+Coût :
+Non-déterminé
+ROI :
+Non-déterminé
+Âge :
+Non-déterminé
+Clic pour fermer ce service
+Fin
+Clisk pour démolir ce service
+Démolir
+Cliquer pour relier ce service à d'autres dans la carte
+Relier
+Non-déterminé
+Relie ce service à tous vos magasins
+Vente à tous magasins
+Relie ce service à toutes vos usines
+Vente à toutes les usines
+Relie ce service à tous vos entrepôts
+Vente à tous les entrepôts
+Démonte ce service de tous vos magasins
+Ne pas vendre aux magasins
+Relie ce service à toutes vos usines
+Ne pas vendre aux usines
+Relie ce service à tous vos entrepôts
+Ne pas vendre aux entrepôts
+Commercer le mode :
+Le commerce avec :
+3
+Entrepôt de compagnie
+Exportateur
+Importateur
+3
+Aucun
+Alliés seulement
+N'importe qui
+Application étroite
+X
+Réduire au minimum l'application
+-
+Ouvriers
+0 (de 0)
+50%
+1 (100%)
+100%
+Professionnels
+0 (de 0)
+50%
+5 (100%)
+100%
+Cadres
+0 (de 0)
+50%
+1 (100%)
+100%
+Ouvriers courants
+Qualité de main-d'oeuvre
+Salaires

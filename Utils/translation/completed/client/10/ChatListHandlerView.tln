@@ -1,0 +1,10 @@
+ChannelName.Caption=Reunião secreta
+Label1.Caption=Bate-papo
+IgnoreUser.Hint=Estalar para ignorar o usuário selecionado atualmente
+IgnoreUser.Text=Ignorar o usuário
+ChatOverMap.Hint=Estalar para conversar ao consultar o mapa
+ChatOverMap.Text=Conversar sobre o mapa
+FollowUser.Hint=Estalar para seguir o usuário selecionado
+FollowUser.Text=Seguir o usuário
+VoiceChat.Hint=Estalar para começ o painel do bate-papo da voz
+VoiceChat.Text=Falar o painel

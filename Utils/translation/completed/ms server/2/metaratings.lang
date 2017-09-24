@@ -1,0 +1,17 @@
+﻿PublicFacilities.Sport.Name=Équipements de récréation
+Target=Estimations
+LangId=2
+Ratings.CampaignAccuracy.Name=Accomplissement de campagne
+Ratings.College.Name=Universités
+Ratings.Disposal.Name=Enlèvement des ordures
+Ratings.Fire.Name=Assurance du feu
+Ratings.Health.Name=Assurance de santé
+Ratings.Jail.Name=Prisons
+Ratings.Museum.Name=Musées
+Ratings.Police.Name=Assurance de police
+Ratings.PopGrowth.Name=Croissance de ville
+Ratings.School.Name=Assurance d'école
+Ratings.Services.Name=Services et amusement
+Ratings.Sport.Name=Équipements de récréation
+Ratings.Taxes.Name=Impôts
+Ratings.Unemployment.Name=Emploi

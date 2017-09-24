@@ -1,0 +1,10 @@
+﻿TycoonLevels.BeyondLegend.Cond=Ty musieć %s the IFEL. Ty musieć średni zysk współczynnik przełożony %s/h. Utrzymywać twój Prestiż większy niż 15000.
+Target=Ministries
+LangId=9
+Ministries.Ministry1.Name=Zdrowie
+Ministries.Ministry2.Name=Edukacja
+Ministries.Ministry3.Name=Obrona
+Ministries.Ministry4.Name=Rolnictwo
+Ministries.Ministry5.Name=Lekki Przemysł
+Ministries.Ministry6.Name=przemysł ciężki
+Ministries.Ministry7.Name=Handel

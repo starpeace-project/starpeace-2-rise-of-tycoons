@@ -1,0 +1,17 @@
+Tabs.TabNames.1=CANAL DE JEU
+NewTeamDlg.Caption=NewTeamDlg
+NewTeamDlg.Hint=
+CloseBtn.Hint=Fenêtre étroite
+CloseBtn.Text=X
+Shape1.Hint=
+Label4.Caption=Nom d'équipe :
+Label4.Hint=
+btCreate.Hint=Outils de carte de recouvrement d'affichage
+btCreate.Text=Nouvelle équipe
+btCancel.Hint=Outils de carte de recouvrement d'affichage
+btCancel.Text=Annulation
+HintText.Caption=CRÉER UNE ÉQUIPE
+HintText.Hint=CRÉER UNE ÉQUIPE
+edTeamName.Hint=
+edTeamName.Text=
+pnError.Caption=ERREUR !

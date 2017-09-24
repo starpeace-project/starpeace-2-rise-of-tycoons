@@ -1,0 +1,2821 @@
+Rekeningen
+0
+Netto Winst (verliezen)
+Wegen
+Belastingen [vorig jaar]
+Landbouwbedrijven
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+Bouw
+Kantoormachines
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+Leningen
+De industrieën van de auto
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+Ontvangen geld
+Chemische installaties
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+Verzonden geld
+Kleren
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+Huren
+Bouw
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+Onderhoud
+Elektronisch
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+Reparaties
+De Verwerking van het voedsel
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+Huren
+Zware industrie
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+Onderhoud
+Industrie van het toestel
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+Speelgoed
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+Residentials
+Reparaties
+De metallurgische industrie
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+Mijnen
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+Boorplatforms
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+Salarissen
+De textiel industrie
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+Raffinaderijen
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+De Begroting van de staat
+Software
+Kosten van de diensten
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+Plastieken
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+Bedrijfskosten
+De juridische Diensten
+Kosten van de diensten
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+Auto's
+Kosten van verkochte goederen
+Salarissen
+De opbrengst van de verkoop
+De Opslag van kleren
+Kosten van verkochte goederen
+Salarissen
+De opbrengst van de verkoop
+Voedsel
+Kosten van verkochte goederen
+Salarissen
+De opbrengst van de verkoop
+Bars
+Kosten van verkochte goederen
+Salarissen
+De opbrengst van de verkoop
+Handel
+Hoofdkwartier
+Huishoudapparaten
+Kosten van verkochte goederen
+Salarissen
+De opbrengst van de verkoop
+De Opslag van het stuk speelgoed
+Kosten van verkochte goederen
+Salarissen
+De opbrengst van de verkoop
+Researchs
+Supermarkten
+Kosten van verkochte goederen
+Salarissen
+De opbrengst van de verkoop
+Salarissen
+Restaurants
+Kosten van verkochte goederen
+Salarissen
+De opbrengst van de verkoop
+Materiaal
+Bioscopen
+Kosten van filmvergunningen
+Salarissen
+De opbrengsten van de film
+De diensten
+Kosten voor de tenuitvoerlegging
+Pakhuizen
+Kosten van verkochte goederen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+TV
+De kosten van de productie
+De opbrengst van de reclame
+Salarissen
+Bedrijfskosten
+Industrie
+De eigenschappen van de huur
+Farmacie
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+Speciaal
+De Productie van de alcoholische drank
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+Compensaties
+Bank
+De betalingen van schuldenaars
+Uitgegeven leningen
+Lening
+De betalingen van de lening
+Openbare Faciliteiten
+Salarissen
+Drogisterijen
+Kosten van verkochte goederen
+Salarissen
+De opbrengsten van de verkoop
+Benzinestations
+Kosten van verkochte goederen
+Salarissen
+Opbrengsten
+Bureaus
+Firma's
+De Aanleg van wegen
+De Vernieling van de weg
+Het Onderhoud van de wegen
+De Belasting van het land
+De Molens van het timmerhout
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+De Opslag van het meubilair
+Kosten van verkochte goederen
+Salarissen
+De opbrengst van de verkoop
+Boekhandels
+Kosten van verkochte goederen
+Salarissen
+De opbrengst van de verkoop
+Industrie van het meubilair
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+De Opslag van de computer
+Kosten van verkochte goederen
+Salarissen
+De opbrengst van de verkoop
+De Studio's van de film
+Kosten van materialen
+De opbrengst van vergunningen
+Salarissen
+De kosten van de productie
+Rouwkamers
+De Materialen van kosten
+Salarissen
+Begrafenis opbrengsten
+Industrie van het document
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+De Installatie van de druk
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+CD Industrie
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+CD Opslag
+Kosten van verkochte goederen
+Salarissen
+De opbrengst van de verkoop
+Organisch Afval
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+Meststof
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+Het Landbouwbedrijf A van de korrel
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+Molen
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+Katoenen Installatie
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+De Installatie van de broek
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+De Winkel van de broek
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+Bakkerij
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+Het Landbouwbedrijf van het fruit
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+De Fabriek van de schoen
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+Rubber Fabriek
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+Rubber Sap
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+Rubberboom
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+De Fabriek van de vlaai
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+De Winkel van de schoen
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+De Winkel van de vlaai
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+Plantaardig Landbouwbedrijf A  
+Kosten van grondstoffen   
+De opbrengst van de verkoop    
+Salarissen    
+Bedrijfskosten    
+De Fabriek van de hutspot    
+Kosten van grondstoffen    
+De opbrengst van de verkoop    
+Salarissen    
+Bedrijfskosten    
+Organische mijn    
+Kosten van grondstoffen   
+De opbrengst van de verkoop    
+Salarissen    
+Bedrijfskosten    
+De Fabriek van het polymeer   
+Kosten van grondstoffen    
+De opbrengst van de verkoop    
+Salarissen    
+Bedrijfskosten    
+Nylon Fabriek
+Kosten van grondstoffen    
+De opbrengst van de verkoop    
+Salarissen    
+Bedrijfskosten    
+De fabriek van het overhemd
+Kosten van grondstoffen    
+De opbrengst van de verkoop    
+Salarissen    
+Bedrijfskosten    
+Het Landbouwbedrijf A van het vee   
+Kosten van grondstoffen    
+De opbrengst van de verkoop    
+Salarissen    
+Bedrijfskosten   
+De Fabriek van de hamburger  
+Kosten van grondstoffen    
+De opbrengst van de verkoop    
+Salarissen    
+Bedrijfskosten    
+Ruwe Chemische mijn
+Kosten van grondstoffen    
+De opbrengst van de verkoop    
+Salarissen    
+Bedrijfskosten    
+Mijn Chemische Installatie
+Kosten van grondstoffen    
+De opbrengst van de verkoop    
+Salarissen    
+Bedrijfskosten    
+De fabriek van het leer
+Kosten van grondstoffen    
+De opbrengst van de verkoop    
+Salarissen    
+Bedrijfskosten    
+Het jasjeinstallatie van het leer
+Kosten van grondstoffen    
+De opbrengst van de verkoop    
+Salarissen    
+Bedrijfskosten
+De Winkel van de hamburger
+Kosten van grondstoffen    
+De opbrengst van de verkoop    
+Salarissen    
+Bedrijfskosten    
+De Winkel van het Jasje van het leer
+Kosten van grondstoffen    
+De opbrengst van de verkoop    
+Salarissen    
+Bedrijfskosten      
+De Winkel van de hutspot
+Kosten van grondstoffen    
+De opbrengst van de verkoop    
+Salarissen    
+Bedrijfskosten       
+De Winkel van het overhemd
+Kosten van grondstoffen    
+De opbrengst van de verkoop    
+Salarissen
+Bedrijfskosten
+De Productie van TV
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+Kleine Industrie van de Auto
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+De Mijnen van het ijzer
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+De Mijnen van het silicium
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+Kolenmijnen
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+Staal Industrie
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+Industrie van de Spaander van het geheugen
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+De Opslag van TV
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+De kleine Handel drijven van de Auto
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+De Mijnen van het koper
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+Ceramische Mijnen
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+De Olie van de pijnboom
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+Industrie van het koper
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+De Installaties van cpu
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+Industrie van de sportwagen
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+De Vervaardiging van PC
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+De Handel drijven van de sportwagen
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+De Mijn van het aluminium
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+De Mijn van het kryoliet
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+De Mijn van het silaan
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+Industrie van het aluminium
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+Industrie TFT
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+Industrie van de Fiets van de motor
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+Mobiele Industrie van de Telefoon
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+De mobiele Opslag van de Telefoon
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+Motor Mike Dealership
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+Industrie van de motor
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+Industrie van de band
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+Humvee Indsutry
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+Industrie van het kooktoestel
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+Het Handel drijven van Humvee
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+De Opslag van het kooktoestel
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+Industrie van het glas
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+Industrie van Conveyorbelt
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+Industrie bedrijfs van de Computer
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+Concrete Industrie
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+Zware industrie
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+Industrie van de server
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+Industrie van de gipsplaat
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+Robotachtige Industrie
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+Industrie van de Kantoormachine
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+De Mijn van het gips
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+De Mijn van het kalksteen
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+De Mijn van het grint
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+Bouwnijverheid
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+Industrie van het Systeem van de controle
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+Industrie van het Systeem van het netwerk
+Kosten van grondstoffen
+De opbrengst van de verkoop
+Salarissen
+Bedrijfskosten
+De diensten
+0
+Bars
+Auto's
+Kleding en Schoeisel
+Farmacie
+Verwerkt Voedsel
+Vers Voedsel
+Gas
+Huishoudapparaten
+Films
+Restaurants
+Speelgoed
+Boeken
+Meubilair
+Computers
+Begrafenissen
+CDs
+Broeken
+Bakkerij
+Schoenen
+Vlaaien
+De Jasjes van het leer
+Mc Puglands de Maaltijd van de Hamburger
+Overhemden
+Ierse Hutspot
+Bestek
+De Doek van de lijst
+Verse Broodjes
+Glazen
+Platen
+Kleine Auto
+Televisies
+Banden
+Kostuums
+Onder Slijtage
+Hoeden
+Sokken
+Lingerie
+Sjaals
+De Broeken van het leer
+Sportwagens
+MP3 spelers
+Printers
+Camcorder
+Hoovers
+Spelers DVD
+Ketel
+Microgolven
+Broodroosters
+Kooktoestellen
+De Fietsen van de motor
+Mobiele Telefoons
+De Uitrusting van de autowasserette
+Auto Pools
+De Verfrissing van de Lucht van de auto
+Pluizig dobbel
+Humvee
+PC
+Faciliteiten
+0
+Groot Landbouwbedrijf
+Grote Landbouwbedrijven
+Grote Keukenmachine
+Grote Keukenmachines
+De Opslag van het voedsel
+De Opslag van het voedsel
+Landbouwbedrijf
+Landbouwbedrijven
+Keukenmachine
+Keukenmachines
+De Koepel van Guruh
+De Koepels van Guruh
+Lothar Dome
+Lothar Domes
+Zwarte Kom
+Zwarte Kommen
+De Koepel van zielen
+De Koepels van zielen
+Generische lage klassengebouwen
+Generische lage klasse buildingss
+Capitool
+Capitolen
+Steek
+Steken
+De Boog van Davis
+De Bogen van Davis
+Mc de Toren van het Neon
+Mc de Torens van het Neon
+Gevangenis
+Gevangenissen
+Gevangenis
+Gevangenissen
+Gevangenis
+Gevangenissen
+Brandweerkazerne
+Brandweerkazernes
+Politiebureau
+Politiebureaus
+Gevangenis
+Gevangenissen
+Gevangenis
+Gevangenissen
+Bank
+Banken
+Bar
+Bars
+Industrie van Kantoormachines
+Kantoormachines Industrys
+De Fabriek van de auto
+Auto Factorys
+De Opslag van de auto
+De Opslag van de auto
+Groot Park
+Grote Parken
+Chemische Installatie
+Chemische Installaties
+Kleine Chemische Installatie
+Kleine Chemische Installaties
+Chemische Mijn
+Chemische Mijnen
+Kleine Chemische Mijn
+Kleine Chemische Mijnen
+De Opslag van kleren
+De Opslag van kleren
+De Fabriek van de kleding
+Kleding Factorys
+De kleine Fabriek van de Kleding
+Kleine Kleding Factorys
+Kolenmijn
+Kolenmijnen
+Kleine Kolenmijn
+Kleine Kolenmijnen
+De Firma van de software
+De Firma's van de software
+Bouwnijverheid
+Bouw Industrys
+Elektronische Industrie
+Elektronische Industrys
+Kleine Elektronische Industrie
+Kleine Elektronische Industrys
+Landbouwbedrijf
+Landbouwbedrijven
+Keukenmachine
+Keukenmachines
+Kleine Keukenmachine
+Kleine Keukenmachines
+De Opslag van het voedsel
+De Opslag van het voedsel
+Het Hoofdkwartier van het bedrijf
+Bedrijf Headquarterss
+Industrie van machines
+Machines Industrys
+De Fabriek van toestellen
+Toestellen Factorys
+De kleine Fabriek van Toestellen
+Kleine Toestellen Factorys
+De Opslag van huishoudapparaten
+De Opslag van huishoudapparaten
+Naald
+Naalden
+Het Huis van de ballon
+De Huizen van de ballon
+Trechter
+Trechters
+Plattelandshuisje
+Plattelandshuisjes
+De generische eersteklas bouw
+Generische eersteklas gebouwen
+Het ziekenhuis
+De ziekenhuizen
+Het Park van de hagedis
+De Parken van de hagedis
+Het Park van de kobold
+De Parken van de kobold
+Het Park van de kip
+De Parken van de kip
+Vreemd Park
+Vreemde Parken
+Universiteit
+Universiteiten
+Stortplaats
+Stortplaatsen
+Gevangenis
+Gevangenissen
+Museum
+Musea
+Tennisbanen
+Tennis courtss
+Stadhuis
+Stadhuizen
+Handelscentrum
+Handelscentra
+Het Hoofdkwartier van de industrie
+Industrie Headquarterss
+De Firma van advocaten
+De Firma's van advocaten
+Standbeeld van Vrijheid
+Standbeeld van Libertys
+De installatie van de alcoholische drank
+De installaties van de alcoholische drank
+Gerecycleerde Huizen
+Gerecycleerde Homess
+Gerecycleerde Gebouwen
+Gerecycleerde Buildingss
+De Blikken van de sardine
+Sardine Canss
+De generische lage klassenbouw
+Generische lage klassengebouwen
+Park
+Parken
+Industrie van het metaal
+Metaal Industrys
+Kleine Industrie van het Metaal
+Klein Metaal Industrys
+De Toren van dromen
+De Torens van dromen
+De paddestoelen
+Mushroomss
+De ringen
+Bushingss
+Screwer
+Screwers
+Kastelen
+Castless
+De generische middenstandbouw
+Generische middenstandgebouwen
+Mijn
+Mijnen
+Kleine Mijn
+Kleine Mijnen
+Bioscoop
+Bioscopen
+Ribben
+Ribss
+Rode Bal
+Rode Ballen
+Duango
+Duangos
+Politie en Brandweerkazerne 
+Politie en Brandweerkazernes
+Het burger Hoofdkwartier van Zaken
+Burger Zaken Headquarterss
+Het Hoofdkwartier van onroerende goederen
+Onroerende goederen Headquarterss
+Restaurant
+Restaurants
+School
+Scholen
+Het Hoofdkwartier van de handel
+Het Hoofdkwartier van de handel
+De Mijn van het silicium
+De Mijnen van het silicium
+De kleine Mijn van het Silicium
+De kleine Mijnen van het Silicium
+Klein Landbouwbedrijf
+Kleine Landbouwbedrijven
+Klein Park
+Kleine Parken
+De Mijn van de steen
+De Mijnen van de steen
+De kleine Mijn van de Steen
+De kleine Mijnen van de Steen
+Grote Markt
+Grote Markten
+Vlooienmarkt
+Vlooienmarkten
+Textiel Industrie
+Textiel Industrys
+Kleine TextielIndustrie
+Kleine TextielIndustrys
+Toren IFEL
+Torens IFEL
+De Fabriek van het stuk speelgoed
+Stuk speelgoed Factorys
+De Opslag van het stuk speelgoed
+De Opslag van het stuk speelgoed
+De Antenne van TV
+De Antennes van TV
+TV
+TVs
+Universiteit
+Universiteiten
+Museum
+Musea
+Universiteit
+Universiteiten
+Museum
+Musea
+Universiteit
+Universiteiten
+Museum
+Musea
+School
+Scholen
+Universiteit
+Universiteiten
+Museum
+Musea
+Universiteit
+Universiteiten
+Museum
+Musea
+Het Park van de hagedis
+De Parken van de hagedis
+Het Park van de kobold
+De Parken van de kobold
+Het Park van de kip
+De Parken van de kip
+Vreemd Park
+Vreemde Parken
+Stortplaats
+Stortplaatsen
+Het Park van de hagedis
+De Parken van de hagedis
+Het Park van de kobold
+De Parken van de kobold
+Het Park van de kip
+De Parken van de kip
+Vreemd Park
+Vreemde Parken
+Stortplaats
+Stortplaatsen
+Het Park van de hagedis
+De Parken van de hagedis
+Het Park van de kobold
+De Parken van de kobold
+Het Park van de kip
+De Parken van de kip
+Vreemd Park
+Vreemde Parken
+Stortplaats
+Stortplaatsen
+Groot Park
+Grote Parken
+Het ziekenhuis
+De ziekenhuizen
+Standbeeld van Vrijheid
+Standbeeld van Libertys
+Park
+Parken
+Klein Park
+Kleine Parken
+Het Park van de hagedis
+De Parken van de hagedis
+Het Park van de kobold
+De Parken van de kobold
+Het Park van de kip
+De Parken van de kip
+Vreemd Park
+Vreemde Parken
+Stortplaats
+Stortplaatsen
+Het Park van de hagedis
+De Parken van de hagedis
+Het Park van de kobold
+De Parken van de kobold
+Het Park van de kip
+De Parken van de kip
+Vreemd Park
+Vreemde Parken
+Stortplaats
+Stortplaatsen
+De Fabriek van de auto
+Auto Factorys
+De Opslag van de auto
+De Opslag van de auto
+Grote Chemische Installatie
+Grote Chemische Installaties
+Grote Chemische Mijn
+Grote Chemische Mijnen
+Grote Kolenmijn
+Grote Kolenmijnen
+Bouwnijverheid
+Bouw Industrys
+Industrie van machines
+Machines Industrys
+Grote Metallurgische Industrie
+Grote Metallurgische Industrys
+Grote Mijn
+Grote Mijnen
+De grote Mijn van het Silicium
+De grote Mijnen van het Silicium
+Chemische Installatie
+Chemische Installaties
+Chemische Mijn
+Chemische Mijnen
+Kolenmijn
+Kolenmijnen
+Metallurgische Industrie
+Metallurgische Industrys
+Mijn
+Mijnen
+De Mijn van het silicium
+De Mijnen van het silicium
+De Mijn van de steen
+De Mijnen van de steen
+De grote Mijn van de Steen
+De grote Mijnen van de Steen
+De Koepel van Guruh
+De Koepels van Guruh
+Lothar Dome
+Lothar Domes
+Zwarte Kom
+Zwarte Kommen
+De Koepel van zielen
+De Koepels van zielen
+Generische lage klassengebouwen
+Generische lage klasse buildingss
+Naald
+Naalden
+Het Huis van de ballon
+De Huizen van de ballon
+Trechter
+Trechters
+Plattelandshuisje
+Plattelandshuisjes
+De generische eersteklas bouw
+Generische eersteklas gebouwen
+Tennisbanen
+Tennis courtss
+Gerecycleerde Huizen
+Gerecycleerde Homess
+Gerecycleerde Gebouwen
+Gerecycleerde Buildingss
+De Blikken van de sardine
+Sardine Canss
+De generische lage klassenbouw
+Generische lage klassengebouwen
+De Toren van dromen
+De Torens van dromen
+De paddestoelen
+Mushroomss
+De ringen
+Bushingss
+Screwer
+Screwers
+Kastelen
+Castless
+De generische middenstandbouw
+Generische middenstandgebouwen
+Het Paleis van Zharot
+De Paleizen van Zharot
+Zwart Paleis
+Zwarte Paleizen
+De ridders overkoepelen
+De Koepels van ridders
+De Bungalow van ridders
+De Bungalowwen van ridders
+Generische eersteklas gebouwen
+Generische eersteklas buildingss
+De Stad van de wolk
+Wolk Citys
+De Hemel van de arbeider
+De Hemel van de arbeider
+De bijenkorf
+De bijenkorven
+De Toren van het ivoor
+De Torens van het ivoor
+Mag bloeien
+De Bloemen van mei
+De octopus
+Octopuss
+Solarium
+Solaria
+De draaikolk
+De draaikolken
+Het Huis van Katana
+De Huizen van Katana
+Het Huis van Sohei
+De Huizen van Sohei
+Het Huis van Tarakawa
+De Huizen van Tarakawa
+Goedkope Eersteklas gebouwen
+Goedkope Eersteklas buildingss
+De Bouw van Katana
+De Gebouwen van Katana
+De Bouw van Nikotori
+De Gebouwen van Nikotori
+De Bouw van Hazobito
+De Gebouwen van Hazobito
+De Bouw van Hisogari
+De Gebouwen van Hisogari
+Goedkope gebouwen LowClass
+Goedkope LowClass buildingss
+Zalen somsei-Taj
+Somsei-Taj Roomss
+De Zalen van Marakas
+Marakas Roomss
+De Zalen van Yohito
+Yohito Roomss
+Zalen hirijoto-Manko
+Hirijoto-Manko Roomss
+De goedkope gebouwen van de Middenklasse
+Goedkope Middenklasse buildingss
+Tennisbanen
+Tennis courtss
+Tennisbanen
+Tennis courtss
+De Koepel van de verpleegster
+De Koepels van de verpleegster
+De Dierentuin van de verpleegster
+De Dierentuinen van de verpleegster
+De Zalen van de verpleegster
+Verpleegster Roomss
+De Broederlijkheid van de verpleegster
+Verpleegster Fraternitys
+Generische middenstandgebouwen
+Generische middenstand buildingss
+Het Paleis van Xanadu
+De Paleizen van Xanadu
+Atrium
+Atria
+Willington
+Willingtons
+Gouden GLB
+Gouden Kappen
+Het Vierkant van Kent
+De Vierkanten van Kent
+De Torens van Lisgar
+Lisgar Towerss
+Generische eersteklas gebouwen
+Generische eersteklas buildingss
+De Torens van Playfair
+Playfair Towerss
+De Zalen van Arlington
+Arlington Roomss
+Het Atrium van Caesar
+De Atria van Caesar
+Sicilië
+Sicilys
+De generische lage klassenbouw
+Generische lage klassengebouwen
+Gladston Apts.
+Gladston Apts.s
+Quincy
+Quincys
+De Torens van Metcalfe
+Metcalfe Towerss
+Delmar Apts.
+Delmar Apts.s
+Zonsondergang Apts.
+Zonsondergang Apts.s
+Generische middenstandgebouwen
+Generische middenstand buildingss
+Tennisbanen
+Tennis courtss
+De spontane bouw
+Spontane gebouwen
+Tennisbanen
+Tennis courtss
+Het Paleis van Zharot
+De Paleizen van Zharot
+Zwart Paleis
+Zwarte Paleizen
+De ridders overkoepelen
+De Koepels van ridders
+De Bungalow van ridders
+De Bungalowwen van ridders
+Generische eersteklas gebouwen
+Generische eersteklas buildingss
+Industrie van Kantoormachines
+Kantoormachines Industrys
+Grote Industrie van Kleren
+Grote Kleren Industrys
+Drogisterij
+Drogisterijen
+Grote Elektronische Industrie
+Grote Elektronische Industrys
+De grote Fabriek van Toestellen
+Grote Toestellen Factorys
+Farmaceutische Industrie
+Farmaceutische Industrys
+Industrie van kleren
+Kleren Industrys
+Elektronische Industrie
+Elektronische Industrys
+De Fabriek van toestellen
+Toestellen Factorys
+Textiel Industrie
+Textiel Industrys
+Grote TextielIndustrie
+Grote TextielIndustrys
+Groot Park
+Grote Parken
+De Stad van de wolk
+Wolk Citys
+De Hemel van de arbeider
+De Hemel van de arbeider
+De bijenkorf
+De bijenkorven
+De Toren van het ivoor
+De Torens van het ivoor
+Standbeeld van Vrijheid
+Standbeeld van Libertys
+Mag bloeien
+De Bloemen van mei
+Park
+Parken
+De octopus
+Octopuss
+Klein Park
+Kleine Parken
+Solarium
+Solaria
+Toren IFEL
+Torens IFEL
+De draaikolk
+De draaikolken
+Kantoormachines
+Zaken Machiness
+Industrie van de auto
+Auto Industrys
+De Opslag van de auto
+De Opslag van de auto
+Chemische Installatie
+Chemische Installaties
+Chemische Mijn
+Chemische Mijnen
+De Opslag van kleren
+De Opslag van kleren
+Kledingindustrie
+Kleding Industrys
+Kolenmijn
+Kolenmijnen
+Bouwnijverheid
+Bouw Industrys
+Elektronische Industrie
+Elektronische Industrys
+Landbouwbedrijf
+Landbouwbedrijven
+Keukenmachine
+Keukenmachines
+De Opslag van het voedsel
+De Opslag van het voedsel
+Het Hoofdkwartier van het bedrijf
+Bedrijf Headquarterss
+Industrie van machines
+Machines Industrys
+Huishoudapparaten
+Huishouden Appliancess
+De Opslag van toestellen
+De Opslag van toestellen
+Het Huis van Katana
+De Huizen van Katana
+Het Huis van Sohei
+De Huizen van Sohei
+Het Huis van Tarakawa
+De Huizen van Tarakawa
+Goedkope Eersteklas gebouwen
+Goedkope Eersteklas buildingss
+Het ziekenhuis
+De ziekenhuizen
+Het Hoofdkwartier van de industrieën
+Industrie Headquarterss
+Standbeeld van Vrijheid
+Standbeeld van Libertys
+De Bouw van Katana
+De Gebouwen van Katana
+De Bouw van Nikotori
+De Gebouwen van Nikotori
+De Bouw van Hazobito
+De Gebouwen van Hazobito
+De Bouw van Hisogari
+De Gebouwen van Hisogari
+Goedkope gebouwen LowClass
+Goedkope LowClass buildingss
+Industrie van het metaal
+Metaal Industrys
+Zalen somsei-Taj
+Somsei-Taj Roomss
+De Zalen van Marakas
+Marakas Roomss
+De Zalen van Yohito
+Yohito Roomss
+Zalen hirijoto-Manko
+Hirijoto-Manko Roomss
+De goedkope gebouwen van de Middenklasse
+Goedkope Middenklasse buildingss
+Mijn
+Mijnen
+Plastic Industrie
+Plastic Industrys
+Politie en Brandweerkazerne
+Politie en Brandweerkazernes
+Het burger Hoofdkwartier van Zaken
+Burger Zaken Headquarterss
+Het Hoofdkwartier van onroerende goederen
+Onroerende goederen Headquarterss
+School
+Scholen
+Het Hoofdkwartier van de handel
+Het Hoofdkwartier van de handel
+De Mijn van het silicium
+De Mijnen van het silicium
+Kleine Chemische Installatie
+Kleine Chemische Installaties
+Kleine Chemische Mijn
+Kleine Chemische Mijnen
+Kleine Kledingindustrie
+Kleine Kleding Industrys
+Kleine Kolenmijn
+Kleine Kolenmijnen
+Kleine Elektronische Industrie
+Kleine Elektronische Industrys
+Klein Landbouwbedrijf
+Kleine Landbouwbedrijven
+Kleine Keukenmachine
+Kleine Keukenmachines
+Kleine Huishoudapparaten
+Klein Huishouden Appliancess
+Kleine Industrie van het Metaal
+Klein Metaal Industrys
+Kleine Mijn
+Kleine Mijnen
+De kleine Mijn van het Silicium
+De kleine Mijnen van het Silicium
+De kleine Mijn van de Steen
+De kleine Mijnen van de Steen
+Kleine TextielIndustrie
+Kleine TextielIndustrys
+Het Park van de hagedis
+De Parken van de hagedis
+Het Park van de kobold
+De Parken van de kobold
+Het Park van de kip
+De Parken van de kip
+Vreemd Park
+Vreemde Parken
+Universiteit
+Universiteiten
+Stortplaats
+Stortplaatsen
+Gevangenis
+Gevangenissen
+Museum
+Musea
+Tennisbanen
+Tennis courtss
+De Mijn van de steen
+De Mijnen van de steen
+De Markt van Takuri
+De Markten van Takuri
+De Markt van Tamakura
+De Markten van Tamakura
+De Markt van Satoi
+De Markten van Satoi
+Textiel Industrie
+Textiel Industrys
+Toren IFEL
+Torens IFEL
+Stadhuis
+Stadhuizen
+Handelscentrum
+Handelscentra
+De Antenne van TV
+De Antennes van TV
+TV
+TVs
+CD Installatie
+CD Installaties
+CD Opslag
+CD Opslag
+Het Hoofdkwartier van het Ministerie
+Ministerie Headquarterss
+Het Hoofdkwartier van het Ministerie
+Ministerie Headquarterss
+Het Hoofdkwartier van het Ministerie
+Ministerie Headquarterss
+Het Hoofdkwartier van het Ministerie
+Ministerie Headquarterss
+Het Hoofdkwartier van het Ministerie
+Ministerie Headquarterss
+Het Hoofdkwartier van het Ministerie
+Ministerie Headquarterss
+Het Hoofdkwartier van het Ministerie
+Ministerie Headquarterss
+Het Hoofdkwartier van het Ministerie
+Ministerie Headquarterss
+Groot Park
+Grote Parken
+Park
+Parken
+Yamamoto
+Yamamotos
+Tanakuta
+Tanakutas
+De Schraper van Sato
+De Schrapers van Sato
+De Schraper van Kunawa
+De Schrapers van Kunawa
+Koto -koto-ku
+Koto -koto-kus
+Klein Park
+Kleine Parken
+Koepel van Vreugde
+Koepel van Vreugden
+Correctioneel Moab
+Moab Correctionals
+De Koepel van Kantoormachines
+De Koepels van Kantoormachines
+De Koepel van auto's
+De Koepels van auto's
+De Opslag van de auto
+De Opslag van de auto
+Groot Park
+Grote Parken
+De Koepel van chemische producten
+De Koepels van chemische producten
+Chemische Mijn
+Chemische Mijnen
+De Opslag van kleren
+De Opslag van kleren
+Koepel van Kleren
+Koepels van Kleren
+Kolenmijn
+Kolenmijnen
+De Firma van de software
+De Firma's van de software
+De Koepel van de bouw
+De Koepels van de bouw
+De burger Toren van Zaken
+De burger Torens van Zaken
+Koepel van Spaanders
+Koepel van Chipss
+De Krater van het voedsel
+De Kraters van het voedsel
+De Koepel van het voedsel
+De Koepels van het voedsel
+De Opslag van het voedsel
+De Opslag van het voedsel
+Benzinestation
+Benzinestations
+Moab Kathedraal
+Moab Kathedralen
+De Koepel van machines
+De Koepels van machines
+De Koepel van huishoudapparaten
+De Koepels van huishoudapparaten
+De Opslag van huishoudapparaten
+De Opslag van huishoudapparaten
+De Toren van de handel
+De Torens van de handel
+De Toren van de industrieën
+De Torens van de industrieën
+De Firma van advocaten
+De Firma's van advocaten
+Standbeeld van Vrijheid
+Standbeeld van Libertys
+Park
+Parken
+De Koepel van metalen
+De Koepels van metalen
+Mijn
+Mijnen
+Bioscoop
+Bioscopen
+Moab Basiliek
+Moab Basilieken
+Donkere Crysler
+Donkere Cryslers
+Booreiland
+Boorplatforms
+De Koepel van de raffinaderij
+De Koepels van de raffinaderij
+De Toren van onroerende goederen
+De Torens van onroerende goederen
+De Koepel van het diner
+De Koepels van het diner
+De Mijn van het silicium
+De Mijnen van het silicium
+Klein Park
+Kleine Parken
+Het Park van de hagedis
+De Parken van de hagedis
+Het Park van de kobold
+De Parken van de kobold
+Het Park van de kip
+De Parken van de kip
+Vreemd Park
+Vreemde Parken
+Universiteit
+Universiteiten
+Stortplaats
+Stortplaatsen
+Gevangenis
+Gevangenissen
+Museum
+Musea
+Tennisbanen
+Tennis courtss
+De Mijn van de steen
+De Mijnen van de steen
+Moab Supermarkt
+Moab Supermarkten
+Koepel van Draden
+Koepel van Threadss
+Toren IFEL
+Torens IFEL
+Stadhuis
+Stadhuizen
+Handelscentrum
+Handelscentra
+De Antenne van TV
+De Antennes van TV
+TV
+TVs
+De Koepel van de verpleegster
+De Koepels van de verpleegster
+De Dierentuin van de verpleegster
+De Dierentuinen van de verpleegster
+De Zalen van de verpleegster
+Verpleegster Roomss
+De Broederlijkheid van de verpleegster
+Verpleegster Fraternitys
+Generische middenstandgebouwen
+Generische middenstand buildingss
+Bar
+Bars
+Industrie van Kantoormachines
+Kantoormachines Industrys
+De Fabriek van de auto
+Auto Factorys
+De Opslag van de auto
+De Opslag van de auto
+Groot Park
+Grote Parken
+Grote Chemische Installatie
+Grote Chemische Installaties
+Grote Chemische Mijn
+Grote Chemische Mijnen
+Grote Industrie van Kleren
+Grote Kleren Industrys
+Grote Kolenmijn
+Grote Kolenmijnen
+De Firma van de software
+De Firma's van de software
+Bouwnijverheid
+Bouw Industrys
+Drogisterij
+Drogisterijen
+Grote Elektronische Industrie
+Grote Elektronische Industrys
+Groot Landbouwbedrijf
+Grote Landbouwbedrijven
+Brandweerkazerne
+Brandweerkazernes
+Grote Keukenmachine
+Grote Keukenmachines
+De Opslag van het voedsel
+De Opslag van het voedsel
+Het Hoofdkwartier van het bedrijf
+Het Hoofdkwartier van het bedrijf
+Industrie van machines
+Machines Industrys
+De grote Fabriek van Toestellen
+Grote Toestellen Factorys
+Het Paleis van Xanadu
+De Paleizen van Xanadu
+Atrium
+Atria
+Willington
+Willingtons
+Gouden GLB
+Gouden Kappen
+Het Vierkant van Kent
+De Vierkanten van Kent
+De Torens van Lisgar
+Lisgar Towerss
+Generische eersteklas gebouwen
+Generische eersteklas buildingss
+Het ziekenhuis
+De ziekenhuizen
+Het Hoofdkwartier van de industrie
+Industrie Headquarterss
+De Firma van advocaten
+De Firma's van advocaten
+Standbeeld van Vrijheid
+Standbeeld van Libertys
+De Torens van Playfair
+Playfair Towerss
+De Zalen van Arlington
+Arlington Roomss
+Het Atrium van Caesar
+De Atria van Caesar
+Sicilië
+Sicilys
+De generische lage klassenbouw
+Generische lage klassengebouwen
+Park
+Parken
+Grote Metallurgische Industrie
+Grote Metallurgische Industrys
+Gladston Apts.
+Gladston Apts.s
+Quincy
+Quincys
+De Torens van Metcalfe
+Metcalfe Towerss
+Delmar Apts.
+Delmar Apts.s
+Zonsondergang Apts.
+Zonsondergang Apts.s
+Generische middenstandgebouwen
+Generische middenstand buildingss
+Grote Mijn
+Grote Mijnen
+De Bioscoop van Delmar
+De Bioscopen van Delmar
+De Bioscoop van Baltimore
+De Bioscopen van Baltimore
+Steek
+Steken
+De Boog van Davis
+De Bogen van Davis
+Mc de Toren van het Neon
+Mc de Torens van het Neon
+Farmaceutische Industrie
+Farmaceutische Industrys
+Politiebureau
+Politiebureaus
+Het burger Hoofdkwartier van Zaken
+Burger Zaken Headquarterss
+Het Hoofdkwartier van onroerende goederen
+Onroerende goederen Headquarterss
+Restaurant
+Restaurants
+School
+Scholen
+Het Hoofdkwartier van de handel
+Het Hoofdkwartier van de handel
+De grote Mijn van het Silicium
+De grote Mijnen van het Silicium
+Chemische Installatie
+Chemische Installaties
+Chemische Mijn
+Chemische Mijnen
+Industrie van kleren
+Kleren Industrys
+Kolenmijn
+Kolenmijnen
+Elektronische Industrie
+Elektronische Industrys
+Landbouwbedrijf
+Landbouwbedrijven
+Keukenmachine
+Keukenmachines
+De Fabriek van toestellen
+Toestellen Factorys
+Metallurgische Industrie
+Metallurgische Industrys
+Mijn
+Mijnen
+Klein Park
+Kleine Parken
+De Mijn van het silicium
+De Mijnen van het silicium
+De Mijn van de steen
+De Mijnen van de steen
+Textiel Industrie
+Textiel Industrys
+Het Park van de hagedis
+De Parken van de hagedis
+Het Park van de kobold
+De Parken van de kobold
+Het Park van de kip
+De Parken van de kip
+Vreemd Park
+Vreemde Parken
+Universiteit
+Universiteiten
+Stortplaats
+Stortplaatsen
+Gevangenis
+Gevangenissen
+Museum
+Musea
+Tennisbanen
+Tennis courtss
+De grote Mijn van de Steen
+De grote Mijnen van de Steen
+Wandelgalerij
+Wandelgalerijen
+Supermarkt
+Supermarkten
+Markt
+Markten
+Grote TextielIndustrie
+Grote TextielIndustrys
+Toren IFEL
+Torens IFEL
+Stadhuis
+Stadhuizen
+Handelscentrum
+Handelscentra
+De Antenne van TV
+De Antennes van TV
+TV
+TVs
+De spontane bouw
+Spontane gebouwen
+Het Park van de hagedis
+De Parken van de hagedis
+Het Park van de kobold
+De Parken van de kobold
+Het Park van de kip
+De Parken van de kip
+Vreemd Park
+Vreemde Parken
+Universiteit
+Universiteiten
+Stortplaats
+Stortplaatsen
+Gevangenis
+Gevangenissen
+Museum
+Musea
+Tennisbanen
+Tennis courtss
+Chemische Opslag
+Chemische Opslag
+Koude Opslag
+Koude Opslag
+De Opslag van stoffen
+De Opslag van stoffen
+Algemene Opslag
+Algemene Opslag
+De Opslag van het erts
+De Opslag van het erts
+Super Koude Opslag
+Super Koude Opslag
+De Opslag van de invoer
+De Opslag van de invoer
+De Opslag van de uitvoer
+De Opslag van de uitvoer
+Het Controlemechanisme van de Bevolking van de wereld
+De Controlemechanismen van de Bevolking van de wereld
+De barakken
+Barrackss
+Spits
+Spitsen
+De Koepel van de hemel
+De Koepels van de hemel
+De Verkoper van de hemel
+De Verkopers van de hemel
+Galaxie
+Melkwegen
+De lente
+De lentes
+Taramagushi
+Taramagushies
+Blauwe Zalen
+Blauwe Zalen
+Ronde Mariko
+Ronde Marikos
+Kleine Koto
+Kleine Kotos
+Witte Hut
+Witte Hutten
+De Zalen van Lyon
+De Zalen van Lyon
+Blauw Herenhuis
+Blauwe Herenhuizen
+Roze Herenhuis
+Roze Herenhuizen
+De Zalen van Mountbatten
+De Zalen van Mountbatten
+De ambassadeur
+De ambassadeurs
+De spits
+De spitsen
+Het Mausoleum van de legende
+De Mausolea van de legende
+Het Mausoleum van het paradigma
+De Mausolea van het paradigma
+Onderzoekscentrum
+Onderzoekscentra
+UW chemische Opslag
+UW chemische Opslag
+UW koude Opslag
+UW koude Opslag
+UW de Opslag van stoffen
+UW de Opslag van stoffen
+UW algemene Opslag
+UW algemene Opslag
+UW de Opslag van het erts
+UW de Opslag van het erts
+UW super Koude Opslag
+UW super Koude Opslag
+De Opslag van de invoer
+De Opslag van de invoer
+De Opslag van de uitvoer
+De Opslag van de uitvoer
+De Molen van het timmerhout
+De Molens van het timmerhout
+Boekhandel
+Boekhandels
+De Fabriek van het meubilair
+De Fabrieken van het meubilair
+De Opslag van het meubilair
+De Opslag van het meubilair
+De Opslag van de computer
+De Opslag van de computer
+De Studio's van de film
+De Studio's van de film
+Rouwkamer
+Rouwkamers
+Rouwkamer
+Rouwkamers
+Industrie van het document
+Industrie van het document
+De Installatie van de druk
+De Installaties van de druk
+De Installatie van de druk
+De Installaties van de druk
+Poort
+Portalen
+Het Hoofdkwartier van het bedrijf
+Het Hoofdkwartier van het bedrijf
+Het Hoofdkwartier van het bedrijf
+Het Hoofdkwartier van het bedrijf
+Het Hoofdkwartier van het bedrijf
+Het Hoofdkwartier van het bedrijf
+Het Hoofdkwartier van het bedrijf
+Het Hoofdkwartier van het bedrijf
+Organisch afval
+Organisch afval
+Klein Organisch afval
+Klein Organisch afval
+De Installatie van de meststof
+De Installaties van de meststof
+De kleine Installatie van de Meststof
+De kleine Installaties van de Meststof
+Het Landbouwbedrijf A van de korrel
+Het Landbouwbedrijf A van de korrel
+De kleine Korrel bewerkt A
+De kleine Korrel bewerkt A
+Molen
+Molens
+Kleine Molen
+Kleine Molens
+Katoenen Installatie
+Katoenen Installaties
+Kleine Katoenen Installatie
+Kleine Katoenen Installaties
+De Installatie van de broek
+De Installaties van de broek
+De kleine Installatie van de Broek
+De kleine Installaties van de Broek
+De Winkel van de broek
+De Winkels van de broek
+Bakkerij
+Bakerys
+De Fabriek van Fruitpie
+De Fabriek van Fruitpie
+Het Landbouwbedrijf A van het fruit
+Het Landbouwbedrijf A's van het fruit
+De rubber Fabriek van het Sap
+De rubber Fabrieken van het Sap
+De Aanplanting van de rubberboom
+De Aanplantingen van de rubberboom
+Rubber Fabriek
+Rubber Fabrieken
+De Fabriek van de schoen
+De Fabrieken van de schoen
+De Winkel van de vlaai
+De Winkels van de vlaai
+De Winkel van de schoen
+De Winkels van de schoen
+Klein Plantaardig Landbouwbedrijf A
+Klein Plantaardig Landbouwbedrijf A's
+Plantaardig Landbouwbedrijf A
+Plantaardig Landbouwbedrijf A's
+Kleine hutspotfabriek
+Kleine hutspotfabrieken
+De fabriek van de hutspot
+De fabrieken van de hutspot
+Kleine organische Mijn
+Kleine organische Mijnen
+Organische Mijn
+Organische Mijnen
+Kleine polymeerFabriek
+Kleine polymeerFabrieken
+polymeer Fabriek
+polymeer Fabrieken
+Kleine Nylon Fabriek
+Kleine Nylon Fabrieken
+Nylon Fabriek
+Nylon Fabrieken
+De kleine Fabriek van het Overhemd
+De kleine Fabrieken van het Overhemd
+De Fabriek van het overhemd
+De Fabrieken van het overhemd
+De Winkel van de hutspot
+De Winkels van de schoen
+De Winkel van het overhemd
+De Winkels van het overhemd
+Het kleine Vee bewerkt A
+Het kleine Vee bewerkt A's
+Het landbouwbedrijf A van het vee
+Het landbouwbedrijf A's van het vee
+De kleine fabriek van de Hamburger
+De kleine fabrieken van de Hamburger
+De fabriek van de hamburger
+De fabrieken van de hamburger
+Kleine Ruwe Chemische Mijn
+Kleine Ruwe Chemische Mijnen
+Ruwe Chemische Mijn
+Ruwe Chemische Mijnen
+De kleine chemische installatie van de Mijnbouw
+De kleine chemische installaties van de Mijnbouw
+Mijn chemische installatie
+Mijn chemische installaties
+De kleine installatie van het Leer
+De kleine installaties van het Leer
+De installatie van het leer
+De installaties van het leer
+Kleine het jasjeinstallatie van het Leer
+Kleine het jasjeinstallaties van het Leer
+Het jasjeinstallatie van het leer
+Het jasjeinstallaties van het leer
+De barWinkel van de hamburger
+De barWinkels van de hamburger
+De Winkel van het Jasje van het leer
+De Winkels van het Jasje van het leer
+De Mijn van het ijzer
+De Mijnen van het ijzer
+De kleine Mijn van het Ijzer
+De kleine Mijnen van het Ijzer
+De Mijn van het silicium
+De Mijnen van het silicium
+De kleine Mijn van het Silicium
+De kleine Mijnen van het Silicium
+Kolenmijn
+Kolenmijnen
+Kleine Kolenmijn
+Kleine Kolenmijnen
+Staal Industrie
+Staal Industrie
+Kleine StaalIndustrie
+Kleine StaalIndustrie
+De Installatie van de Spaander van het geheugen
+De Installaties van de Spaander van het geheugen
+De kleine Installatie van de Spaander Memeory
+De kleine Installaties van de Spaander van het Geheugen
+De kleine Installatie van de Auto
+De kleine Installaties van de Auto
+De Installatie van de Productie van TV
+De Installaties van de Productie van TV
+De kleine Installatie van de Productie van TV
+De kleine Installaties van de Productie van TV
+De Opslag van TV
+De Opslag van TV
+Het kleine Handel drijven van de Auto
+De kleine Handel drijven van de Auto
+De Opslag van de sportwagen
+De Opslag van de sportwagen
+Kleine Industrie van PC
+Kleine Industrie van PC
+Industrie van PC
+Industrie van PC
+De Installatie van de Productie van de sportwagen
+De Installaties van de Productie van de sportwagen
+De kleine Installatie van cpu
+De kleine Installaties van cpu
+De Installatie van cpu
+De Installaties van cpu
+Kleine Industrie van het Koper
+Kleine Industrie van het Koper
+Industrie van het koper
+Industrie van het koper
+De kleine Olieplant van de Pijnboom
+De kleine Olieplanten van de Pijnboom
+De Olieplant van de pijnboom
+De Olieplanten van de pijnboom
+Kleine Ceramische Mijn
+Kleine Ceramische Mijnen
+Ceramische Mijn
+Ceramische Mijnen
+De kleine Mijn van het Koper
+De kleine Mijnen van het Koper
+De Mijn van het koper
+De Mijnen van het koper
+De Mijn van het aluminium
+De Mijnen van het aluminium
+De kleine Mijn van het Aluminium
+De kleine Mijnen van het Aluminium
+De Mijn van Cyrolite
+De Mijnen van het kryoliet
+De kleine Mijn van het Kryoliet
+De kleine Mijnen van het Kryoliet
+De Mijn van het silaan
+De Mijnen van het silaan
+De kleine Mijn van het Silaan
+De kleine Mijnen van het Silaan
+Industrie van het aluminium
+Industrie van het aluminium
+Kleine Industrie van het Aluminium
+Kleine Industrie van het Aluminium
+Installatie TFT
+Installaties TFT
+Kleine Installatie TFT
+Kleine Installaties TFT
+De Installatie van de Fiets van de motor
+De Installaties van de Fiets van de motor
+De mobiele Installatie van de Telefoon
+De mobiele Installaties van de Telefoon
+De kleine Mobiele Installatie van de Telefoon
+De kleine Mobiele Installaties van de Telefoon
+De mobiele Opslag van de Telefoon
+De mobiele Opslag van de Telefoon
+Het Handel drijven van de Fiets van de motor
+De Handel drijven van de Fiets van de motor
+De Installatie van de motor
+De Installaties van de motor
+Industrie van de band
+Industrie van de band
+De Installatie van Humvee
+De Installaties van Humvee
+Industrie van het kooktoestel
+Industrie van het kooktoestel
+Het Handel drijven van Humvee
+De Handel drijven van Humvee
+De Opslag van het kooktoestel
+De Opslag van het kooktoestel
+De Mijn van het gips
+De Mijnen van het gips
+De Mijn van het kalksteen
+De Mijnen van het kalksteen
+De Mijn van het grint
+De Mijn van het grint
+Bouwnijverheid
+Bouwnijverheid
+De Installatie van het Systeem van de controle
+De Installaties van het Systeem van de controle
+De Installatie van het Systeem van het netwerk
+De installaties van het Systeem van het netwerk
+Concrete Industrie
+Industrie van Conscrete
+Zware industrie
+Zware industrieën
+De Installatie van de server
+De Installaties van de server
+Industrie van de gipsplaat
+Industrie van de gipsplaat
+De robotachtige Installatie van het Systeem
+De robotachtige Installaties van het Systeem
+Industrie van de Kantoormachine
+Industrie van de Kantoormachine
+De Installatie van het glas
+De Installaties van het glas
+De Installatie van het Systeem van Conveyorbelt
+De Installaties van het Systeem van Conveyorbelt
+Industrie bedrijfs van de Computer
+Industrie bedrijfs van de Computer
+Vloeistoffen
+0
+Reclame
+klappen
+klappen/dag
+Kantoormachines
+punten
+punten/dag
+Auto's
+auto's
+auto's/week
+Chemische producten
+kg
+kg/day
+Kleren
+punten
+punten/dag
+De Diensten van de computer
+uren
+uren/week
+De Kracht van de bouw
+ton
+ton/dag
+Farmacie
+kg
+kg/day
+Verwerkt Voedsel
+punten
+punten/dag
+Elektronische Componenten
+punten
+punten/dag
+Stoffen en Draden
+meters
+meters/dag
+Films
+Films
+Films/dag
+Vers Voedsel
+kg
+kg/day
+Benzine
+Lt.
+lt/day
+hiPeople
+personen
+personen/maand
+hiWorkForce
+arbeiders
+arbeiders/dag
+Huishoudapparaten
+punten
+punten/dag
+De juridische Diensten
+uren
+uren/week
+Alcoholische dranken
+punten
+punten/dag
+loPeople
+personen
+personen/maand
+loWorkForce
+arbeiders
+arbeiders/dag
+Machines
+machines
+machines/dag
+Metalen
+kg
+kg/day
+midPeople
+personen
+personen/maand
+midWorkForce
+arbeiders
+arbeiders/dag
+Bureaus
+Ruwe olie
+Lt.
+lt/day
+Erts
+kg
+kg/day
+Ruwe Chemische producten
+kg
+kg/day
+Steenkool
+kg
+kg/day
+Silicium
+kg
+kg/day
+Steen
+kg
+kg/day
+Organische Materialen
+kg
+kg/day
+Plastieken
+kg
+kg/day
+Speelgoed
+punten
+punten/dag
+Hout
+kg
+kg/day
+Boeken
+boeken
+boeken/dag
+Meubilair
+punten
+punten/dag
+Document
+kg
+kg/day
+CDs
+CDs
+CDs/dag
+Gedrukt Materiaal
+kg
+kg/day
+Mest
+kg
+kg/day
+Meststof
+kg
+kg/day
+Tarwe
+kg
+kg/day
+Katoen
+kg
+kg/day
+Bloem
+kg
+kg/day
+Katoenen Bladen
+Meters
+Meters/dag
+Broeken
+punt
+punten/dag
+appelen
+punt
+punten/dag
+sinaasappelen
+punt
+punten/dag
+rubbertree
+punt
+punten/dag
+rubbersap
+punt
+punten/dag
+rubbermat
+punt
+punten/dag
+fruitpie
+punt
+punten/dag
+schoenen
+punt
+punten/dag
+wortelen
+punt
+punten/dag
+aardappels
+punt
+punten/dag
+hutspot
+punt
+punten/dag
+orgaincchems
+punt
+punten/dag
+polymeren
+punt
+punten/dag
+nylon
+punt
+punten/dag
+overhemden
+punt
+punten/dag
+rundvlees
+punt
+punten/dag
+leathermat
+punt
+punten/dag
+burgers
+punt
+punten/dag
+rawchem
+punt
+punten/dag
+miningchem
+punt
+punten/dag
+leathersheet
+punt
+punten/dag
+leatherjacket
+punt
+punten/dag
+ijzererts
+punt
+punten/dag
+steenkool
+punt
+punten/dag
+staal
+punt
+punten/dag
+silicium
+punt
+punten/dag
+geheugen spaanders
+punt
+punten/dag
+kleine auto's
+punt
+punten/dag
+koper erts
+punt
+punten/dag
+ceramisch erts
+punt
+punten/dag
+pijnboom olie
+punt
+punten/dag
+koper
+punt
+punten/dag
+cpu spaander
+punt
+punten/dag
+sportwagen
+punt
+punten/dag
+PC systeem
+punt
+punten/dag
+aluminium erts
+punt
+punten/dag
+silaan
+punt
+punten/dag
+aluminium
+punt
+punten/dag
+kryoliet
+punt
+punten/dag
+tft het scherm
+punt
+punten/dag
+motor
+punt
+punten/dag
+mobiele telefoon
+punt
+punten/dag
+banden
+punt
+punten/dag
+motor
+punt
+punten/dag
+TV
+punt
+punten/dag
+humvee
+punt
+punten/dag
+glas
+punt
+punten/dag
+Kooktoestel
+punt
+punten/dag
+Concreet
+punt
+punten/dag
+Gipsplaat
+punt
+punten/dag
+Robotachtig Systeem
+punt
+punten/dag
+Het Systeem van de controle
+punt
+punten/dag
+Het Systeem van Conveyorbelt 
+punt
+punten/dag
+Het Systeem van het netwerk
+punt
+punten/dag
+Bedrijfs Computer
+punt
+punten/dag
+Servers
+punt
+punten/dag
+Gips
+punt
+punten/dag
+Kalksteen
+punt
+punten/dag
+Grint
+punt
+punten/dag
+FacilityKinds
+0
+Capitool
+Bureaus
+Hoofdkwartier
+Landbouwbedrijven
+Fabrieken
+Openbare Faciliteiten
+Residentials
+Handel
+Speciaal
+Stadhuis
+Handelscentrum
+Openbaar
+Magna Landgoederen
+Bureaus
+Hoofdkwartier
+Landbouwbedrijven
+Fabrieken
+Openbaar
+Residentials
+Handel
+Speciaal
+Stadhuis
+Handelscentrum
+Faciliteiten
+Faciliteiten
+Faciliteiten
+Faciliteiten
+Faciliteiten
+Faciliteiten
+Faciliteiten
+Faciliteiten
+Bureaus
+Openbaar
+Handel
+Industrie
+Residentials
+Hoofdkwartier
+Speciaal
+Stadhuis
+Handelscentrum
+Bureaus
+Hoofdkwartier
+Landbouwbedrijven
+Fabrieken
+Openbaar
+Residentials
+Handel
+Speciaal
+Stadhuis
+Handelscentrum
+Pakhuizen
+Handel
+Hoofdkwartier
+Speciaal
+TycoonLevels
+0
+Leerling
+Nog lerend de economie. Beschermd door IFEL, heeft prioriteit in leverancier en cliëntlijsten. De kosten van een gebouw zijn teruggekeerd als het gebouw wordt vernietigd. Kan aan %s faciliteiten opbouwen. Kan van Handelscentra kopen. 50%% van onderzoekuitgaven is aan het eind van het jaar teruggekeerd. 
+Ondernemer
+Nog wordt beschermd door IFEL, heeft bepaalde prioriteiten in leverancier en cliëntlijsten. 2/3 van de kosten van een gebouw is teruggekeerd als het gebouw wordt vernietigd. Kan aan %s faciliteiten opbouwen. Kan van Handelscentra kopen. 30%% van onderzoekuitgaven is aan het eind van het jaar teruggekeerd. 
+U moet de originele schuld aan IFEL ($100.000.000) betalen. U moet een gemiddelde winstverhouding meerdere aan $1,000/h hebben
+Legende
+800 prestigepunten. Heb toegang tot Rij 5 technologieën. Kan van Handelscentra kopen niet. Geen priorites, geen bescherming van IFEL. Kan aan %s faciliteiten opbouwen.
+U moet $40.000.000.000 aan IFEL betalen. U moet een gemiddelde winstverhouding meerdere aan Prestige hebben $500,000/h. groter dan 15000.  
+Meester
+200 prestigepunten. Heb toegang tot Rij 3 technologieën. Kan van Handelscentra kopen niet. Geen priorites, geen bescherming van IFEL. Kan aan %s faciliteiten opbouwen.
+U moet $2.000.000.000 aan IFEL betalen. Gemiddelde winstverhouding meerdere aan Prestige $50,000/h groter dan 2500.  
+Paradigma
+400 prestigepunten. Heb toegang tot Rij 4 technologieën. Kan van Handelscentra kopen niet. Geen priorites, geen bescherming van IFEL. Kan aan %s faciliteiten opbouwen.
+U moet $20.000.000.000 aan IFEL betalen. Gemiddelde winstverhouding meerdere aan Prestige $100,000/h. groter dan 5000. 
+Magnaat
+100 prestigepunten. Heb toegang tot Rij 2 technologieën. Kan van Handelscentra kopen niet. Geen priorites, geen bescherming van IFEL. Kan aan %s faciliteiten opbouwen. 
+U moet $500.000.000 aan IFEL betalen. U moet een gemiddelde winstverhouding meerdere aan $5,000/h hebben
+Voorbij Legende
+%s prestigepunten. Kan van Handelscentra kopen niet. Geen priorites, geen bescherming van IFEL. Kan aan %s faciliteiten opbouwen. 
+U moet %s aan IFEL betalen. U moet een gemiddelde winstverhouding meerdere aan %s/h. hebben uw Prestige handhaven groter dan 15000.
+Ministeries
+0
+Gezondheid
+Onderwijs
+Defensie
+Landbouw
+Lichte Industrie
+Zware industrie
+Handel
+Huisvesting
+Projecten
+0
+Universiteiten
+De Verwijdering van het huisvuil
+De Dekking van de brand
+De Dekking van de gezondheid
+Gevangenissen
+Musea
+De Dekking van de politie
+De Dekking van de school
+De diensten en Vermaak
+De Faciliteiten van de recreatie
+Werkloosheid
+Economische Rijkdom
+PublicFacilities
+0
+Universiteiten
+De Verwijdering van het huisvuil
+De Dekking van de brand
+De Dekking van de gezondheid
+Gevangenissen
+Musea
+De Dekking van de politie
+De Dekking van de school
+De Faciliteiten van de recreatie
+Classificaties
+0
+De Verwezenlijking van de campagne
+Universiteiten
+De Verwijdering van het huisvuil
+De Dekking van de brand
+De Dekking van de gezondheid
+Gevangenissen
+Musea
+De Dekking van de politie
+De Groei van de stad
+De Dekking van de school
+De diensten en Vermaak
+De Faciliteiten van de recreatie
+Belastingen
+Werkgelegenheid
+Economische Rijkdom
+WorldProjects
+0
+Universiteiten
+De Verwijdering van het huisvuil
+De Dekking van de brand
+De Dekking van de gezondheid
+Gevangenissen
+Musea
+De Dekking van de politie
+De Dekking van de school
+De diensten en Vermaak
+De Faciliteiten van de recreatie
+Werkloosheid
+Economische Rijkdom
+WorldRatings
+0
+De Verwezenlijking van de campagne
+Universiteiten
+De Verwijdering van het huisvuil
+De Dekking van de brand
+De Dekking van de gezondheid
+Gevangenissen
+Musea
+De Dekking van de politie
+De Groei van de stad
+De Dekking van de school
+De diensten en Vermaak
+De Faciliteiten van de recreatie
+Belastingen
+Werkgelegenheid
+Economische Rijkdom
+Deze faciliteit behoort tot %s. Er zijn geen wenken voor u.
+Geen wenken voor deze faciliteit.
+Wenk: Houd alle faciliteiten tegen die geld verliezen.
+Wenk: Ga „INSPECTEREN en“ sommige leveranciers inhuren.
+Het waarschuwen: Deze faciliteit vereist leverancier voor %s.
+Het waarschuwen: De leverancier van %s is gedaald. Huur een andere leveranciers in.
+Het waarschuwen: De verkoop van %s is gedaald. Word gehuurd door een andere faciliteiten.
+Wenk: U voert %s in omdat uw leveranciers aan een andere mensen verkopen.
+Het waarschuwen: Uw leveranciers van %s verkopen hun volledige productie aan verschillende mensen.
+Het waarschuwen: deze faciliteit vereist meer %s aantal arbeidskrachten.
+Het waarschuwen: Niet genoeg bedrijfsteun. U moet het Hoofdkwartier van het Bedrijf bouwen of nadenken bevorderend het, als u reeds het hebt gebouwd.
+Het waarschuwen: Deze faciliteit vereist %s aantal arbeidskrachten.
+Bevordering: %d%%
+Het Niveau van de verbetering: %d
+Wenk: Het handelscentrum werd gehuurd om dit te construeren. U kon goedkoper iemand inhuren.
+Het waarschuwen: U moet meer mensen naar deze bouw aantrekken.
+Wenk: U moet meer mensen naar deze bouw aantrekken.
+Wenk: U kunt nog meer mensen naar deze bouw aantrekken.
+Wenk: Er zijn ook weinig mensen in %s. U zult moeten hevig concurreren. Probeer lager makend de huur.
+Gelukwensen: Deze bouw werkt O.K. Misschien kunt u toenemen de huur een klein beetje.
+%d%% %s inbezitneming
+%s onroerende goederen
+[gesloten]
+herstelde %d%%
+%d inwoners. %d wenselijkheid. QOL: de Kwaliteit van de Buurt van %d%%: %d%% Schoonheid: %d%% Misdaad: %d%% Verontreiniging: %d%%.
+Wenk: De Website van het Stadhuis van het bezoek Om waardevolle informatie te vinden.
+Wenk: De Website van het Handelscentrum van het bezoek om te zien wie verkoopt of koopt wat.
+%d burgers van %s bewogen in vorige dag.
+%d%% toe te schrijven aan goede woonaanbiedingen, 
+%d%% om een baan te vinden, 
+%d%% toe te schrijven aan goede kwaliteit van openbare diensten.
+%d de burgers van %s bewogen uit vorige dag.
+%d%% toe te schrijven aan salarissen en het werkvoorwaarden, 
+%d%% toe te schrijven aan woonvoorwaarden, 
+%d%% toe te schrijven aan lage dekking van openbare diensten, 
+%d%% toe te schrijven aan werkloosheid, 
+%d%% toe te schrijven aan gebrek aan producten en de diensten.
+%d%% toe te schrijven aan rampen.
+Geen %s bewegingen.
+%s inwoners
+%s %s (%d%% unemp)
+Wenk: Zeker ben er genoeg arbeiders zijn om het onderzoek uit te voeren.
+%s, gelieve te wachten terwijl het onderzoek… wordt voltooid
+Wenk: Ga „INSPECTEREN“ om nieuwe researchs uit te voeren.
+%d%% voltooid onderzoek
+Onderzoekend %s. kost: %s.
+Bedrijf dat bij %d%% wordt gesteund.
+De Implementatie van het onderzoek: %s.
+Wenk: Probeert u om hoofdzakelijk aan eersteklas mensen te verkopen? Dan is de kwaliteit de sleutel.
+Wenk: Probeert u om hoofdzakelijk aan lage klassenmensen te verkopen? Dan is de prijs de sleutel.
+Het waarschuwen: U hebt een probleem met de concurrentie. Krijg één of andere reclame.
+Het waarschuwen: Het naait dat u costumieren op een verkeerde manier richt.
+Wenk: Probeer om meer klanten aan te trekken door betere kwaliteit en prijzen aan te bieden.
+Gelukwensen: Deze faciliteit stelt o.k. in werking. In elk geval kon u meer mensen bijwonen.
+Gelukwensen: Deze faciliteit stelt o.k. in werking. Houd enkel deze manier.
+Het waarschuwen: %s de dienst heeft meer levering nodig.
+De faciliteit die enkel weinig uren is begonnen geleden, zijn er nu geen wenken voor.
+Potentiële klanten (per dag): %d hallo, %d medio, %d laag. Daadwerkelijke klanten: %d hallo, %d medio, %d laag.
+Wenk: Producerend geen %s. U hebt geen klanten.
+Het waarschuwen: Deze faciliteit vereist %s aan opbrengst. Huur sommige leveranciers in of probeer om die teveel te betalen u reeds hebt.
+Wenk: Deze faciliteit vergt meer %s om %s. te produceren.
+Wenk: Ga „INSPECTEREN en“ meer leveranciers voor %s. inhuren.
+Wenk: U koopt van een Handelscentrum. Vind sommige lokale leveranciers.
+Er zijn niets wij over het weer kunnen doen maar wachten.
+Het waarschuwen: Kan tot u onderzoek %s. opnieuw in werking stellen niet.
+Het waarschuwen: Deze faciliteit heeft de diensten niet. Controleer het Lusje van de Diensten op het INSPECT paneel.
+levering
+Wenk: Deze stad vereist meer residentials voor %s mensen.
+Wenk: De nieuwe opslag en andere diensten zouden economische activiteit aanmoedigen.
+Het waarschuwen: Er zijn een %d%% van werkloosheid in %s mensen.
+Het waarschuwen: Er is een probleem met %s.
+Wenk: U zou meer arbeiders naar deze faciliteit moeten aantrekken voor het geval dat u wilt toenemen zijn verrichtingsverhouding.
+Het waarschuwen: Niet genoeg bedrijfsteun. U moet het Hoofdkwartier van het Bedrijf bouwen of nadenken bevorderend het, als u reeds het hebt gebouwd.
+%s dekking over de stad die bij %d%% wordt gemeld.
+Deze stad is niet bevolkt!
+%s is niet bevolkt. Investeer hier en de %s orde zal u een aditionalhoeveelheid geld geven.
+Burgers van %s de vraag meer %s.
+Burgers van %s de vraag meer %s.
+Voor meer informatie over %s bezoek %s, de lokale krant.
+%s woon. %d inwoners. %d%% bestand tegen misdaad, %d%% bestand tegen verontreiniging. De kwaliteit van het ontwerp: %d%%.
+%d bureaus aan huur. De kwaliteit van het ontwerp: %d%%.
+Produceert tot
+%s van %s
+Vereist
+%s
+Stelt tewerk:
+Vereist onderzoek %s bij %s.
+Opslag tot 
+%d %s van %s
+Verkoopt tot
+per niveau.
+Koopt tot
+om %d klantenmaximum te dienen
+AANDACHT! DE BURGEMEESTER VAN %S VERZOCHT OM DE VERNIELING VAN DEZE BOUW TOE TE SCHRIJVEN AAN DE PLANNING VAN DE STAD. DE VERNIELING ZAL IN %D MAANDEN PLAATSVINDEN. IFEL ZAL DE EIGENAAR %S ALS COMPENSATIE BETALEN.
+Controleert %d bedrijven, %d faciliteiten, %d tegels in de kaart (%s in landbelastingen).
+%d voltooide onderzoekpunten.
+Werd verkozen Burgemeester van %s in de campagne van %d.
+Was Burgemeester van %s van %d aan %d met een %d%% van populaire classificatie.
+In brand gestoken van Burgemeester van %s in %d.
+Was Voorzitter van %s van %d aan %d met een %d%% van populaire classificatie.
+Werd verkozen Voorzitter van %s in de campagne van %d.
+Was Minister van %s van %d aan %d met een %d%% van classificatie IFEL.
+Werd benoemd Minister van %s in de campagne van %d door %s.
+Werd verklaard in bankrupty in %d
+Overtroffen in %d
+Bereikt niveau %s in %d
+Kon geen niveau vorig jaar bevorderen. U slaagde er niet in om $%.0n te betalen
+Kon geen niveau vorig jaar bevorderen. U vereist een gemiddelde winstverhouding van $%.0n/h (had u vorig jaar $%.0n/h)
+U moet Burgemeester minstens eens worden verkozen
+U moet Voorzitter minstens eens worden verkozen
+Kon geen niveau vorig jaar bevorderen. U vereist %d prestigepunten
+Verloren niveau %s in %d. U had niet de vereiste %d prestigepunten
+Verloren niveau %s in %d. U had niet de vereiste gemiddelde winstverhouding van $%.0n/h (had u vorig jaar $%.0n/h)
+Verloren niveau %s in %d.
+Aangesloten bij %s in %d
+en
+Burgemeester van %s vastgestelde belastingen voor %s bij %s%%.
+Burgemeester van %s reeks een subsidie voor %s.
+%s lanceerde een campagne voor %s.
+%s withdrawed campagne voor %s
+%s werd verkozen Burgemeester van %s.
+%s werd herkozen Burgemeester van %s.
+%s heeft geen Burgemeester.
+%s werd in brand gestoken van Burgemeester van %s.
+%s verwijderde zijn subsidies. De bevolking is reeds groter dan 9.000.
+%s werd verklaard failliet.
+%s gebouwde %s dichtbij %s.
+%s maakte een rekening terugstellen.
+%s aangesloten bij %s.
+De satellietkaart van %s is bijgewerkt.
+%s werd benoemd %s.
+%s werd verkozen Voorzitter van %s
+%s werd herkozen Voorzitter van %s.
+%s heeft geen Voorzitter.
+%s lanceerde een campagne voor het Voorzitterschap van %s.
+%s withdrawed campagne voor Voorzitterschap van %s.
+%d prestigepunten van publiciteit.
+operationele %d%%.
+Voorzitter: %s.
+De voorzitter schatte bij %d%%. %d jaren aan Verkiezingen.
+Geen Voorzitter. %d jaren aan Verkiezingen.
+Wenk: Als u meer dan 1000 prestigepunten hebt kunt u uw campagne voor het voorzitterschap van %s. lanceren.
+%d kijkers
+%d%% die schat
+Het uitzenden %d uren per dag. %d%% van reclamespots. %d%% van verkochte reclamespotstijd. %d over de hele wereld antennes. De Kwaliteit van de Post van TV: %d%%, efficiency: %d%%.
+Hurend aantal arbeidskrachten bij %d%%
+%s: %d van %d.
+WAARSCHUWING: Er zijn geen antennes in bijlage aan deze faciliteit. Gebruik de Connect knoop in het INSPECT paneel om een antenne te verbinden.
+Potentieel publiek: %d.
+De classificatie van het kanaal: %d%%.
+WENK: Gebruik de „Connect“ knoop in het INSPECT paneel om deze antenne met een post te verbinden.
+voltooide %d%%.
+Tegengehouden wegens weersomstandigheden.
+%d gehuurde bureaus. %d kwaliteitsindex. BAP: %d%%. Schoonheid: %d%%. Misdaad: %d%%. Verontreiniging %d%%.
+De Bouw van het bureau
+%d%% van gehuurde bureaus
+Het opslaan:
+%s van %s bij %d%% qualiy index.
+Minister van %s
+Ministerie van %s
+%s verkoop bij %d%%
+%s productie: %d%%
+Het produceren: %d%%
+%s van %s bij %d%% kwaliteitsindex, %d%% efficiency.
+Prijs: %s
+Vergunning: %s
+Impl. Kosten: %s
+Impl. Kosten: %s /h
+Faciliteiten: %d
+Adel: %s delen
+Prestige: %s delen
+Niveau: %s
+De vermindering van de loonlijst: %s%%
+De kwaliteit van de baan: %s%%
+Schoonheid: %s%%
+Onderhoud: %s%%
+Privacy: %s%%
+Veiligheid: %s%%
+Milieu: %s%%
+Efficiency: %s%%
+Wenselijkheid: %s delen
+Kwaliteit: %s delen
+Geschatte datum van Transcendence: % D-dag.
+WAARSCHUWING! Alle faciliteiten die tot %s behoren zullen behalve deze bouw verdwijnen. Dit kan uw faciliteiten in deze wereld beïnvloeden.
+Het kweken van bomen bij %d%%
+Verlenen van vergunningen: „%s“ de Index van de Kwaliteit: %d%%.
+Film: „%s“ Dag %d van %d, gedaane %d%%.
+Nu spelend:
+Eersteklas
+Middenstand
+Lage klasse
+De uitvoerende macht
+Beroeps
+Arbeiders
+%d prestigepunten.
+Opgehouden door %s.
+Opgehouden: behoeften verbindingen.
+Opgehouden: behoeften geld.
+gehuurd
+verworpen door bedrijfbeleid
+reeds werd gehuurd
+toegestane niet verbinding
+kan niet hebben meer dan %d verbindingen
+Levering
+Cliënten
+Verbinding aan
+%s geleende %s van %s.
+Burgemeester van %s
+burgemeester
+Voltooid onderzoek „%s“. Controle voor nieuwe punten in uw pagina van de Bouwstijl.
+Voltooid onderzoek „%s“.
+Verkocht onderzoek. Sommige punten werden onbruikbaar gemaakt in uw pagina van de Bouwstijl.
+Verkocht onderzoek.
+%s met succes overgebracht.
+%s verheugt zich op de mislukking van %s.
+%s wordt neutraal aan %s.
+%s de gelofte gedaane loyaliteit aan %s.
+%s streeft om niveau %s. te bereiken.
+%s geavanceerd op niveau %s.
+%s er niet in geslaagd om op niveau %s. vooruit te gaan.
+%s is onder faillissementsnauwkeurig onderzoek.
+GELUKKIG NIEUWJAAR!
+%s verloren niveau %s.
+NTA
+Prestige
+Rijkdom
+Efficiency: %d%%
+Wenselijkheid: %d
+Algemeen
+Handel
+Industrie
+Onroerende goederen
+Huur|%d|Onderhoud|%d|
+Leveranciers|%d|
+Prijs|%d|Leveranciers|%d|Advertenties|%d|
+Prijs|%d|Leveranciers|%d|Cliënten|%d|
+Salarissen|%d|
+Huur|%d|Onderhoud|%d|
+Het produceren: 
+Toernooien

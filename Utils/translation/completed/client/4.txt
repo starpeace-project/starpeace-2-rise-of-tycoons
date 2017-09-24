@@ -1,0 +1,2228 @@
+6
+Advertiser
+Proprietario
+Prezzo
+Pagato in più
+Ultimo
+Qualità
+Ultimo valore:
+n/a
+Costo:
+n/a
+Pubblicità:
+0%
+0
+Scattar qui per impiegare i nuovi clienti
+Noleggio
+Scattar qui per modificare il collegamento selezionato
+Modificare
+3
+Nome
+Città
+Visori
+
+
+Pannello
+
+
+0%
+Preventivo:
+0%
+Interesse:
+0%
+0%
+Prestare alle persone neutrali
+Prestare ai nemici
+Termine (anni):
+30%
+20
+Soldi del prestito dalla banca
+Prestito
+Demolire questa funzione
+Demolire
+Chiudere questa funzione
+Chiuder
+Importo:
+Soldi del prestito qui:
+Nome:
+La banca non ha abbastanza fonda ora per pagare.
+4
+Debitore
+Importo
+Interesse
+Termine
+Presidente:
+Nessuno
+Valutazione popolare:
+Valutazione dei magnati:
+Mandato Nº:
+Anni alle elezioni:
+Nessuno
+Nessuno
+Nessuno
+Nessuno
+Scatto per visitare la pagina di politica del presidente
+Presidente Politics Page di chiamata
+QOL:
+100
+%
+6
+Nome
+Popolazione
+QOL
+Commercio
+Ricchezza
+Tassa
+Tassa: 0%
+0%
+Scegliere
+Sindaco:
+ChangeLogView
+
+
+GradientBox1
+Scattar qui per fare queste notizie non comparire ancora
+SO
+Mostrare ancora queste notizie, più successivamente
+PIÙ SUCCESSIVAMENTE
+Notizie in linea dell'eredità
+
+Panel1
+
+Panel1
+
+
+1
+Non ci sono nuovi eventi da segnalare
+Informazioni della tabella di caricamento di programmi oggetto…
+Spiacente: Non ci saranno informazioni di storia disponibili fino alla conclusione di questo anno.
+Chiudere questa finestra
+FINE
+Scriv le vostre osservazioni a macchina qui:
+Nessun scanalature da mostrare
+Scattar per generare una scanalatura
+Generare la Manica
+Scattar per unire una scanalatura
+Unire la Manica
+Scattar per lasciare la scanalatura
+Lasciare la Manica
+BENVENUTO a CHIACCHIERATA di Starpeace.
+BENVENUTO a CHIACCHIERATA di Starpeace.
+Riunione segreta
+Chiacchierata
+Scattar per ignorare l'utente attualmente selezionato
+Ignorare l'utente
+Scattar per chiacchierare mentre passano in rassegna il programma
+Chiacchierare sopra il programma
+Scattar per seguire l'utente selezionato
+Seguire l'utente
+Scattar per ottenere il pannello di chiacchierata di voce
+Comunicare il pannello
+Ceppo
+Ceppo
+Finestra vicina
+Nessun informazioni…
+Ricezione:
+n/a
+n/a
+Richiesta:
+Rapporto:
+n/a
+0%
+Confermare la parola d'accesso
+Ciò è la prima volta voi ceppo nel dominio parallelo.
+Confermare prego la vostra parola d'accesso:
+Parola d'accesso:
+Confermare la parola d'accesso:
+Digitare la parola d'accesso qui
+Confermare la parola d'accesso qui
+APPROVAZIONE
+Annullamento
+Collegamento…
+Attendere prego…
+
+
+
+GradientBox1
+Sconosciuto
+
+Reputazione:
+
+Soldi:
+
+n/a
+
+Spese:
+
+n/a
+
+n/a
+
+Applicazione vicina
+x
+
+2
+SQUADRE
+STORIA
+
+Collegamento
+
+NewId
+
+Squadre
+
+Storia
+
+Attendere prego mentre Starpeace si collega al Crimininal archiva…
+
+Non avete un'identità criminale. Se volete generare uno, dovete scegliere un criminale altrimenti detto. Questo pseudonimo è unico e segreto. Sarà usato per identificare le vostre azioni in questo pianeta.
+
+Entrare nel vostro pseudonimo criminale qui:
+
+Visualizzare gli attrezzi del programma della sovvrapposizione
+Generare l'identificazione criminale
+NOTA: Se siete annoiato di questo pseudonimo, voi dovrete ripristinare il vostro intero profilo criminale. Provare a selezionare uno pseudonimo che manterreste per la vostra intera vita.
+
+
+
+ERRORE!
+
+Squadra:
+
+Attrezzi del programma della sovvrapposizione dell'esposizione
+Disperdere la squadra
+Visualizzare gli attrezzi del programma della sovvrapposizione
+M.I S S I O N
+Attrezzi del programma della sovvrapposizione dell'esposizione
+Regolare le sedi
+Visualizzare gli attrezzi del programma della sovvrapposizione
+Andare alle sedi
+Visualizzare gli attrezzi del programma della sovvrapposizione
+Nuova squadra
+n/a
+
+Costo:
+
+Utile netto:
+
+n/a
+
+Anni di funzionamento:
+
+n/a
+
+Attrezzi del programma della sovvrapposizione dell'esposizione
+Ruolo del criminale di vista
+Attrezzi del programma della sovvrapposizione dell'esposizione
+Storia della squadra
+
+
+
+
+Scattar qui per impiegare un criminale
+
+
+READY!
+READY!
+…
+
+
+
+Slot2
+
+Panel5
+
+Scattar qui per impiegare un criminale
+
+
+READY!
+READY!
+…
+
+Panel4
+
+Panel5
+
+Scattar qui per impiegare un criminale
+
+
+READY!
+READY!
+…
+
+Panel4
+
+Panel5
+
+Scattar qui per impiegare un criminale
+
+
+READY!
+READY!
+…
+
+Panel4
+
+Panel5
+
+Scattar qui per impiegare un criminale
+
+
+READY!
+READY!
+…
+
+Panel4
+
+Panel5
+
+Scattar qui per impiegare un criminale
+
+
+READY!
+READY!
+…
+
+Panel4
+
+Panel5
+
+Scattar qui per impiegare un criminale
+
+
+READY!
+READY!
+…
+
+Panel4
+
+
+
+Scattar qui per impiegare un criminale
+
+
+READY!
+READY!
+…
+
+
+
+
+
+
+
+Cancellare questa identità
+SUGGERIMENTO: Dovete regolare le sedi per questa squadra.
+SUGGERIMENTO: Dovete regolare le sedi per questa squadra.
+Crimine
+
+Finestra vicina
+x
+STORIA
+STORIA
+
+
+
+
+
+
+2
+DISPONIBILE
+COMPLETATO
+
+Disponibile
+
+Completo
+
+
+
+
+Attrezzi del programma della sovvrapposizione dell'esposizione
+T R A I N
+Attrezzi del programma della sovvrapposizione dell'esposizione
+Fine
+
+
+
+
+Attrezzi del programma della sovvrapposizione dell'esposizione
+Fine
+
+CriminalRosterView
+
+Criminali che vogliono fare parte di questa squadra:
+
+Attrezzi del programma della sovvrapposizione dell'esposizione
+< PRECEDENTE
+Attrezzi del programma della sovvrapposizione dell'esposizione
+PIÙ >
+Attrezzi del programma della sovvrapposizione dell'esposizione
+H I R E
+Applicazione vicina
+x
+Panel4
+
+Panel5
+
+
+Panel4
+
+Panel5
+
+
+Panel4
+
+Panel5
+
+
+Panel4
+
+Panel5
+
+
+CriminalView
+
+
+GradientBox1
+James Bulger
+
+Attrezzi del programma della sovvrapposizione dell'esposizione
+Fuoco!
+Attrezzi del programma della sovvrapposizione dell'esposizione
+Treno
+Attrezzi del programma della sovvrapposizione dell'esposizione
+Movimento
+Attrezzi del programma della sovvrapposizione dell'esposizione
+Storia
+0%
+Stipendio:
+
+n/a
+
+Ruolo nella squadra:
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+Applicazione vicina
+x
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+
+
+Panel3
+
+Panel4
+
+
+Nessun osservazioni
+Nessun osservazioni
+
+
+
+
+
+
+
+
+
+
+
+
+Descrizione
+Fornire la descrizione della scorciatoia qui
+Scorciatoia
+Selezionare la scorciatoia
+Testo
+Aggiungere
+Annullare
+Titolo:
+Lancio
+n/a
+Tempo:
+Preventivo:
+Annullamento
+Rilascio
+$10.000.000
+Rilascio auto
+12
+Produzione ricorrente di film
+Saltare al mondo del cliente
+SALTARE AL MONDO
+1
+Digitare il testo di chiacchierata qui…
+Denominare un padrone del gioco
+DENOMINARE IL PADRONE DEL GIOCO
+Visualizzare le opzioni
+OPZIONI
+FINE
+Comunicando con GM:
+Nessuno
+Lista dei padroni del gioco
+Spostare il padrone del gioco in su nella lista di priorità
+ALZAR
+Spostare il padrone del gioco giù nella lista di priorità
+ABBASSAR
+Rimuovere il padrone del gioco dalla lista
+RIMUOVERE
+Fare il padrone uno del gioco dei vostri favoriti
+FAVORITO
+Dare il trattamento di normale del padrone del gioco
+NORMALE
+Ignorare questo padrone del gioco
+IGNORATO
+Stabilire la priorità del GM:
+FINE
+Organizzare i padroni del gioco nella lista qui sotto:
+Alzar
+Abbassar
+-
+Priorità
+Il più su
+Normale
+Ignorato!
+Cancellazione
+Comunicando con voi:
+3
+Altrimenti detto
+Livello
+Mondo
+Aspettandolo:
+3
+Altrimenti detto
+Livello
+Mondo
+&File
+E&xit
+Scorciatoie
+Minimizzare
+Chiacchierata!
+Attesa!
+HintBoxWindow
+
+
+Testo di suggerimento
+
+Finestra vicina
+x
+Finestra vicina di storia
+Fine
+STORIA
+STORIA
+Nome:
+Creatore:
+n/a
+Età:
+n/a
+Scatto per chiudere questa funzione
+Fine
+Scattar per demolire questa funzione
+Demolire
+n/a
+Scattar per collegare questa funzione ad altre nel programma
+Collegar
+Costo:
+n/a
+ROI:
+n/a
+Nome:
+Proprietario:
+n/a
+Costo:
+n/a
+ROI:
+n/a
+Età:
+n/a
+Scatto per chiudere questa funzione
+Fine
+Clisk per demolire questa funzione
+Demolire
+Scattar per collegare questa funzione ad altre nel programma
+Collegar
+n/a
+Collega questa funzione a tutti i vostri depositi
+Vendita a tutti depositi
+Collega questa funzione a tutte le vostre fabbriche
+Vendita a tutte le fabbriche
+Collega questa funzione a tutti i vostri magazzini
+Vendita a tutti i magazzini
+Stacca questa funzione da tutti i vostri depositi
+Non vendere ai depositi
+Collega questa funzione a tutte le vostre fabbriche
+Non vendere alle fabbriche
+Collega questa funzione a tutti i vostri magazzini
+Non vendere ai magazzini
+Vendere il modo:
+Commercio con:
+3
+Magazzino dell'azienda
+Esportatore
+Importatore
+3
+Nessuno
+Alleati soltanto
+Chiunque
+
+APPROVAZIONE
+Nome:
+Azienda:
+Pagamento eccessivo:
+x
+
+Annullamento
+Cancellazione
+0%
+0%
+n/a
+n/a
+Proprietario:
+Città:
+Scatto da cercare i clienti per il prodotto selezionato
+RICERCA >
+Conteggio:
+Introdurre un nome dell'azienda per limitare la ricerca dei clienti alle facilità di quell'azienda soltanto
+Importare i magazzini
+Controllare se volete includere i magazzini dell'importazione nella ricerca dei clienti
+Magazzini normali
+Controllare se volete includere i magazzini normali nella ricerca dei clienti
+Depositi
+Controllare se volete includere i depositi nella ricerca dei clienti
+Fabbriche
+Controllare se volete le fabbriche del controllo mentre ricerca dei clienti
+Massimo prescelto dei clienti che volete cercare
+20
+3
+Costruzione
+Proprietario
+Città
+Selezionare tutti clienti trovati
+Selezionare tutti
+Unselect tutto ha trovato i clienti
+Unselect tutto
+Scattar per iniziare a vendere a tutti i clienti selezionati
+VENDERE AL SELEZIONATO A
+Chiuder
+Introdurre il nome di una città qui per limitare la ricerca dei clienti a tale città
+3
+DISPONIBILE
+RICERCA
+SVILUPPATO
+Scattar qui per iniziare la ricerca
+Ricerca
+Scattar qui per arrestare la ricerca
+Arrestar
+Scattar qui per vendere la ricerca
+Vendita
+Fine
+RICERCA
+Caricamento di programmi oggetto…
+n/a
+n/a
+Nessun fornitori
+Aperto
+Fine
+Fine
+Aperto
+Fine
+Il prestito è stato assegnato.
+La banca ha rifiutato la vostra richiesta.
+La banca non ha abbastanza fonda ora per pagare.
+Errore sconosciuto.
+Caricamento di programmi oggetto…
+Nessun prestiti…
+anni di %s
+un anno
+Nessuno
+Nessuno
+Nessuno
+Nessuno
+Inizio
+Arresto
+Inizio
+Programma di caricamento di programmi oggetto…
+Aperto
+Fine
+Già
+anni di %s
+Mai
+n/a
+%s soltanto
+Fine
+Aperto
+Fine
+Aperto
+Fine
+Fine
+Aperto
+Fine
+Nessuno
+Caricamento di programmi oggetto…
+Caricamento di programmi oggetto…
+Vendita (+%s)
+nessun ministro
+Nessuno
+Caricamento di programmi oggetto…
+Arresto
+Trasferimento dell'immagine arrestato.
+Arresto
+Invio dell'immagine.
+Ora siete pronto a trasmettere questa immagine piacevole, scatto trasmettete per continuare.
+Elaborazione dell'immagine.
+Non ha potuto trasmesso all'immagine, processare nuovamente prego più successivamente.
+Il Voyager sta trasmettendo l'immagine all'assistente.
+Non ha potuto trasmettere l'immagine all'assistente.
+Trasmettere
+Altra prova
+anni di %s
+un anno
+punti di %s
+Nessuno
+Nessuno
+Nessuno
+Nessuno
+Nessuno
+n/a
+Caricamento di programmi oggetto…
+Nessun clienti
+Aperto
+Fine
+Già
+anni di %s
+Mai
+n/a
+n/a
+Fine
+Aperto
+Fine
+Aperto
+Fine
+Già
+anni di %s
+Mai
+Fine
+Aperto
+Fine
+n/a
+n/a
+Caricamento di programmi oggetto…
+Nessuno
+Nessun fornitori
+anni di %s
+un anno
+punti di %s
+Nessuno
+Nessuno
+Nessuno
+Nessuno
+Nessuno
+n/a
+n/a
+n/a
+n/a
+n/a
+Caricamento di programmi oggetto…
+Vuoto
+Caricamento di programmi oggetto…
+Vuoto
+Caricamento di programmi oggetto…
+Vuoto
+Caricamento di programmi oggetto…
+Sovvenzionato
+Sovvenzionato
+Nessuno
+Tassa: %s%%
+Sovvenzionato
+Aperto
+Fine
+Già
+anni di %s
+Mai
+n/a
+Fine
+Aperto
+Fine
+Aperto
+Fine
+Già
+anni di %s
+Mai
+n/a
+Fine
+Aperto
+Fine
+Un errore del unknow ha accaduto quando prova a caricare programmi oggetto il programma.
+L'eredità in linea non ha potuto scrivere la lima del programma sul vostro sistema.
+L'eredità in linea non ha potuto individuare la lima del programma sull'assistente.
+L'eredità in linea non ha potuto decomprimere il programma. Controllare prego per vedere se c'è lo spazio supplementare dell'azionamento.
+Un errore del unknow ha accaduto quando prova a caricare programmi oggetto il programma.
+Trasferimento dal sistema centrale verso i satelliti del programma venuto a mancare.
+Trasferimento dal sistema centrale verso i satelliti abbandonato.
+%s volete provare ancora?
+Aggiornando programma…
+Strutture della posta di caricamento…
+Strutture di carico di chiacchierata…
+Iniziando suono e musica…
+Struttura dell'tavoletta porta-utensili di caricamento…
+Immagine Info di caricamento…
+Programma d'inizializzazione…
+Errore
+I dati che di inizio attività avete specificato erano errati o ci è un problema nella comunicazione con gli assistenti. Essere prego sicuro che avete un collegamento attivo al Internet.
+Errore
+Un errore del unknow si è presentato nella comunicazione con gli assistenti. Provare prego ancora. Se questo accade troppo spesso, segnalare prego a Oceanus.
+Titolo
+Nessuno
+Nessuno
+Nessuno
+%s (di %s)
+Nessuno
+Nessuno
+Nessuno
+%s (di %s)
+Nessuno
+Nessuno
+Nessuno
+%s (di %s)
+%d (di %d)
+%d (di %d)
+%d (di %d)
+Data: %s
+Caricamento di programmi oggetto…
+Errore: Nome non valido della squadra
+Padrone del gioco:
+Assistente del padrone del gioco:
+Il padrone del gioco è occupato ora, ci sono richieste di %d in corso, prego attendono o provano a denominare un altro padrone del gioco.
+Assistente del padrone del gioco:
+Il padrone del gioco è assente ora, prego attende o prova a denominare un altro padrone del gioco.
+Assistente del padrone del gioco:
+Il padrone del gioco è in linea!
+Assistente del padrone del gioco:
+Il padrone del gioco era disconnected, prego prova a collegarsi ad un altro padrone del gioco.
+Chiamata
+Chiamata
+Appendere in su
+Costumer
+Nessuno
+Caricamento di programmi oggetto…
+Tassa: %d%%
+Tassa: %s
+Il più su
+Normale
+Ignorato!
+Non può unire la scanalatura
+Questa scanalatura è piena. Potete provare più successivamente, quando alcuni degli utenti dentro là hanno andato.
+Non può unire la scanalatura
+Parola d'accesso non valida.
+Digitare il testo di chiacchierata qui…
+UNA NUOVA SCANALATURA (%S) È STATA GENERATA.
+LA SCANALATURA %S ERA CHIUSA.
+ORA CHIACCHIERANDO IN %S
+DI NUOVO ALL'INGRESSO.
+Titoli: %s
+aggiornamento…
+Chiacchierata a schermo pieno
+Chiacchierata sopra il programma
+Scatto sopra una funzione sul programma per stabilire collegamento.
+Suggerimento: Per per abbandonare scatto di funzionamento quando il cursore di forbiden è visualizzato.
+Suggerimento: Usare un singolo scatto per selezionare una funzione sul programma. Destra - scattar per invocare le opzioni di QuickWeb.
+Costo di costruzione: %s
+Suggerimento: Destra di uso - scatto per annullare funzionamento.
+Scatto sopra una funzione sul programma al collegamento del estabish.
+Suggerimento: Per per abbandonare scatto di funzionamento quando il cursore di forbiden è visualizzato.
+Errore
+Non avete diritti di demolire questa strada.
+Errore
+Non può demolire la strada.
+RICHIESTA DELLA COSTRUZIONE RIFIUTATA
+Il sindaco della città non permette una costruzione di questo tipo su questa posizione. Notare prego che la zona di questa posizione (indicata da colore) deve abbinare con il tipo di zona della funzione che avete inteso sviluppare. Il tipo di zona delle costruzioni è indicato oltre all'icona della funzione sul pannello di configurazione.
+RICHIESTA DELLA COSTRUZIONE RIFIUTATA
+Non potete costruire là. Zona non chiara.
+RICHIESTA DELLA COSTRUZIONE RIFIUTATA
+Avete raggiunto il limite delle costruzioni che potete possedere. Demolire alcune costruzioni o provare ad avanzare al livello seguente.
+COSTRUZIONE VENUTA A MANCARE
+Non può sviluppare la funzione qui. Assicurar prego che stiate facendo funzionare almeno un'azienda.
+Errore
+Non può collegare le facilità.
+Errore
+Non può collegare le facilità.
+Nessuna funzione selezionata.
+Suggerimento: Usare un singolo scatto per selezionare una funzione sul programma. Destra - scattar per invocare le opzioni di QuickWeb.
+OGGETTO:
+Oggetto: %s
+Oggetto: %s
+Da: %s
+FW:
+FW: %s
+Oggetto: %s
+Da: %s
+Questo messaggio non ha raggiunto alcun indirizzo.
+Non può il perfom questa azione, mail server è giù.
+Non ha potuto conservare il messaggio.
+Non può il perfom questa azione, mail server è giù.
+Errore: %s
+una linea
+linee di %d
+Sedi principali
+Sedi di industria
+Ufficio e sedi residenziali
+Sedi di commercio
+Sedi di affari pubblici
+Ciao codice categoria LoCost Residentials
+Codice categoria centrale LoCost Residentials
+Codice categoria basso LoCost Residentials
+Ciao codice categoria Residentials
+Codice categoria centrale Residentials
+Codice categoria basso Residentials
+Uffici
+Aziende agricole
+Unità di elaborazione di alimento
+Industrie chimiche
+Miniere
+Industrie tessili
+Industrie di metallo
+Fabbriche dei componenti elettronici
+Fabbriche dei vestiti
+Fabbriche degli elettrodomestici
+Fabbriche di macchine di affari
+Heavy Industries
+Fabbriche dell'automobile
+Industrie dell'edilizia
+Industrie dei prodotti farmaceutici
+Industrie di plastica
+Fabbriche del giocattolo
+Impianti offshore
+Raffinerie
+Fabbriche del liquore
+Depositi di alimento
+Depositi dei vestiti
+Depositi di HHA
+Depositi dell'automobile
+Supermercati
+Barre
+Ristoranti
+Film
+Depositi di droga
+Depositi di giocattolo
+Stazioni di servizio
+Aziende di software
+Ospedali
+Scuole
+Stazioni di polizia
+Caserme dei pompieri
+Correctionals
+Parchi
+Le Banche
+Stazioni televisive
+Antenna della TV
+Magazzino freddo
+Magazzino chimico
+Magazzino generale
+Magazzino dei tessuti
+Magazzino del minerale metallifero
+Monumenti
+%d bytes/s
+0 bytes/s
+%d bytes/s
+0 bytes/s
+Collegandosi al mondo…
+SISTEMA
+Non ha potuto stabilire il collegamento con gli assistenti.
+Avete fornito un nome non valido.
+Avete fornito una parola d'accesso non valida.
+Ci era un errore che prova a collegarsi all'assistente. Essere prego sicuro che avete un collegamento attivo al Internet.
+Ci era un errore che prova a collegarsi all'assistente. Essere prego sicuro che avete un collegamento attivo al Internet.
+Ci era un errore che prova a collegarsi all'assistente. La vostra richiesta è stata negata.
+Un errore sconosciuto ha accaduto. Segnalare prego a Oceanus se questo accade troppo spesso.
+Errore
+SISTEMA
+Parola d'accesso non valida
+Entrambe le parole d'accesso devono abbinare!
+SISTEMA
+Il collegamento all'assistente è caduto. Attendere mentre prove del Voyager da ricollegare…
+SISTEMA
+Ora state fungendo da %s.
+Siete stato ricollegato con successo.
+SISTEMA
+Ci era un errore che cambia la vostra identità a %s.
+Tentativo di ricollegare venire a mancare. Prova ancora…
+messaggi non letti di %d.
+messaggi non letti di %d.
+Indica l'arrivo di nuova posta
+AVVISO DEL CHIRURGO: Non effettuare le richieste con una forma di vita straniera, a meno che provenga dal sesso opposto.
+AVVISO DEL CHIRURGO: Non funzionare con gli oggetti taglienti. Funzionare sempre con gli oggetti smussati.
+AVVISO DEL CHIRURGO: La sigaretta può uccidere voi, la vostra famiglia e tutti gli vostri amici.
+AVVISO DEL CHIRURGO: Gli antipodi non mordono.
+NOTIZIE: Museo fuoriuscito mummia del Michael Jackson del Louvre.
+NOTIZIE: Ford annuncia che produrrà ancora le automobili.
+AVVISO DEL CHIRURGO: La dinamite ottiene migliore con tempo. Se trovate la vecchia dinamite nella vostra richiesta del frigorifero per aiuto.
+NOTIZIE: L'episodio XII, la principessa Zuloo di GUERRE STELLARI infine ottiene la ragazza.
+NOTIZIE: Gli astronomi ed i medici trovano che la luna è la causa della maggior parte dei disordini dello stomaco.
+AVVISO DEL CHIRURGO: I cappelli possono causare la perdita di capelli e l'emicrania cronic. I medici suggeriscono l'uso dei caschi.
+NOTIZIE: Lizzard gigante avvistato in cima al disco volante. I funzionari hanno detto che entrambi potrebbero essere UFOs.
+NOTIZIE: La proibizione sui video giochi è ritirata in Inghilterra.
+NOTIZIE: Il Canada ritira le relative truppe da Washington dopo la riuscita mediazione del re dell'Arabia.
+NOTIZIE: La gente guasto delle nuove condizioni federali di legge è guasto fino al risultato a al contrario.
+NOTIZIE: Ha potuto il gelato del cioccolato trasformarsi in nella cura per cancro? Gli esperti non dicono senso.
+NOTIZIE: I paleontologi scoprono che tutta la prova di T-Rex è stata piantata in secolo in anticipo XX dai produttori COMICI.
+NOTIZIE: Il nuovo propulsor dell'antimatiera spinge la tecnologia di viaggio nello spazio un poco più ulteriormente.
+NOTIZIE: Una replica identica della piramide di Keops è stata trovata sotto la piramide di Keops.
+NOTIZIE: Lo studio rivela le rane sta moltiplicando nelle colonie umane.
+NOTIZIE: Un lavoro derivato da legge del Heinsenberg risulta che i robot non saranno mai ben adattati per le applicazioni domestiche.
+SISTEMA
+Individuazione del padrone del gioco. Attendere prego…
+SISTEMA
+Avete staccato dal padrone %s. del gioco.
+Nessuno
+PADRONE DEL GIOCO DI CHIAMATA
+SISTEMA
+Siete in linea con il padrone %s. del gioco.
+SISTEMA
+Il padrone %s del gioco ha accettato la vostra chiamata. La vostra richiesta ha fatto il numero %d. Attendere prego fino a che il padrone del gioco non sia pronto ad aiutarlo.
+APPENDERE IN SU
+SISTEMA
+Non ci sono padroni del gioco disponibili a questo momento. Prova di Plase successivamente.
+SISTEMA
+Ci era un errore che prova a mettersi in contatto con un padrone del gioco. Prova di Plase ancora.
+SISTEMA
+Il vostro messaggio non ha potuto raggiungere il padrone del gioco.
+Tutti gli assistenti giù. Prova di Plase successivamente.
+Errore
+Non ha potuto collegarsi all'assistente. Controllare prego ancora il vostri collegamento a Internet e prova.
+Collegandosi a %s…
+Firmare dentro venuto a mancare. Lo pseudonimo che avete fornito sembra essere non valido. Provare prego ancora.
+Firmare dentro venuto a mancare. La parola d'accesso che avete fornito sembra essere non valida. Provare prego ancora.
+Firmare dentro venuto a mancare. Ci era un errore che accede agli assistenti. Controllare prego ancora il vostri collegamento a Internet e prova.
+Errore
+Errore
+L'eredità in linea non ha potuto saltare al mondo selezionato. Lo suggeriamo per seguire la procedura standard di sign-in.
+Caricamento di programmi oggetto…
+L'America
+Firmando in…
+Collegamento per fissare assistente…
+Firmando in…
+L'America
+Europa
+L'Asia
+Aggiornamento…
+[OFFUSCATO]
+Nessuno.
+%s. Popolazione: investitori di %s: anno di %s: %s in linea: nobiltà minima di %s: data di risistemazione di %s: %s
+Benvenuto al programma di Univesal. Scattare sopra c'è ne dei mondi qui sopra per visualizzare le informazioni estese.
+Aggiornamento…
+Aperto
+Fine
+Fine
+Aperto
+Fine
+n/a
+SISTEMA
+Esame…
+Digitare il testo di chiacchierata qui…
+Programma di caricamento di programmi oggetto %s. Ciò può richiedere alcuni secondi…
+Esame…
+COLLEGAMENTI
+Il più su
+Normale
+Ignorato!
+Padrone del gioco:
+Assistente del padrone del gioco:
+Il padrone del gioco è occupato ora, ci sono richieste di %d in corso, prego attendono o provano a denominare un altro padrone del gioco.
+Assistente del padrone del gioco:
+Il padrone del gioco è assente ora, prego attende o prova a denominare un altro padrone del gioco.
+Assistente del padrone del gioco:
+collegato a %s
+Assistente del padrone del gioco:
+Il padrone del gioco è in linea!
+Assistente del padrone del gioco:
+Il padrone del gioco è occupato, prego aspetta una punta lui.
+Assistente del padrone del gioco:
+Il padrone del gioco era disconnected, prego prova a collegarsi ad un altro padrone del gioco.
+Chiamata
+Chiamata
+Appendere in su
+Costumer
+Approvazione
+Aggiungere
+Ci sono conflitti!!
+Introdurre il nome di GMS!
+Introdurre il vostro nome!
+Non può collegarsi all'assistente del GM, provare ancora più successivamente o controllare le regolazioni dell'assistente del GM
+L'utente è stato al minimo: sec di %d
+L'utente sta attendendo: sec di %d
+Azienda: soldi di %s: %s
+Non può collegarsi all'assistente del GM, provare ancora più successivamente o controllare le regolazioni dell'assistente del GM.
+Me:
+CLIENTI
+COMMERCIO
+GENERALITÀ
+STORIA
+LAVORI
+PRESTITI
+AMMINISTRAZIONE
+MINISTERIES
+PRODOTTI
+PUBBLICITÀ
+RICERCA
+RESIDENTIALS
+SERVIZI
+RIFORNIMENTI
+TASSE
+Vendita
+MAUSOLEO
+Vostro sono richiesti per abbonarsi al gioco per continuare a giocare. Scattare l'APPROVAZIONE per chiudere questa finestra e per traversare alla pagina di abbonamento.
+Il vostro cliente sull'eredità in linea è stato temporaneamente frozen. Scattare l'APPROVAZIONE per chiudere questa finestra e per traversare ad una pagina in cui riceverete le informazioni per quanto riguarda questa situazione.
+Aggiornamento
+Arresto
+CITTÀ
+PELLICOLE
+ANTENNE
+VOTI
+Ricerca…
+Assistente occupato
+Siete stato staccato dall'assistente.
+Affare
+Il cliente già esiste
+Il nome di schermo o la parola d'accesso che di Sega.com avete digitato è errata.
+Maxed di serie
+Pubblicazione periodica non valida
+Identificazione dell'abbonato non trovata
+Non potete costruire là. Ciò che buildning è troppo vicina ad un'altra costruzione dello stesso codice categoria.
+Gli assistenti in linea dell'eredità stanno generando le lime di sostegno per questo mondo. Ciò può prendere a partire dai secondi ai minuti secondo il formato del mondo. Mentre dura potete continuare a passare in rassegna il programma ed a controllare le costruzioni, ma alcune opzioni, come configurazione, saranno disabili. Si noti che l'icona del disc nel vostro tavoletta porta-utensili si illumina in su durante il sostegno. Vederete soltanto questa finestra di messaggio questo volta.
+SOSTEGNO DELL'ASSISTENTE
+SOSTEGNO DELL'ASSISTENTE CONCLUSO
+Gli assistenti in linea dell'eredità hanno rifinito il sostegno. Potete continuare a giocare senza limitazione.
+Siete sicuro voi volete demolire il vostro %s?
+Avvertimento!
+La stessa azienda
+La stessa città
+Scattar qui per vedere le regole di torneo.
+Progresso generale.   
+Kbyte (di 
+Tempo valutato: 
+ore. 
+ora. 
+resoconto. 
+minuto. 
+Non ha potuto generare l'indice.
+Errore
+Installazione venuta a mancare.
+Non riuscito a completare installazione.
+Non ha potuto fare funzionare la applicazione principale. Codice di errore: 
+Non riuscito a completare funzionamento.
+ERRORE: Debito guast di funzionamento un errore sconosciuto.
+Errore che scrive al disc (
+ERRORE: Lima corrotta trovata (
+ERRORE: Decompressione venuta a mancare (
+). Controllare per vedere se c'è lo spazio supplementare dell'azionamento.
+ERRORE: Lima di indice corrotta. Segnalare prego a Sega.
+ERRORE: Trasferimento dal sistema centrale verso i satelliti della lima venuto a mancare (
+CIAO! QUESTO PROGRAMMA INSTALLERÀ L'EREDITÀ IN LINEA SUL VOSTRO CALCOLATORE. ENTRARE PREGO NELLE INFORMAZIONI RICHIESTE.
+Non ha potuto inizializzare il web client. Essere prego sicuro che avete installato Internet Explorer 4.0 o maggior.
+SÌ
+NO
+Fatto
+Individuazione della risorsa: 
+Caricamento di programmi oggetto: 
+Attendere prego…
+Decompressione 
+organicwaste
+fert
+grainFarma
+laminatoio
+cotone
+pantalone
+fruitFarma
+fruitpie
+rubbersap
+rubbertree
+rubberfact
+shoefact
+vegFarma
+stewfact
+organicMine
+polimero
+nylon
+camicia
+Cattlefarma
+burgerfact
+rawChemMine
+miningchem
+cuoio
+leatherjacket
+Ciò è una missione gmabling della tana
+ciò è una missione di rapina in banca
+ciò è una strada distrugge la missione
+Un gioco vicino
+Scattar qui per iniziare
+NUOVO CLIENTE
+FIRMARE DENTRO
+ANNULLAMENTO
+Username:
+Parola d'accesso:
+Benvenuto a Starpeace. Fornire prego il vostri username e parola d'accesso.
+Entrare nel vostro Starpeace altrimenti detto qui
+Digitare la vostra parola d'accesso di Starpeace qui
+Ora scegliere il mondo che volete entrare in:
+ENTRARE NEL MONDO SELEZIONATO
+ANDARE AL PROGRAMMA DELL'UNIVERSO
+RINFRESCARE TUTTI
+RINFRESCARE SELEZIONATO
+6
+Nome
+Popolazione
+Investitori
+In linea
+Anno
+PING (millisecondo)
+Saltare ad un mondo che già avete visitato:
+Scattar per saltare al pianeta selezionato
+ANDARE!
+Regolazioni ricevute
+Controllare questa scatola per permettere che questa funzione sia configurata ha basato sulle regolazioni di un'altra funzione.
+Clonare le regolazioni
+Scattar per clonare le regolazioni di questa funzione
+Clone
+Aggiornamento
+Scatto per aggiornare questa funzione.
+Downgrade
+Scatto per retrocedere questa funzione.
+Aggiornamento
+Livello:
+In attesa di:
+Aggiornamento seguente:
+1
+Accettare le regolazioni ricevute.
+Controllare se volete configurare questa funzione using le regolazioni di un'altra funzione
+Soltanto per le facilità in questa città.
+Controllare per limitare l'effetto della clonazione soltanto per le facilità in questa città
+Soltanto per le facilità in questa azienda.
+Controllare per limitare l'effetto della clonazione soltanto per le facilità in questa azienda
+Suggerimento: Usare un singolo scatto per selezionare una funzione sul programma. Destra - scattar per invocare le opzioni di QuickWeb.
+Suggerimento: Usare un singolo scatto per selezionare una funzione sul programma. Destra - scattar per invocare le opzioni di QuickWeb.
+Nessuna funzione selezionata
+Nessuna funzione selezionata
+Andare indietro alla vostra posizione precedente sul programma
+< POSTERIORE
+Andare in avanti alla posizione che seguente avete visitato
+DOPO >
+Andare a municipio più vicino
+VA MUNICIPIO
+Ottenere più Info circa la costruzione selezionata (stesse del right-click sopra la costruzione)
+CONTROLLARE
+Visualizzare gli attrezzi del programma della sovvrapposizione
+SOVVRAPPOSIZIONE
+ZoomIn
+Zumare dentro
+ZoomOut
+Zoom fuori
+Mostrare la sovvrapposizione di zone della città
+ZONE DELLA CITTÀ
+RotateCW
+Girare il CW
+RotateCCW
+Girare il senso antiorario
+Data
+Zumare dentro (piccolo programma)
++
+Zoom fuori (piccolo programma)
+-
+Scatola vicina di chiacchierata
+x
+Mostra
+Nome di utente
+Mostra quale utente attualmente state inseguendo
+Lista dei collegamenti utili alle facilità nel programma
+Lista dei collegamenti utili alle facilità nel programma
+Scattar per aggiungere la funzione selezionata ai collegamenti
+AGGIUNGERE
+Scattar per rimuovere la funzione dai collegamenti
+DEL
+Scattar per saltare al collegamento
+ANDARE
+COLLEGAMENTI
+COLLEGAMENTI
+Le facilità che stanno perdendo i soldi sembrano protette nel colore rosso
+Facilità perdenti del segnale
+Sovvrapposizione attiva:
+Mostrare al nome quale sovvrapposizione è attualmente visibile
+Scegliere il programma che della sovvrapposizione volete mostrare
+48
+NESSUN
+Zone della costruzione
+Città
+Bellezza
+Popolazione di alta classe
+Popolazione della classe media
+Popolazione Low-class
+QOL
+Crimine
+Inquinamento
+BAP
+Pantaloni
+Forno
+Pattini
+Torte della frutta
+Coltelleria
+Panno della Tabella
+Panini freschi
+Vetri
+Piatti
+Piccola automobile
+Televisioni
+Legami
+Vestiti
+Nell'ambito di usura
+Cappelli
+Calzini
+Biancheria
+Sciarpe
+Pantaloni di cuoio
+Automobili sportive
+Giocatori MP3
+Stampatori
+Videocamera portatile
+Hoovers
+Giocatori di DVD
+Caldaia
+Microonde
+Tostapane
+Fornelli
+Bici del motore
+Telefoni mobili
+Corredo del lavaggio di automobile
+Polacco dell'automobile
+Bevanda rinfrescante di aria dell'automobile
+Dadi lanuginosi
+Humvee
+PC
+Facilità perdenti del segnale
+Le facilità che stanno perdendo l'esposizione dei soldi hanno protetto nel colore rosso
+MapOptionsView
+
+
+Di servizio ristoro procedati
+
+Di servizio ristoro fresco
+
+2
+VISIBILITÀ
+PROGRAMMI
+Panel1
+
+
+
+
+
+Visibilità
+
+Programmi
+
+
+Pellame Residentials di alta classe
+
+Metà di-codice categoria Residentials del pellame
+
+Pellame Residentials Low-class
+
+Uffici del pellame
+
+Depositi del pellame
+
+Fabbriche del pellame
+
+Nascondere tutti
+
+Mostrare tutti
+
+Nascondere i magazzini
+
+Valore di terra e di bellezza
+
+Popolazione
+
+Qualità di vita
+
+Crimine
+
+Inquinamento
+
+Zone di Bussines
+
+Alimento fresco
+
+Alimento trasformato
+
+Vestiti
+
+Stretta della Camera
+
+Automobili
+
+Ristoranti
+
+Barre
+SERVIZI
+
+GENERALITÀ
+
+
+Normale
+
+
+
+
+
+FINE
+Fissare le parole della saggezza
+Parole di saggezza:
+Annullare la trascendenza
+4
+Ministero
+Ministro
+Valutazione
+Preventivo
+Preventivo dell'anno prossimo:
+Regolare il preventivo
+Destituire
+Ministro:
+Scegliere
+MisionView
+
+Scegliere una missione
+
+Punto 1 di 3
+
+Applicazione vicina
+x
+
+1
+
+2
+
+3
+
+4
+
+Scattare sopra una missione per vedere i relativi requisiti.
+
+Visualizzare gli attrezzi del programma della sovvrapposizione
+Scegliere la missione
+Visualizzare gli attrezzi del programma della sovvrapposizione
+Camcel
+
+3
+Tana di gioco
+Rapina in banca
+La strada distrugge
+Frode
+Terrorizzare ed abbassar
+Vandalize
+Robery
+La Banca Robery
+Sabotaggio
+Questa missione gli richiede di selezionare una costruzione sul programma. Scattare sopra “il tasto dell'obiettivo del selezionamento„ e lo scatto sulla costruzione che volete essere l'obiettivo della missione.
+
+Visualizzare gli attrezzi del programma della sovvrapposizione
+Selezionare l'obiettivo
+Visualizzare gli attrezzi del programma della sovvrapposizione
+< POSTERIORE
+Attrezzi del programma della sovvrapposizione dell'esposizione
+CONTINUARE >
+Progettare la missione qui. Una volta che avete assegnato i ruoli adeguati al membro di squadra potrete iniziare la missione.
+
+Ciò è la rapina in banca tipica. La squadra raccoglierà tutti i soldi dai contatori ed i clienti e la volta, se scegliete così.
+
+Istruzione:
+
+Attrezzi del programma della sovvrapposizione dell'esposizione
+S T A R T
+Attrezzi del programma della sovvrapposizione dell'esposizione
+< POSTERIORE
+2
+Ruolo
+Livello di abilità
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Attrezzi del programma della sovvrapposizione dell'esposizione
+Fine
+Ceppo di missione:
+
+
+
+
+Il sindaco della città non permette una costruzione di questo tipo su questa posizione. Notare prego che la zona di questa posizione (indicata da colore) deve abbinare con il tipo di zona della funzione che avete inteso sviluppare. I tipi di zona delle costruzioni sono indicati oltre a Th 
+APPROVAZIONE
+ANNULLAMENTO
+ERRORE SCONOSCIUTO
+Scattar per trasmettere il vostro messaggio
+Trasmettere
+Scattar per conservare il vostro messaggio
+Risparmiare
+Chiudere questo messaggio
+Chiuder
+Per:
+Oggetto:
+GENERARE LA NUOVA SCANALATURA
+GENERARE LA NUOVA SCANALATURA
+Scattar per generare una nuova scanalatura
+Generare
+Annullare
+Scegliere un nome per la nuova scanalatura:
+Potete proteggere la scanalatura con una parola d'accesso:
+Registrare di nuovo la parola d'accesso:
+Introdurre il nome della scanalatura qui
+Digitare la parola d'accesso della scanalatura qui
+Controllare la vostra parola d'accesso qui
+Scegliere un gioco:
+Massimo dei giocatori permessi:
+0
+2
+SCANALATURA DI CHIACCHIERATA
+SCANALATURA DEL GIOCO
+NewTeamDlg
+
+Finestra vicina
+x
+
+Nome della squadra:
+
+Attrezzi del programma della sovvrapposizione dell'esposizione
+Nuova squadra
+Attrezzi del programma della sovvrapposizione dell'esposizione
+Annullamento
+GENERARE UNA SQUADRA
+GENERARE UNA SQUADRA
+
+
+ERRORE!
+
+
+
+
+
+
+
+
+
+
+
+
+
+Opzioni
+5
+Grafici
+Suono
+Rete
+Segretezza
+Supplementare
+facilità &Visible:
+Scatto per nascondere tutte le facilità
+&Hide tutto
+Scatto per mostrare tutte le facilità
+&Show tutto
+Usare l'acetato
+Controllare per vedere le costruzioni trasparenti
+Mostrare le animazioni della costruzione
+Controllare per vedere le costruzioni animated
+Mostrare le automobili
+Controllare per vedere le automobili
+Mostrare gli aerei
+Controllare per vedere gli aerei
+Lista delle facilità disponibili
+sovvrapposizioni &Transparent
+Controllare per avere programmi trasparenti della sovvrapposizione
+Suonare il volume di FX:
+Regolare il volume sonoro del programma qui
+50%
+Volume di musica:
+Regolare il volume di musica qui
+50%
+Lista musicale radiofonica:
+Mostra una lista dei titoli selezionati
+Scattar per aggiungere una lima di musica alla vostra lista musicale radiofonica
+Aggiungere la lima
+Scattar per aggiungere un intero dispositivo di piegatura
+Aggiungere l'indice
+Scattar per eliminare una lima dalla lista musicale radiofonica
+Cancellare la lima
+Scattar per caricare programmi oggetto più musica
+Caricare programmi oggetto più musica
+Permettere ai suoni
+Scattar per permettere ai suoni del programma
+Trasmesso:
+Ricevuto:
+Totale trasmesso:
+0
+0
+0
+Tasso di Avg:
+0 byte/sec
+Totale ricevuto:
+0 byte/sec
+Tasso:
+0
+Stato latente:
+0
+Usare l'inizio attività rapido
+Controllare per permettere all'inizio attività rapido
+Ignorare la lista:
+Rimuovere dalla lista
+Fornire automaticamente la Manica sull'inizio attività:
+Nome della Manica:
+Parola d'accesso della Manica:
+Conservare la sessione di chiacchierata ad una lima
+Risparmiare
+Lingua:
+Scatto per cambiare lingua
+Attivare la lingua
+Risoluzione
+Frequenza
+Applicar
+Proprietario:
+Città:
+Scatto da cercare i fornitori del prodotto selezionato
+RICERCA >
+Conteggio:
+Introdurre un nome dell'azienda per limitare la ricerca dei fornitori alle facilità di quell'azienda soltanto
+Esportare i magazzini
+Controllare per includere i magazzini dell'esportazione nella ricerca dei fornitori
+Magazzini normali
+Controllare per includere i magazzini normali nella ricerca dei fornitori
+Centri commerciali della città
+Controllare per comprendere i centri commerciali nella ricerca dei fornitori
+Fabbriche
+Controllare per includere le fabbriche nella ricerca dei fornitori
+5
+Costruzione
+Proprietario
+Città
+Prezzo
+Qualità
+Selezionare tutti fornitori trovati
+Selezionare tutti
+Unselect tutto ha trovato i fornitori
+Unselect tutto
+Affare dai fornitori selezionati
+AFFARE DAL SELEZIONATO DA
+Fine
+Introdurre un nome della città per limitare la ricerca dei fornitori alle facilità di quell'azienda soltanto 
+Massimo prescelto dei fornitori che volete cercare
+20
+DIGITARE LA PAROLA D'ACCESSO
+DIGITARE LA PAROLA D'ACCESSO
+Digitare la parola d'accesso qui:
+APPROVAZIONE
+Annullamento
+Caricare la vostra immagine da un archivio su disco
+Carico
+Vedere in anteprima la vostra immagine
+Previsione
+Trasmettere la vostra immagine
+Trasmettere
+Chiuder
+Zumare dentro
++
+Zoom fuori
+-
+TRASMETTERE LA VOSTRA IMMAGINE
+TRASMETTERE LA VOSTRA IMMAGINE
+Previsione
+
+
+
+
+2034
+
+35
+
+36
+
+37
+
+38
+
+39
+
+40
+
+41
+
+42
+
+43
+
+44
+
+2045
+
+v1
+
+v1
+
+v1
+
+v1
+
+v1
+
+v1
+
+v1
+
+v1
+
+v1
+
+v1
+
+v1
+
+v1
+
+Sindaco:
+n/a
+Città corridoio Prestige:
+Valutazione popolare:
+Valutazione dei magnati:
+Mandato Nº:
+Anni alle elezioni:
+n/a
+n/a
+n/a
+n/a
+n/a
+Scattar per andare alla pagina di politica
+Visitare la pagina di politica
+QOL:
+100
+%
+Valutare il sindaco
+Leggere le notizie
+4
+Cliente
+Azienda
+Vendite
+T. Costo
+0%
+Prezzo:
+0%
+Scattar qui per offrire il vostro prodotto ai clienti
+Offerta
+Scattar qui per cancellare un cliente
+Cancellazione
+Inizio attività rapido
+
+Nome di utente:
+
+Parola d'accesso:
+
+
+NOTA: Se siete un newcommer (o il vostro nome non compare nell'annullamento della pressa della lista qui sopra) appena e non passa con la procedura di inizio attività standard. Potete permettere più successivamente all'inizio attività rapido dalla pagina di opzioni.
+
+
+
+APPROVAZIONE
+
+Annullamento
+
+Usare l'ultima parola d'accesso
+
+Rendere invalido l'inizio attività rapido in avvenire
+
+
+
+Nome:
+Proprietario:
+100%
+n/a
+Resistenza di crimine:
+n/a
+Resistenza di inquinamento:
+Segretezza supplementare:
+n/a
+n/a
+Bellezza supplementare:
+n/a
+Età:
+n/a
+Affitto:
+100%
+Manutenzione:
+100%
+100%
+Scatto per chiudere questa costruzione
+Fine
+Scatto per riparare questa costruzione
+Riparazione
+Scattar per demolire questa costruzione
+Demolire
+n/a
+Costo:
+n/a
+ROI:
+n/a
+
+Nome:
+Proprietario:
+n/a
+Età:
+n/a
+Scatto per chiudere questa funzione
+Fine
+Scattar per demolire la funzione di thios
+Demolire
+Scattar per collegare questa funzione ad altre nel programma
+Collegar
+n/a
+Costo:
+n/a
+ROI:
+n/a
+0%
+Rifornimento:
+n/a
+n/a
+Richiesta locale:
+Prezzo:
+n/a
+
+Scorciatoie di tastiera
+Scorciatoie di tastiera registrate
+3
+Descrizione
+Scorciatoia
+Testo
+Aggiungere…
+Scattar per aggiungere una scorciatoia
+Pubblicare…
+Scattar per pubblicare uno shorcut
+Cancellazione
+Scattar per eliminare una scorciatoia
+Chiuder
+Scattar per chiudere questa finestra
+Treni
+
+
+
+
+X:
+
+Y:
+
+_
+
+_
+
+Conteggio:
+
+_
+
+Angolo:
+
+_
+
+Ultimo valore:
+n/a
+Costo:
+n/a
+7
+Funzione
+Proprietario
+Prezzo
+Pagato in più
+Ultimo
+Qualità
+T. Costo
+Qualità minima:
+0%
+0%
+Prezzo massimo:
+0%
+0%
+Scattar qui per impiegare i nuovi clienti
+Noleggio
+Scattar qui per modificare il collegamento selezionato
+Modificare
+Ordinato da qualità
+Comprare il rifornimento
+SurfaceViewer
+
+
+
+FARLO!
+
+
+400
+
+400
+
+?. Nome di utente
+Mostra il vostro nome e la vostra posizione nel posto di NTA
+$000.000.000
+Mostra quanti soldi avete
+Nome di azienda
+Mostra il nome dell'azienda attiva
+($0/h)
+Mostra quanto state facendo all'ora
+n/a
+Mostra la data corrente del mondo
+0/0
+Mostra il numero delle scanalature che della costruzione avete la configurazione ed il numero totale delle scanalature della costruzione disponibili
+Mostra il numero delle scanalature che della costruzione avete la configurazione ed il numero totale delle scanalature della costruzione disponibili
+Indica che qualcuno sta esaminando la stessa zona di voi
+Avete la posta!
+Indica che qualcuno sta provando a chiacchierare con voi
+Avvertimento di fallimento
+Indica che qualcuno sta esaminando la stessa zona di voi
+Nessuna nuova posta
+Indica che qualcuno sta provando a chiacchierare con voi
+Avvertimento di fallimento
+Il cubo fila quando l'eredità in linea sta traversando
+Minimizzare l'applicazione
+-
+Chiudere l'applicazione
+x
+Non siete collegato all'assistente
+L'assistente è occupato fare un sostegno
+Collegato all'assistente 
+Operai
+0%
+0
+0
+100
+100
+0%
+%
+%
+Professionisti
+0%
+0
+0
+100
+100
+0%
+%
+%
+Quadri
+0
+100
+100
+0%
+0
+0%
+%
+%
+Posti vacanti:
+Stipendio medio:
+Potere di spese:
+Salario minimo:
+Posti vacanti riservati:
+Posti vacanti riservati:
+Codice categoria basso
+0
+0
+0
+%
+%
+Codice categoria centrale
+0
+0
+0
+%
+%
+Di alta classe
+0
+0
+0
+%
+%
+Posti vacanti:
+Indice di qualità:
+Prezzo di affitto:
+Indice generale:
+0
+8
+Nome
+Richiesta
+Offerta
+Capienza
+Rapporto
+Prezzo di IFEL
+Avg. Prezzo
+Qualità
+10
+Nome
+Prodotto
+Comprato
+Pungolo. Capienza
+Comprare la capienza
+Vendere il prezzo
+Vendere il Q.
+Comprare il prezzo
+Comprare il Q.
+Prezzo massimo
+3
+Nome
+Valore
+L'anno scorso
+Tassa
+Sovvenzionare
+PercPanel
+0%
+Tassa: 0%
+Valore:
+Insieme
+10000000
+Nome:
+0%
+Ore su aria:
+n/a
+Pubblicità:
+0%
+0%
+Scatto per chiudere la stazione
+Fine
+Scattar per demolire la stazione
+Demolire
+0%
+Scattar per collegare la stazione alle facilità nel programma
+Collegar
+Creatore:
+n/a
+Età:
+n/a
+Costo:
+n/a
+ROI:
+n/a
+
+Programma universale
+3
+Mondi ufficiali
+Mondi di torneo
+Mondi del giocatore
+ Mondi trovati in questa zona:
+Specie vicino:
+Schiocco
+Investitori
+Anno
+PING
+Benvenuto al programma di Univesal. Scattare sopra c'è ne dei mondi qui sopra per visualizzare le informazioni estese.
+Saltare al pianeta attualmente selezionato
+SALTARE AL PIANETA
+Rinfrescare la lista del pianeta visualizzata sopra
+RINFRESCARE LA LISTA DEL PIANETA
+Nome:
+Creatore:
+n/a
+Età:
+n/a
+Scatto per chiudere questa funzione
+Fine
+Scattar per demolire questa funzione
+Demolire
+n/a
+Scattar per collegare questa funzione ad altre nel programma
+Collegar
+Costo:
+n/a
+ROI:
+n/a
+
+attesa
+
+
+Caricamento
+
+NewInstallation
+
+Aggiornamento
+
+Caricamento…
+
+
+
+L'eredità in linea sarà installata nel seguente indice:
+
+
+
+Minimizzare
+
+Rinunciare
+
+Passare in rassegna…
+
+Installare
+
+di C:\Program Files\Oceanus\Legacy in linea \
+
+
+Cercando le nuove componenti…
+
+
+Minimizzare
+
+Rinunciare
+
+Altra prova
+
+Prgress
+
+Inizio
+
+Progresso generale:
+
+
+Caricamento di programmi oggetto finished in linea dell'eredità le componenti principali. Ora l'eredità in linea è immagini di pre-caricamento di programmi oggetto per accelerare la prestazione. Potete cominciare giocare in qualunque momento. 
+
+
+Gioco ora
+
+
+HTMLView
+
+CIAO!
+CIAO!
+AGGIORNAMENTO
+APPROVAZIONE
+Annullamento
+Costo:
+$25.000.000.000
+Livelli:
+Notifica, scatto del doppio da ristabilire
+Finestra vicina
+x
+Minimizzare la finestra
+-
+CIAO MONDO!
+CIAO MONDO!
+Caricamento…
+Mantenere per comunicare tramite il vostro microfono
+T A L K
+Ultimo altoparlante:
+Nessuno
+4
+Candidato
+Valutazione
+Voti validi
+Punti
+Voto
+Eredità in linea
+Nome:
+Proprietario:
+n/a
+Costo:
+n/a
+ROI:
+n/a
+Età:
+n/a
+Scatto per chiudere questa funzione
+Fine
+Clisk per demolire questa funzione
+Demolire
+Scattar per collegare questa funzione ad altre nel programma
+Collegar
+n/a
+Collega questa funzione a tutti i vostri depositi
+Vendita a tutti depositi
+Collega questa funzione a tutte le vostre fabbriche
+Vendita a tutte le fabbriche
+Collega questa funzione a tutti i vostri magazzini
+Vendita a tutti i magazzini
+Stacca questa funzione da tutti i vostri depositi
+Non vendere ai depositi
+Collega questa funzione a tutte le vostre fabbriche
+Non vendere alle fabbriche
+Collega questa funzione a tutti i vostri magazzini
+Non vendere ai magazzini
+Vendere il modo:
+Commercio con:
+3
+Magazzino dell'azienda
+Esportatore
+Importatore
+3
+Nessuno
+Alleati soltanto
+Chiunque
+Applicazione vicina
+x
+Minimizzare l'applicazione
+-
+Operai
+0 (di 0)
+50%
+1 (100%)
+100%
+Professionisti
+0 (di 0)
+50%
+5 (100%)
+100%
+Quadri
+0 (di 0)
+50%
+1 (100%)
+100%
+Operai correnti
+Qualità della forza di lavoro
+Stipendi

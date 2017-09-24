@@ -1,0 +1,16 @@
+HintText.Hint=HISTORIA
+Label1.Caption=Imię:
+Label2.Caption=Twórca:
+xfer_Creator.Caption=n/a
+Label6.Caption=Wiek:
+xfer_MetaFacilityName.Caption=n/a
+btnClose.Hint=Stuknięcie ten łatwość
+btnClose.Text=Zakończenie
+btnDemolish.Hint=Klikać ten łatwość
+btnDemolish.Text=Wyburzać
+NameLabel.Caption=n/a
+btnConnect.Hint=Klikać ten łatwość mapa w the mapa
+btnConnect.Text=Łączyć
+Label8.Caption=Koszt:
+lbCost.Caption=n/a
+Label9.Caption=ROI:

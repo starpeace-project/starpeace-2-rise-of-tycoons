@@ -1,0 +1,17 @@
+Label2.Caption=Thema:
+Marquee.Caption=NEUEN KANAL VERURSACHEN
+Marquee.Hint=NEUEN KANAL VERURSACHEN
+btnCreate.Hint=Klicken, um einen neuen Kanal zu verursachen
+btnCreate.Text=Verursachen
+btnCancel.Text=Annullieren
+Label1.Caption=Einen Namen für den neuen Kanal wählen:
+Label2.Caption=Sie können den Kanal mit einem Kennwort schützen:
+Label3.Caption=Das Kennwort wiederbetreten:
+ChannelName.Hint=Kanalnamen hier eintragen
+Password.Hint=Kanalkennwort hier eintragen
+PasswordCheck.Hint=Ihr Kennwort hier überprüfen
+Label4.Caption=Ein Spiel wählen:
+Label5.Caption=Maximum der Spieler erlaubt:
+Edit1.Text=0
+Tabs.TabNames=2
+Tabs.TabNames.0=SCHWÄTZCHEN-KANAL

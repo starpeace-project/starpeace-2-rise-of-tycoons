@@ -1,0 +1,5 @@
+lbBankResult.Caption=은행에는 지금 지불하기 위하여 아무 이젠 그만도 발견한다 없다.
+lvLoans.Columns=4
+lvLoans.Columns.0=채무자
+lvLoans.Columns.1=총계
+lvLoans.Columns.2=관심사

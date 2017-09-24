@@ -1,0 +1,11 @@
+Label3.Caption=De Prijs van de huur:
+Label9.Caption=Algemene Index:
+xfer_GQOS.Caption=0
+lvServices.Columns=8
+lvServices.Columns.0=Naam
+lvServices.Columns.1=De vraag
+lvServices.Columns.2=Aanbieding
+lvServices.Columns.3=Capaciteit
+lvServices.Columns.4=Verhouding
+lvServices.Columns.5=Prijs IFEL
+lvServices.Columns.6=Avg. Prijs

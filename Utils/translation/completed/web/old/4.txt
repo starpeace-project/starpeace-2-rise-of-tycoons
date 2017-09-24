@@ -1,0 +1,751 @@
+
+“cliente„
+“Clienti„
+“clienti„
+“Per vendere ai clienti selezionati„
+“fornitore„
+“Fornitori„
+“fornitori„
+“Affare dai fornitori selezionati„
+“Ricerca di„
+“di„
+“Nome di azienda„
+“Nome della città„
+“Ricerca„
+"RESET"
+“Rinunciato„
+“Magazzini dell'importazione„
+“Depositi„
+“Magazzini dell'esportazione„
+“Centri commerciali della città„
+“Magazzini normali„
+“Fabbriche„
+“Limite della lista„
+“La ricerca risulta„
+“sono stati trovati„
+“Potete selezionare alcuno a partire dalla lista qui sotto ed iniziare i rapporti con loro scattandoti su„
+“No„
+“Probabilmente avete specificato le circostanze troppo restrittive da soddisfare. Provare prego una ricerca più larga, lasciante alcuni campi svuotano„
+“Funzione„
+“Azienda„
+“Città„
+“Prezzo„
+“Qualità„
+“Selezionare tutti„
+“Unselect tutto„
+“Istruzioni di ricerca„
+“Per cercare„
+“riempire la forma qui sopra ed allora scattare sopra “la ricerca„„
+“VistaGrande„
+“cercherà le informazioni che volete. Potete lasciare tutti i campi vuoti per realizzare la ricerca più generale„
+
+
+“GIUSTO„
+“Non può legare per obiettare„
+“Non può collegarsi all'assistente„
+“Spiacente, questo luogo è in costruzione„
+
+
+“ERRORE: Non ha potuto legare al magnate„
+“ERRORE: Non ha potuto collegarsi„
+“Questo smantellerà tutte le vostre aziende e facilità. Convincerete ancora $100.000.000 dal IFEL per cominciare sopra. Siete sicuro questo siete che cosa volete fare?„ 
+“Ripristinare il cliente„
+“Annullare„
+“Spiacente, non può richiamare le informazioni del magnate dall'assistente„
+“Non avete registrato alcuni fornitori per„ 
+“Scattare sopra <b>Add</b> per aggiungere alcuno„
+“Inoltre assumere un centro commerciale„
+“Auto-includere soltanto i magazzini„
+“Aggiungere„
+“Cancellare„
+“I fornitori iniziali soltanto sono disposti sulla lista dei fornitori quando in primo luogo generate una funzione. Se non collegate una funzione ad altri fornitori, i fornitori iniziali conterranno la lista del fornitore la funzione. Tutte le vostre facilità sono inserite automaticamente come fornitori iniziali a meno che limitiate la vostra selezione sotto„ 
+“Spiacente, non può richiamare le informazioni del magnate dall'assistente„
+“Conto bancario„
+“Data„
+“Bilancia corrente„ 
+“Le informazioni di attività bancarie sono aggiornate in tempo reale. Il "" di scatto rinfresca il "" sulla barra dell'attrezzo per le ultime figure„
+“La Banca di IFEL„
+“La banca ha rifiutato la vostra richiesta. Già avete preso in prestito il massimo che potete.„
+“ERRORE: Non può realizzare il funzionamento„
+“Prendere in prestito„
+“Interesse annuale. Per per essere pagato durante %1 anno„
+“Trasmettere i soldi„
+“ERRORE: Magnate non trovato„
+“ERRORE: Somma di denaro non valida„
+“ERRORE: Non può trasferire i soldi„
+“Trasmettere a„
+“Importo„
+“Trasmettere„
+“Non potete trasmettere il <br> dei soldi che avete ricevuto con il <br> di prestiti o come componente del vostro visto dell'investitore„ 
+“Non avete soldi da trasmettere„
+“I funzionari pubblici non possono trasferire i soldi„
+“Prestiti„
+“Nome della Banca„
+“Tasso di interesse„
+“Termine„
+“Pagamento seguente„
+“Non dovete i soldi ad alcuna banca. Se volete prendere in prestito i soldi del <br> dalla banca del IFEL, entrare nell'importo che volete il <br> sulla scatola dell'input qui sopra e scattare <b>Borrow</b>„
+“Spiacente, non può richiamare le informazioni del magnate dall'assistente„
+“Pagare fuori„
+“<b>NOTE:</b> poiché questo è un cliente di <b>DEMO</b>, <br>you non può trasferire il <br>to dei soldi altri giocatori o figure politiche„
+“I trasferimenti di denaro non sono permessi in pianeti di torneo„
+“Avete registrato le seguenti aziende. Il <br> sceglie uno dalla lista o genera un nuovo„
+“Più Info„
+“Generare nuovo„
+“D'applicazione!„
+“<b>Note:I valori di </b> indicati in questa pagina hanno potuto essere differenti ora„
+“(questo anno)„
+“Vendite del prodotto„
+“Assistere le vendite„
+“Affitta„
+“Altro„
+“Rifornimenti„
+“Stipendia„
+“Manutenzione„
+“Costruzione„
+“Ricerca„
+“Altro„
+“Opzioni dell'azienda„
+“Il nome di azienda non può essere vuoto né contenere i seguenti caratteri:  \/:*?<> del ""|&+%„
+“Generare una nuova azienda„
+“Scegliere un nome per la vostra azienda. Associar con uno degli ordini tecnologici del sindaco„
+“Errore„
+“Nome di azienda„
+“Socio con„
+“Scattar qui per generare l'azienda„
+“Annullare ed andare alla pagina precedente„
+“Spiacente, non può richiamare le informazioni del magnate dall'assistente„
+“Programma di studi„
+“indica„
+“Ripristinare il cliente„
+“Livello attuale„
+“Aggiornamento al livello seguente„
+“Non ha potuto aggiornare l'anno scorso livellato„
+“Livello seguente„ 
+“Richiede„
+“nei posti„
+“Articolo„ 
+“Prestige„
+“Spiacente, non può richiamare le informazioni del magnate dall'assistente„
+“<b>NOTE:</b> poiché questo è un cliente di <b>DEMO</b>, non potete livellare.„
+“posto del Th nel posto di NTA„
+“Profitto & perdita„
+“Fornitori iniziali„
+“Aziende„
+“Strategia„
+“Lezione privata„
+“Scattar qui per trasmettere la vostra immagine.„
+“nessun„
+“in linea„
+“Nome„ 
+“La vostra politica„
+“La sua politica„
+“Cambiare la vostra politica verso un magnate„ 
+“Spiacente, non può richiamare le informazioni del magnate dall'assistente„
+“Spiacente, nessun regolazioni commerciali di strategia permesse in pianeti di torneo.„
+“I valori indicati in questa pagina hanno potuto essere differenti ora„
+“fornitori locali per„
+“sono stati trovati„ 
+“Funzione„
+“Azienda„
+“Città„
+“Prezzo„
+“Qualità„
+“Includere selezionato„
+“Ricerca rinunciata„
+“La pressa <b>SEARCH</b> per ottenere una lista di permesso di suppliers.<br> tutta sistema vuoto per realizzare il search<br> più generale„
+“Ricerca auto dei collegamenti„
+“Opzioni del magnate„
+“Profitto & perdita„
+“Notare„
+“Opzioni di strategia del magnate„
+“Strategia commerciale„
+“La vostra condizione corrente di strategia:„
+“Nome del magnate„
+“Alleato„
+“Persona neutrale„
+“Nemico„
+“Fissare la politica„
+“Fortuna personale„
+“Profitto medio (questo anno)„
+“Prestige totale„
+“Nobiltà„
+“Abilità„
+“dai posti„
+“per essere al livello elevato„
+“per avere prestiti„
+“Articoli di programma di studi„
+“Dissidenti„
+“PGI„
+“Imprese di Mariko„
+“Moab„
+“Magazzini universali„
+“Opzioni dell'azienda„
+“Redditi„
+“Dispendii„
+“Andare indietro„
+“Funzionare con questa azienda„
+“Dissolvere questa azienda„
+“Spiacente, non può richiamare le informazioni del magnate dall'assistente.„
+“Lista dell'azienda„
+“Aziende„
+“Potete trasferire fino a %1„
+“Collegamenti auto„
+“Ripristinare il cliente„
+“AVVERTENDO!„
+“Dimetter„
+“Siete sure che volete rinunciare alle vostre funzioni politiche attuali?„
+“Generare una nuova azienda può coinvolgere l'acquisto automatico di nuova autorizzazione di ricerca. l'autorizzazione seguente del <br>Your costerà: „
+“Le mansioni d'istruzione non avanzeranno se non siete entrato come vostra azienda iniziale. Lo suggeriamo completo la lezione privata prima della generazione dell'azienda nuova. <br><br>If volete farli comunque, vi assicurate che siate entrato come vostra prima azienda prima che riprendiate il d'istruzione„
+
+
+“Che potete trasmettere la vostra immagine dalla pagina di profilo„
+“Visitare la linguetta della pubblicità alle regolazioni del municipio per configurare i vostri fornitori della pubblicità„
+“Sindaco di„
+“Modificare i valori di priorità qui sotto per distribuire il vostro tempo di pubblicità„
+colpi/ora di value>%1</span> di pubblicità.“
+“Il più su„
+“Alto„
+“Normale„
+“Basso„
+“Il più basso„
+“nessun„
+“in linea„
+“Potete trasmettere la vostra immagine dalla pagina di profilo„
+“Più forte candidato„
+“indica„
+“anni alle elezioni„
+“anno alle elezioni„
+“Nessun elezioni sui pianeti di torneo„
+“Nessun presidente„
+“Nessun sindaco„
+“Nome„
+“Prestige„
+“Valutazione popolare„
+“Valutazione dei magnati„
+“Valutazione del IFEL„
+“No. del mandato„
+“in linea„
+“VALUTAZIONE di POPULAR<br>„
+“VALUTAZIONE di IFEL's<br>„
+“VALUTAZIONI del br> del TYCOONS'<„
+“SINDACO„
+“PRESIDENTE„
+“PUBBLICITÀ„
+“Campagna di lancio per %1 in %2…„
+“ERRORE: Non ha potuto legare a municipio„
+“ERRORE: Non ha potuto collegarsi„
+“Ritirare la campagna„
+“Nome non valido del magnate„
+“Questo magnate non può fungere da ministro„
+“Questa proposta è GIUSTA!„
+“Controllare i nomi del ministro„
+“Non state partecipando alle elezioni venenti. Scattare sopra il tasto qui sotto per lanciare la vostra campagna politica. Per essere accettato, il vostro prestigio dovrebbe essere superiore a %1 punto„
+“Campagna del lancio„
+“Siete i %1. Non potete avere una campagna„
+“La vostra applicazione è stata negata. Le nostre annotazioni indicano che già avete un impegno pubblico„
+“Spiacente, non compiete i requisiti per avere vostra propria campagna. Il vostro prestigio dovrebbe essere superiore a %1 punto„ 
+“È troppo ritardato per lanciare una campagna. Le campagne possono essere iniziate soltanto durante la prima metà del periodo politico.„
+“Nessun'elezione è tenuta in pianeti di torneo. I valori di imposte sono fissi e la suddivisione in zone necessaria è fornita quando il pianeta è aperto. Non ci è salario minimo ed i giocatori dovranno trasmettere su se stesso per le facilità civiche.„
+“i *Values indicati nel colore rosso sono quelli che avete trasmesso per l'indagine. Questi valori saranno misti con quelli trasmessi da altri magnati secondo prestigio personale.„
+“Nota: Scattar oltre un articolo per trasmettere il vostro parere. Inoltre notare quello che trasmette un nuovo valore ignorerà un valore precedente trasmesso da voi„
+“Nota: Visitare la tribuna del giornale locale per fissare le vostre valutazioni per questo politico„
+“Disporre„
+“Chiamare„
+“Valutazione„
+“Più di„
+“Di meno che„
+“Nota: Scattar oltre un articolo per specificare le vostre regolazioni.„
+“Nessun„
+“GIUSTO„
+“Nessun candidati„
+“Non ci sono elezioni <br> tenuto sui pianeti di torneo„
+“Vicino„
+“YOUR<br>CAMPAIGN„
+“ALL<br>CAMPAIGNS„
+“Sindaco„
+“Presidente„
+
+
+“La cupola sta funzionando normalmente„
+“La cupola è stata arrestata dal proprietario„
+“La cupola non sta funzionando correttamente„
+“Uni o più rifornimenti di base non stanno ricevendi affatto„
+“Ci non sono abbastanza soldi da funzionare„
+“La cupola non sta fornenda mentre deve funzionare correttamente„
+
+
+“HOME PAGE„
+“Prodotti„
+“Rifornimenti„
+“Consumando„
+“Producendo„
+“di„
+“possibile„
+“Qualità„
+“Prezzo„
+“Funzione„
+“Azienda„
+“Acquisti„
+“Vendite„
+“Aggiungere nuovo„
+“Cancellare selezionato„
+“fornitore„
+“cliente„
+“fornitori„
+“clienti„
+“Proprietario„
+“Profitto„
+“l'anno scorso„
+“Costo„
+“Reddito„
+“Pagato in più„
+“variabile„
+“Overprice„
+“collegamento„
+“è cambiato„
+“Lavori„
+“Domestico„
+“Forza di lavoro„
+“Di alta classe„
+“Codice categoria centrale„
+“Codice categoria basso„
+“Operai correnti„
+“Qualità della forza di lavoro„
+“Stipendia„
+“I valori di stipendio delle percentuali rappresenta il rapporto fra gli stipendi correnti in questa funzione ed i prezzi standard nella forza di lavoro introducono„
+“Connett.„
+“Più circa„
+“Più Info„
+“Abitanti„
+“Bellezza„
+“Crimine„
+“Inquinamento„
+“Qualità di vita„
+“Affitto„
+“Manutenzione„
+“Servizi„
+“Richiesta„
+“Rifornimento„
+
+
+“Generalità„
+“Genere della funzione„
+“Città„
+“Mazzo„
+“Azienda„
+“CEO„
+“Funzionamento„
+“Mano d'opera„
+“Di alta classe„
+“operai„
+“di„
+“Codice categoria centrale„
+“Codice categoria basso„
+
+
+“Configurazione„
+“Forza di lavoro„
+“Di alta classe„
+“Codice categoria centrale„
+“Codice categoria basso„
+“Stipendia„
+“Scattar qui per pubblicare il nome„
+“Cercare„
+“GIUSTO„
+“Annullare„
+“Spiacente, non può collegarsi a questa funzione„
+“Questo stabilirà i contratti fra <b>%1</b> e tutte le fabbriche voi own.<br>Also, <b>%1</b> si aggiungerà alla vostra lista dei fornitori di difetto.„
+“Questo stabilirà i contratti fra <b>%1</b> e tutti i magazzini voi own.<br>Also, <b>%1</b> si aggiungerà alla vostra lista dei fornitori di difetto.„
+“Questo stabilirà i contratti fra <b>%1</b> e tutti i depositi voi own.<br>Also, <b>%1</b> si aggiungerà alla vostra lista dei fornitori di difetto.„
+“Questo romperà i contratti fra <b>%1</b> e tutte le facilità che avete.„
+“Il cursore del mouse cambierà la relativa figura per permettere che selezioniate i clienti per <b>%1</b> direttamente dalla terminazione di map.<br>To questo scatto di funzionamento il mouse quando visualizza l'icona di forbiden.„
+“Nome„
+“Azienda„
+“Opzioni generali per rendere a <b>%1</b> un fornitore di altre facilità che possedete.„
+“Opzioni generali per impiegare i fornitori per <b>%1</b>.„
+“Suggerimento„
+“General„
+“Affitto„
+“Manutenzione„
+“Ha generato da %1, dal proprietario e da un CEO di %2.„
+“Strade„
+“Demolire„
+“In costruzione„
+“Spiacente, questo luogo è in costruzione.„
+“Popolazione„
+“Disoccupazione„
+“Qualità di vita„
+“Polizia„
+“Salute„
+“Scuola„
+“Fuoco„
+“Ha iniziato da %1, dal proprietario e da un CEO di %2.„
+
+
+“Facilità„
+“Aziende„
+“Campidoglio„
+“Città„
+“Voi„
+“La gente„
+“Posti„
+“Notizie„
+“Ricerca„
+“Posteriore„
+“Domestico„
+“Di proprietà da %1„
+“Mezzi„
+“Utile netto„
+“Costo„
+“ROI„
+“Già„
+“Mai„
+“Trasmettere la posta„
+“Mostrare in programma„
+“Posto„
+“%1 che si allineano„
+“Non ci è la prestazione relativa al punto culminante in questa zona.„
+“Abitanti„
+“Disoccupazione„
+“Qualità di vita„
+“Web site di chiamata„
+“Fortuna„
+“Questo anno„
+“Posto di NTA„
+“primo posto.„
+“secondo posto.„
+“terzo posto.„
+“posto di %1th.„
+“Livellato„
+“Prestige„
+“%1 punto.„
+“Mostrare il profilo„
+“Trasmettere la posta„
+“La gente„
+“Indice„
+“Incassa„
+
+
+
+“L'aiuto è in costruzione!„
+“Avete registrato le seguenti aziende. Scegliere uno dalla lista o generare un nuovo.„
+“Aziende„
+“Avete registrato le seguenti aziende in %1.„ 
+“Scegliere uno dalla lista o generare un nuovo.„
+“Riservato„
+“più Info„
+“%1 facilità„
+“Generare nuovo!„
+“Non ci è annotazione di voi nelle lime del IFEL per %1. Avete bisogno di un visto di entrare in questo mondo. Le opportunità di investimento sono infinite per i supporti dei visti del magnate, mentre i turisti possono godere del loro soggiorno using un visto dell'ospite.„
+“Sembra che già abbiate visitato il benvenuto %1. indietro! Come dovete sapere, i visti dell'ospite devono essere rinnovati ogni volta che chiedete di entrare in questo mondo. Forse è tempo di stare bene ad un investitore!„
+“Visto del magnate„
+“Ottenere $100.000.000„
+“Generare un'azienda„
+“Costruire un impero!„
+“Visto dell'ospite„
+“Nuova gente di raduno„
+“Vedere che cosa sta accadendo„
+“Diventa più successivamente un magnate„
+“Scattar oltre uno dei mondi elencati qui sotto per unirsi.„
+“%1 abitante„
+“anno %1„
+“%1 magnate„
+“%1 in linea„
+“Annullare„
+“Aiutare„
+“Grandi proprietari della guarnizione„
+“PGI„
+“Dissidenti„
+“Imprese di Mariko„
+“Il Moab„
+“Proprietari speciali della guarnizione„
+“Magazzini universali„
+“Ha fondato dalle organizzazioni più ricche in Europa, PGI fornisce alcune di migliori tecnologie disponibili oggi. Senza riguardo al vostro livello, se cercate l'efficienza e la qualità PGI è il senso alle industrie di go.<p>PGI è efficiente e montra la migliore qualità di produzione disponibile, ma alle relative facilità essere molto costoso. PGI è l'unica guarnizione permessa produrre i materiali di stampa e della carta nei nuovi mondi. I prodotti chimici, i vestiti, i residentials ed i centri di commercio sono la relativa resistenza.„
+“Pro„
+“Cons„
+“Industrie molto efficienti, con la migliore qualità di produzione disponibile.„
+“Prezzi elevati. Le industrie sono a volte troppo grandi.„
+“Più forti zone„
+“Zone più deboli„
+“Prodotti chimici, vestiti, edifici residenziali, depositi ed altri centri di commercio.„
+“Nessuno conosciuti questo lontano.„
+“Ha introdotto dal Blomke-fondatore di Markus del IFEL-ad equilibrio le costruzioni delle colonie' paesaggio politico, la maggior parte della tecnologia dissidente è stata destinata per essere ideale per beginners.<p>Dissidents' mette in mostra i prezzi molto bassi, comunque la qualità di produzione è bassa ed il livello di efficienza non è il migliore disponibile. I dissidenti hanno l'esclusività sulla produzione dei liquori, dei giocattoli e del legno. La migliore prestazione è nell'agricoltura, nel software, in barre e nei mezzi.„
+“Prezzi molto bassi. Bassi livelli di inquinamento. Piccoli disegni ideali per le zone popolate basse.„
+“Qualità cattiva di produzione. Basso rendimento. Archiquecture è a volte scomodo.„
+“Coltivare, software, barre e mezzi.„
+“Edifici di Residentials, estrazione mineraria, metallurgico e Heavy Industries.„
+“Le imprese di Mariko offre altamente - le soluzioni competitive basate sulla conoscenza sviluppata dal giapponese nelle ultime industrie di century.<p>Since Mariko altamente sono automatizzate, hanno bisogno di pochi operai e sono molto efficienti. Le loro più piccole strutture sono relativamente a basso prezzo e garantiscono meno inquinamento. La produzione di plastica ed i Cd sono riservati alla guarnizione di Mariko. I relativi più forti settori commerciali sono componenti elettronici, avvocati, uffici, elettrodomestici e macchine di affari.„
+“Bassi livelli di inquinamento. Industies altamente automatizzato. Alti livelli del efficency. Prezzi relativamente bassi.„
+“Resistenza bassa al crimine ed all'inquinamento. L'alta automazione può aumentare la disoccupazione.„
+“Componenti elettronici, avvocati, edifici per uffici, elettrodomestici e macchine di affari.„
+“Trasformazione dei prodotti alimentari, costruzioni di residentials e mezzi.„
+“Un ordine religioso, il Moab è stato fondato nel Texas da un immigrante tedesco ricco. Il Moab è gli stati di animo che possono essere realizzati soltanto tramite un rituale del sadomasochist rivelatore soltanto a coloro che abbraccia il cult.<p>Thanks alla centralizzazione di tutte le costruzioni civiche nel correttivo, questa guarnizione sono il migliori crimine e fuoco di lotta intestina. Moab ha l'esclusività della catena olio-gas di produzione: impianti offshore, raffinerie e stazioni di servizio; la migliori estrazione mineraria e prodotti chimici; buoni residentials del codice categoria di cielo e terra.„
+“Grande lotta antincendio e di crimine. Industrie molto efficienti. Prezzi modici.„
+“Oscurità e disegni a volte frighting.	Qualche gente non gradice lavorare nelle industrie del Moab. È stato detto che gli omicidi sconosciuti si presentano nei loro edifici residenziali.„
+“La migliori estrazione mineraria e prodotti chimici nel mondo. Residentials di alta classe e bassi del codice categoria.„
+“Residentials e mezzi del codice categoria centrale. L'agricoltura ed i metodi di trasformazione dei prodotti alimentari sono sospettosi.„
+“Proprietari speciali della guarnizione„
+“Lista dell'azienda„
+“Dovete fornire un numero di serie in linea dell'eredità valida.„
+“Dovete fornire un email address valido.„
+“Dovete fornire il vostro nome completo in realtà.„
+“Le parole d'accesso che avete fornito non abbinano.„
+“Dovete fornire una parola d'accesso.„
+“Dovete fornire uno pseudonimo.„
+“Fornire prego le seguenti informazioni.„
+“Errore„
+“Altrimenti detto„
+“Parola d'accesso„
+“Registrare di nuovo la parola d'accesso„
+“Numero di serie„
+“Nome completo„
+“Sesso„
+“Email address„
+“Email che me circa gli eventi ho riferito all'eredità in linea o al mio cliente.„
+“Fa NON il email me circa gli eventi relativi all'eredità in linea o al mio cliente.„
+“Non pubblicare il mio email address ad altri giocatori.„
+“Pubblicare il mio email address ad altri giocatori.„
+“IMPORTANTE: Lo pseudonimo che scegliete qui sarà usato per rappresentarlo nell'universo in linea dell'intera eredità. Non potrete cambiarlo più successivamente a meno che vi dimettiate a tutti i vostri possesions e successi nel gioco.„
+“GIUSTO„
+“I nomi di azienda non possono essere vuoti o contenere i seguenti caratteri„
+“Scegliere un nome per la vostra azienda. Inoltre, scegliere un fornitore di tecnologia per associarsi con.„
+“Generare l'azienda„
+“Nome di azienda„
+“Spiacente, dovete realizzare il paradigma livellato o avere almeno 100 punti di nobiltà per avere accesso alla guarnizione dei magnum.„
+“Socio con„
+“Magna Corp„
+“Il IFEL, responsabile circa sovrapopolazione nelle colonie, ha assegnato una guarnizione speciale a Magna Corp da Earth.<p>Magna si specializza in strutture molto grandi: Archologies (edifici residenziali voluminosi) e centri commerciali enormi. Finora l'unica industria disponibile a loro è gli studi di film. Questa guarnizione può essere conceduta una licenza a soltanto agli investitori che hanno realizzato il livello di paradigma.„
+“Questa tecnologia è conceduta una licenza a soltanto a quegli investitori che hanno realizzato il paradigma livellato.„
+“I magazzini universali forniscono la tecnologia d'immagazzinamento eccellente. Il IFEL incoraggia forte l'uso dei magazzini nelle colonie. Contribuiscono a controllare l'intera economia e facilitano l'amministrazione di grandi aziende.„
+“Lista del mondo„
+“L'eredità in linea è giù„
+““Il nome„ e “la parola d'accesso„ campi non possono essere lasciati vuota!„
+“State circa per entrare in %1. digitate il vostri nome e parola d'accesso per questo mondo. Se siete un nuovo venuto l'avviso che il nome che introducete qui sarà il vostro soprannome in questo mondo. Inoltre essere sicuro fornire una parola d'accesso (e non dimenticarla!)„
+“Chiamare„
+“Attesa. Stabilendo contatto con %1…„
+“Errore di inizio attività„
+“La vostra richiesta era debito rifiutato un l'errore.„
+“Non ha potuto entrare all'eredità in linea!„
+“Gli assistenti in linea dell'eredità ma, spiacenti sono giù. il <br>You non può ora entrare. Provare prego più successivamente.„
+“Assistente non trovato. il <br>Please è sicuro che avete un collegamento attivo alla rete.„
+“<b>User non valido Name</b>.„
+“Ci è qualcuno using il nome che avete specificato.„
+“Ci sono due cause possibili per questo errore„
+“(a) state annotando per la prima volta ed avete scelto un nome che già è preso.„
+“(b) avete già un'identità in questo mondo ma avete specificato un <b>password</b> non valido o avete sbagliato l'ortografia del vostro nome. Sappiamo nel caso abbiate dimenticato la vostra parola d'accesso. Possiamo aiutarli ad ottenerla indietro.„
+“Come ha fatto fate quello! Ciò non è un errore comune. il <br>It può accadere quando due genti provano ad entrare using lo stesso <b>User Name</b> allo stesso tempo. il <br>The che quello primissimo ottiene il cliente, quello secondo dovrà entrare using un nome differente. i <br>This è il vostro caso.„
+“Alcuni come l'assistente non potrebbe legare alle chiamate ripetute del cliente.„
+“Non potete entrare using quel nome!„
+“Un errore sconosciuto ha accaduto.„
+“Se ottenete spesso questo genere di errore vogliate segnalano a Oceanus.„
+“Spruzzare„
+“Un gioco da„
+“Scattar per entrare…„
+“L'eredità in linea non ha potuto memorizzare le vostre informazioni di cliente nell'assistente. Provare prego ancora e segnalare a Oceanus nel caso venga a mancare ancora.„
+“Questo cliente è già in uso. Provare prego un altro pseudonimo.„
+“Numero di serie non valido„
+“Non ha potuto collegarsi all'eredità Online+servers„
+“Inizio attività CINQUE„
+“Ora potete continuare a firmare dentro. Scattare il tasto GIUSTO qui sotto per andare indietro allo schermo di sign-in.„
+“Il nome che avete fornito è non valido o ci è già un'azienda using quel nome.„
+“Un problema sconosciuto ha accaduto quando prova a registrare la vostra azienda. Provare prego ancora.„
+“NOTA: Dal momento che soltanto i visti dell'ospite possono essere assegnati in questo mondo perché ha raggiunto la relativa capienza massima dei magnati.„
+“Carnas 0 di Tremendos„
+“Carnas 1 di Tremendos„
+“Carnas 2 di Tremendos„
+“Carnas 3 di Tremendos„
+“Carnas 4 di Tremendos„
+“NOTA: Dal momento che soltanto i visti dell'ospite possono essere assegnati in questo mondo perché ha raggiunto la relativa capienza massima del magnate. Provare la vostra avventura dell'investitore in uno degli altri mondi.„
+tidTycoonVisaNote
+“NOTA: Dal momento che, non potete ottenere un visto del magnate per questo mondo. La nostra esposizione delle annotazioni che già state giocando come magnate nel numero massimo dei mondi ha consentito a dai vostri punti di nobiltà.„
+
+
+
+“Sindaco di„
+“GIUSTO„
+“Valutazioni da„
+“ERRORE: Non ha potuto legare a municipio„
+“ERRORE: Non ha potuto collegarsi„
+“Dovete fornire un titolo per la vostra colonna„
+“Ci era un errore mentre inviava il vostro messaggio. Provare prego ancora„
+“Scattar„
+“qui„
+“per andare indietro alla vostra forma„
+“da„
+“Benvenuto alla sezione editoriale di %1„
+“Scattare sopra i collegamenti alla parte di sinistra per leggere le colonne pubblicate dai vostri colleghi investitori. Controllare la forma qui sotto nel caso vogliate inviare la vostra propria colonna„
+“Inviare una colonna„
+“Sottoporre„
+“Valutare„
+“Presidente„
+“Sindaco„
+“Risposta a questa colonna„
+“Alberino in filetto principale„
+“Colonna dell'alberino„
+“Ripristinare la forma„
+“Fornire prego un titolo alla vostra dichiarazione politica„
+“Entrare nelle vostre valutazioni qui. Lasciare in bianco valori che non volete essere modificato„
+“Nota: Le vostre valutazioni saranno considerate secondo il vostro prestigio„
+“Le vostre osservazioni sulle vostre valutazioni„
+“Presentare le valutazioni„
+“Ripristinare la forma„
+“LEGGERE LE COLONNE„
+“LEGGERE LE NOTIZIE„ 
+“VICINO„
+“Collegandosi a %1 assistente…„
+“Il più ultimo 10 colonne:„
+“Inviare una colonna„
+“Risposte:„
+“Tutte le colonne„
+“Il più ultimo 3 colonne„
+“Regolazione„
+“a„
+
+
+“Funzionando normalmente„
+“Arrestato dal proprietario„
+“Difficoltà di funzionamento„
+“Un rifornimento essenziale (o più) non sta ricevendo„
+“Non abbastanza soldi da funzionare„
+“Non abbastanza rifornimenti„
+
+
+“Andare indietro nella storia„
+“Andare in avanti nella storia„
+“Rinfrescare tutte le viste„
+“Arrestare la navigazione„
+“Home Page di Starpeace„
+“Menu di configurazione dell'esposizione„
+“Ottenere un visto dell'investitore„
+“Cercare il fotoricettore„
+“Profilo di utente„
+“Vista del programma„
+“Vista dell'universo„
+“Posta„
+“Chiacchierata„
+“Opzioni„
+“Chiamata GMs per aiuto„
+
+
+“Opzioni„
+“Configurazione„
+“Posteriore„
+“Domestico„
+“Pellame Info„
+“Più Info„
+“Lista della funzione„
+“NON DISPONIBILE„
+“La costruzione deve essere situata nella zona verde intenso o in nessuna zona affatto„
+“La costruzione deve essere situata nella metà di zona verde o in nessuna zona affatto„
+“La costruzione deve essere situata nella zona verde scuro o in nessuna zona affatto„
+“La costruzione deve essere situata nella zona gialla o in nessuna zona affatto„
+“La costruzione deve essere situata nella zona blu o in nessuna zona affatto„
+“Configurazione ora„
+“Strade„
+“Sindaco„
+“Ministro„
+“Presidente„
+“di„
+“Non siete il sindaco!„
+“Gli apprendisti non possono costruire la strada„
+“Salute„
+“Formazione„
+“Difesa„
+“Agricoltura„
+“Industria chiara„
+“Industria pesante„
+“Commercio„
+“Alloggiamento„
+“Pianificazione di città„
+“Configurazione Campidoglio„
+“Residenziale di alta classe„
+“Classe media residenziale„
+“Residenziale Low-class„
+“Annuncio pubblicitario„
+“Civics„
+“Uffici„
+“Industriale„
+“Ha riservato„
+“De-zona„
+“Opzioni della strada„
+“Demolire„
+“Railroad„
+“Un breve contesto storico…„
+“L'azione avviene nell'immediato futuro. La terra è sul bordo del crollo. La sovrapopolazione e l'abuso della natura hanno funzionato, un pianeta una volta verde, asciutto. I primi paesi del mondo stanno ottenendo pronti a andare alla guerra contro i paesi del terzo mondo, speranti che questo allevii la situazione.„
+“Come alternativa a quello, il IFEL (fondamento internazionale per vita extraterrestra) offre un programma rivoluzionario, <b>Legacy</b> chiamato codice.„
+“Vista del IFEL„
+“IFEL controlla i portali dell'origine misteriosa. Questi portali sono usati per popolare i nuovi mondi.„
+“I Earthlings possono fare domanda per un visto di IFEL e trovare una nuova vita in uno di questi mondi. Quegli individui eccezionali che si qualificano sono assegnati un genere speciale di visto: il visto dell'investitore. Gli investitori ricevono 100 milione dollari da IFEL per sviluppare queste colonie. il <b>You può essere uno di them.</b>„
+“La guarnizione„
+“Un prescelto poche aziende nel mondo può abbinare la versatilità ed il potere richiesti di vincere una guarnizione di IFEL.„
+“La guarnizione permette che un'azienda fornisca le soluzioni di tecnologia agli investitori. I proprietari correnti della guarnizione sono: PGI, imprese di Mariko, dissidenti inc, il Moab e magnum.„
+“Informazione del prezzo„
+“il <b>Legacy Online</b> sarà libero fino a nuovo avviso.„
+“Requisiti di sistema„
+“Per fare funzionare <b>Legacy Online</b> che avete bisogno di„
+“Pentium II 500 megahertz, un RAM di 32 MBYTE„
+“Windows 95, 98, NT 4.0, 2000, XP„
+“risoluzione di hicolor 800x600 o maggior„
+“Internet Explorer 5.5„
+“Spazio di disco rigido da 50 MBYTE„
+“Collegamento a Internet attivo„
+“Un modem di 28.8 Kb/s„
+“La velocità della vostra video carta in questi modi sarà determinante per il vostro gameplay.„
+“Benvenuto all'eredità in linea„
+“Questo programma installerà l'eredità in linea sul vostro calcolatore.„
+“Scegliere uno di seguenti collegamenti se volete conoscere più prima che installiate„
+“Requisiti„
+“Valutazione„
+“Aggiornando le componenti…„
+“il <b>Legacy Online</b> sta cercando le più nuove componenti.„
+“Inizio attività CINQUE„
+“Nuovo„
+“Cancellazione„
+“Risposta„
+“Di andata„
+“Messaggio della posta„
+“Scattare sopra la linguetta di <b>Inbox</b> per vedere i messaggi che avete ricevuto.„
+“Scattare sopra la linguetta di <b>Sent</b> per vedere i messaggi che avete trasmesso.„
+“In <b>Draft</b> troverete i messaggi non finiti conservati da voi.„
+“Scattare %1here%2 per leggere più circa la posta del Voyager.„
+“Spedire il messaggio„
+“Nessun collegamenti.„
+“Errore: Non può aprire il messaggio…„
+“Vicino„
+“Da„
+“„
+“Oggetto„
+“Data„
+“Benvenuto a %1!„
+“CERTIFICATO„
+“Allarme di suddivisione in zone!„
+“Alcuna della vostra costruzione è stata suddivisa in zone fuori. Ciò è una lista di loro. Scattare sopra il collegamento per avere il movimento del programma là.„
+“Nome:„
+“Azienda:„
+“Suddiviso in zone vicino:„
+“Data di Demoliton:„
+“Trasferimento di denaro riuscito„
+“National Bank„
+“Importo„
+“%1 cari:„
+“Il governo federale indipendente di %1 elasticità voi l'accoglienza più calorosa. Speriamo che moltiplichiate la vostra fortuna qui nel nostro paese, che ora è il vostro. Poichè un atto di compassione profonda il nostro governo è fiero stabilirgli lo stato “dell'ospite di onore„.„
+“Qui sono alcuni collegamenti utili„
+“Come investire i vostri soldi„
+“%1, il paese„
+“La costituzione di %1„
+“Circa l'ospite del premio di onore„
+il feedback>your feedback</a> e voi ha potuto urtare il gioco! Una nuova frontiera emozionante ora attende, va e prospera!“
+“Questo indirizzo di posta elettronica è stato generato a nessuna carica. Potete usarli per trasmettere e ricevere i messaggi con l'altra gente che già ha una residenza in %1, tuttavia, esso non funzionerà per trasmettere i messaggi ad altri mondi, compreso terra. Come dovete sapere, il Internet Engineering Task Force ancora sta sviluppando un protocollo che può essere usato attraverso i portali.„
+“Poichè un investitore voi fa rappresentare la destra ad un email libero tutta l'azienda generate. Questi clienti inoltre saranno generati a %1.net, il nostro dominio principale.„
+“Buona fortuna nel commercio!„
+“Benvenuto a bordo,„
+“Globale„
+Strategia di base Page>Strategy Section</a>.<br><br>If che non desiderate accettare questa nomina o vorreste dimetterti durante il vostro termine, commutare all'azienda del ministro, andare alla pagina di profilo e scattare sopra la dimissione Button.<br><br>Regards, il Consiglio del <br>IFEL.“
+“Attendere prego mentre il <b>Legacy Online</b> carica programmi oggetto le nuove lime…„
+“Nessun soldi da ricercare„
+“<b>%1</b> caro, il <br> secondo le nostre annotazioni, stavate provando a ricercare <b>%2</b> alle sedi dell'azienda <b>%3</b>.„
+“Purtroppo non avete abbastanza fondi per completarli senza trasmettere il vostro cliente nell'ambito dell'esame accurato di fallimento. Il <br><br> attende prego fino a che non abbiate più soldi prima della ricerca esso ancora.„
+“Purtroppo, non avete abbastanza fondi per l'autorizzazione allegata ad esso e l'acquisto di tale autorizzazione trasmetterebbe la vostra azienda nell'ambito dell'esame accurato di fallimento. Il <br><br> prego attende fino a che non abbiate più soldi o studia la possibilità di vendere un'altra autorizzazione prima della ricerca esso ancora.„
+“Riguardi, Consiglio del <br><br>IFEL„
+

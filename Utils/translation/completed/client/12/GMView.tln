@@ -1,0 +1,16 @@
+N2.Caption=Borttagnings
+Label1.Caption=Samtal till dig:
+OnlineList.Columns=3
+OnlineList.Columns.0=Pseudonym
+OnlineList.Columns.1=Jämnt
+OnlineList.Columns.2=Värld
+Label2.Caption=Vänta dig:
+WaitingList.Columns=3
+WaitingList.Columns.0=Pseudonym
+WaitingList.Columns.1=Jämnt
+WaitingList.Columns.2=Värld
+File1.Caption=&File
+EXitMnu.Caption=E&xit
+Shortcuts1.Caption=Genvägar
+Minimize1.Caption=Minimera
+Chat1.Caption=Pratstund!

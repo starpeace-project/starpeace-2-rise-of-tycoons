@@ -1,0 +1,17 @@
+lvConnections.Columns=6
+lvConnections.Columns.0=Adverteerder
+lvConnections.Columns.1=Eigenaar
+lvConnections.Columns.2=Prijs
+lvConnections.Columns.3=Teveel betaald
+lvConnections.Columns.4=Duur
+lvConnections.Columns.5=Kwaliteit
+Label1.Caption=Laatste Waarde:
+xfer_FluidValue.Caption=n/a
+Label2.Caption=Kosten:
+xfer_LastCost.Caption=n/a
+Label3.Caption=Reclame:
+xfer_AdPerc.Hint=0%
+lbAdPerc.Caption=0
+btnHireSuppliers.Hint=Klik hier om nieuwe cliënten in te huren
+btnHireSuppliers.Text=Huur
+btnModify.Hint=Klik hier om de geselecteerde verbinding te wijzigen

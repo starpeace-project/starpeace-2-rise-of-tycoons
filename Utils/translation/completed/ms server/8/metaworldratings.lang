@@ -1,0 +1,17 @@
+﻿WorldProjects.Wealth.Name=경제 부
+Target=WorldRatings
+LangId=8
+WorldRatings.CampaignAccuracy.Name=캠페인 성취
+WorldRatings.College.Name=대학
+WorldRatings.Disposal.Name=쓰레기 분쇄 처리
+WorldRatings.Fire.Name=불 적용
+WorldRatings.Health.Name=의료보험 커버 내역
+WorldRatings.Jail.Name=감옥
+WorldRatings.Museum.Name=박물관
+WorldRatings.Police.Name=경찰 적용
+WorldRatings.PopGrowth.Name=도시 성장
+WorldRatings.School.Name=학교 적용
+WorldRatings.Services.Name=서비스와 오락
+WorldRatings.Sport.Name=휴양 기능
+WorldRatings.Taxes.Name=세금
+WorldRatings.Unemployment.Name=고용

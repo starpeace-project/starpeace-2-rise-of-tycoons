@@ -1,0 +1,17 @@
+﻿PublicFacilities.Sport.Name=휴양 기능
+Target=등급
+LangId=8
+Ratings.CampaignAccuracy.Name=캠페인 성취
+Ratings.College.Name=대학
+Ratings.Disposal.Name=쓰레기 분쇄 처리
+Ratings.Fire.Name=불 적용
+Ratings.Health.Name=의료보험 커버 내역
+Ratings.Jail.Name=감옥
+Ratings.Museum.Name=박물관
+Ratings.Police.Name=경찰 적용
+Ratings.PopGrowth.Name=도시 성장
+Ratings.School.Name=학교 적용
+Ratings.Services.Name=서비스와 오락
+Ratings.Sport.Name=휴양 기능
+Ratings.Taxes.Name=세금
+Ratings.Unemployment.Name=고용

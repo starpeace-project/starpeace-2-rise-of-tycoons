@@ -1,0 +1,12 @@
+ReadNews.Text=Lees Nieuws
+lvConnections.Columns=4
+lvConnections.Columns.0=Klant
+lvConnections.Columns.1=Bedrijf
+lvConnections.Columns.2=Verkoop
+lvConnections.Columns.3=T. kosten
+PricePc.Hint=0%
+Label3.Caption=Prijs:
+Price.Caption=0%
+btnHireSuppliers.Hint=Klik hier om uw product aan klanten aan te bieden
+btnHireSuppliers.Text=Aanbieding
+btnDelete.Hint=Klik hier om een klant te schrappen

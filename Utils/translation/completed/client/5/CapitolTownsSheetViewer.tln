@@ -1,0 +1,11 @@
+Label14.Caption=%
+lvTowns.Columns=6
+lvTowns.Columns.0=名字
+lvTowns.Columns.1=人口
+lvTowns.Columns.2=QOL
+lvTowns.Columns.3=商务
+lvTowns.Columns.4=财富
+lvTowns.Columns.5=税
+lbTax.Caption=税： 0%
+pbTax.Hint=0%
+btnElect.Text=选举

@@ -1,0 +1,29 @@
+#------------------------------------------------------------------------------
+VERSION = BWS.01
+#------------------------------------------------------------------------------
+!ifndef ROOT
+ROOT = $(MAKEDIR)\..
+!endif
+#------------------------------------------------------------------------------
+MAKE = $(ROOT)\bin\make.exe -$(MAKEFLAGS) -f$**
+DCC = $(ROOT)\bin\dcc32.exe $**
+BRCC = $(ROOT)\bin\brcc32.exe $**
+#------------------------------------------------------------------------------
+PROJECTS = FIVEModelServer.exe FilmNameGen.dll FIVEProfiler.dll WorldTst1.exe
+#------------------------------------------------------------------------------
+default: $(PROJECTS)
+#------------------------------------------------------------------------------
+
+FIVEModelServer.exe: FIVEModelServer.dpr
+  $(DCC)
+
+FilmNameGen.dll: FilmNameGen.dpr
+  $(DCC)
+
+FIVEProfiler.dll: ..\Kernel\FIVEProfiler.dpr
+  $(DCC)
+
+WorldTst1.exe: ..\Tests\WorldTst1.dpr
+  $(DCC)
+
+

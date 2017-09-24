@@ -1,0 +1,18 @@
+SYSTEM
+%s has entered %s
+%s has left %s.
+Channel "%s", created by %s. 
+user
+users
+and
+You need a password to enter this channel.
+There is no information associated to this object.
+Servers are busy creating backup files. Please wait.
+Backup to disk completed.
+THE POSTMAN
+You have mail from %s (%s).
+%s entered channel %s.
+%s entered lobby.
+%s left channel %s.
+%s left lobby.
+Server will go down for maintenance in %d minutes. Expected downtime estimated to be aprox. %d minutes.

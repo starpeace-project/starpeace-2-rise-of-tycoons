@@ -1,0 +1,2821 @@
+Konto
+(0)
+Profit Netto (strata)
+Droga
+Podatek [W zeszłym roku]
+Gospodarstwo rolne
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Budowa
+Biznesowy Maszyna
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Pożyczka
+Samochodowy przemysł
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Pieniądze Otrzymywać
+Fabryka chemikaliów
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Pieniądze Wysyłać
+Odziewać
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Czynsz
+Budowa
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Utrzymanie
+Elektroniczny
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Naprawa
+Karmowy Przerób
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Czynsz
+Przemysł ciężki
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Utrzymanie
+Urządzenie Przemysł
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Zabawka
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Residentials
+Naprawa
+Hutniczy przemysł
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Kopalnia
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Wieża wiertnicza
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Pensja
+Przemysł włókienniczy
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Rafineria
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Budżet Państwowy
+Oprogramowanie
+Koszt usługa
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Klingeryt
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Koszt operacyjny
+Usługi Prawne
+Koszt usługa
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Samochód
+Koszt towary sprzedawać
+Pensja
+Sprzedaż celny
+Odziewać Prowiantowy
+Koszt towary sprzedawać
+Pensja
+Sprzedaż celny
+Jedzenie
+Koszt towary sprzedawać
+Pensja
+Sprzedaż celny
+Bar
+Koszt towary sprzedawać
+Pensja
+Sprzedaż celny
+Handel
+Kwatera główna
+Gospodarstwo domowe Urządzenie
+Koszt towary sprzedawać
+Pensja
+Sprzedaż celny
+Zabawka Przechować
+Koszt towary sprzedawać
+Pensja
+Sprzedaż celny
+Researchs
+Supermarket
+Koszt towary sprzedawać
+Pensja
+Sprzedaż celny
+Pensja
+Restauracja
+Koszt towary sprzedawać
+Pensja
+Sprzedaż celny
+Wyposażenie
+Kino
+Koszt film licencja
+Pensja
+Film dochód
+Usługa
+Urzeczywistnienie Koszt
+Magazyn
+Koszt towary sprzedawać
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+TV
+Koszt produkcji
+Reklama dochód
+Pensja
+Koszt operacyjny
+Przemysł
+Do wynajęcia własność
+Farmaceutyka
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Dodatek specjalny
+Trunek Produkcja
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Wynagrodzenie
+Bank
+Dłużnik zapłata
+Wypuszczony pożyczka
+Pożyczka
+Pożyczkowy zapłata
+Jawny Udostępnienie
+Pensja
+Lek Przechować
+Koszt towary sprzedawać
+Pensja
+Sprzedaż dochód
+Benzynowy Stacja
+Koszt towary sprzedawać
+Pensja
+Dochód
+Biuro
+Firma
+Budowa Drogi
+Drogowy Rozbiórka
+Drogowy Utrzymanie
+Gruntowy Podatek
+Tarcica Młyn
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Meble Przechować
+Koszt towary sprzedawać
+Pensja
+Sprzedaż celny
+Książka Przechować
+Koszt towary sprzedawać
+Pensja
+Sprzedaż celny
+Meblarski Przemysł
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Komputer Przechować
+Koszt towary sprzedawać
+Pensja
+Sprzedaż celny
+Film Studio
+Koszt materiał
+Koncesja celny
+Pensja
+Koszt produkcji
+Żałobny Bawialnia
+Koszt Materiał
+Pensja
+Żałobny dochód
+Papierowy Przemysł
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Drukowy Roślina
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+CD Przemysł
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+CD Przechować
+Koszt towary sprzedawać
+Pensja
+Sprzedaż celny
+Organicznie Odpady
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Użyźniacz
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Zbożowy Gospodarstwo rolne A
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Młyn
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Bawełniany Roślina
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Trouser Roślina
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Trouser Sklep
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Piekarnia
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Owoc Gospodarstwo rolne
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Obuwiany Fabryka
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Gumowy Fabryka
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Gumowy Aprosza
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Gumowy Drzewo
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Owocowy Pasztetowy Fabryka
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Obuwiany Sklep
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Owocowy Kulebiak Sklep
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Warzywo Gospodarstwo rolne A  
+Koszt surowy materiał   
+Sprzedaż celny    
+Pensja    
+Koszt operacyjny    
+Gulasz Fabryka    
+Koszt surowy materiał    
+Sprzedaż celny    
+Pensja    
+Koszt operacyjny    
+Organicznie kopalnia    
+Koszt surowy materiał   
+Sprzedaż celny    
+Pensja    
+Koszt operacyjny    
+Polimer Fabryka   
+Koszt surowy materiał    
+Sprzedaż celny    
+Pensja    
+Koszt operacyjny    
+Nylonowy Fabryka
+Koszt surowy materiał    
+Sprzedaż celny    
+Pensja    
+Koszt operacyjny    
+Koszulowy fabryka
+Koszt surowy materiał    
+Sprzedaż celny    
+Pensja    
+Koszt operacyjny    
+Bydło Uprawiać ziemię A   
+Koszt surowy materiał    
+Sprzedaż celny    
+Pensja    
+Koszt operacyjny   
+Hamburger Fabryka  
+Koszt surowy materiał    
+Sprzedaż celny    
+Pensja    
+Koszt operacyjny    
+Surowy Substancja chemiczna kopalnia
+Koszt surowy materiał    
+Sprzedaż celny    
+Pensja    
+Koszt operacyjny    
+Górniczy Fabryka Chemikaliów
+Koszt surowy materiał    
+Sprzedaż celny    
+Pensja    
+Koszt operacyjny    
+Rzemienny fabryka
+Koszt surowy materiał    
+Sprzedaż celny    
+Pensja    
+Koszt operacyjny    
+Skórzana kurtka roślina
+Koszt surowy materiał    
+Sprzedaż celny    
+Pensja    
+Koszt operacyjny
+Hamburger Sklep
+Koszt surowy materiał    
+Sprzedaż celny    
+Pensja    
+Koszt operacyjny    
+Skórzana Kurtka Sklep
+Koszt surowy materiał    
+Sprzedaż celny    
+Pensja    
+Koszt operacyjny      
+Gulasz Sklep
+Koszt surowy materiał    
+Sprzedaż celny    
+Pensja    
+Koszt operacyjny       
+Koszula Sklep
+Koszt surowy materiał    
+Sprzedaż celny    
+Pensja
+Koszt operacyjny
+TV Produkcja
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Mały Samochodowy Przemysł
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Żelazny Kopalnia
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Silikonowy Kopalnia
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Kopalnia Węgla
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Stalowy Przemysł
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Kość Pamięci Przemysł
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+TV Przechować
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Mały Przedstawicielstwo Firmy Samochodowej
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Kopalnia Miedzi
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Ceramiczny Kopalnia
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Sosna Olej
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Miedziany Przemysł
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+JEDNOSTKA CENTRALNA Roślina
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Sport Samochód Przemysł
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+PECET Manufaktura
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Sport Przedstawicielstwo Firmy Samochodowej
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Aluminium Kopalnia
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Kriolit Kopalnia
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Silane Kopalnia
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Aluminiowy Przemysł
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+TFT Przemysł
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Motorowy Rower Przemysł
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+telefon komórkowy Przemysł
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+telefon komórkowy Sklep
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Motorowy Mike Przedstawicielstwo handlowe
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Parowozowy Przemysł
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Opona Przemysł
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Humvee Indsutry
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Kuchenka Przemysł
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Humvee Przedstawicielstwo handlowe
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Kuchenka Sklep
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Szklany Przemysł
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Conveyorbelt Przemysł
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Biznesowy Branża Informatyczna
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Betonowy Przemysł
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+przemysł ciężki
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Serwer Przemysł
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Plasterboard Przemysł
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Mechaniczny Przemysł
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Biznesowy Maszynowy Przemysł
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Gips Kopalnia
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Wapień Kopalnia
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Żwir Kopalnia
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+przemysł budowlany
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+system kontrolny Przemysł
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Sieć System Przemysł
+Koszt surowy materiał
+Sprzedaż celny
+Pensja
+Koszt operacyjny
+Usługa
+(0)
+Bar
+Samochód
+I Obuwie
+Farmaceutyka
+Przetwarzać Jedzenie
+Świeża Żywność
+Gaz
+Gospodarstwo domowe Urządzenie
+Film
+Restauracja
+Zabawka
+Książka
+Meble
+Komputer
+Pogrzeb
+CDs
+Spodnie
+Piekarnia
+But
+Owocowy Kulebiak
+Skórzana Kurtka
+Mc Puglands Hamburger Posiłek
+Koszula
+Irlandzki Gulasz
+Cutlery
+Stołowy Płótno
+Świeży Babeczka
+Szkło
+Talerz
+Mały Samochód
+Telewizja
+Krawat
+Kostium
+Pod Odzież
+Kapelusz
+Skarpeta
+Bielizna
+Scarves
+Rzemienny Spodnie
+Sport Samochód
+MP3 Gracz
+Drukarka
+Kamera wideo
+Hoovers
+DVD Gracz
+Czajnik
+Mikrofala
+Opiekacz
+Kuchenka
+Motorowy Rower
+telefon komórkowy
+Samochodowy Obmycie Zestaw
+Samochód Połysk
+Samochód Lotniczy Freshener
+Puszysty Kostka do gry
+Humvee
+PECET
+Udostępnienie
+(0)
+Ampuła Gospodarstwo rolne
+Wielki Gospodarstwo rolne
+Wielki Karmowy Procesor
+Wielki Karmowy Procesor
+Sklep Spożywczy
+Sklep Spożywczy
+Gospodarstwo rolne
+Gospodarstwo rolne
+Karmowy Procesor
+Karmowy Procesor
+Guruh Kopuła
+Guruh Kopuła
+Lothar Kopuła
+Lothar Kopuła
+Czarny Puchar
+Czarny Puchar
+Dusza Kopuła
+Dusza Kopuła
+Rodzajowy depresja klasa budynek
+Rodzajowy depresja klasa buildingss
+Capitol
+Capitols
+Żądło
+Żądło
+Davis Łęk
+Davis Łęk
+Mc Neonowy Wierza
+Mc Neonowy Górować
+Więzienie
+Więzienie
+Więzienie
+Więzienie
+Więzienie
+Więzienie
+Posterunek Straży Pożarnej
+Posterunek Straży Pożarnej
+Komenda Policji
+Komenda Policji
+Więzienie
+Więzienie
+Więzienie
+Więzienie
+Bank
+Bank
+Bar
+Bar
+Biznesowy Maszyna Przemysł
+Biznesowy Maszyna Industrys
+Samochodowy Fabryka
+Samochodowy Factorys
+Samochodowy Sklep
+Samochód Przechować
+Duży Park
+Duży Park
+Fabryka Chemikaliów
+Fabryka Chemikaliów
+Mały Fabryka Chemikaliów
+Mały Fabryka Chemikaliów
+Substancja chemiczna Kopalnia
+Chemiczny Kopalnia
+Mały Substancja chemiczna Kopalnia
+Mały Chemiczny Kopalnia
+Odziewać Sklep
+Odziewać Prowiantowy
+Ubraniowy Fabryka
+Factorys
+Mały Ubraniowy Fabryka
+Mały Ubraniowy Factorys
+Kopalnia Węgla
+Kopalnia Węgla
+Mały Kopalnia Węgla
+Mały Kopalnia Węgla
+Firma Informatyczna
+Firma Informatyczna
+przemysł budowlany
+Budowa Industrys
+Elektroniczny Przemysł
+Elektroniczny Industrys
+Mały Elektroniczny Przemysł
+Mały Elektroniczny Industrys
+Gospodarstwo rolne
+Gospodarstwo rolne
+Karmowy Procesor
+Karmowy Procesor
+Mały Karmowy Procesor
+Mały Karmowy Procesor
+Sklep Spożywczy
+Sklep Spożywczy
+Firma Kwatera główna
+Firma Headquarterss
+Maszyneria Przemysł
+Maszyneria Industrys
+Urządzenie Fabryczny
+Urządzenie Factorys
+Mały Urządzenie Fabryczny
+Mały Urządzenie Factorys
+Gospodarstwo domowe Urządzenie Sklep
+Gospodarstwo domowe Urządzenie Przechować
+Igła
+Igła
+Balonowy Dom
+Balonowy Dom
+Lej
+Lej
+Chałupa
+Chałupa
+Rodzajowy wysokość klasa budynek
+Rodzajowy wysokość klasa budynek
+Szpital
+Szpital
+Jaszczurka Park
+Jaszczurka Park
+Dziwożona Park
+Dziwożona Park
+Kurczak Park
+Kurczak Park
+Obcy Park
+Obcy Park
+Szkoła wyższa
+Szkoła wyższa
+Usyp
+Usyp
+Więzienie
+Więzienie
+Muzeum
+Muzeum
+Tenisowy sąd
+Tenisowy courtss
+Urząd Miasta
+Urząd Miasta
+Handlowy Centrum
+Handlowy Centrum
+Przemysł Kwatera główna
+Przemysł Headquarterss
+Prawnik Firma
+Prawnik Firma
+Statua Wolności
+Statua Libertys
+Trunek roślina
+Trunek roślina
+Przetwarzać Dom
+Przetwarzać Homess
+Przetwarzać Budynek
+Przetwarzać Buildingss
+Sardynka Puszka
+Sardynka Canss
+Rodzajowy depresja klasa budynek
+Rodzajowy depresja klasa budynek
+Park
+Park
+Metal Przemysł
+Metal Industrys
+Mały Metal Przemysł
+Mały Metal Industrys
+Sen Wierza
+Sen Górować
+The Pieczarka
+The Mushroomss
+The Bushings
+The Bushingss
+Screwer
+Screwers
+Kasztel
+Castless
+Rodzajowy klasa średnia budynek
+Rodzajowy klasa średnia budynek
+Kopalnia
+Kopalnia
+Mały Kopalnia
+Mały Kopalnia
+Kino
+Kino
+Ziobro
+Ribss
+Czerwony Piłka
+Czerwony Piłka
+Duango
+Duangos
+Policja i Posterunek Straży Pożarnej 
+Policja i Posterunek Straży Pożarnej
+Obywatelski Sprawa Kwatera główna
+Obywatelski Sprawa Headquarterss
+Nieruchomość Kwatera główna
+Nieruchomość Headquarterss
+Restauracja
+Restauracja
+Szkoła
+Szkoła
+Handel Kwatera główna
+Handel Kwatera główna
+Silikon Kopalnia
+Silikonowy Kopalnia
+Mały Silikon Kopalnia
+Mały Silikonowy Kopalnia
+Mały Gospodarstwo rolne
+Mały Gospodarstwo rolne
+Mały Park
+Mały Park
+Kamienny Kopalnia
+Kamienny Kopalnia
+Mały Kamień Kopalnia
+Mały Kamienny Kopalnia
+Duży Rynek
+Duży Rynek
+pchli targ
+pchli targ
+Przemysł Włókienniczy
+Tekstylny Industrys
+Mały Przemysł Włókienniczy
+Mały Tekstylny Industrys
+IFEL Wierza
+IFEL Górować
+Zabawkarski Fabryka
+Zabawkarski Factorys
+Zabawkarski Sklep
+Zabawka Przechować
+TV Antena
+TV Antena
+TV
+TVs
+Szkoła wyższa
+Szkoła wyższa
+Muzeum
+Muzeum
+Szkoła wyższa
+Szkoła wyższa
+Muzeum
+Muzeum
+Szkoła wyższa
+Szkoła wyższa
+Muzeum
+Muzeum
+Szkoła
+Szkoła
+Szkoła wyższa
+Szkoła wyższa
+Muzeum
+Muzeum
+Szkoła wyższa
+Szkoła wyższa
+Muzeum
+Muzeum
+Jaszczurka Park
+Jaszczurka Park
+Dziwożona Park
+Dziwożona Park
+Kurczak Park
+Kurczak Park
+Obcy Park
+Obcy Park
+Usyp
+Usyp
+Jaszczurka Park
+Jaszczurka Park
+Dziwożona Park
+Dziwożona Park
+Kurczak Park
+Kurczak Park
+Obcy Park
+Obcy Park
+Usyp
+Usyp
+Jaszczurka Park
+Jaszczurka Park
+Dziwożona Park
+Dziwożona Park
+Kurczak Park
+Kurczak Park
+Obcy Park
+Obcy Park
+Usyp
+Usyp
+Duży Park
+Duży Park
+Szpital
+Szpital
+Statua Wolności
+Statua Libertys
+Park
+Park
+Mały Park
+Mały Park
+Jaszczurka Park
+Jaszczurka Park
+Dziwożona Park
+Dziwożona Park
+Kurczak Park
+Kurczak Park
+Obcy Park
+Obcy Park
+Usyp
+Usyp
+Jaszczurka Park
+Jaszczurka Park
+Dziwożona Park
+Dziwożona Park
+Kurczak Park
+Kurczak Park
+Obcy Park
+Obcy Park
+Usyp
+Usyp
+Samochodowy Fabryka
+Samochodowy Factorys
+Samochodowy Sklep
+Samochód Przechować
+Wielki Fabryka Chemikaliów
+Wielki Fabryka Chemikaliów
+Wielki Substancja chemiczna Kopalnia
+Wielki Chemiczny Kopalnia
+Wielki Kopalnia Węgla
+Wielki Kopalnia Węgla
+przemysł budowlany
+Budowa Industrys
+Maszyneria Przemysł
+Maszyneria Industrys
+Wielki Hutniczy Przemysł
+Wielki Hutniczy Industrys
+Ampuła Kopalnia
+Wielki Kopalnia
+Wielki Silikon Kopalnia
+Wielki Silikonowy Kopalnia
+Fabryka Chemikaliów
+Fabryka Chemikaliów
+Substancja chemiczna Kopalnia
+Chemiczny Kopalnia
+Kopalnia Węgla
+Kopalnia Węgla
+Hutniczy Przemysł
+Hutniczy Industrys
+Kopalnia
+Kopalnia
+Silikon Kopalnia
+Silikonowy Kopalnia
+Kamienny Kopalnia
+Kamienny Kopalnia
+Ampuła Kamień Kopalnia
+Ampuła Drylować Kopalnia
+Guruh Kopuła
+Guruh Kopuła
+Lothar Kopuła
+Lothar Kopuła
+Czarny Puchar
+Czarny Puchar
+Dusza Kopuła
+Dusza Kopuła
+Rodzajowy depresja klasa budynek
+Rodzajowy depresja klasa buildingss
+Igła
+Igła
+Balonowy Dom
+Balonowy Dom
+Lej
+Lej
+Chałupa
+Chałupa
+Rodzajowy wysokość klasa budynek
+Rodzajowy wysokość klasa budynek
+Tenisowy sąd
+Tenisowy courtss
+Przetwarzać Dom
+Przetwarzać Homess
+Przetwarzać Budynek
+Przetwarzać Buildingss
+Sardynka Puszka
+Sardynka Canss
+Rodzajowy depresja klasa budynek
+Rodzajowy depresja klasa budynek
+Sen Wierza
+Sen Górować
+The Pieczarka
+The Mushroomss
+The Bushings
+The Bushingss
+Screwer
+Screwers
+Kasztel
+Castless
+Rodzajowy klasa średnia budynek
+Rodzajowy klasa średnia budynek
+Zharot Pałac
+Zharot Pałac
+Czarny Pałac
+Czarny Pałac
+Rycerz Kopuła
+Rycerz Kopuła
+Rycerz Bungalow
+Rycerz Bungalow
+Rodzajowy wysokość klasa budynek
+Rodzajowy wysokość klasa buildingss
+Obłoczny Miasto
+Obłoczny Citys
+Pracownik Niebo
+Pracownik Niebo
+The Rój
+The Rój
+wieża z kości słoniowej
+wieża z kości słoniowej
+May
+Maj Kwiat
+The Ośmiornica
+The Octopuss
+Solarium
+Solarium
+The Bełkowisko
+The Bełkowisko
+Katana Dom
+Katana Dom
+Sohei Dom
+Sohei Dom
+Tarakawa Dom
+Tarakawa Dom
+Tani Burżuazja budynek
+Tani Burżuazja buildingss
+Katana Budynek
+Katana Budynek
+Nikotori Budynek
+Nikotori Budynek
+Hazobito Budynek
+Hazobito Budynek
+Hisogari Budynek
+Hisogari Budynek
+Tani Tani budynek
+Tani Tani buildingss
+Somsei-Taj Pokój
+Somsei-Taj Roomss
+Marakas Pokój
+Marakas Roomss
+Yohito Pokój
+Yohito Roomss
+Hirijoto-Manko Pokój
+Hirijoto-Manko Roomss
+Tani MiddleClass budynek
+Tani MiddleClass buildingss
+Tenisowy sąd
+Tenisowy courtss
+Tenisowy sąd
+Tenisowy courtss
+Pielęgniarka Kopuła
+Pielęgniarka Kopuła
+Pielęgniarka Zoo
+Pielęgniarka Zoo
+Pielęgniarka Pokój
+Pielęgniarka Roomss
+Pielęgniarka Braterstwo
+Pielęgniarka Fraternitys
+Rodzajowy klasa średnia budynek
+Rodzajowy klasa średnia buildingss
+Xanadu Pałac
+Xanadu Pałac
+Atrium
+Atrium
+The Willington
+The Willingtons
+Złoty Nakrętka
+Złoty Nakrętka
+Kent Kwadrat
+Kent Kwadrat
+Lisgar Górować
+Lisgar Towerss
+Rodzajowy wysokość klasa budynek
+Rodzajowy wysokość klasa buildingss
+Playfair Górować
+Playfair Towerss
+Arlington Pokój
+Arlington Roomss
+Caesar Atrium
+Caesar Atrium
+The Sicily
+The Sicilys
+Rodzajowy depresja klasa budynek
+Rodzajowy depresja klasa budynek
+Gladston Apts.
+Gladston Apts.s
+Quincy
+Quincys
+Metcalfe Górować
+Metcalfe Towerss
+Delmar Apts.
+Delmar Apts.s
+Zmierzch Apts.
+Zmierzch Apts.s
+Rodzajowy klasa średnia budynek
+Rodzajowy klasa średnia buildingss
+Tenisowy sąd
+Tenisowy courtss
+Samorzutny budynek
+Samorzutny budynek
+Tenisowy sąd
+Tenisowy courtss
+Zharot Pałac
+Zharot Pałac
+Czarny Pałac
+Czarny Pałac
+Rycerz Kopuła
+Rycerz Kopuła
+Rycerz Bungalow
+Rycerz Bungalow
+Rodzajowy wysokość klasa budynek
+Rodzajowy wysokość klasa buildingss
+Biznesowy Maszyna Przemysł
+Biznesowy Maszyna Industrys
+Ampuła Odzieżowy Przemysł
+Ampuła Odzieżowy Industrys
+Lek Sklep
+Lek Przechować
+Wielki Elektroniczny Przemysł
+Wielki Elektroniczny Industrys
+Wielki Urządzenie Fabryczny
+Wielki Urządzenie Factorys
+przemysł farmaceutyczny
+Farmaceutyczny Industrys
+Odzieżowy Przemysł
+Odzieżowy Industrys
+Elektroniczny Przemysł
+Elektroniczny Industrys
+Urządzenie Fabryczny
+Urządzenie Factorys
+Przemysł Włókienniczy
+Tekstylny Industrys
+Wielki Przemysł Włókienniczy
+Wielki Tekstylny Industrys
+Duży Park
+Duży Park
+Obłoczny Miasto
+Obłoczny Citys
+Pracownik Niebo
+Pracownik Niebo
+The Rój
+The Rój
+wieża z kości słoniowej
+wieża z kości słoniowej
+Statua Wolności
+Statua Libertys
+May
+Maj Kwiat
+Park
+Park
+The Ośmiornica
+The Octopuss
+Mały Park
+Mały Park
+Solarium
+Solarium
+IFEL Wierza
+IFEL Górować
+The Bełkowisko
+The Bełkowisko
+Biznesowy Maszyna
+Biznesowy Machiness
+Samochodowy Przemysł
+Samochodowy Industrys
+Samochodowy Sklep
+Samochód Przechować
+Fabryka Chemikaliów
+Fabryka Chemikaliów
+Substancja chemiczna Kopalnia
+Chemiczny Kopalnia
+Odziewać Sklep
+Odziewać Prowiantowy
+Ubraniowy Przemysł
+Industrys
+Kopalnia Węgla
+Kopalnia Węgla
+przemysł budowlany
+Budowa Industrys
+Elektroniczny Przemysł
+Elektroniczny Industrys
+Gospodarstwo rolne
+Gospodarstwo rolne
+Karmowy Procesor
+Karmowy Procesor
+Sklep Spożywczy
+Sklep Spożywczy
+Firma Kwatera główna
+Firma Headquarterss
+Maszyneria Przemysł
+Maszyneria Industrys
+Gospodarstwo domowe Urządzenie
+Gospodarstwo domowe Appliancess
+Urządzenie Sklep
+Urządzenie Przechować
+Katana Dom
+Katana Dom
+Sohei Dom
+Sohei Dom
+Tarakawa Dom
+Tarakawa Dom
+Tani Burżuazja budynek
+Tani Burżuazja buildingss
+Szpital
+Szpital
+Przemysł Kwatera główna
+Przemysł Headquarterss
+Statua Wolności
+Statua Libertys
+Katana Budynek
+Katana Budynek
+Nikotori Budynek
+Nikotori Budynek
+Hazobito Budynek
+Hazobito Budynek
+Hisogari Budynek
+Hisogari Budynek
+Tani Tani budynek
+Tani Tani buildingss
+Metal Przemysł
+Metal Industrys
+Somsei-Taj Pokój
+Somsei-Taj Roomss
+Marakas Pokój
+Marakas Roomss
+Yohito Pokój
+Yohito Roomss
+Hirijoto-Manko Pokój
+Hirijoto-Manko Roomss
+Tani MiddleClass budynek
+Tani MiddleClass buildingss
+Kopalnia
+Kopalnia
+Plastikowy Przemysł
+Plastikowy Industrys
+Policja i Posterunek Straży Pożarnej
+Policja i Posterunek Straży Pożarnej
+Obywatelski Sprawa Kwatera główna
+Obywatelski Sprawa Headquarterss
+Nieruchomość Kwatera główna
+Nieruchomość Headquarterss
+Szkoła
+Szkoła
+Handel Kwatera główna
+Handel Kwatera główna
+Silikon Kopalnia
+Silikonowy Kopalnia
+Mały Fabryka Chemikaliów
+Mały Fabryka Chemikaliów
+Mały Substancja chemiczna Kopalnia
+Mały Chemiczny Kopalnia
+Mały Ubraniowy Przemysł
+Mały Ubraniowy Industrys
+Mały Kopalnia Węgla
+Mały Kopalnia Węgla
+Mały Elektroniczny Przemysł
+Mały Elektroniczny Industrys
+Mały Gospodarstwo rolne
+Mały Gospodarstwo rolne
+Mały Karmowy Procesor
+Mały Karmowy Procesor
+Mały Gospodarstwo domowe Urządzenie
+Mały Gospodarstwo domowe Appliancess
+Mały Metal Przemysł
+Mały Metal Industrys
+Mały Kopalnia
+Mały Kopalnia
+Mały Silikon Kopalnia
+Mały Silikonowy Kopalnia
+Mały Kamień Kopalnia
+Mały Kamienny Kopalnia
+Mały Przemysł Włókienniczy
+Mały Tekstylny Industrys
+Jaszczurka Park
+Jaszczurka Park
+Dziwożona Park
+Dziwożona Park
+Kurczak Park
+Kurczak Park
+Obcy Park
+Obcy Park
+Szkoła wyższa
+Szkoła wyższa
+Usyp
+Usyp
+Więzienie
+Więzienie
+Muzeum
+Muzeum
+Tenisowy sąd
+Tenisowy courtss
+Kamienny Kopalnia
+Kamienny Kopalnia
+Takuri Rynek
+Takuri Rynek
+Tamakura Rynek
+Tamakura Rynek
+Satoi Rynek
+Satoi Rynek
+Przemysł Włókienniczy
+Tekstylny Industrys
+IFEL Wierza
+IFEL Górować
+Urząd Miasta
+Urząd Miasta
+Handlowy Centrum
+Handlowy Centrum
+TV Antena
+TV Antena
+TV
+TVs
+CD Roślina
+CD Roślina
+CD Sklep
+CD Przechować
+Ministerstwo Kwatera główna
+Ministerstwo Headquarterss
+Ministerstwo Kwatera główna
+Ministerstwo Headquarterss
+Ministerstwo Kwatera główna
+Ministerstwo Headquarterss
+Ministerstwo Kwatera główna
+Ministerstwo Headquarterss
+Ministerstwo Kwatera główna
+Ministerstwo Headquarterss
+Ministerstwo Kwatera główna
+Ministerstwo Headquarterss
+Ministerstwo Kwatera główna
+Ministerstwo Headquarterss
+Ministerstwo Kwatera główna
+Ministerstwo Headquarterss
+Duży Park
+Duży Park
+Park
+Park
+Yamamoto
+Yamamotos
+Tanakuta
+Tanakutas
+Sato Cyklina
+Sato Cyklina
+Kunawa Cyklina
+Kunawa Cyklina
+Koto-ku
+Koto-kus
+Mały Park
+Mały Park
+Kopuła Radość
+Kopuła Radość
+Moab Więzienny
+Moab Correctionals
+Biznesowy Maszyna Kopuła
+Biznesowy Maszyna Kopuła
+Samochód Kopuła
+Samochód Kopuła
+Samochodowy Sklep
+Samochód Przechować
+Duży Park
+Duży Park
+Substancja chemiczna Kopuła
+Substancja chemiczna Kopuła
+Substancja chemiczna Kopalnia
+Chemiczny Kopalnia
+Odziewać Sklep
+Odziewać Prowiantowy
+Kopuła Odziewać
+Kopuła Odziewać
+Kopalnia Węgla
+Kopalnia Węgla
+Firma Informatyczna
+Firma Informatyczna
+Budowa Kopuła
+Budowa Kopuła
+Obywatelski Sprawa Wierza
+Obywatelski Sprawa Górować
+Kopuła Układ scalony
+Kopuła Chipss
+Karmowy Krater
+Karmowy Krater
+Karmowy Kopuła
+Karmowy Kopuła
+Sklep Spożywczy
+Sklep Spożywczy
+Benzynowy Stacja
+Benzynowy Stacja
+Moab Katedra
+Moab Katedra
+Maszyneria Kopuła
+Maszyneria Kopuła
+Gospodarstwo domowe Urządzenie Kopuła
+Gospodarstwo domowe Urządzenie Kopuła
+Gospodarstwo domowe Urządzenie Sklep
+Gospodarstwo domowe Urządzenie Przechować
+Handel Wierza
+Handel Górować
+Przemysł Wierza
+Przemysł Górować
+Prawnik Firma
+Prawnik Firma
+Statua Wolności
+Statua Libertys
+Park
+Park
+Metal Kopuła
+Metal Kopuła
+Kopalnia
+Kopalnia
+Kino
+Kino
+Moab Bazylika
+Moab Bazylika
+Ciemny Crysler
+Ciemny Cryslers
+Wieża Wiertnicza
+Wieża Wiertnicza
+Rafineria Kopuła
+Rafineria Kopuła
+Nieruchomość Wierza
+Nieruchomość Górować
+Obiadowy Kopuła
+Obiadowy Kopuła
+Silikon Kopalnia
+Silikonowy Kopalnia
+Mały Park
+Mały Park
+Jaszczurka Park
+Jaszczurka Park
+Dziwożona Park
+Dziwożona Park
+Kurczak Park
+Kurczak Park
+Obcy Park
+Obcy Park
+Szkoła wyższa
+Szkoła wyższa
+Usyp
+Usyp
+Więzienie
+Więzienie
+Muzeum
+Muzeum
+Tenisowy sąd
+Tenisowy courtss
+Kamienny Kopalnia
+Kamienny Kopalnia
+Moab Supermarket
+Moab Supermarket
+Kopuła Nić
+Kopuła Threadss
+IFEL Wierza
+IFEL Górować
+Urząd Miasta
+Urząd Miasta
+Handlowy Centrum
+Handlowy Centrum
+TV Antena
+TV Antena
+TV
+TVs
+Pielęgniarka Kopuła
+Pielęgniarka Kopuła
+Pielęgniarka Zoo
+Pielęgniarka Zoo
+Pielęgniarka Pokój
+Pielęgniarka Roomss
+Pielęgniarka Braterstwo
+Pielęgniarka Fraternitys
+Rodzajowy klasa średnia budynek
+Rodzajowy klasa średnia buildingss
+Bar
+Bar
+Biznesowy Maszyna Przemysł
+Biznesowy Maszyna Industrys
+Samochodowy Fabryka
+Samochodowy Factorys
+Samochodowy Sklep
+Samochód Przechować
+Duży Park
+Duży Park
+Wielki Fabryka Chemikaliów
+Wielki Fabryka Chemikaliów
+Wielki Substancja chemiczna Kopalnia
+Wielki Chemiczny Kopalnia
+Ampuła Odzieżowy Przemysł
+Ampuła Odzieżowy Industrys
+Wielki Kopalnia Węgla
+Wielki Kopalnia Węgla
+Firma Informatyczna
+Firma Informatyczna
+przemysł budowlany
+Budowa Industrys
+Lek Sklep
+Lek Przechować
+Wielki Elektroniczny Przemysł
+Wielki Elektroniczny Industrys
+Ampuła Gospodarstwo rolne
+Wielki Gospodarstwo rolne
+Posterunek Straży Pożarnej
+Posterunek Straży Pożarnej
+Wielki Karmowy Procesor
+Wielki Karmowy Procesor
+Sklep Spożywczy
+Sklep Spożywczy
+Firma Kwatera główna
+Firma Kwatera główna
+Maszyneria Przemysł
+Maszyneria Industrys
+Wielki Urządzenie Fabryczny
+Wielki Urządzenie Factorys
+Xanadu Pałac
+Xanadu Pałac
+Atrium
+Atrium
+The Willington
+The Willingtons
+Złoty Nakrętka
+Złoty Nakrętka
+Kent Kwadrat
+Kent Kwadrat
+Lisgar Górować
+Lisgar Towerss
+Rodzajowy wysokość klasa budynek
+Rodzajowy wysokość klasa buildingss
+Szpital
+Szpital
+Przemysł Kwatera główna
+Przemysł Headquarterss
+Prawnik Firma
+Prawnik Firma
+Statua Wolności
+Statua Libertys
+Playfair Górować
+Playfair Towerss
+Arlington Pokój
+Arlington Roomss
+Caesar Atrium
+Caesar Atrium
+The Sicily
+The Sicilys
+Rodzajowy depresja klasa budynek
+Rodzajowy depresja klasa budynek
+Park
+Park
+Wielki Hutniczy Przemysł
+Wielki Hutniczy Industrys
+Gladston Apts.
+Gladston Apts.s
+Quincy
+Quincys
+Metcalfe Górować
+Metcalfe Towerss
+Delmar Apts.
+Delmar Apts.s
+Zmierzch Apts.
+Zmierzch Apts.s
+Rodzajowy klasa średnia budynek
+Rodzajowy klasa średnia buildingss
+Ampuła Kopalnia
+Wielki Kopalnia
+Delmar's Kino
+Delmar's Kino
+Baltimore Kino
+Baltimore Kino
+Żądło
+Żądło
+Davis Łęk
+Davis Łęk
+Mc Neonowy Wierza
+Mc Neonowy Górować
+przemysł farmaceutyczny
+Farmaceutyczny Industrys
+Komenda Policji
+Komenda Policji
+Obywatelski Sprawa Kwatera główna
+Obywatelski Sprawa Headquarterss
+Nieruchomość Kwatera główna
+Nieruchomość Headquarterss
+Restauracja
+Restauracja
+Szkoła
+Szkoła
+Handel Kwatera główna
+Handel Kwatera główna
+Wielki Silikon Kopalnia
+Wielki Silikonowy Kopalnia
+Fabryka Chemikaliów
+Fabryka Chemikaliów
+Substancja chemiczna Kopalnia
+Chemiczny Kopalnia
+Odzieżowy Przemysł
+Odzieżowy Industrys
+Kopalnia Węgla
+Kopalnia Węgla
+Elektroniczny Przemysł
+Elektroniczny Industrys
+Gospodarstwo rolne
+Gospodarstwo rolne
+Karmowy Procesor
+Karmowy Procesor
+Urządzenie Fabryczny
+Urządzenie Factorys
+Hutniczy Przemysł
+Hutniczy Industrys
+Kopalnia
+Kopalnia
+Mały Park
+Mały Park
+Silikon Kopalnia
+Silikonowy Kopalnia
+Kamienny Kopalnia
+Kamienny Kopalnia
+Przemysł Włókienniczy
+Tekstylny Industrys
+Jaszczurka Park
+Jaszczurka Park
+Dziwożona Park
+Dziwożona Park
+Kurczak Park
+Kurczak Park
+Obcy Park
+Obcy Park
+Szkoła wyższa
+Szkoła wyższa
+Usyp
+Usyp
+Więzienie
+Więzienie
+Muzeum
+Muzeum
+Tenisowy sąd
+Tenisowy courtss
+Ampuła Kamień Kopalnia
+Ampuła Drylować Kopalnia
+Centrum handlowe
+Centrum handlowe
+Supermarket
+Supermarket
+Hala targowa
+Hala targowa
+Wielki Przemysł Włókienniczy
+Wielki Tekstylny Industrys
+IFEL Wierza
+IFEL Górować
+Urząd Miasta
+Urząd Miasta
+Handlowy Centrum
+Handlowy Centrum
+TV Antena
+TV Antena
+TV
+TVs
+Samorzutny budynek
+Samorzutny budynek
+Jaszczurka Park
+Jaszczurka Park
+Dziwożona Park
+Dziwożona Park
+Kurczak Park
+Kurczak Park
+Obcy Park
+Obcy Park
+Szkoła wyższa
+Szkoła wyższa
+Usyp
+Usyp
+Więzienie
+Więzienie
+Muzeum
+Muzeum
+Tenisowy sąd
+Tenisowy courtss
+Chemiczny Magazyn
+Chemiczny Magazyn
+Zimny Magazyn
+Zimny Magazyn
+Tkanina Składowy
+Tkanina Magazyn
+Ogólny Magazyn
+Ogólny Magazyn
+Rudny Magazyn
+Rudny Magazyn
+Super Zimny Magazyn
+Super Zimny Magazyn
+Importowy Magazyn
+Importowy Magazyn
+Eksportowy Magazyn
+Eksportowy Magazyn
+Światowy Populacja Kontroler
+Światowy Populacja Kontroler
+The Koszarować
+The Barrackss
+Iglica
+Iglica
+Niebo Kopuła
+Niebo Kopuła
+Niebo Sprzedawca
+Niebo Sprzedawca
+Galaxie
+Galaktyka
+The Wiosna
+The Wiosna
+Taramagushi
+Taramagushies
+Błękitny Pokój
+Błękitny Pokój
+Mariko Mariko
+Marikos Marikos
+Mały Koto
+Mały Kotos
+Biały Buda
+Biały Buda
+Lion Pokój
+Lion Pokój
+Błękitny Dwór
+Błękitny Dwór
+Różowy Dwór
+Różowy Dwór
+Mountbatten Pokój
+Mountbatten Pokój
+The Ambassador
+The Ambassadors
+The Iglica
+The Iglica
+Legenda Mauzoleum
+Legenda Mauzoleum
+Paradygmat Mauzoleum
+Paradygmat Mauzoleum
+Badawczy Centrum
+Badawczy Centrum
+UW Substancja chemiczna Magazyn
+UW Substancja chemiczna Magazyn
+UW Zimno Magazyn
+UW Zimno Magazyn
+UW Tkanina Składowy
+UW Tkanina Magazyn
+UW Ogólny Magazyn
+UW Ogólny Magazyn
+UW Kruszec Magazyn
+UW Kruszec Magazyn
+UW Super Zimny Magazyn
+UW Super Zimny Magazyn
+Importowy Magazyn
+Importowy Magazyn
+Eksportowy Magazyn
+Eksportowy Magazyn
+Tarcica Młyn
+Tarcica Młyn
+Książkowy Sklep
+Książka Przechować
+Meblarski Fabryka
+Meblarski Fabryka
+Meblarski Sklep
+Meble Przechować
+Komputerowy Sklep
+Komputer Przechować
+Film Studio
+Film Studio
+Żałobny Bawialnia
+Żałobny Bawialnia
+Żałobny Bawialnia
+Żałobny Bawialnia
+Papierowy Przemysł
+Papierowy Przemysł
+Drukowy Roślina
+Drukowy Roślina
+Drukowy Roślina
+Drukowy Roślina
+Portal
+Portal
+Firma Kwatera główna
+Firma Kwatera główna
+Firma Kwatera główna
+Firma Kwatera główna
+Firma Kwatera główna
+Firma Kwatera główna
+Firma Kwatera główna
+Firma Kwatera główna
+Organicznie odpady
+Organicznie odpady
+Mały Organicznie odpady
+Mały Organicznie odpady
+Użyźniacz Roślina
+Użyźniacz Roślina
+Mały Użyźniacz Roślina
+Mały Użyźniacz Roślina
+Zbożowy Gospodarstwo rolne A
+Zbożowy Gospodarstwo rolne A
+Mały Adra Gospodarstwo rolne A
+Mały Adra Gospodarstwo rolne A
+Młyn
+Młyn
+Mały Młyn
+Mały Młyn
+Bawełniany Roślina
+Bawełniany Roślina
+Mały Bawełniany Roślina
+Mały Bawełniany Roślina
+Trouser Roślina
+Trouser Roślina
+Mały Trouser Roślina
+Mały Trouser Roślina
+Trouser Sklep
+Trouser Sklep
+Piekarnia
+Bakerys
+Fruitpie Fabryka
+Fruitpie Fabryka
+Owoc Gospodarstwo rolne A
+Owoc Rolny A
+Gumowy Aprosza Fabryka
+Gumowy Aprosza Fabryka
+Gumowy Drzewny Plantacja
+Gumowy Drzewny Plantacja
+Gumowy Fabryka
+Gumowy Fabryka
+Obuwiany Fabryka
+Obuwiany Fabryka
+Owocowy Kulebiak Sklep
+Owocowy Pasztetowy Sklep
+Obuwiany Sklep
+Obuwiany Sklep
+Mały Warzywo Gospodarstwo rolne A
+Mały Warzywo Gospodarstwo rolne A
+Warzywo Gospodarstwo rolne A
+Warzywo Rolny A
+Mały gulasz fabryka
+Mały gulasz fabryka
+Gulasz fabryka
+Gulasz fabryka
+Mały organicznie Kopalnia
+Mały organicznie Kopalnia
+Organicznie Kopalnia
+Organicznie Kopalnia
+Mały polimer Fabryka
+Mały polimer Fabryka
+polimer Fabryka
+polimer Fabryka
+Mały Nylonowy Fabryka
+Mały Nylonowy Fabryka
+Nylonowy Fabryka
+Nylonowy Fabryka
+Mały Koszulowy Fabryka
+Mały Koszulowy Fabryka
+Koszulowy Fabryka
+Koszulowy Fabryka
+Gulasz Sklep
+Obuwiany Sklep
+Koszula Sklep
+Koszulowy Sklep
+Mały Bydło uprawiać ziemię A
+Mały Bydło uprawiać ziemię A
+Bydło uprawiać ziemię A
+Bydło rolny A
+Mały Hamburger fabryka
+Mały Hamburger fabryka
+Hamburger fabryka
+Hamburger fabryka
+Mały Surowy Substancja chemiczna Kopalnia
+Mały Surowy Chemiczny Kopalnia
+Surowy Substancja chemiczna Kopalnia
+Surowy Chemiczny Kopalnia
+Mały Górniczy fabryka chemikaliów
+Mały Górniczy fabryka chemikaliów
+Górniczy fabryka chemikaliów
+Górniczy fabryka chemikaliów
+Mały Rzemienny roślina
+Mały Rzemienny roślina
+Rzemienny roślina
+Rzemienny roślina
+Mały Skórzana kurtka roślina
+Mały Skórzana kurtka roślina
+Skórzana kurtka roślina
+Skórzana kurtka roślina
+Hamburger bar Sklep
+Hamburger prętowy Sklep
+Skórzana Kurtka Sklep
+Skórzana Kurtka Sklep
+Żelazny Kopalnia
+Żelazny Kopalnia
+Mały Żelazo Kopalnia
+Mały Żelazny Kopalnia
+Silikon Kopalnia
+Silikonowy Kopalnia
+Mały Silikon Kopalnia
+Mały Silikonowy Kopalnia
+Kopalnia Węgla
+Kopalnia Węgla
+Mały Kopalnia Węgla
+Mały Kopalnia Węgla
+Stalowy Przemysł
+Stalowy Przemysł
+Mały Stalowy Przemysł
+Mały Stalowy Przemysł
+Kość Pamięci Roślina
+Kość Pamięci Roślina
+Mały Memeory Układ scalony Roślina
+Mały Kość Pamięci Roślina
+Mały Samochodowy Roślina
+Mały Samochodowy Roślina
+TV zakład produkcyjny
+TV zakład produkcyjny
+Mały TV zakład produkcyjny
+Mały TV zakład produkcyjny
+TV Sklep
+TV Przechować
+Mały Przedstawicielstwo Firmy Samochodowej
+Mały Przedstawicielstwo Firmy Samochodowej
+Sport Samochodowy Sklep
+Sport Samochód Przechować
+Mały PECET Przemysł
+Mały PECET Przemysł
+PECET Przemysł
+PECET Przemysł
+Sport Samochód zakład produkcyjny
+Sport Samochód zakład produkcyjny
+Mały JEDNOSTKA CENTRALNA Roślina
+Mały JEDNOSTKA CENTRALNA Roślina
+JEDNOSTKA CENTRALNA Roślina
+JEDNOSTKA CENTRALNA Roślina
+Mały Miedziany Przemysł
+Mały Miedziany Przemysł
+Miedziany Przemysł
+Miedziany Przemysł
+Mały Sosna Olej Roślina
+Mały Sosna Olej Roślina
+Sosna Olej Roślina
+Sosna Nafciany Roślina
+Mały Ceramiczny Kopalnia
+Mały Ceramiczny Kopalnia
+Ceramiczny Kopalnia
+Ceramiczny Kopalnia
+Mały Kopalnia Miedzi
+Mały Kopalnia Miedzi
+Kopalnia Miedzi
+Kopalnia Miedzi
+Aluminium Kopalnia
+Aluminiowy Kopalnia
+Mały Aluminium Kopalnia
+Mały Aluminiowy Kopalnia
+Cyrolite Kopalnia
+Kriolit Kopalnia
+Mały Kriolit Kopalnia
+Mały Kriolit Kopalnia
+Silane Kopalnia
+Silane Kopalnia
+Mały Silane Kopalnia
+Mały Silane Kopalnia
+Aluminiowy Przemysł
+Aluminiowy Przemysł
+Mały Aluminiowy Przemysł
+Mały Aluminiowy Przemysł
+TFT Roślina
+TFT Roślina
+Mały TFT Roślina
+Mały TFT Roślina
+Motorowy Rower Roślina
+Motorowy Rower Roślina
+telefon komórkowy Roślina
+telefon komórkowy Roślina
+Mały telefon komórkowy Roślina
+Mały telefon komórkowy Roślina
+telefon komórkowy Sklep
+telefon komórkowy Przechować
+Motorowy Rower Przedstawicielstwo handlowe
+Motorowy Rower Przedstawicielstwo handlowe
+Parowozowy Roślina
+Parowozowy Roślina
+Opona Przemysł
+Opona Przemysł
+Humvee Roślina
+Humvee Roślina
+Kuchenka Przemysł
+Kuchenka Przemysł
+Humvee Przedstawicielstwo handlowe
+Humvee Przedstawicielstwo handlowe
+Kuchenka Sklep
+Kuchenka Przechować
+Gips Kopalnia
+Gipsowy Kopalnia
+Wapień Kopalnia
+Wapień Kopalnia
+Żwir Kopalnia
+Żwir Kopalnia
+przemysł budowlany
+przemysł budowlany
+system kontrolny Roślina
+system kontrolny Roślina
+Sieć System Roślina
+Sieć System roślina
+Betonowy Przemysł
+Conscrete Przemysł
+przemysł ciężki
+przemysł ciężki
+Serwer Roślina
+Serwer Roślina
+Plasterboard Przemysł
+Plasterboard Przemysł
+Mechaniczny System Roślina
+Mechaniczny System Roślina
+Biznesowy Maszynowy Przemysł
+Biznesowy Maszynowy Przemysł
+Szklany Roślina
+Szklany Roślina
+Conveyorbelt System Roślina
+Conveyorbelt System Roślina
+Biznesowy Branża Informatyczna
+Biznesowy Branża Informatyczna
+Fluid
+(0)
+Reklama
+uderzenie
+uderzenie/dzień
+Biznesowy Maszyna
+rzecz
+rzecz/dzień
+Samochód
+samochód
+samochód/tydzień
+Substancja chemiczna
+kg
+kg/day
+Odziewać
+rzecz
+rzecz/dzień
+Komputerowy Usługa
+godzina
+godzina/tydzień
+Budowa Siła
+tona
+tona/dzień
+Farmaceutyka
+kg
+kg/day
+Przetwarzać Jedzenie
+rzecz
+rzecz/dzień
+Elektroniczny Składnik
+rzecz
+rzecz/dzień
+Tkanina i Nić
+metr
+metr/dzień
+Film
+Film
+Film/dzień
+Świeża Żywność
+kg
+kg/day
+Benzyna
+lt
+lt/day
+hiPeople
+osoba
+osoba/miesiąc
+hiWorkForce
+pracownik
+pracownik/dzień
+Gospodarstwo domowe urządzenie
+rzecz
+rzecz/dzień
+Usługi Prawne
+godzina
+godzina/tydzień
+Trunek
+rzecz
+rzecz/dzień
+loPeople
+osoba
+osoba/miesiąc
+loWorkForce
+pracownik
+pracownik/dzień
+Maszyneria
+maszyna
+maszyna/dzień
+Metal
+kg
+kg/day
+midPeople
+osoba
+osoba/miesiąc
+midWorkForce
+pracownik
+pracownik/dzień
+Biuro
+Ropa Naftowa
+lt
+lt/day
+Kruszec
+kg
+kg/day
+Surowy Substancja chemiczna
+kg
+kg/day
+Węgiel
+kg
+kg/day
+Silikon
+kg
+kg/day
+Kamień
+kg
+kg/day
+Organicznie Materiał
+kg
+kg/day
+Klingeryt
+kg
+kg/day
+Zabawka
+rzecz
+rzecz/dzień
+Szalunek
+kg
+kg/day
+Książka
+książka
+książka/dzień
+Meble
+rzecz
+rzecz/dzień
+Papier
+kg
+kg/day
+CDs
+CDs
+CDs/dzień
+Drukowany Materiał
+kg
+kg/day
+Nawóz
+kg
+kg/day
+Użyźniacz
+kg
+kg/day
+Banatka
+kg
+kg/day
+Bawełna
+kg
+kg/day
+Mąka
+kg
+kg/day
+Bawełniany Prześcieradło
+Metr
+Metr/dzień
+Spodnie
+rzecz
+rzecz/dzień
+jabłko
+rzecz
+rzecz/dzień
+pomarańcze
+rzecz
+rzecz/dzień
+rubbertree
+rzecz
+rzecz/dzień
+rubbersap
+rzecz
+rzecz/dzień
+rubbermat
+rzecz
+rzecz/dzień
+fruitpie
+rzecz
+rzecz/dzień
+but
+rzecz
+rzecz/dzień
+marchewka
+rzecz
+rzecz/dzień
+grula
+rzecz
+rzecz/dzień
+gulasz
+rzecz
+rzecz/dzień
+orgaincchems
+rzecz
+rzecz/dzień
+polimer
+rzecz
+rzecz/dzień
+nylon
+rzecz
+rzecz/dzień
+koszula
+rzecz
+rzecz/dzień
+wołowina
+rzecz
+rzecz/dzień
+leathermat
+rzecz
+rzecz/dzień
+hamburger
+rzecz
+rzecz/dzień
+rawchem
+rzecz
+rzecz/dzień
+miningchem
+rzecz
+rzecz/dzień
+leathersheet
+rzecz
+rzecz/dzień
+leatherjacket
+rzecz
+rzecz/dzień
+ruda żelaza
+rzecz
+rzecz/dzień
+węgiel
+rzecz
+rzecz/dzień
+stal
+rzecz
+rzecz/dzień
+silikon
+rzecz
+rzecz/dzień
+kość pamięci
+rzecz
+rzecz/dzień
+mały samochód
+rzecz
+rzecz/dzień
+miedziany kruszec
+rzecz
+rzecz/dzień
+ceramiczny kruszec
+rzecz
+rzecz/dzień
+sosnowy olej
+rzecz
+rzecz/dzień
+groszak
+rzecz
+rzecz/dzień
+jednostka centralna układ scalony
+rzecz
+rzecz/dzień
+bawić się samochód
+rzecz
+rzecz/dzień
+komputer osobisty system
+rzecz
+rzecz/dzień
+aluminiowy kruszec
+rzecz
+rzecz/dzień
+silane
+rzecz
+rzecz/dzień
+aluminium
+rzecz
+rzecz/dzień
+kriolit
+rzecz
+rzecz/dzień
+tft ekran
+rzecz
+rzecz/dzień
+motocykl
+rzecz
+rzecz/dzień
+telefon komórkowy
+rzecz
+rzecz/dzień
+opona
+rzecz
+rzecz/dzień
+silnik
+rzecz
+rzecz/dzień
+tv
+rzecz
+rzecz/dzień
+humvee
+rzecz
+rzecz/dzień
+szkło
+rzecz
+rzecz/dzień
+Kuchenka
+rzecz
+rzecz/dzień
+Beton
+rzecz
+rzecz/dzień
+Tynk Deska
+rzecz
+rzecz/dzień
+Mechaniczny System
+rzecz
+rzecz/dzień
+system kontrolny
+rzecz
+rzecz/dzień
+Conveyorbelt System 
+rzecz
+rzecz/dzień
+Sieć System
+rzecz
+rzecz/dzień
+Biznesowy Komputer
+rzecz
+rzecz/dzień
+Serwer
+rzecz
+rzecz/dzień
+Gips
+rzecz
+rzecz/dzień
+Wapień
+rzecz
+rzecz/dzień
+Żwir
+rzecz
+rzecz/dzień
+FacilityKinds
+(0)
+Capitol
+Biuro
+Kwatera główna
+Gospodarstwo rolne
+Fabryka
+Jawny Udostępnienie
+Residentials
+Handel
+Dodatek specjalny
+Urząd Miasta
+Handlowy Centrum
+Społeczeństwo
+Magnum Nieruchomość
+Biuro
+Kwatera główna
+Gospodarstwo rolne
+Fabryka
+Społeczeństwo
+Residentials
+Handel
+Dodatek specjalny
+Urząd Miasta
+Handlowy Centrum
+Udostępnienie
+Udostępnienie
+Udostępnienie
+Udostępnienie
+Udostępnienie
+Udostępnienie
+Udostępnienie
+Udostępnienie
+Biuro
+Społeczeństwo
+Handel
+Przemysł
+Residentials
+Kwatera główna
+Dodatek specjalny
+Urząd Miasta
+Handlowy Centrum
+Biuro
+Kwatera główna
+Gospodarstwo rolne
+Fabryka
+Społeczeństwo
+Residentials
+Handel
+Dodatek specjalny
+Urząd Miasta
+Handlowy Centrum
+Magazyn
+Handel
+Kwatera główna
+Dodatek specjalny
+TycoonLevels
+(0)
+Aplikant
+Wciąż the gospodarka. Ochraniać the IFEL, mieć priorytet w dostawca i klient lista. The koszt budynek wracać jeżeli the budynek wyburzać. Móc do %s udostępnienie. Móc od Handlowy Centrum. 50%% badawczy expenditures wracać przy the końcówka the rok. 
+Przedsiębiorca
+Wciąż ochraniać the IFEL, mieć pewny priorytet w dostawca i klient lista. 2/3 the koszt budynek wracać jeżeli the budynek wyburzać. Móc do %s udostępnienie. Móc od Handlowy Centrum. 30%% badawczy expenditures wracać przy the końcówka the rok. 
+Ty musieć the oryginalny dług the IFEL ($100,000,000). Ty musieć średni zysk współczynnik przełożony $1,000/h
+Legenda
+800 prestiż punkt. Mieć dostęp Poziom 5 technologia. Móc od Handlowy Centrum. Żadny priorites, żadny ochrona od the IFEL. Móc do %s udostępnienie.
+Ty musieć $40,000,000,000 the IFEL. Ty musieć średni zysk współczynnik przełożony $500,000/h. Prestiż większy niż 15000.  
+Mistrz
+200 prestiż punkt. Mieć dostęp Poziom 3 technologia. Móc od Handlowy Centrum. Żadny priorites, żadny ochrona od the IFEL. Móc do %s udostępnienie.
+Ty musieć $2,000,000,000 the IFEL. Średni zysk współczynnik przełożony $50,000/h Prestiż większy niż 2500.  
+Paradygmat
+400 prestiż punkt. Mieć dostęp Poziom 4 technologia. Móc od Handlowy Centrum. Żadny priorites, żadny ochrona od the IFEL. Móc do %s udostępnienie.
+Ty musieć $20,000,000,000 the IFEL. Średni zysk współczynnik przełożony $100,000/h. Prestiż większy niż 5000. 
+Potentat
+100 prestiż punkt. Mieć dostęp Poziom 2 technologia. Móc od Handlowy Centrum. Żadny priorites, żadny ochrona od the IFEL. Móc do %s udostępnienie. 
+Ty musieć $500,000,000 the IFEL. Ty musieć średni zysk współczynnik przełożony $5,000/h
+Poza Legenda
+%s prestiż punkt. Móc od Handlowy Centrum. Żadny priorites, żadny ochrona od the IFEL. Móc do %s udostępnienie. 
+Ty musieć %s the IFEL. Ty musieć średni zysk współczynnik przełożony %s/h. Utrzymywać twój Prestiż większy niż 15000.
+Ministerstwo
+(0)
+Zdrowie
+Edukacja
+Obrona
+Rolnictwo
+Lekki Przemysł
+przemysł ciężki
+Handel
+
+Projekt
+(0)
+Szkoła wyższa
+Śmieciarski Usuwanie
+Pożarniczy Sprawozdanie
+Zdrowie Sprawozdanie
+Więzienie
+Muzeum
+Milicyjny Sprawozdanie
+Szkolny Sprawozdanie
+Usługa i Rozrywka
+Rekreacyjny Udostępnienie
+Bezrobocie
+Ekonomiczny Bogactwo
+PublicFacilities
+(0)
+Szkoła wyższa
+Śmieciarski Usuwanie
+Pożarniczy Sprawozdanie
+Zdrowie Sprawozdanie
+Więzienie
+Muzeum
+Milicyjny Sprawozdanie
+Szkolny Sprawozdanie
+Rekreacyjny Udostępnienie
+Ocena
+(0)
+Kampania Osiągnięcie
+Szkoła wyższa
+Śmieciarski Usuwanie
+Pożarniczy Sprawozdanie
+Zdrowie Sprawozdanie
+Więzienie
+Muzeum
+Milicyjny Sprawozdanie
+Miasto Przyrost
+Szkolny Sprawozdanie
+Usługa i Rozrywka
+Rekreacyjny Udostępnienie
+Podatek
+Zatrudnienie
+Ekonomiczny Bogactwo
+WorldProjects
+(0)
+Szkoła wyższa
+Śmieciarski Usuwanie
+Pożarniczy Sprawozdanie
+Zdrowie Sprawozdanie
+Więzienie
+Muzeum
+Milicyjny Sprawozdanie
+Szkolny Sprawozdanie
+Usługa i Rozrywka
+Rekreacyjny Udostępnienie
+Bezrobocie
+Ekonomiczny Bogactwo
+WorldRatings
+(0)
+Kampania Osiągnięcie
+Szkoła wyższa
+Śmieciarski Usuwanie
+Pożarniczy Sprawozdanie
+Zdrowie Sprawozdanie
+Więzienie
+Muzeum
+Milicyjny Sprawozdanie
+Miasto Przyrost
+Szkolny Sprawozdanie
+Usługa i Rozrywka
+Rekreacyjny Udostępnienie
+Podatek
+Zatrudnienie
+Ekonomiczny Bogactwo
+Ten łatwość należeć %s. Tam  być żadny aluzja dla ty.
+Żadny aluzja dla ten łatwość.
+Aluzja: Zatrzymywać wszystkie udostępnienie który gubić pieniądze.
+Aluzja: Iść "SPRAWDZAĆ" i zatrudniać niektóre dostawca.
+: Ten łatwość potrzebować dostawca dla %s.
+: Dostawca %s opuszczać. Zatrudniać inny dostawca.
+: Sprzedaż %s opuszczać. Dostawać najęty inny udostępnienie.
+Aluzja: Ty importować %s ponieważ twój dostawca sprzedawać inny ludzie.
+: Twój dostawca %s sprzedawać ich całkowity produkcja różny ludzie.
+: ten łatwość potrzebować więcej %s siła robocza.
+: Dosyć firma poparcie. Ty musieć the Firma Kwatera główna lub ono, jeżeli ty już budować ono.
+: Ten łatwość potrzebować %s siła robocza.
+: %d%%
+Ulepszenie Równy: %d
+Aluzja: The Handlowy Centrum zatrudniać to. Ty móc móc tani.
+: Ty potrzebować więcej ludzie ten budynek.
+Aluzja: Ty potrzebować więcej ludzie ten budynek.
+Aluzja: Ty wciąż móc więcej ludzie ten budynek.
+Aluzja: Tam  być zbyt mało ludzie w %s. Ty musieć zażarcie. Próba the czynszowy obniżać.
+Gratulacje: Ten budynek pracować TEN. Być może ty móc the czynsz troszeczkę.
+%d%% %s zajmowanie
+%s nieruchomość
+[zamykać]
+%d%% naprawiać
+%d mieszkaniec. %d desirability. QOL: %d%% Sąsiedztwo Ilość: %d%% Piękno: %d%% Przestępstwo: %d%% Zanieczyszczenie: %d%%.
+Aluzja: Wizyta Urząd Miasta Strona Internetowa wartościowy informacja.
+Aluzja: Wizyta Handlowy Centrum Strona Internetowa co być sprzedawanie lub kupienie co.
+%d mieszkaniec %s ruszać się w ostatni dzień.
+%d%% opłata dobry mieszkaniowy oferta, 
+%d%% praca, 
+%d%% opłata wysoka jakość służba publiczna.
+%d mieszkaniec %s poruszony poruszony ostatni dzień.
+%d%% opłata pensja i praca warunek, 
+%d%% opłata mieszkaniowy warunek, 
+%d%% opłata niski sprawozdanie służba publiczna, 
+%d%% opłata bezrobocie, 
+%d%% opłata brak produkt i usługa.
+%d%% opłata katastrofa.
+Żadny %s ruch.
+%s mieszkaniec
+%s %s (%d%% unemp)
+Aluzja: Być pewny tam  być dosyć pracownik the badanie.
+%s, zadawalać czekanie podczas gdy badanie uzupełniać…
+Aluzja: Iść "SPRAWDZAĆ" nowy researchs.
+%d%% badanie uzupełniać
+%s. Koszt: %s.
+Firma wspierać przy %d%%.
+Badawczy Urzeczywistnienie: %s.
+Aluzja: Ty próbować głownie wysokość klasa ludzie? Wtedy ilość być the klucz.
+Aluzja: Ty próbować głownie depresja klasa ludzie? Wtedy cena być the klucz.
+: Ty mieć problem z rywalizacja. Dostawać niektóre reklama.
+: Ono szew że ty celować kostiumer w mylny sposób.
+Aluzja: Próba więcej klient lepsza jakość i cena.
+Gratulacje: Ten łatwość biegać TEN. Jakkolwiek ty móc więcej ludzie.
+Gratulacje: Ten łatwość biegać TEN. Właśnie utrzymywać ten sposób.
+: %s usługa potrzeba więcej dostawa.
+The łatwość zaczynać właśnie właśnie godzina temu, tam  być żadny aluzja na razie.
+Potencjalny klient (na dzień): %d cześć, %d w połowie, %d depresja. Faktyczny klient: %d cześć, %d w połowie, %d depresja.
+Aluzja: %s. Ty mieć żadny klient.
+: Ten łatwość wymagać %s. Zatrudniać niektóre dostawca lub próba mieć ty już mieć.
+Aluzja: Ten łatwość potrzebować więcej %s %s.
+Aluzja: Iść "SPRAWDZAĆ" i zatrudniać więcej dostawca dla %s.
+Aluzja: Ty kupować od Handlowy Centrum. Znajdować niektóre lokalny dostawca.
+Tam  być nic my móc o the pogoda ale.
+: Móc until ty badać znowu %s.
+: Ten łatwość brakować usługa. Sprawdzać the Usługa Zakładka na the SPRAWDZAĆ panel.
+dostawa
+Aluzja: Ten miasteczko wymagać więcej residentials dla %s ludzie.
+Aluzja: Nowy sklep i inny usługa zachęcać działalność gospodarcza.
+: Tam  być %d%% bezrobocie w %s ludzie.
+: Tam  być problem z %s.
+Aluzja: Ty musieć więcej pracownik ten łatwość jeśli ty chcieć swój operacja współczynnik.
+: Dosyć firma poparcie. Ty musieć the Firma Kwatera główna lub ono, jeżeli ty już budować ono.
+%s sprawozdanie przez the miasto donosić przy %d%%.
+Ten miasto zaludniać!
+%s zaludniać. Inwestować tutaj i the %s rozkaz dawać ty aditional suma pieniędzy.
+Mieszkaniec %s żądać więcej %s.
+Mieszkaniec %s żądać więcej %s.
+Dla więcej informacja o %s wizyta %s, the gazeta lokalna.
+%s mieszkaniowy. %d mieszkaniec. %d%% odporny przestępstwo, %d%% odporny zanieczyszczenie. Projekt ilość: %d%%.
+%d biuro. Projekt ilość: %d%%.
+Produkować produkować
+%s %s
+Wymagać
+%s
+Zatrudniać:
+Wymagać badawczy %s przy %s.
+Przechować przechować 
+%d %s %s
+Bubel bubel
+na poziom.
+Kupować kupować
+%d klient maksymalny
+UWAGA! THE MAYOR %S PROSIĆ THE ROZBIÓRKA TEN BUDYNEK OPŁATA MIASTO PLANOWANIE. ROZBIÓRKA MIEĆ MIEJSCE W %D MIESIĄC. THE IFEL PŁACIĆ THE WŁAŚCICIEL %S JAKO WYNAGRODZENIE.
+Kontrolować %d firma, %d udostępnienie, %d płytka w the mapa (%s w gruntowy podatek).
+%d uzupełniać badawczy rzecz.
+Wybierać Mayor %s w the kampania %d.
+Być Mayor %s od %d %d z %d%% popularny ocena.
+Podpalać od Mayor %s w %d.
+Być Prezydent %s od %d %d z %d%% popularny ocena.
+Wybierać Prezydent %s w the kampania %d.
+Być Minister %s od %d %d z %d%% IFEL ocena.
+Mianować Minister %s w the kampania %d %s.
+Oznajmiać w bankrupty w %d
+Wykraczać w %d
+Dokonywać poziom %s w %d
+Móc równy w zeszłym roku. Ty nie udać się $%.0n
+Móc równy w zeszłym roku. Ty wymagać średni zysk współczynnik $%.0n/h (w zeszłym roku ty miewać $%.0n/h)
+Ty potrzebować wybierać Mayor przynajmniej przynajmniej
+Ty potrzebować wybierać Prezydent przynajmniej przynajmniej
+Móc równy w zeszłym roku. Ty wymagać %d prestiż punkt
+Przegrany poziom %s w %d. Ty miewać the wymagany %d prestiż punkt
+Przegrany poziom %s w %d. Ty miewać the wymagany średni zysk współczynnik $%.0n/h (w zeszłym roku ty miewać $%.0n/h)
+Przegrany poziom %s w %d.
+Łączyć %s w %d
+i
+Mayor %s ustalony podatek dla %s przy %s%%.
+Mayor %s set dotacja dla %s.
+%s wszczynać kampania dla %s.
+%s withdrawed kampania dla %s
+%s wybierać Mayor %s.
+%s ponownie wybierać Mayor %s.
+%s mieć żadny Mayor.
+%s podpalać od Mayor %s.
+%s usuwać swój dotacja. Populacja być już większy niż 9,000.
+%s oznajmiać bankrutujący.
+%s budować %s blisko %s.
+%s zrobić obrachunkowy reset.
+%s łączyć %s.
+The satelitarny mapa %s aktualizować.
+%s mianować %s.
+%s wybierać Prezydent %s
+%s ponownie wybierać Prezydent %s.
+%s mieć żadny Prezydent.
+%s wszczynać kampania dla the Prezydentura %s.
+%s withdrawed kampania dla Prezydentura %s.
+%d prestiż punkt od rozgłos.
+%d%% operacyjny.
+Prezydent: %s.
+Prezydent oszacowywać przy %d%%. %d rok Wybory.
+Żadny Prezydent. %d rok Wybory.
+Aluzja: Jeżeli ty mieć więcej niż 1000 prestiż punkt ty móc twój kampania dla the prezydentura %s.
+%d widz
+%d%% ocena
+%d godzina dzień. %d%% reklama. %d%% reklama czas sprzedawać. %d antena antena. Stacja telewizyjna Ilość: %d%%, wydajność: %d%%.
+Siła robocza przy %d%%
+%s: %d %d.
+: Tam  być żadny antena dołączać ten łatwość. Używać the Łączyć guzik w the SPRAWDZAĆ panel antena.
+Potencjalny widownia: %d.
+Korytkowy ocena: %d%%.
+ALUZJA: Używać the "Łączyć" guzik w the SPRAWDZAĆ panel ten antena stacja.
+%d%% uzupełniać.
+Zatkany opłata warunki pogodowe.
+%d biuro dzierżawić. %d ilość wskaźnik. BAP: %d%%. Piękno: %d%%. Przestępstwo: %d%%. Zanieczyszczenie %d%%.
+budynek biurowy
+%d%% biuro dzierżawić
+Magazynowanie:
+%s %s przy %d%% qualiy wskaźnik.
+Minister %s
+Ministerstwo %s
+%s sprzedaż przy %d%%
+%s produkcja: %d%%
+Inscenizowanie: %d%%
+%s %s przy %d%% ilość wskaźnik, %d%% wydajność.
+Cena: %s
+Licencja: %s
+Impl. Koszt: %s
+Impl. Koszt: %s /h
+Udostępnienie: %d
+Szlachectwo: %s pts
+Prestiż: %s pts
+Poziom: %s
+Lista płac redukcja: %s%%
+Akcydensowy ilość: %s%%
+Piękno: %s%%
+Utrzymanie: %s%%
+Prywatność: %s%%
+Ochrona: %s%%
+Środowisko: %s%%
+Wydajność: %s%%
+Desirability: %s pts
+Ilość: %s pts
+Obliczony data Transcendencja: %d dzień.
+! Wszystkie udostępnienie %s znikać oprócz ten budynek. Świat móc twój udostępnienie w ten świat.
+Narastający drzewo przy %d%%
+Koncesjonowanie: "%s" Ilość Wskaźnik: %d%%.
+Ekranizacja: "%s" Dzień %d %d, %d%% robić.
+Teraz bawić się:
+Wysoki klasa
+Klasa średnia
+Depresja klasa
+Kierownictwo
+Profesjonalista
+Pracownik
+%d prestiż punkt.
+Zatrzymywać %s.
+Zatkany: potrzebować związek.
+Zatkany: potrzebować pieniądze.
+najęty
+odrzucać firma polisa
+już zatrudniać
+związek pozwolić
+móc związek %d związek
+Dostawa
+Klient
+Związek
+%s pożyczać %s od the %s.
+Mayor %s
+mayor
+Badanie "%s" uzupełniać. Sprawdzać dla nowy rzecz w twój Budowa strona.
+Badać "%s" uzupełniać.
+Badanie sprzedawać. Niektóre rzecz obezwładniać w twój Budowa strona.
+Badanie sprzedawać.
+%s pomyślnie przenosić.
+%s spojrzenie naprzód the niepowodzenie %s.
+%s zostać neutralny %s.
+%s ślubować lojalność %s.
+%s aspirować poziom %s.
+%s posuwać się naprzód poziom %s.
+%s nie udać się poziom %s.
+%s być pod upadłościowy analiza.
+SZCZĘŚLIWY NOWY ROK!
+%s przegrany poziom %s.
+NTA
+Prestiż
+Bogactwo
+Wydajność: %d%%
+Desirability: %d
+Ogólny
+Handel
+Przemysł
+Nieruchomość
+Czynsz|%d|Utrzymanie|%d|
+Dostawca|%d|
+Cena|%d|Dostawca|%d|Reklama|%d|
+Cena|%d|Dostawca|%d|Klient|%d|
+Pensja|%d|
+Czynsz|%d|Utrzymanie|%d|
+Inscenizowanie: 
+Turniej

@@ -1,0 +1,15 @@
+lvLoans.Columns.3=Termijn
+Label9.Caption=Voorzitter:
+xfer_ActualRuler.Caption=Niets
+Label2.Caption=Populaire Classificatie:
+Label3.Caption=Magnaten die schatten:
+Label4.Caption=Mandaat Nº:
+Label5.Caption=Jaren aan Verkiezingen:
+xfer_RulerRating.Caption=Niets
+xfer_TycoonsRating.Caption=Niets
+xfer_CampaignCount.Caption=Niets
+xfer_YearsToElections.Caption=Niets
+btnVisitPolitics.Hint=Klik om de pagina van de voorzitterspolitiek te bezoeken
+btnVisitPolitics.Text=Bezoek President Politics Page
+Label8.Caption=QOL:
+xfer_QOL.Caption=100

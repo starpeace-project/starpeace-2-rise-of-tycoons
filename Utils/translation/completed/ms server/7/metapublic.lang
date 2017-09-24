@@ -1,0 +1,11 @@
+﻿Projects.Wealth.Name=経済的豊か
+Target=PublicFacilities
+LangId=7
+PublicFacilities.College.Name=大学
+PublicFacilities.Disposal.Name=残菜処理
+PublicFacilities.Fire.Name=火の適用範囲
+PublicFacilities.Health.Name=健康保険
+PublicFacilities.Jail.Name=刑務所
+PublicFacilities.Museum.Name=博物館
+PublicFacilities.Police.Name=警察の適用範囲
+PublicFacilities.School.Name=学校の適用範囲

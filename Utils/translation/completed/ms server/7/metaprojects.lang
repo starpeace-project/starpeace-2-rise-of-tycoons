@@ -1,0 +1,14 @@
+﻿Ministries.Ministry8.Name=ハウジング
+Target=Projects
+LangId=7
+Projects.College.Name=大学
+Projects.Disposal.Name=残菜処理
+Projects.Fire.Name=火の適用範囲
+Projects.Health.Name=健康保険
+Projects.Jail.Name=刑務所
+Projects.Museum.Name=博物館
+Projects.Police.Name=警察の適用範囲
+Projects.School.Name=学校の適用範囲
+Projects.Services.Name=サービスおよび娯楽
+Projects.Sport.Name=レクリエーション設備
+Projects.Unemployment.Name=失業

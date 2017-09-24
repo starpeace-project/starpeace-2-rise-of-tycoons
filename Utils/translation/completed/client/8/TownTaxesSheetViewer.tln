@@ -1,0 +1,12 @@
+lvProducts.Columns.9=최대. 가격
+lvTaxes.Columns=3
+lvTaxes.Columns.0=이름
+lvTaxes.Columns.1=가치
+lvTaxes.Columns.2=작년에
+rbTax.Caption=세금
+rbSubsidize.Caption=보조금을 주십시오
+PercPanel.Caption=PercPanel
+pbTax.Hint=0%
+lbTax.Caption=세금: 0%
+Label1.Caption=가치:
+fbSet.Text=세트

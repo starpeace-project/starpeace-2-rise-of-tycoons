@@ -1,0 +1,12 @@
+=
+btnOK.Text=OK
+Label1.Caption=Imię:
+Label2.Caption=Firma:
+overPay.Caption=Nadpłata:
+btnClose.Text=x
+FramedButton1.Hint=
+FramedButton1.Text=Odwoływać
+btnDelete1.Text=Deleatur
+peOverPay.Hint=0%
+OverPayPerc.Caption=0%
+facName.Caption=n/a

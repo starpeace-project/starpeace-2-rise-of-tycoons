@@ -1,0 +1,15 @@
+lvLoans.Columns.3=Termin
+Label9.Caption=Prezydent:
+xfer_ActualRuler.Caption=Nikt
+Label2.Caption=Popularny Ocena:
+Label3.Caption=Potentat:
+Label4.Caption=Mandat polityczny Nº:
+Label5.Caption=Rok Wybory:
+xfer_RulerRating.Caption=Nikt
+xfer_TycoonsRating.Caption=Nikt
+xfer_CampaignCount.Caption=Nikt
+xfer_YearsToElections.Caption=Nikt
+btnVisitPolitics.Hint=Stuknięcie the prezydent polityka strona
+btnVisitPolitics.Text=Wizyta Prezydent Polityka Wzywać
+Label8.Caption=QOL:
+xfer_QOL.Caption=100

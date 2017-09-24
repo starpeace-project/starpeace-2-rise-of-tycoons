@@ -1,0 +1,11 @@
+lvServices.Columns.7=質
+lvProducts.Columns=10
+lvProducts.Columns.0=名前
+lvProducts.Columns.1=作り出される
+lvProducts.Columns.2=買われる
+lvProducts.Columns.3=突き棒。 容量
+lvProducts.Columns.4=容量を買いなさい
+lvProducts.Columns.5=価格を販売しなさい
+lvProducts.Columns.6=Q.を販売しなさい。
+lvProducts.Columns.7=価格を買いなさい
+lvProducts.Columns.8=Q.を買いなさい。

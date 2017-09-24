@@ -1,0 +1,17 @@
+lbMayor.Caption=市長:
+ChangeLogView.Caption=ChangeLogView
+ChangeLogView.Hint=
+GradientBox1.Hint=
+GradientBox1.Text=GradientBox1
+IKnowBtn.Hint=これらのニュースを再度現われさせないここにかちりと鳴らしなさい
+IKnowBtn.Text=私は知っている
+LaterBtn.Hint=これらのニュースを、後で再度示しなさい
+LaterBtn.Text=後で
+header.Caption=遺産のオンラインニュース
+header.Hint=
+Panel1.Caption=Panel1
+Panel1.Hint=
+Panel2.Caption=Panel1
+Panel2.Hint=
+Log.Hint=
+Log.Lines=1

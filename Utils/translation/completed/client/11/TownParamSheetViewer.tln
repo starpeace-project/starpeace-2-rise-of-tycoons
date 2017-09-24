@@ -1,0 +1,11 @@
+Label3.Caption=Цена ренты:
+Label9.Caption=Полный перечень:
+xfer_GQOS.Caption=0
+lvServices.Columns=8
+lvServices.Columns.0=Имя
+lvServices.Columns.1=Требование
+lvServices.Columns.2=Предложение
+lvServices.Columns.3=Емкость
+lvServices.Columns.4=Коэффициент
+lvServices.Columns.5=Цена IFEL
+lvServices.Columns.6=Avg. Цена

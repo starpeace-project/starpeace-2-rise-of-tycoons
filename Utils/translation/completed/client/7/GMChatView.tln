@@ -1,0 +1,9 @@
+btnConnect.Text=世界に跳びなさい
+ChatLine.Lines=1
+ChatLine.Lines.0=ここに書き入れなさい雑談のテキストを…
+btnConnect.Hint=ゲーム・マスターを呼びなさい
+btnConnect.Text=ゲーム・マスターを呼びなさい
+btGMOptions.Hint=選択を表示しなさい
+btGMOptions.Text=選択
+btClose.Text=終わり
+Label8.Caption=GMに話すこと:

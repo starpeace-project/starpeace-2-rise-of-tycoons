@@ -1,0 +1,14 @@
+Target=WorldProjects
+LangId=0
+WorldProjects.College.Name=Colleges
+WorldProjects.Disposal.Name=Garbage Disposal
+WorldProjects.Fire.Name=Fire Coverage
+WorldProjects.Health.Name=Health Coverage
+WorldProjects.Jail.Name=Jails
+WorldProjects.Museum.Name=Museums
+WorldProjects.Police.Name=Police Coverage
+WorldProjects.School.Name=School Coverage
+WorldProjects.Services.Name=Services and Amusement
+WorldProjects.Sport.Name=Recreation Facilities
+WorldProjects.Unemployment.Name=Unemployment
+WorldProjects.Wealth.Name=Economic Wealth

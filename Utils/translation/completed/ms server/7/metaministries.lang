@@ -1,0 +1,10 @@
+﻿TycoonLevels.BeyondLegend.Cond=IFELに%sを支払わなければならない。 %s/h.に一般の利益の比率の目上の人にあなたの威信15000以上維持してもらわなければならない。
+Target=Ministries
+LangId=7
+Ministries.Ministry1.Name=健康
+Ministries.Ministry2.Name=教育
+Ministries.Ministry3.Name=防衛
+Ministries.Ministry4.Name=農業
+Ministries.Ministry5.Name=軽工業
+Ministries.Ministry6.Name=重工業
+Ministries.Ministry7.Name=商業

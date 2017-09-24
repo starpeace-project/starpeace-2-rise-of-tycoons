@@ -1,0 +1,17 @@
+lbMayor.Caption=Mayor:
+ChangeLogView.Caption=ChangeLogView
+ChangeLogView.Hint=
+GradientBox1.Hint=
+GradientBox1.Text=GradientBox1
+IKnowBtn.Hint=Estalar aqui para fazer estas notícias não aparecer outra vez
+IKnowBtn.Text=EU SEI
+LaterBtn.Hint=Mostrar estas notícias outra vez, mais tarde
+LaterBtn.Text=MAIS TARDE
+header.Caption=Notícia em linha do legado
+header.Hint=
+Panel1.Caption=Panel1
+Panel1.Hint=
+Panel2.Caption=Panel1
+Panel2.Hint=
+Log.Hint=
+Log.Lines=1

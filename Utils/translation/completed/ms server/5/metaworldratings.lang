@@ -1,0 +1,17 @@
+﻿WorldProjects.Wealth.Name=经济健康
+Target=WorldRatings
+LangId=5
+WorldRatings.CampaignAccuracy.Name=竞选成就
+WorldRatings.College.Name=学院
+WorldRatings.Disposal.Name=垃圾处置
+WorldRatings.Fire.Name=火覆盖面
+WorldRatings.Health.Name=健康保险
+WorldRatings.Jail.Name=监狱
+WorldRatings.Museum.Name=博物馆
+WorldRatings.Police.Name=警察覆盖面
+WorldRatings.PopGrowth.Name=城市成长
+WorldRatings.School.Name=学校覆盖面
+WorldRatings.Services.Name=服务和娱乐
+WorldRatings.Sport.Name=休闲设施
+WorldRatings.Taxes.Name=税
+WorldRatings.Unemployment.Name=就业

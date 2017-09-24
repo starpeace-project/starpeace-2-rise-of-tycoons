@@ -1,0 +1,17 @@
+lvConnections.Columns=6
+lvConnections.Columns.0=広告者
+lvConnections.Columns.1=所有者
+lvConnections.Columns.2=価格
+lvConnections.Columns.3=払い過ぎられる
+lvConnections.Columns.4=最後
+lvConnections.Columns.5=質
+Label1.Caption=最後の価値:
+xfer_FluidValue.Caption=n/a
+Label2.Caption=費用:
+xfer_LastCost.Caption=n/a
+Label3.Caption=広告:
+xfer_AdPerc.Hint=0%
+lbAdPerc.Caption=0
+btnHireSuppliers.Hint=新しい顧客を雇うためにここにかちりと鳴らしなさい
+btnHireSuppliers.Text=賃借り
+btnModify.Hint=指定関係を変更するためにここにかちりと鳴らしなさい

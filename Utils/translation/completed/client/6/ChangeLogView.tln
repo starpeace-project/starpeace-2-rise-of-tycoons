@@ -1,0 +1,17 @@
+lbMayor.Caption=Burgemeester:
+ChangeLogView.Caption=ChangeLogView
+ChangeLogView.Hint=
+GradientBox1.Hint=
+GradientBox1.Text=GradientBox1
+IKnowBtn.Hint=Klik hier om dit nieuws te maken niet opnieuw verschijnen
+IKnowBtn.Text=IK WEET HET
+LaterBtn.Hint=Toon dit nieuws opnieuw, later
+LaterBtn.Text=LATER
+header.Caption=Het Online Nieuws van de erfenis
+header.Hint=
+Panel1.Caption=Panel1
+Panel1.Hint=
+Panel2.Caption=Panel1
+Panel2.Hint=
+Log.Hint=
+Log.Lines=1

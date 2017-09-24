@@ -1,0 +1,15 @@
+=
+=
+strGeneralInformation=„Algemene Informatie“
+strFacilityKind=De „soort van de faciliteit“
+strTown=„Stad“
+strCluster=„Cluster“
+strCompany=„Bedrijf“
+strCEO=„CEO“
+strOperation=„Verrichting“
+strWorkforce=„Aantal arbeidskrachten“
+strHighClass=„Eersteklas“
+strWorkers=„arbeiders“
+strOf=„van“
+strMiddleClass=„Middenstand“
+strLowClass=„Lage klasse“

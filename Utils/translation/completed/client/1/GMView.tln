@@ -1,0 +1,16 @@
+N2.Caption=Cancelación
+Label1.Caption=El hablar con usted:
+OnlineList.Columns=3
+OnlineList.Columns.0=Alias
+OnlineList.Columns.1=Nivel
+OnlineList.Columns.2=Mundo
+Label2.Caption=Esperarle:
+WaitingList.Columns=3
+WaitingList.Columns.0=Alias
+WaitingList.Columns.1=Nivel
+WaitingList.Columns.2=Mundo
+File1.Caption=&File
+EXitMnu.Caption=E&xit
+Shortcuts1.Caption=Atajos
+Minimize1.Caption=Reducir al mínimo
+Chat1.Caption=¡Charla!

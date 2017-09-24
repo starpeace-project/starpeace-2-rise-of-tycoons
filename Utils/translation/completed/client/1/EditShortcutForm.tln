@@ -1,0 +1,7 @@
+SkillBar4.Hint=
+Label1.Caption=Descripción
+Label1.Hint=Incorporar la descripción del atajo aquí
+Label2.Caption=Atajo
+Label2.Hint=Seleccionar el atajo
+Label3.Caption=Texto
+Button1.Caption=Agregar

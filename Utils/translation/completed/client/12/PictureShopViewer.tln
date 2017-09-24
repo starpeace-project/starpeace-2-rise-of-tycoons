@@ -1,0 +1,14 @@
+btnCancel.Text=Annullering
+btnLoad.Hint=Ladda ditt föreställer från en disk sparar
+btnLoad.Text=Ladda
+btnPreview.Hint=Granska ditt föreställer
+btnPreview.Text=Granska
+btnSend.Hint=Överför ditt föreställer
+btnSend.Text=Överför
+btnCancel.Text=Nära
+ZoomIn.Hint=Zoom in
+ZoomIn.Text=+
+ZoomOut.Hint=Zoom ut
+ZoomOut.Text=-
+Marquee.Caption=ÖVERFÖR DITT FÖRESTÄLLER
+Marquee.Hint=ÖVERFÖR DITT FÖRESTÄLLER

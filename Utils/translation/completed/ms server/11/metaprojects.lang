@@ -1,0 +1,14 @@
+﻿Ministries.Ministry8.Name=Снабжение жилищем
+Target=Projects
+LangId=11
+Projects.College.Name=Коллежи
+Projects.Disposal.Name=Избавление отброса
+Projects.Fire.Name=Охват пожара
+Projects.Health.Name=Охват здоровья
+Projects.Jail.Name=Тюрьмы
+Projects.Museum.Name=Музеи
+Projects.Police.Name=Охват полиций
+Projects.School.Name=Охват школы
+Projects.Services.Name=Обслуживания и занятность
+Projects.Sport.Name=Средства воссоздания
+Projects.Unemployment.Name=Незанятость

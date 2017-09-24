@@ -1,0 +1,11 @@
+Projects.Wealth.Name=Condizione economica
+Target=PublicFacilities
+LangId=4
+PublicFacilities.College.Name=Istituti universitari
+PublicFacilities.Disposal.Name=Eliminazione di immondizia
+PublicFacilities.Fire.Name=Riempimento del fuoco
+PublicFacilities.Health.Name=Riempimento di salute
+PublicFacilities.Jail.Name=Prigioni
+PublicFacilities.Museum.Name=Musei
+PublicFacilities.Police.Name=Riempimento della polizia
+PublicFacilities.School.Name=Riempimento della scuola

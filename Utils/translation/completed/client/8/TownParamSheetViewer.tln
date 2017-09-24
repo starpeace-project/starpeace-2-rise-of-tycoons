@@ -1,0 +1,11 @@
+Label3.Caption=지대 가격:
+Label9.Caption=일반 색인:
+xfer_GQOS.Caption=0
+lvServices.Columns=8
+lvServices.Columns.0=이름
+lvServices.Columns.1=수요
+lvServices.Columns.2=제안
+lvServices.Columns.3=수용량
+lvServices.Columns.4=비율
+lvServices.Columns.5=IFEL 가격
+lvServices.Columns.6=Avg. 가격

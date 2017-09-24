@@ -1,0 +1,8 @@
+=""
+=""
+strOperatingNormally="ドームは正常に作動している"
+strStopped="ドームは所有者立寄られた"
+strNotFunctioning="ドームはきちんと作用していない"
+strNeedsSuppliers="1つ以上の基本的な供給は全然受け取られていない"
+strNeedsBudget="作動するべき十分なお金がない"
+strNotEnoughSupplies="ドームはきちんと働く必要があると同時に供給されていない"

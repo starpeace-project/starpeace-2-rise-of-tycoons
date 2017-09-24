@@ -1,0 +1,11 @@
+﻿Projects.Wealth.Name=Ekonomisk rikedom
+Target=PublicFacilities
+LangId=12
+PublicFacilities.College.Name=Högskolar
+PublicFacilities.Disposal.Name=Avskrädeförfogande
+PublicFacilities.Fire.Name=Avfyra täckning
+PublicFacilities.Health.Name=Vård- täckning
+PublicFacilities.Jail.Name=Arrester
+PublicFacilities.Museum.Name=Museer
+PublicFacilities.Police.Name=Polistäckning
+PublicFacilities.School.Name=Skola täckning

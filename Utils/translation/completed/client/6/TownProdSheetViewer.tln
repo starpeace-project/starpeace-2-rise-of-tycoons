@@ -1,0 +1,11 @@
+lvServices.Columns.7=Kwaliteit
+lvProducts.Columns=10
+lvProducts.Columns.0=Naam
+lvProducts.Columns.1=Geproduceerd
+lvProducts.Columns.2=Gekocht
+lvProducts.Columns.3=Prik. Capaciteit
+lvProducts.Columns.4=Koop Capaciteit
+lvProducts.Columns.5=Verkoop Prijs
+lvProducts.Columns.6=Verkoop Q.
+lvProducts.Columns.7=Koop Prijs
+lvProducts.Columns.8=Koop Q.

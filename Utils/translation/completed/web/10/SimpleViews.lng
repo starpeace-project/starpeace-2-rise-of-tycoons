@@ -1,0 +1,8 @@
+=""
+=""
+strOperatingNormally="Funcionamento normalmente"
+strStopped="Parado pelo proprietário"
+strOperationTrouble="Problema da operação"
+strNotBeingReceived="Uma fonte essencial (ou mais) não estão sendo recebidas"
+strNotEnoughMoney="Não bastante dinheiro a operar-se"
+strNotEnoughSupplies="Não bastante fontes"

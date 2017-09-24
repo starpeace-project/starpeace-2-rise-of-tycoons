@@ -1,0 +1,17 @@
+Target=WorldRatings
+LangId=0
+WorldRatings.CampaignAccuracy.Name=Campaign Acomplishment
+WorldRatings.College.Name=Colleges
+WorldRatings.Disposal.Name=Garbage Disposal
+WorldRatings.Fire.Name=Fire Coverage
+WorldRatings.Health.Name=Health Coverage
+WorldRatings.Jail.Name=Jails
+WorldRatings.Museum.Name=Museums
+WorldRatings.Police.Name=Police Coverage
+WorldRatings.PopGrowth.Name=City Growth
+WorldRatings.School.Name=School Coverage
+WorldRatings.Services.Name=Services and Amusement
+WorldRatings.Sport.Name=Recreation Facilities
+WorldRatings.Taxes.Name=Taxes
+WorldRatings.Unemployment.Name=Employment
+WorldRatings.Wealth.Name=Economic Wealth

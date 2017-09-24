@@ -1,0 +1,1115 @@
+object tib: Ttib
+  Left = 236
+  Top = 154
+  Align = alTop
+  BorderStyle = bsNone
+  Caption = 'tib'
+  ClientHeight = 478
+  ClientWidth = 688
+  Color = 5265721
+  DockSite = True
+  DragKind = dkDock
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'MS Sans Serif'
+  Font.Style = []
+  OldCreateOrder = False
+  Position = poDefault
+  Visible = True
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Panel1: TPanel
+    Left = 0
+    Top = 0
+    Width = 688
+    Height = 20
+    Align = alTop
+    BevelOuter = bvNone
+    Color = 5265721
+    TabOrder = 0
+    object BitBtn1: TBitBtn
+      Left = 668
+      Top = 0
+      Width = 20
+      Height = 20
+      Margins.Left = 1
+      Margins.Top = 1
+      Margins.Right = 1
+      Margins.Bottom = 1
+      Align = alRight
+      TabOrder = 0
+      OnClick = BitBtn1Click
+      Glyph.Data = {
+        E6040000424DE604000000000000360000002800000014000000140000000100
+        180000000000B004000000000000000000000000000000000000404000000000
+        0000000000000000000000000000000000000000000000000000000000000000
+        0000000000000000000000000000000000000000000000000000000000000000
+        0000000000000000000000000000000000000000000000000000000000000000
+        0000000000000000000000000000000000000000000000008F8F476565326565
+        3200000000000000000000000000000000000000000000000000000000000065
+        65326565328F8F470000000000000000000000006565328F8F478F8F47656532
+        0000000000000000000000000000000000000000000000006565328F8F478F8F
+        476565320000000000000000000000006565328F8F478F8F478F8F4765653200
+        00000000000000000000000000000000006565328F8F478F8F478F8F47656532
+        0000000000000000000000000000006565328F8F478F8F478F8F476565320000
+        000000000000000000006565328F8F478F8F478F8F4765653200000000000000
+        00000000000000000000000000006565328F8F478F8F478F8F47656532000000
+        0000006565328F8F478F8F478F8F476565320000000000000000000000000000
+        000000000000000000000000006565328F8F478F8F478F8F476565326565328F
+        8F478F8F478F8F47656532000000000000000000000000000000000000000000
+        0000000000000000000000006565328F8F478F8F478F8F478F8F478F8F478F8F
+        4765653200000000000000000000000000000000000000000000000000000000
+        00000000000000000000006565328F8F478F8F478F8F478F8F47656532000000
+        0000000000000000000000000000000000000000000000000000000000000000
+        000000000000006565328F8F478F8F478F8F478F8F4765653200000000000000
+        0000000000000000000000000000000000000000000000000000000000000000
+        6565328F8F478F8F478F8F478F8F478F8F478F8F476565320000000000000000
+        000000000000000000000000000000000000000000000000006565328F8F478F
+        8F478F8F476565326565328F8F478F8F478F8F47656532000000000000000000
+        0000000000000000000000000000000000006565328F8F478F8F478F8F476565
+        320000000000006565328F8F478F8F478F8F4765653200000000000000000000
+        00000000000000000000006565328F8F478F8F478F8F47656532000000000000
+        0000000000006565328F8F478F8F478F8F476565320000000000000000000000
+        000000006565328F8F478F8F478F8F4765653200000000000000000000000000
+        00000000006565328F8F478F8F478F8F47656532000000000000000000000000
+        6565328F8F478F8F476565320000000000000000000000000000000000000000
+        000000006565328F8F478F8F476565320000000000000000000000008F8F4765
+        6532656532000000000000000000000000000000000000000000000000000000
+        0000006565326565328F8F470000000000000000000000000000000000000000
+        0000000000000000000000000000000000000000000000000000000000000000
+        0000000000000000000000000000000000000000000000000000000000000000
+        0000000000000000000000000000000000000000000000000000000000000000
+        00000000000000000000}
+      Margin = 0
+      Spacing = 0
+    end
+    object BitBtn2: TBitBtn
+      Left = 648
+      Top = 0
+      Width = 20
+      Height = 20
+      Margins.Left = 1
+      Margins.Top = 1
+      Margins.Right = 1
+      Margins.Bottom = 1
+      Align = alRight
+      TabOrder = 1
+      OnClick = BitBtn2Click
+      Glyph.Data = {
+        E6040000424DE604000000000000360000002800000014000000140000000100
+        180000000000B004000000000000000000000000000000000000404000000000
+        0000000000000000000000000000000000000000000000000000000000000000
+        0000000000000000000000000000000000000000000000000000000000000000
+        00000000000000000000000000000000000000006A6A356A6A356A6A356A6A35
+        0000000000000000000000000000000000000000000000000000000000000000
+        000000000000000000000000006A6A3594944994944994944994944900000000
+        0000000000000000000000000000000000000000000000000000000000000000
+        0000006A6A356A6A359494499494499494499494499494490000000000000000
+        000000000000000000000000000000000000000000000000006A6A356A6A3594
+        94499494499494499494496A6A356A6A356A6A35000000000000000000000000
+        0000000000000000000000000000000000006A6A359494499494499494499494
+        496A6A356A6A3500000000000000000000000000000000000000000000000000
+        00000000000000000000006A6A359494499494499494496A6A356A6A35000000
+        0000000000000000000000000000000000000000000000000000000000000000
+        000000000000006A6A359494499494496A6A3500000000000000000000000000
+        0000000000000000000000000000000000000000000000000000000000000000
+        0000006A6A359494499494496A6A350000000000000000000000000000000000
+        000000000000000000000000000000000000000000000000000000000000006A
+        6A359494499494496A6A35000000000000000000000000000000000000000000
+        0000000000000000000000000000000000000000000000000000006A6A359494
+        499494496A6A3500000000000000000000000000000000000000000000000000
+        00000000000000000000000000000000000000000000006A6A35949449949449
+        6A6A350000000000000000000000000000000000000000000000000000000000
+        000000000000000000000000000000000000006A6A359494499494499494496A
+        6A356A6A35000000000000000000000000000000000000000000000000000000
+        0000000000000000000000000000000000006A6A359494499494499494499494
+        496A6A356A6A3500000000000000000000000000000000000000000000000000
+        00000000000000000000000000000000006A6A356A6A35949449949449949449
+        9494496A6A356A6A356A6A350000000000000000000000000000000000000000
+        000000000000000000000000000000000000006A6A356A6A3594944994944994
+        9449949449949449000000000000000000000000000000000000000000000000
+        0000000000000000000000000000000000000000006A6A359494499494499494
+        4994944900000000000000000000000000000000000000000000000000000000
+        00000000000000000000000000000000000000006A6A356A6A356A6A356A6A35
+        0000000000000000000000000000000000000000000000000000000000000000
+        0000000000000000000000000000000000000000000000000000000000000000
+        0000000000000000000000000000000000000000000000000000000000000000
+        0000000000000000000000000000000000000000000000000000000000000000
+        00000000000000000000}
+      Margin = 0
+      ExplicitLeft = 628
+      ExplicitTop = -4
+    end
+    object Marquee1: TMarquee
+      Left = 0
+      Top = 0
+      Width = 648
+      Height = 20
+      Hint = 'Infobar test, will add stuff later'
+      Caption = 'Infobar test, will add stuff later'
+      Gap = 50
+      Step = 2
+      ShowGrill = True
+      BackColor = clBlack
+      ForeColor = clLime
+      ClickStop = True
+      LeftMargin = 5
+      Direction = fdDown
+      Digitalize = True
+      IsCaption = False
+      Align = alClient
+      Font.Charset = DEFAULT_CHARSET
+      Font.Color = clRed
+      Font.Height = -13
+      Font.Name = 'Verdana'
+      Font.Style = [fsBold]
+      ParentFont = False
+      ParentShowHint = False
+      ShowHint = True
+      ExplicitLeft = 185
+      ExplicitTop = 40
+      ExplicitWidth = 503
+      ExplicitHeight = 24
+    end
+  end
+  object Panel2: TPanel
+    Left = 0
+    Top = 469
+    Width = 688
+    Height = 9
+    Align = alBottom
+    BevelOuter = bvNone
+    Caption = 'Panel2'
+    Color = clBlack
+    ParentBackground = False
+    TabOrder = 1
+    ExplicitTop = 56
+    object Image1: TImage
+      Left = 0
+      Top = 0
+      Width = 688
+      Height = 9
+      Align = alClient
+      Center = True
+      Picture.Data = {
+        07544269746D617022050000424D220500000000000036000000280000003C00
+        0000070000000100180000000000EC0400000000000000000000000000000000
+        0000000000000000000000000000000000000000000000000000000000000000
+        0000000000000000000000000000000000000000000000000000000000000000
+        0000000000000000000000000000000000000000000000000000000000000000
+        0000000000000000000000000000000000000000000000000000000000000000
+        0000000000000000000000000000000000000000000000000000000000000000
+        0000000000000000000000000000000000000000000000000000000000000000
+        0000000000000000000000000000000000000000000000000000FFFFFFFFFFFF
+        0000000000000000000000000000000000000000000000000000000000000000
+        00000000000000000000000000FFFFFFFFFFFF00000000000000000000000000
+        0000000000000000000000000000000000000000000000000000000000000000
+        FFFFFFFFFFFF0000000000000000000000000000000000000000000000000000
+        0000000000000000000000000000000000000000000000000000000000000000
+        0000000000000000000000FFFFFFFFFFFFFFFFFFFFFFFF000000000000000000
+        000000000000000000000000000000000000000000000000000000000000FFFF
+        FFFFFFFFFFFFFFFFFFFF00000000000000000000000000000000000000000000
+        0000000000000000000000000000000000FFFFFFFFFFFFFFFFFFFFFFFF000000
+        0000000000000000000000000000000000000000000000000000000000000000
+        00000000000000000000000000000000000000000000000000000000FFFFFFFF
+        FFFFFFFFFFFFFFFFFFFFFFFFFFFF000000000000000000000000000000000000
+        000000000000000000000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+        FF00000000000000000000000000000000000000000000000000000000000000
+        0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000000000000000000000
+        0000000000000000000000000000000000000000000000000000000000000000
+        00000000000000000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+        FFFFFFFFFF000000000000000000000000000000000000000000000000000000
+        FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0000000000000000
+        00000000000000000000000000000000000000FFFFFFFFFFFFFFFFFFFFFFFFFF
+        FFFFFFFFFFFFFFFFFFFFFF000000000000000000000000000000000000000000
+        000000000000000000000000000000000000000000000000000000000000FFFF
+        FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF00000000
+        0000000000000000000000000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+        FFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0000000000000000000000000000000000
+        00000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+        FFFF000000000000000000000000000000000000000000000000000000000000
+        0000000000000000000000000000000000000000000000000000000000000000
+        0000000000000000000000000000000000000000000000000000000000000000
+        0000000000000000000000000000000000000000000000000000000000000000
+        0000000000000000000000000000000000000000000000000000000000000000
+        0000000000000000000000000000000000000000000000000000000000000000
+        0000000000000000000000000000}
+      OnClick = Image1Click
+      ExplicitTop = 6
+    end
+  end
+  object Panel3: TPanel
+    Left = 0
+    Top = 20
+    Width = 688
+    Height = 449
+    Align = alClient
+    BevelOuter = bvNone
+    Caption = 'Panel3'
+    Color = clBlack
+    ParentBackground = False
+    TabOrder = 2
+    Visible = False
+    ExplicitHeight = 60
+    object Notebook1: TNotebook
+      Left = 0
+      Top = 0
+      Width = 688
+      Height = 449
+      Align = alClient
+      Color = clBlack
+      ParentColor = False
+      TabOrder = 0
+      ExplicitLeft = 248
+      ExplicitTop = 16
+      ExplicitWidth = 150
+      ExplicitHeight = 150
+      object TPage
+        Left = 0
+        Top = 0
+        Caption = 'calc'
+        ExplicitWidth = 150
+        ExplicitHeight = 150
+        object Panel4: TPanel
+          Left = 0
+          Top = 0
+          Width = 688
+          Height = 100
+          BevelOuter = bvNone
+          Caption = 'Panel4'
+          Color = clBlack
+          ParentBackground = False
+          TabOrder = 0
+          object FramedButton1: TFramedButton
+            Left = 5
+            Top = 5
+            Width = 17
+            Height = 19
+            Cursor = crHandPoint
+            Color = clBlack
+            TextColor = 5265721
+            FrameColor = 5265721
+            SelTextColor = clWhite
+            DisableColor = clBlack
+            SelFrameColor = clWhite
+            FrameMargin = 0
+            TextMargin = 0
+            Align = fbaCenter
+            Framed = True
+            HilFramed = True
+            NorGrpColor = clBlack
+            SelGrpColor = clWhite
+            GrpBkColor = clBlack
+            GroupIndex = 0
+            Selected = False
+            Text = 'x'
+            Font.Charset = DEFAULT_CHARSET
+            Font.Color = 5265721
+            Font.Height = 14
+            Font.Name = 'Arial'
+            Font.Style = [fsBold]
+            ParentFont = False
+            OnClick = FramedButton1Click
+          end
+          object Label1: TLabel
+            Left = 56
+            Top = 6
+            Width = 8
+            Height = 13
+            Caption = '0'
+            Font.Charset = DEFAULT_CHARSET
+            Font.Color = 5265721
+            Font.Height = -11
+            Font.Name = 'MS Sans Serif'
+            Font.Style = [fsBold]
+            ParentFont = False
+          end
+          object FramedButton2: TFramedButton
+            Left = 40
+            Top = 25
+            Width = 17
+            Height = 19
+            Cursor = crHandPoint
+            TextColor = 5265721
+            FrameColor = 5265721
+            SelTextColor = clWhite
+            DisableColor = clBlack
+            SelFrameColor = clWhite
+            FrameMargin = 0
+            TextMargin = 0
+            Align = fbaCenter
+            Framed = True
+            HilFramed = True
+            NorGrpColor = clBlack
+            SelGrpColor = clWhite
+            GrpBkColor = clBlack
+            GroupIndex = 0
+            Selected = False
+            Text = '1'
+            Font.Charset = DEFAULT_CHARSET
+            Font.Color = 5265721
+            Font.Height = 14
+            Font.Name = 'Arial'
+            Font.Style = [fsBold]
+            ParentFont = False
+            OnClick = FramedButton2Click
+          end
+          object FramedButton3: TFramedButton
+            Left = 63
+            Top = 25
+            Width = 17
+            Height = 19
+            Cursor = crHandPoint
+            TextColor = 5265721
+            FrameColor = 5265721
+            SelTextColor = clWhite
+            DisableColor = clBlack
+            SelFrameColor = clWhite
+            FrameMargin = 0
+            TextMargin = 0
+            Align = fbaCenter
+            Framed = True
+            HilFramed = True
+            NorGrpColor = clBlack
+            SelGrpColor = clWhite
+            GrpBkColor = clBlack
+            GroupIndex = 0
+            Selected = False
+            Text = '2'
+            Font.Charset = DEFAULT_CHARSET
+            Font.Color = 5265721
+            Font.Height = 14
+            Font.Name = 'Arial'
+            Font.Style = [fsBold]
+            ParentFont = False
+            OnClick = FramedButton3Click
+          end
+          object FramedButton4: TFramedButton
+            Left = 86
+            Top = 25
+            Width = 17
+            Height = 19
+            Cursor = crHandPoint
+            TextColor = 5265721
+            FrameColor = 5265721
+            SelTextColor = clWhite
+            DisableColor = clBlack
+            SelFrameColor = clWhite
+            FrameMargin = 0
+            TextMargin = 0
+            Align = fbaCenter
+            Framed = True
+            HilFramed = True
+            NorGrpColor = clBlack
+            SelGrpColor = clWhite
+            GrpBkColor = clBlack
+            GroupIndex = 0
+            Selected = False
+            Text = '3'
+            Font.Charset = DEFAULT_CHARSET
+            Font.Color = 5265721
+            Font.Height = 14
+            Font.Name = 'Arial'
+            Font.Style = [fsBold]
+            ParentFont = False
+            OnClick = FramedButton4Click
+          end
+          object FramedButton5: TFramedButton
+            Left = 109
+            Top = 25
+            Width = 17
+            Height = 19
+            Cursor = crHandPoint
+            TextColor = 5265721
+            FrameColor = 5265721
+            SelTextColor = clWhite
+            DisableColor = clBlack
+            SelFrameColor = clWhite
+            FrameMargin = 0
+            TextMargin = 0
+            Align = fbaCenter
+            Framed = True
+            HilFramed = True
+            NorGrpColor = clBlack
+            SelGrpColor = clWhite
+            GrpBkColor = clBlack
+            GroupIndex = 0
+            Selected = False
+            Text = '4'
+            Font.Charset = DEFAULT_CHARSET
+            Font.Color = 5265721
+            Font.Height = 14
+            Font.Name = 'Arial'
+            Font.Style = [fsBold]
+            ParentFont = False
+            OnClick = FramedButton5Click
+          end
+          object FramedButton6: TFramedButton
+            Left = 40
+            Top = 50
+            Width = 17
+            Height = 19
+            Cursor = crHandPoint
+            TextColor = 5265721
+            FrameColor = 5265721
+            SelTextColor = clWhite
+            DisableColor = clBlack
+            SelFrameColor = clWhite
+            FrameMargin = 0
+            TextMargin = 0
+            Align = fbaCenter
+            Framed = True
+            HilFramed = True
+            NorGrpColor = clBlack
+            SelGrpColor = clWhite
+            GrpBkColor = clBlack
+            GroupIndex = 0
+            Selected = False
+            Text = '5'
+            Font.Charset = DEFAULT_CHARSET
+            Font.Color = 5265721
+            Font.Height = 14
+            Font.Name = 'Arial'
+            Font.Style = [fsBold]
+            ParentFont = False
+            OnClick = FramedButton6Click
+          end
+          object FramedButton7: TFramedButton
+            Left = 63
+            Top = 50
+            Width = 17
+            Height = 19
+            Cursor = crHandPoint
+            TextColor = 5265721
+            FrameColor = 5265721
+            SelTextColor = clWhite
+            DisableColor = clBlack
+            SelFrameColor = clWhite
+            FrameMargin = 0
+            TextMargin = 0
+            Align = fbaCenter
+            Framed = True
+            HilFramed = True
+            NorGrpColor = clBlack
+            SelGrpColor = clWhite
+            GrpBkColor = clBlack
+            GroupIndex = 0
+            Selected = False
+            Text = '6'
+            Font.Charset = DEFAULT_CHARSET
+            Font.Color = 5265721
+            Font.Height = 14
+            Font.Name = 'Arial'
+            Font.Style = [fsBold]
+            ParentFont = False
+            OnClick = FramedButton7Click
+          end
+          object FramedButton8: TFramedButton
+            Left = 86
+            Top = 50
+            Width = 17
+            Height = 19
+            Cursor = crHandPoint
+            TextColor = 5265721
+            FrameColor = 5265721
+            SelTextColor = clWhite
+            DisableColor = clBlack
+            SelFrameColor = clWhite
+            FrameMargin = 0
+            TextMargin = 0
+            Align = fbaCenter
+            Framed = True
+            HilFramed = True
+            NorGrpColor = clBlack
+            SelGrpColor = clWhite
+            GrpBkColor = clBlack
+            GroupIndex = 0
+            Selected = False
+            Text = '7'
+            Font.Charset = DEFAULT_CHARSET
+            Font.Color = 5265721
+            Font.Height = 14
+            Font.Name = 'Arial'
+            Font.Style = [fsBold]
+            ParentFont = False
+            OnClick = FramedButton8Click
+          end
+          object FramedButton9: TFramedButton
+            Left = 109
+            Top = 50
+            Width = 17
+            Height = 19
+            Cursor = crHandPoint
+            TextColor = 5265721
+            FrameColor = 5265721
+            SelTextColor = clWhite
+            DisableColor = clBlack
+            SelFrameColor = clWhite
+            FrameMargin = 0
+            TextMargin = 0
+            Align = fbaCenter
+            Framed = True
+            HilFramed = True
+            NorGrpColor = clBlack
+            SelGrpColor = clWhite
+            GrpBkColor = clBlack
+            GroupIndex = 0
+            Selected = False
+            Text = '8'
+            Font.Charset = DEFAULT_CHARSET
+            Font.Color = 5265721
+            Font.Height = 14
+            Font.Name = 'Arial'
+            Font.Style = [fsBold]
+            ParentFont = False
+            OnClick = FramedButton9Click
+          end
+          object FramedButton10: TFramedButton
+            Left = 40
+            Top = 75
+            Width = 17
+            Height = 19
+            Cursor = crHandPoint
+            TextColor = 5265721
+            FrameColor = 5265721
+            SelTextColor = clWhite
+            DisableColor = clBlack
+            SelFrameColor = clWhite
+            FrameMargin = 0
+            TextMargin = 0
+            Align = fbaCenter
+            Framed = True
+            HilFramed = True
+            NorGrpColor = clBlack
+            SelGrpColor = clWhite
+            GrpBkColor = clBlack
+            GroupIndex = 0
+            Selected = False
+            Text = '9'
+            Font.Charset = DEFAULT_CHARSET
+            Font.Color = 5265721
+            Font.Height = 14
+            Font.Name = 'Arial'
+            Font.Style = [fsBold]
+            ParentFont = False
+            OnClick = FramedButton10Click
+          end
+          object FramedButton11: TFramedButton
+            Left = 63
+            Top = 75
+            Width = 17
+            Height = 19
+            Cursor = crHandPoint
+            TextColor = 5265721
+            FrameColor = 5265721
+            SelTextColor = clWhite
+            DisableColor = clBlack
+            SelFrameColor = clWhite
+            FrameMargin = 0
+            TextMargin = 0
+            Align = fbaCenter
+            Framed = True
+            HilFramed = True
+            NorGrpColor = clBlack
+            SelGrpColor = clWhite
+            GrpBkColor = clBlack
+            GroupIndex = 0
+            Selected = False
+            Text = '0'
+            Font.Charset = DEFAULT_CHARSET
+            Font.Color = 5265721
+            Font.Height = 14
+            Font.Name = 'Arial'
+            Font.Style = [fsBold]
+            ParentFont = False
+            OnClick = FramedButton11Click
+          end
+          object FramedButton12: TFramedButton
+            Left = 86
+            Top = 75
+            Width = 40
+            Height = 19
+            Cursor = crHandPoint
+            TextColor = 5265721
+            FrameColor = 5265721
+            SelTextColor = clWhite
+            DisableColor = clBlack
+            SelFrameColor = clWhite
+            FrameMargin = 0
+            TextMargin = 0
+            Align = fbaCenter
+            Framed = True
+            HilFramed = True
+            NorGrpColor = clBlack
+            SelGrpColor = clWhite
+            GrpBkColor = clBlack
+            GroupIndex = 0
+            Selected = False
+            Text = '='
+            Font.Charset = DEFAULT_CHARSET
+            Font.Color = 5265721
+            Font.Height = 14
+            Font.Name = 'Arial'
+            Font.Style = [fsBold]
+            ParentFont = False
+            OnClick = FramedButton12Click
+          end
+          object FramedButton13: TFramedButton
+            Left = 151
+            Top = 25
+            Width = 17
+            Height = 19
+            Cursor = crHandPoint
+            TextColor = 5265721
+            FrameColor = 5265721
+            SelTextColor = clWhite
+            DisableColor = clBlack
+            SelFrameColor = clWhite
+            FrameMargin = 0
+            TextMargin = 0
+            Align = fbaCenter
+            Framed = True
+            HilFramed = True
+            NorGrpColor = clBlack
+            SelGrpColor = clWhite
+            GrpBkColor = clBlack
+            GroupIndex = 0
+            Selected = False
+            Text = '+'
+            Font.Charset = DEFAULT_CHARSET
+            Font.Color = 5265721
+            Font.Height = 14
+            Font.Name = 'Arial'
+            Font.Style = [fsBold]
+            ParentFont = False
+            OnClick = FramedButton13Click
+          end
+          object FramedButton14: TFramedButton
+            Left = 174
+            Top = 25
+            Width = 17
+            Height = 19
+            Cursor = crHandPoint
+            TextColor = 5265721
+            FrameColor = 5265721
+            SelTextColor = clWhite
+            DisableColor = clBlack
+            SelFrameColor = clWhite
+            FrameMargin = 0
+            TextMargin = 0
+            Align = fbaCenter
+            Framed = True
+            HilFramed = True
+            NorGrpColor = clBlack
+            SelGrpColor = clWhite
+            GrpBkColor = clBlack
+            GroupIndex = 0
+            Selected = False
+            Text = '-'
+            Font.Charset = DEFAULT_CHARSET
+            Font.Color = 5265721
+            Font.Height = 14
+            Font.Name = 'Arial'
+            Font.Style = [fsBold]
+            ParentFont = False
+            OnClick = FramedButton14Click
+          end
+          object FramedButton15: TFramedButton
+            Left = 151
+            Top = 50
+            Width = 17
+            Height = 19
+            Cursor = crHandPoint
+            TextColor = 5265721
+            FrameColor = 5265721
+            SelTextColor = clWhite
+            DisableColor = clBlack
+            SelFrameColor = clWhite
+            FrameMargin = 0
+            TextMargin = 0
+            Align = fbaCenter
+            Framed = True
+            HilFramed = True
+            NorGrpColor = clBlack
+            SelGrpColor = clWhite
+            GrpBkColor = clBlack
+            GroupIndex = 0
+            Selected = False
+            Text = 'x'
+            Font.Charset = DEFAULT_CHARSET
+            Font.Color = 5265721
+            Font.Height = 14
+            Font.Name = 'Arial'
+            Font.Style = [fsBold]
+            ParentFont = False
+            OnClick = FramedButton15Click
+          end
+          object FramedButton16: TFramedButton
+            Left = 174
+            Top = 50
+            Width = 17
+            Height = 19
+            Cursor = crHandPoint
+            TextColor = 5265721
+            FrameColor = 5265721
+            SelTextColor = clWhite
+            DisableColor = clBlack
+            SelFrameColor = clWhite
+            FrameMargin = 0
+            TextMargin = 0
+            Align = fbaCenter
+            Framed = True
+            HilFramed = True
+            NorGrpColor = clBlack
+            SelGrpColor = clWhite
+            GrpBkColor = clBlack
+            GroupIndex = 0
+            Selected = False
+            Text = '/'
+            Font.Charset = DEFAULT_CHARSET
+            Font.Color = 5265721
+            Font.Height = 14
+            Font.Name = 'Arial'
+            Font.Style = [fsBold]
+            ParentFont = False
+            OnClick = FramedButton16Click
+          end
+          object FramedButton17: TFramedButton
+            Left = 151
+            Top = 75
+            Width = 40
+            Height = 19
+            Cursor = crHandPoint
+            TextColor = 5265721
+            FrameColor = 5265721
+            SelTextColor = clWhite
+            DisableColor = clBlack
+            SelFrameColor = clWhite
+            FrameMargin = 0
+            TextMargin = 0
+            Align = fbaCenter
+            Framed = True
+            HilFramed = True
+            NorGrpColor = clBlack
+            SelGrpColor = clWhite
+            GrpBkColor = clBlack
+            GroupIndex = 0
+            Selected = False
+            Text = 'Clear'
+            Font.Charset = DEFAULT_CHARSET
+            Font.Color = 5265721
+            Font.Height = 14
+            Font.Name = 'Arial'
+            Font.Style = [fsBold]
+            ParentFont = False
+            OnClick = FramedButton17Click
+          end
+          object FramedButton18: TFramedButton
+            Left = 223
+            Top = 25
+            Width = 66
+            Height = 19
+            Cursor = crHandPoint
+            TextColor = 5265721
+            FrameColor = 5265721
+            SelTextColor = clWhite
+            DisableColor = clBlack
+            SelFrameColor = clWhite
+            FrameMargin = 0
+            TextMargin = 0
+            Align = fbaCenter
+            Framed = True
+            HilFramed = True
+            NorGrpColor = clBlack
+            SelGrpColor = clWhite
+            GrpBkColor = clBlack
+            GroupIndex = 0
+            Selected = False
+            Text = '/hr to /d'
+            Font.Charset = DEFAULT_CHARSET
+            Font.Color = 5265721
+            Font.Height = 14
+            Font.Name = 'Arial'
+            Font.Style = [fsBold]
+            ParentFont = False
+          end
+          object FramedButton19: TFramedButton
+            Left = 223
+            Top = 50
+            Width = 66
+            Height = 19
+            Cursor = crHandPoint
+            TextColor = 5265721
+            FrameColor = 5265721
+            SelTextColor = clWhite
+            DisableColor = clBlack
+            SelFrameColor = clWhite
+            FrameMargin = 0
+            TextMargin = 0
+            Align = fbaCenter
+            Framed = True
+            HilFramed = True
+            NorGrpColor = clBlack
+            SelGrpColor = clWhite
+            GrpBkColor = clBlack
+            GroupIndex = 0
+            Selected = False
+            Text = '/hr to /m'
+            Font.Charset = DEFAULT_CHARSET
+            Font.Color = 5265721
+            Font.Height = 14
+            Font.Name = 'Arial'
+            Font.Style = [fsBold]
+            ParentFont = False
+          end
+          object FramedButton20: TFramedButton
+            Left = 223
+            Top = 75
+            Width = 66
+            Height = 19
+            Cursor = crHandPoint
+            TextColor = 5265721
+            FrameColor = 5265721
+            SelTextColor = clWhite
+            DisableColor = clBlack
+            SelFrameColor = clWhite
+            FrameMargin = 0
+            TextMargin = 0
+            Align = fbaCenter
+            Framed = True
+            HilFramed = True
+            NorGrpColor = clBlack
+            SelGrpColor = clWhite
+            GrpBkColor = clBlack
+            GroupIndex = 0
+            Selected = False
+            Text = '/hr to /y'
+            Font.Charset = DEFAULT_CHARSET
+            Font.Color = 5265721
+            Font.Height = 14
+            Font.Name = 'Arial'
+            Font.Style = [fsBold]
+            ParentFont = False
+          end
+          object FramedButton21: TFramedButton
+            Left = 295
+            Top = 25
+            Width = 66
+            Height = 19
+            Cursor = crHandPoint
+            TextColor = 5265721
+            FrameColor = 5265721
+            SelTextColor = clWhite
+            DisableColor = clBlack
+            SelFrameColor = clWhite
+            FrameMargin = 0
+            TextMargin = 0
+            Align = fbaCenter
+            Framed = True
+            HilFramed = True
+            NorGrpColor = clBlack
+            SelGrpColor = clWhite
+            GrpBkColor = clBlack
+            GroupIndex = 0
+            Selected = False
+            Text = 'Clear'
+            Font.Charset = DEFAULT_CHARSET
+            Font.Color = 5265721
+            Font.Height = 14
+            Font.Name = 'Arial'
+            Font.Style = [fsBold]
+            ParentFont = False
+          end
+          object FramedButton22: TFramedButton
+            Left = 295
+            Top = 50
+            Width = 66
+            Height = 19
+            Cursor = crHandPoint
+            TextColor = 5265721
+            FrameColor = 5265721
+            SelTextColor = clWhite
+            DisableColor = clBlack
+            SelFrameColor = clWhite
+            FrameMargin = 0
+            TextMargin = 0
+            Align = fbaCenter
+            Framed = True
+            HilFramed = True
+            NorGrpColor = clBlack
+            SelGrpColor = clWhite
+            GrpBkColor = clBlack
+            GroupIndex = 0
+            Selected = False
+            Text = 'Clear'
+            Font.Charset = DEFAULT_CHARSET
+            Font.Color = 5265721
+            Font.Height = 14
+            Font.Name = 'Arial'
+            Font.Style = [fsBold]
+            ParentFont = False
+          end
+          object FramedButton23: TFramedButton
+            Left = 295
+            Top = 75
+            Width = 66
+            Height = 19
+            Cursor = crHandPoint
+            TextColor = 5265721
+            FrameColor = 5265721
+            SelTextColor = clWhite
+            DisableColor = clBlack
+            SelFrameColor = clWhite
+            FrameMargin = 0
+            TextMargin = 0
+            Align = fbaCenter
+            Framed = True
+            HilFramed = True
+            NorGrpColor = clBlack
+            SelGrpColor = clWhite
+            GrpBkColor = clBlack
+            GroupIndex = 0
+            Selected = False
+            Text = 'Clear'
+            Font.Charset = DEFAULT_CHARSET
+            Font.Color = 5265721
+            Font.Height = 14
+            Font.Name = 'Arial'
+            Font.Style = [fsBold]
+            ParentFont = False
+          end
+          object FramedButton24: TFramedButton
+            Left = 367
+            Top = 25
+            Width = 58
+            Height = 19
+            Cursor = crHandPoint
+            TextColor = 5265721
+            FrameColor = 5265721
+            SelTextColor = clWhite
+            DisableColor = clBlack
+            SelFrameColor = clWhite
+            FrameMargin = 0
+            TextMargin = 0
+            Align = fbaCenter
+            Framed = True
+            HilFramed = True
+            NorGrpColor = clBlack
+            SelGrpColor = clWhite
+            GrpBkColor = clBlack
+            GroupIndex = 0
+            Selected = False
+            Text = 'Clear'
+            Font.Charset = DEFAULT_CHARSET
+            Font.Color = 5265721
+            Font.Height = 14
+            Font.Name = 'Arial'
+            Font.Style = [fsBold]
+            ParentFont = False
+          end
+          object FramedButton25: TFramedButton
+            Left = 367
+            Top = 50
+            Width = 58
+            Height = 19
+            Cursor = crHandPoint
+            TextColor = 5265721
+            FrameColor = 5265721
+            SelTextColor = clWhite
+            DisableColor = clBlack
+            SelFrameColor = clWhite
+            FrameMargin = 0
+            TextMargin = 0
+            Align = fbaCenter
+            Framed = True
+            HilFramed = True
+            NorGrpColor = clBlack
+            SelGrpColor = clWhite
+            GrpBkColor = clBlack
+            GroupIndex = 0
+            Selected = False
+            Text = 'Clear'
+            Font.Charset = DEFAULT_CHARSET
+            Font.Color = 5265721
+            Font.Height = 14
+            Font.Name = 'Arial'
+            Font.Style = [fsBold]
+            ParentFont = False
+          end
+          object FramedButton26: TFramedButton
+            Left = 367
+            Top = 75
+            Width = 58
+            Height = 19
+            Cursor = crHandPoint
+            TextColor = 5265721
+            FrameColor = 5265721
+            SelTextColor = clWhite
+            DisableColor = clBlack
+            SelFrameColor = clWhite
+            FrameMargin = 0
+            TextMargin = 0
+            Align = fbaCenter
+            Framed = True
+            HilFramed = True
+            NorGrpColor = clBlack
+            SelGrpColor = clWhite
+            GrpBkColor = clBlack
+            GroupIndex = 0
+            Selected = False
+            Text = 'Clear'
+            Font.Charset = DEFAULT_CHARSET
+            Font.Color = 5265721
+            Font.Height = 14
+            Font.Name = 'Arial'
+            Font.Style = [fsBold]
+            ParentFont = False
+          end
+          object FramedButton27: TFramedButton
+            Left = 449
+            Top = 25
+            Width = 40
+            Height = 19
+            Cursor = crHandPoint
+            TextColor = 5265721
+            FrameColor = 5265721
+            SelTextColor = clWhite
+            DisableColor = clBlack
+            SelFrameColor = clWhite
+            FrameMargin = 0
+            TextMargin = 0
+            Align = fbaCenter
+            Framed = True
+            HilFramed = True
+            NorGrpColor = clBlack
+            SelGrpColor = clWhite
+            GrpBkColor = clBlack
+            GroupIndex = 0
+            Selected = False
+            Text = 'Clear'
+            Font.Charset = DEFAULT_CHARSET
+            Font.Color = 5265721
+            Font.Height = 14
+            Font.Name = 'Arial'
+            Font.Style = [fsBold]
+            ParentFont = False
+            Visible = False
+          end
+        end
+      end
+    end
+  end
+  object Timer1: TTimer
+    Interval = 1
+    OnTimer = Timer1Timer
+    Left = 496
+    Top = 8
+  end
+  object Timer2: TTimer
+    Interval = 70
+    OnTimer = Timer2Timer
+    Left = 456
+    Top = 8
+  end
+end

@@ -1,0 +1,11 @@
+lvServices.Columns.7=Calidad
+lvProducts.Columns=10
+lvProducts.Columns.0=Nombre
+lvProducts.Columns.1=Producido
+lvProducts.Columns.2=Comprado
+lvProducts.Columns.3=Golpecito. Capacidad
+lvProducts.Columns.4=Comprar la capacidad
+lvProducts.Columns.5=Vender el precio
+lvProducts.Columns.6=Vender el Q.
+lvProducts.Columns.7=Comprar el precio
+lvProducts.Columns.8=Comprar el Q.

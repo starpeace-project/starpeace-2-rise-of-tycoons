@@ -1,0 +1,16 @@
+=
+lbName.Caption=Universaldiagramm
+Tabs.TabNames=3
+Tabs.TabNames.0=Amtliche Welten
+Tabs.TabNames.1=Turnier-Welten
+Tabs.TabNames.2=Spieler-Welten
+Label11.Caption= Welten gefunden in diesem Bereich:
+Label9.Caption=Art vorbei:
+RadioButton1.Caption=Knall
+RadioButton2.Caption=Investoren
+RadioButton3.Caption=Jahr
+RadioButton4.Caption=KLINGELN
+Ticker.Caption=Willkommen zum Univesal Diagramm. Irgendwelche der Welten an oben klicken, um ausgedehnte Informationen anzuzeigen.
+Jump.Hint=Zum z.Z. vorgewählten Planeten springen
+Jump.Text=ZUM PLANETEN SPRINGEN
+Refresh.Hint=Die Planetenliste erneuern, die oben angezeigt wird

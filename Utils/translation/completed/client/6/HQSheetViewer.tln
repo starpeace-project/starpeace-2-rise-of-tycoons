@@ -1,0 +1,16 @@
+HintText.Hint=GESCHIEDENIS
+Label1.Caption=Naam:
+Label2.Caption=Schepper:
+xfer_Creator.Caption=n/a
+Label6.Caption=Leeftijd:
+xfer_MetaFacilityName.Caption=n/a
+btnClose.Hint=Klik om deze faciliteit te sluiten
+btnClose.Text=Sluit
+btnDemolish.Hint=Klik om deze faciliteit te vernietigen
+btnDemolish.Text=Vernietig
+NameLabel.Caption=n/a
+btnConnect.Hint=Klik om deze faciliteit met anderen in de kaart te verbinden
+btnConnect.Text=Verbind
+Label8.Caption=Kosten:
+lbCost.Caption=n/a
+Label9.Caption=ROI:

@@ -1,0 +1,17 @@
+Tabs.TabNames.1=게임 수로
+NewTeamDlg.Caption=NewTeamDlg
+NewTeamDlg.Hint=
+CloseBtn.Hint=가까운 창
+CloseBtn.Text=x
+Shape1.Hint=
+Label4.Caption=팀 이름:
+Label4.Hint=
+btCreate.Hint=전시 오바레이 지도 공구
+btCreate.Text=새로운 팀
+btCancel.Hint=전시 오바레이 지도 공구
+btCancel.Text=취소
+HintText.Caption=팀을 창조하십시오
+HintText.Hint=팀을 창조하십시오
+edTeamName.Hint=
+edTeamName.Text=
+pnError.Caption=과실!

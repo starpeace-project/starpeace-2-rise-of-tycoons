@@ -1,0 +1,4 @@
+btnModify.Text=Wijzig me
+lvAntennas.Columns=3
+lvAntennas.Columns.0=Naam
+lvAntennas.Columns.1=Stad

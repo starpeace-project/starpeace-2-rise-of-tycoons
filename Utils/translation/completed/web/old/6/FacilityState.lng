@@ -1,0 +1,8 @@
+=
+=
+strOperatingNormally=De „koepel werkt normaal“
+strStopped=De „koepel werd tegengehouden door de eigenaar“
+strNotFunctioning=De „koepel functioneert niet behoorlijk“
+strNeedsSuppliers=„Één of meerdere basislevering wordt niet ontvangen bij allen“
+strNeedsBudget=„Er is niet genoeg geld om te werken“
+strNotEnoughSupplies=De „koepel wordt niet geleverd aangezien het behoorlijk“ moet werken

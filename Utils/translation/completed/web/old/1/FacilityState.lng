@@ -1,0 +1,8 @@
+=
+=
+strOperatingNormally=“La bóveda está funcionando normalmente”
+strStopped=“La bóveda fue parada por el dueño”
+strNotFunctioning=“La bóveda no está funcionando correctamente”
+strNeedsSuppliers=“Uno o más fuentes básicas no se están recibiendo en absoluto”
+strNeedsBudget=“No hay bastante dinero a funcionar”
+strNotEnoughSupplies=“La bóveda no se está suministrando mientras que necesita trabajar correctamente”

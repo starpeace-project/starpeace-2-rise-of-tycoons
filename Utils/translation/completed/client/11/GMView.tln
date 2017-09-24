@@ -1,0 +1,16 @@
+N2.Caption=Delete
+Label1.Caption=Говорить к вам:
+OnlineList.Columns=3
+OnlineList.Columns.0=Псевдоним
+OnlineList.Columns.1=Уровень
+OnlineList.Columns.2=Мир
+Label2.Caption=Ждать вас:
+WaitingList.Columns=3
+WaitingList.Columns.0=Псевдоним
+WaitingList.Columns.1=Уровень
+WaitingList.Columns.2=Мир
+File1.Caption=&File
+EXitMnu.Caption=E&xit
+Shortcuts1.Caption=Кратчайшие пути
+Minimize1.Caption=Уменьшите
+Chat1.Caption=Бормотушк!

@@ -1,0 +1,11 @@
+btClose.Text=FIN
+Panel4.Caption=Dactylographier vos commentaires ici :
+NoChannels.Caption=Aucuns canaux à montrer
+CreateChannel.Hint=Cliquer pour créer un canal
+CreateChannel.Text=Créer la Manche
+JoinChannel.Hint=Cliquer pour joindre un canal
+JoinChannel.Text=Joindre la Manche
+LeaveChannel.Hint=Cliquer pour laisser le canal
+LeaveChannel.Text=Laisser la Manche
+Marquee.Caption=BIENVENUE à la CAUSERIE de Starpeace.
+Marquee.Hint=BIENVENUE à la CAUSERIE de Starpeace.

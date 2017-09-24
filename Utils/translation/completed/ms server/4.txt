@@ -1,0 +1,2821 @@
+Clienti
+0
+Utile netto (perdite)
+Strade
+Tasse [l'anno scorso]
+Aziende agricole
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Costruzione
+Macchine di affari
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Prestiti
+Industrie automobilistiche
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Fondi riscossi
+Stabilimenti chimici
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Soldi trasmessi
+Vestiti
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Affitti
+Costruzione
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Manutenzione
+Elettronico
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Riparazioni
+Trasformazione dei prodotti alimentari
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Affitti
+Industria pesante
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Manutenzione
+Industrie degli apparecchi
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Giocattoli
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Residentials
+Riparazioni
+Industria metallurgica
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Miniere
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Impianti offshore
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Stipendi
+Industria tessile
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Raffinerie
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Bilancio pubblico
+Software
+Costo dei servizi
+Rendita da vendite
+Stipendi
+Costi di gestione
+Plastica
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Costi di gestione
+Servizi Giuridici
+Costo dei servizi
+Rendita da vendite
+Stipendi
+Costi di gestione
+Automobili
+Costo delle merci vendute
+Stipendi
+Rendita da vendite
+Depositi dei vestiti
+Costo delle merci vendute
+Stipendi
+Rendita da vendite
+Alimento
+Costo delle merci vendute
+Stipendi
+Rendita da vendite
+Barre
+Costo delle merci vendute
+Stipendi
+Rendita da vendite
+Commercio
+Sedi
+Elettrodomestici
+Costo delle merci vendute
+Stipendi
+Rendita da vendite
+Depositi di giocattolo
+Costo delle merci vendute
+Stipendi
+Rendita da vendite
+Researchs
+Supermercati
+Costo delle merci vendute
+Stipendi
+Rendita da vendite
+Stipendi
+Ristoranti
+Costo delle merci vendute
+Stipendi
+Rendita da vendite
+Apparecchiatura
+Cinema
+Costo delle autorizzazioni di film
+Stipendi
+Redditi di film
+Servizi
+Costo di esecuzione
+Magazzini
+Costo delle merci vendute
+Rendita da vendite
+Stipendi
+Costi di gestione
+TV
+Costi di produzione
+Reddito della pubblicità
+Stipendi
+Costi di gestione
+Industrie
+Proprietà locative
+Prodotti farmaceutici
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Speciale
+Produzione del liquore
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Compensazioni
+La Banca
+Pagamenti dei debitori
+Prestiti emessi
+Prestito
+Pagamenti di prestito
+Facilità pubbliche
+Stipendi
+Depositi di droga
+Costo delle merci vendute
+Stipendi
+Rendite da vendite
+Stazioni di servizio
+Costo delle merci vendute
+Stipendi
+Redditi
+Uffici
+Ditte
+Costruzione di strade
+Demolizione della strada
+Manutenzione di strada
+Imposta fondiaria
+Laminatoi del legname
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Negozi di mobili
+Costo delle merci vendute
+Stipendi
+Rendita da vendite
+Depositi di libro
+Costo delle merci vendute
+Stipendi
+Rendita da vendite
+Industria della mobilia
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Depositi di calcolatore
+Costo delle merci vendute
+Stipendi
+Rendita da vendite
+Studi di film
+Costo dei materiali
+Concede una licenza al reddito
+Stipendi
+Costi di produzione
+Saloni funerei
+Materiali di costo
+Stipendi
+Redditi funerei
+Industria cartaria
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Pianta di stampa
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Industria CD
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Depositi del CD
+Costo delle merci vendute
+Stipendi
+Rendita da vendite
+Rifiuti organici
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Fertilizzante
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Azienda agricola A del grano
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Laminatoio
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Pianta di cotone
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Pianta del pantalone
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Negozio del pantalone
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Forno
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Azienda agricola della frutta
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Fabbrica di pattino
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Fabbrica di gomma
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Linfa di gomma
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Albero di gomma
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Fabbrica della torta della frutta
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Negozio di pattino
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Negozio della torta della frutta
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Azienda agricola di verdure A  
+Costo delle materie prime   
+Rendita da vendite    
+Stipendi    
+Costi di gestione    
+Fabbrica dello stufato    
+Costo delle materie prime    
+Rendita da vendite    
+Stipendi    
+Costi di gestione    
+Miniera organica    
+Costo delle materie prime   
+Rendita da vendite    
+Stipendi    
+Costi di gestione    
+Fabbrica del polimero   
+Costo delle materie prime    
+Rendita da vendite    
+Stipendi    
+Costi di gestione    
+Fabbrica di nylon
+Costo delle materie prime    
+Rendita da vendite    
+Stipendi    
+Costi di gestione    
+Fabbrica della camicia
+Costo delle materie prime    
+Rendita da vendite    
+Stipendi    
+Costi di gestione    
+Il bestiame coltiva A   
+Costo delle materie prime    
+Rendita da vendite    
+Stipendi    
+Costi di gestione   
+Fabbrica dell'hamburger  
+Costo delle materie prime    
+Rendita da vendite    
+Stipendi    
+Costi di gestione    
+Miniera chimica grezza
+Costo delle materie prime    
+Rendita da vendite    
+Stipendi    
+Costi di gestione    
+Stabilimento chimico di estrazione mineraria
+Costo delle materie prime    
+Rendita da vendite    
+Stipendi    
+Costi di gestione    
+Fabbrica di cuoio
+Costo delle materie prime    
+Rendita da vendite    
+Stipendi    
+Costi di gestione    
+Pianta del rivestimento di cuoio
+Costo delle materie prime    
+Rendita da vendite    
+Stipendi    
+Costi di gestione
+Negozio dell'hamburger
+Costo delle materie prime    
+Rendita da vendite    
+Stipendi    
+Costi di gestione    
+Negozio del rivestimento di cuoio
+Costo delle materie prime    
+Rendita da vendite    
+Stipendi    
+Costi di gestione      
+Negozio dello stufato
+Costo delle materie prime    
+Rendita da vendite    
+Stipendi    
+Costi di gestione       
+Negozio della camicia
+Costo delle materie prime    
+Rendita da vendite    
+Stipendi
+Costi di gestione
+Fabbricazione della TV
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Piccola industria automobilistica
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Miniere del ferro
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Miniere del silicone
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Miniere di carbone
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Industria siderurgica
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Industria del chip di memoria
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Depositi della TV
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Piccoli concessionari auto
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Miniere di rame
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Miniere di ceramica
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Olio di pino
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Industria di rame
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Piante del CPU
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Industria dell'automobile sportiva
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Fabbricazione del PC
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Concessionari auto di sport
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Miniera di alluminio
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Miniera della criolite
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Miniera del silano
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Industria della lavorazione dell'alluminio
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Industria di TFT
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Industria della bici del motore
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Industria del telefono mobile
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Deposito del telefono mobile
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Gestione commerciale di Mike del motore
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Industria del motore
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Industria della gomma
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Humvee Indsutry
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Industria del fornello
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Gestione commerciale di Humvee
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Deposito del fornello
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Industria del vetro
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Industria di Conveyorbelt
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Industria del calcolatore per problemi commerciali
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Industria concreta
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Industria pesante
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Industria dell'assistente
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Industria dell'intonaco
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Industria robot
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Industria della macchina di affari
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Miniera del gesso
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Miniera del calcare
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Miniera della ghiaia
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Industria dell'edilizia
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Industria del sistema di controllo
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Industria di sistema della rete
+Costo delle materie prime
+Rendita da vendite
+Stipendi
+Costi di gestione
+Servizi
+0
+Barre
+Automobili
+Vestiti e calzature
+Prodotti farmaceutici
+Alimento trasformato
+Alimento fresco
+Gas
+Elettrodomestici
+Film
+Ristoranti
+Giocattoli
+Libri
+Mobilia
+Calcolatori
+Funerali
+Cd
+Pantaloni
+Forno
+Pattini
+Torte della frutta
+Rivestimenti di cuoio
+Pasto dell'hamburger di Mc Puglands
+Camice
+Stufato irlandese
+Coltelleria
+Panno della Tabella
+Panini freschi
+Vetri
+Piatti
+Piccola automobile
+Televisioni
+Legami
+Vestiti
+Nell'ambito di usura
+Cappelli
+Calzini
+Biancheria
+Sciarpe
+Pantaloni di cuoio
+Automobili sportive
+Giocatori MP3
+Stampatori
+Videocamera portatile
+Hoovers
+Giocatori di DVD
+Caldaia
+Microonde
+Tostapane
+Fornelli
+Bici del motore
+Telefoni mobili
+Corredo del lavaggio di automobile
+Polacco dell'automobile
+Bevanda rinfrescante di aria dell'automobile
+Dadi lanuginosi
+Humvee
+PC
+Facilità
+0
+Grande azienda agricola
+Grandi aziende agricole
+Grande unità di elaborazione di alimento
+Grandi unità di elaborazione di alimento
+Deposito di alimento
+Depositi di alimento
+Azienda agricola
+Aziende agricole
+Unità di elaborazione di alimento
+Unità di elaborazione di alimento
+Cupola di Guruh
+Cupole di Guruh
+Cupola di Lothar
+Cupole di Lothar
+Ciotola nera
+Ciotole nere
+Cupola di anima
+Cupole di anima
+Costruzioni basse generiche del codice categoria
+Buildingss bassi generici del codice categoria
+Campidoglio
+Capitols
+Puntura
+Punture
+Arco del Davis
+Archi del Davis
+Torretta del neon di Mc
+Torrette del neon di Mc
+Prigione
+Prigioni
+Prigione
+Prigioni
+Prigione
+Prigioni
+Caserma dei pompieri
+Caserme dei pompieri
+Stazione di polizia
+Stazioni di polizia
+Prigione
+Prigioni
+Prigione
+Prigioni
+La Banca
+Le Banche
+Barra
+Barre
+Industria delle macchine di affari
+Macchine Industrys di affari
+Fabbrica dell'automobile
+Automobile Factorys
+Deposito dell'automobile
+Depositi dell'automobile
+Grande parco
+Grandi parchi
+Stabilimento chimico
+Stabilimenti chimici
+Piccolo stabilimento chimico
+Piccoli stabilimenti chimici
+Miniera chimica
+Miniere chimiche
+Piccola miniera chimica
+Piccole miniere chimiche
+Deposito dei vestiti
+Depositi dei vestiti
+Fabbrica dei vestiti
+Vestiti Factorys
+Piccola fabbrica dei vestiti
+Piccolo Factorys d'abbigliamento
+Miniera di carbone
+Miniere di carbone
+Miniera di piccolo carbone
+Miniere di piccolo carbone
+Azienda di software
+Aziende di software
+Industria dell'edilizia
+Costruzione Industrys
+Industria elettronica
+Industrys elettronico
+Piccola industria elettronica
+Piccolo Industrys elettronico
+Azienda agricola
+Aziende agricole
+Unità di elaborazione di alimento
+Unità di elaborazione di alimento
+Piccola unità di elaborazione di alimento
+Piccole unità di elaborazione di alimento
+Deposito di alimento
+Depositi di alimento
+Sedi dell'azienda
+Azienda Headquarterss
+Industria del macchinario
+Macchinario Industrys
+Fabbrica degli apparecchi
+Apparecchi Factorys
+Piccola fabbrica degli apparecchi
+Piccoli apparecchi Factorys
+Deposito degli elettrodomestici
+Depositi degli elettrodomestici
+Ago
+Aghi
+Camera dell'aerostato
+Camere dell'aerostato
+Imbuto
+Imbuti
+Cottage
+Cottage
+Costruzione di alta classe generica
+Costruzioni di alta classe generiche
+Ospedale
+Ospedali
+Parco della lucertola
+Parchi della lucertola
+Parco del Goblin
+Parchi del Goblin
+Parco del pollo
+Parchi del pollo
+Parco straniero
+Parchi stranieri
+Istituto universitario
+Istituti universitari
+Deposito
+Depositi
+Prigione
+Prigioni
+Museo
+Musei
+Corti di tennis
+Courtss di tennis
+Municipio
+Municipi
+Centro commerciale
+Centri commerciali
+Sedi di industria
+Industria Headquarterss
+Ditta degli avvocati
+Ditte degli avvocati
+Statua di libertà
+Statua di Libertys
+Pianta del liquore
+Piante del liquore
+Case riciclate
+Homess riciclato
+Costruzioni riciclate
+Buildingss riciclato
+Latte della sardina
+Sardina Canss
+Costruzione bassa generica del codice categoria
+Costruzioni basse generiche del codice categoria
+Parco
+Parchi
+Industria di metallo
+Metallo Industrys
+Piccola industria di metallo
+Piccolo metallo Industrys
+Torretta di sogni
+Torrette di sogni
+I funghi
+Il Mushroomss
+Le boccole
+Il Bushingss
+Screwer
+Screwers
+Castelli
+Castless
+Costruzione generica del codice categoria centrale
+Costruzioni generiche del codice categoria centrale
+Miniera
+Miniere
+Piccola miniera
+Piccole miniere
+Cinema
+Cinema
+Nervature
+Ribss
+Sfera rossa
+Sfere rosse
+Duango
+Duangos
+Polizia e caserma dei pompieri 
+Polizia e caserme dei pompieri
+Sedi civiche di affari
+Affari civici Headquarterss
+Sedi dei beni immobili
+Beni immobili Headquarterss
+Ristorante
+Ristoranti
+Scuola
+Scuole
+Sedi di commercio
+Sedi di commercio
+Miniera del silicone
+Miniere del silicone
+Piccola miniera del silicone
+Piccole miniere del silicone
+Piccola azienda agricola
+Piccole aziende agricole
+Piccolo parco
+Piccoli parchi
+Miniera di pietra
+Miniere di pietra
+Piccola miniera di pietra
+Piccole miniere di pietra
+Grande mercato
+Grandi mercati
+Mercato di pulce
+Mercati di pulce
+Industria tessile
+Tessile Industrys
+Piccola industria tessile
+Piccola tessile Industrys
+Torretta di IFEL
+Torrette di IFEL
+Fabbrica del giocattolo
+Giocattolo Factorys
+Deposito di giocattolo
+Depositi di giocattolo
+Antenna della TV
+Antenne della TV
+TV
+TV
+Istituto universitario
+Istituti universitari
+Museo
+Musei
+Istituto universitario
+Istituti universitari
+Museo
+Musei
+Istituto universitario
+Istituti universitari
+Museo
+Musei
+Scuola
+Scuole
+Istituto universitario
+Istituti universitari
+Museo
+Musei
+Istituto universitario
+Istituti universitari
+Museo
+Musei
+Parco della lucertola
+Parchi della lucertola
+Parco del Goblin
+Parchi del Goblin
+Parco del pollo
+Parchi del pollo
+Parco straniero
+Parchi stranieri
+Deposito
+Depositi
+Parco della lucertola
+Parchi della lucertola
+Parco del Goblin
+Parchi del Goblin
+Parco del pollo
+Parchi del pollo
+Parco straniero
+Parchi stranieri
+Deposito
+Depositi
+Parco della lucertola
+Parchi della lucertola
+Parco del Goblin
+Parchi del Goblin
+Parco del pollo
+Parchi del pollo
+Parco straniero
+Parchi stranieri
+Deposito
+Depositi
+Grande parco
+Grandi parchi
+Ospedale
+Ospedali
+Statua di libertà
+Statua di Libertys
+Parco
+Parchi
+Piccolo parco
+Piccoli parchi
+Parco della lucertola
+Parchi della lucertola
+Parco del Goblin
+Parchi del Goblin
+Parco del pollo
+Parchi del pollo
+Parco straniero
+Parchi stranieri
+Deposito
+Depositi
+Parco della lucertola
+Parchi della lucertola
+Parco del Goblin
+Parchi del Goblin
+Parco del pollo
+Parchi del pollo
+Parco straniero
+Parchi stranieri
+Deposito
+Depositi
+Fabbrica dell'automobile
+Automobile Factorys
+Deposito dell'automobile
+Depositi dell'automobile
+Grande stabilimento chimico
+Grandi stabilimenti chimici
+Grande miniera chimica
+Grandi miniere chimiche
+Miniera di grande carbone
+Miniere di grande carbone
+Industria dell'edilizia
+Costruzione Industrys
+Industria del macchinario
+Macchinario Industrys
+Grande industria metallurgica
+Grande Industrys metallurgico
+Grande miniera
+Grandi miniere
+Grande miniera del silicone
+Grandi miniere del silicone
+Stabilimento chimico
+Stabilimenti chimici
+Miniera chimica
+Miniere chimiche
+Miniera di carbone
+Miniere di carbone
+Industria metallurgica
+Industrys metallurgico
+Miniera
+Miniere
+Miniera del silicone
+Miniere del silicone
+Miniera di pietra
+Miniere di pietra
+Grande miniera di pietra
+Grandi miniere di pietra
+Cupola di Guruh
+Cupole di Guruh
+Cupola di Lothar
+Cupole di Lothar
+Ciotola nera
+Ciotole nere
+Cupola di anima
+Cupole di anima
+Costruzioni basse generiche del codice categoria
+Buildingss bassi generici del codice categoria
+Ago
+Aghi
+Camera dell'aerostato
+Camere dell'aerostato
+Imbuto
+Imbuti
+Cottage
+Cottage
+Costruzione di alta classe generica
+Costruzioni di alta classe generiche
+Corti di tennis
+Courtss di tennis
+Case riciclate
+Homess riciclato
+Costruzioni riciclate
+Buildingss riciclato
+Latte della sardina
+Sardina Canss
+Costruzione bassa generica del codice categoria
+Costruzioni basse generiche del codice categoria
+Torretta di sogni
+Torrette di sogni
+I funghi
+Il Mushroomss
+Le boccole
+Il Bushingss
+Screwer
+Screwers
+Castelli
+Castless
+Costruzione generica del codice categoria centrale
+Costruzioni generiche del codice categoria centrale
+Palazzo di Zharot
+Palazzi di Zharot
+Palazzo nero
+Palazzi neri
+Cupola dei cavalieri
+Cupole dei cavalieri
+Bungalow dei cavalieri
+Bungalow dei cavalieri
+Costruzioni di alta classe generiche
+Buildingss di alta classe generici
+Città della nube
+Nube Citys
+Cielo dell'operaio
+Cieli dell'operaio
+L'alveare
+Gli alveari
+Torretta Ivory
+Torrette Ivory
+Può fiorire
+Fiori di maggio
+Il polipo
+Il Octopuss
+Solarium
+Solarium
+Il mulinello
+I mulinelli
+Camera di Katana
+Camere di Katana
+Camera di Sohei
+Camere di Sohei
+Camera di Tarakawa
+Camere di Tarakawa
+Costruzioni di alta classe a basso costo
+Buildingss di alta classe a basso costo
+Edificio di Katana
+Edifici di Katana
+Edificio di Nikotori
+Edifici di Nikotori
+Edificio di Hazobito
+Edifici di Hazobito
+Edificio di Hisogari
+Edifici di Hisogari
+Costruzioni LowClass a basso costo
+Buildingss LowClass a basso costo
+Stanze di Somsei-Taj
+Somsei-Taj Roomss
+Stanze di Marakas
+Marakas Roomss
+Stanze di Yohito
+Yohito Roomss
+Stanze di Hirijoto-Manko
+Hirijoto-Manko Roomss
+Costruzioni a basso costo della classe media
+Buildingss a basso costo della classe media
+Corti di tennis
+Courtss di tennis
+Corti di tennis
+Courtss di tennis
+Cupola dell'infermiera
+Cupole dell'infermiera
+Giardino zoologico dell'infermiera
+Giardini zoologici dell'infermiera
+Stanze dell'infermiera
+Infermiera Roomss
+Classe dell'infermiera
+Infermiera Fraternitys
+Costruzioni generiche del codice categoria centrale
+Buildingss generici del codice categoria centrale
+Palazzo di Xanadu
+Palazzi di Xanadu
+Atrio
+Atrii
+Il Willington
+Il Willingtons
+Protezione dorata
+Protezioni dorate
+Quadrato della Risonanza
+Quadrati della Risonanza
+Torrette di Lisgar
+Lisgar Towerss
+Costruzioni di alta classe generiche
+Buildingss di alta classe generici
+Torrette di Playfair
+Playfair Towerss
+Stanze di Arlington
+Arlington Roomss
+Atrio del Caesar
+Atrii del Caesar
+La Sicilia
+Il Sicilys
+Costruzione bassa generica del codice categoria
+Costruzioni basse generiche del codice categoria
+Appartamenti di Gladston.
+Gladston Apts.s
+Quincy
+Quincys
+Torrette di Metcalfe
+Metcalfe Towerss
+Appartamenti di Delmar.
+Delmar Apts.s
+Appartamenti di tramonto.
+Tramonto Apts.s
+Costruzioni generiche del codice categoria centrale
+Buildingss generici del codice categoria centrale
+Corti di tennis
+Courtss di tennis
+Costruzione spontanea
+Costruzioni spontanee
+Corti di tennis
+Courtss di tennis
+Palazzo di Zharot
+Palazzi di Zharot
+Palazzo nero
+Palazzi neri
+Cupola dei cavalieri
+Cupole dei cavalieri
+Bungalow dei cavalieri
+Bungalow dei cavalieri
+Costruzioni di alta classe generiche
+Buildingss di alta classe generici
+Industria delle macchine di affari
+Macchine Industrys di affari
+Grande industria dei vestiti
+Grandi vestiti Industrys
+Deposito di droga
+Depositi di droga
+Grande industria elettronica
+Grande Industrys elettronico
+Grande fabbrica degli apparecchi
+Grandi apparecchi Factorys
+Industria farmaceutica
+Industrys farmaceutico
+Industria dei vestiti
+Vestiti Industrys
+Industria elettronica
+Industrys elettronico
+Fabbrica degli apparecchi
+Apparecchi Factorys
+Industria tessile
+Tessile Industrys
+Grande industria tessile
+Grande tessile Industrys
+Grande parco
+Grandi parchi
+Città della nube
+Nube Citys
+Cielo dell'operaio
+Cieli dell'operaio
+L'alveare
+Gli alveari
+Torretta Ivory
+Torrette Ivory
+Statua di libertà
+Statua di Libertys
+Può fiorire
+Fiori di maggio
+Parco
+Parchi
+Il polipo
+Il Octopuss
+Piccolo parco
+Piccoli parchi
+Solarium
+Solarium
+Torretta di IFEL
+Torrette di IFEL
+Il mulinello
+I mulinelli
+Macchine di affari
+Commercio Machiness
+Industria automobilistica
+Automobile Industrys
+Deposito dell'automobile
+Depositi dell'automobile
+Stabilimento chimico
+Stabilimenti chimici
+Miniera chimica
+Miniere chimiche
+Deposito dei vestiti
+Depositi dei vestiti
+Industria dell'abbigliamento
+Vestiti Industrys
+Miniera di carbone
+Miniere di carbone
+Industria dell'edilizia
+Costruzione Industrys
+Industria elettronica
+Industrys elettronico
+Azienda agricola
+Aziende agricole
+Unità di elaborazione di alimento
+Unità di elaborazione di alimento
+Deposito di alimento
+Depositi di alimento
+Sedi dell'azienda
+Azienda Headquarterss
+Industria del macchinario
+Macchinario Industrys
+Elettrodomestici
+Famiglia Appliancess
+Deposito degli apparecchi
+Depositi degli apparecchi
+Camera di Katana
+Camere di Katana
+Camera di Sohei
+Camere di Sohei
+Camera di Tarakawa
+Camere di Tarakawa
+Costruzioni di alta classe a basso costo
+Buildingss di alta classe a basso costo
+Ospedale
+Ospedali
+Sedi di industrie
+Industrie Headquarterss
+Statua di libertà
+Statua di Libertys
+Edificio di Katana
+Edifici di Katana
+Edificio di Nikotori
+Edifici di Nikotori
+Edificio di Hazobito
+Edifici di Hazobito
+Edificio di Hisogari
+Edifici di Hisogari
+Costruzioni LowClass a basso costo
+Buildingss LowClass a basso costo
+Industria di metallo
+Metallo Industrys
+Stanze di Somsei-Taj
+Somsei-Taj Roomss
+Stanze di Marakas
+Marakas Roomss
+Stanze di Yohito
+Yohito Roomss
+Stanze di Hirijoto-Manko
+Hirijoto-Manko Roomss
+Costruzioni a basso costo della classe media
+Buildingss a basso costo della classe media
+Miniera
+Miniere
+Industria di plastica
+Industrys di plastica
+Polizia e caserma dei pompieri
+Polizia e caserme dei pompieri
+Sedi civiche di affari
+Affari civici Headquarterss
+Sedi dei beni immobili
+Beni immobili Headquarterss
+Scuola
+Scuole
+Sedi di commercio
+Sedi di commercio
+Miniera del silicone
+Miniere del silicone
+Piccolo stabilimento chimico
+Piccoli stabilimenti chimici
+Piccola miniera chimica
+Piccole miniere chimiche
+Piccola industria dell'abbigliamento
+Piccolo Industrys d'abbigliamento
+Miniera di piccolo carbone
+Miniere di piccolo carbone
+Piccola industria elettronica
+Piccolo Industrys elettronico
+Piccola azienda agricola
+Piccole aziende agricole
+Piccola unità di elaborazione di alimento
+Piccole unità di elaborazione di alimento
+Piccoli elettrodomestici
+Piccola famiglia Appliancess
+Piccola industria di metallo
+Piccolo metallo Industrys
+Piccola miniera
+Piccole miniere
+Piccola miniera del silicone
+Piccole miniere del silicone
+Piccola miniera di pietra
+Piccole miniere di pietra
+Piccola industria tessile
+Piccola tessile Industrys
+Parco della lucertola
+Parchi della lucertola
+Parco del Goblin
+Parchi del Goblin
+Parco del pollo
+Parchi del pollo
+Parco straniero
+Parchi stranieri
+Istituto universitario
+Istituti universitari
+Deposito
+Depositi
+Prigione
+Prigioni
+Museo
+Musei
+Corti di tennis
+Courtss di tennis
+Miniera di pietra
+Miniere di pietra
+Mercato di Takuri
+Mercati di Takuri
+Mercato di Tamakura
+Mercati di Tamakura
+Mercato di Satoi
+Mercati di Satoi
+Industria tessile
+Tessile Industrys
+Torretta di IFEL
+Torrette di IFEL
+Municipio
+Municipi
+Centro commerciale
+Centri commerciali
+Antenna della TV
+Antenne della TV
+TV
+TV
+Pianta CD
+Piante CD
+Deposito CD
+Depositi del CD
+Sedi di ministero
+Ministero Headquarterss
+Sedi di ministero
+Ministero Headquarterss
+Sedi di ministero
+Ministero Headquarterss
+Sedi di ministero
+Ministero Headquarterss
+Sedi di ministero
+Ministero Headquarterss
+Sedi di ministero
+Ministero Headquarterss
+Sedi di ministero
+Ministero Headquarterss
+Sedi di ministero
+Ministero Headquarterss
+Grande parco
+Grandi parchi
+Parco
+Parchi
+Yamamoto
+Yamamotos
+Tanakuta
+Tanakutas
+Ruspa spianatrice del Sato
+Ruspe spianatrici del Sato
+Ruspa spianatrice di Kunawa
+Ruspe spianatrici di Kunawa
+Koto-ku
+Koto-kus
+Piccolo parco
+Piccoli parchi
+Cupola di gioia
+Cupola delle gioia
+Moab correttivo
+Moab Correctionals
+Cupola delle macchine di affari
+Cupole delle macchine di affari
+Cupola delle automobili
+Cupole delle automobili
+Deposito dell'automobile
+Depositi dell'automobile
+Grande parco
+Grandi parchi
+Cupola dei prodotti chimici
+Cupole dei prodotti chimici
+Miniera chimica
+Miniere chimiche
+Deposito dei vestiti
+Depositi dei vestiti
+Cupola dei vestiti
+Cupole dei vestiti
+Miniera di carbone
+Miniere di carbone
+Azienda di software
+Aziende di software
+Cupola della costruzione
+Cupole della costruzione
+Torretta civica di affari
+Torrette civiche di affari
+Cupola dei circuiti integrati
+Cupola di Chipss
+Cratere dell'alimento
+Crateri dell'alimento
+Cupola dell'alimento
+Cupole dell'alimento
+Deposito di alimento
+Depositi di alimento
+Stazione di servizio
+Stazioni di servizio
+Cattedrale del Moab
+Cattedrali del Moab
+Cupola del macchinario
+Cupole del macchinario
+Cupola degli elettrodomestici
+Cupole degli elettrodomestici
+Deposito degli elettrodomestici
+Depositi degli elettrodomestici
+Torretta di commercio
+Torrette di commercio
+Torretta di industrie
+Torrette di industrie
+Ditta degli avvocati
+Ditte degli avvocati
+Statua di libertà
+Statua di Libertys
+Parco
+Parchi
+Cupola dei metalli
+Cupole dei metalli
+Miniera
+Miniere
+Cinema
+Cinema
+Basilica del Moab
+Basiliche del Moab
+Crysler scuro
+Cryslers scuro
+Impianto offshore
+Impianti offshore
+Cupola della raffineria
+Cupole della raffineria
+Torretta dei beni immobili
+Torrette dei beni immobili
+Cupola del pranzo
+Cupole del pranzo
+Miniera del silicone
+Miniere del silicone
+Piccolo parco
+Piccoli parchi
+Parco della lucertola
+Parchi della lucertola
+Parco del Goblin
+Parchi del Goblin
+Parco del pollo
+Parchi del pollo
+Parco straniero
+Parchi stranieri
+Istituto universitario
+Istituti universitari
+Deposito
+Depositi
+Prigione
+Prigioni
+Museo
+Musei
+Corti di tennis
+Courtss di tennis
+Miniera di pietra
+Miniere di pietra
+Supermercato del Moab
+Supermercati del Moab
+Cupola dei filetti
+Cupola di Threadss
+Torretta di IFEL
+Torrette di IFEL
+Municipio
+Municipi
+Centro commerciale
+Centri commerciali
+Antenna della TV
+Antenne della TV
+TV
+TV
+Cupola dell'infermiera
+Cupole dell'infermiera
+Giardino zoologico dell'infermiera
+Giardini zoologici dell'infermiera
+Stanze dell'infermiera
+Infermiera Roomss
+Classe dell'infermiera
+Infermiera Fraternitys
+Costruzioni generiche del codice categoria centrale
+Buildingss generici del codice categoria centrale
+Barra
+Barre
+Industria delle macchine di affari
+Macchine Industrys di affari
+Fabbrica dell'automobile
+Automobile Factorys
+Deposito dell'automobile
+Depositi dell'automobile
+Grande parco
+Grandi parchi
+Grande stabilimento chimico
+Grandi stabilimenti chimici
+Grande miniera chimica
+Grandi miniere chimiche
+Grande industria dei vestiti
+Grandi vestiti Industrys
+Miniera di grande carbone
+Miniere di grande carbone
+Azienda di software
+Aziende di software
+Industria dell'edilizia
+Costruzione Industrys
+Deposito di droga
+Depositi di droga
+Grande industria elettronica
+Grande Industrys elettronico
+Grande azienda agricola
+Grandi aziende agricole
+Caserma dei pompieri
+Caserme dei pompieri
+Grande unità di elaborazione di alimento
+Grandi unità di elaborazione di alimento
+Deposito di alimento
+Depositi di alimento
+Sedi dell'azienda
+Sedi dell'azienda
+Industria del macchinario
+Macchinario Industrys
+Grande fabbrica degli apparecchi
+Grandi apparecchi Factorys
+Palazzo di Xanadu
+Palazzi di Xanadu
+Atrio
+Atrii
+Il Willington
+Il Willingtons
+Protezione dorata
+Protezioni dorate
+Quadrato della Risonanza
+Quadrati della Risonanza
+Torrette di Lisgar
+Lisgar Towerss
+Costruzioni di alta classe generiche
+Buildingss di alta classe generici
+Ospedale
+Ospedali
+Sedi di industria
+Industria Headquarterss
+Ditta degli avvocati
+Ditte degli avvocati
+Statua di libertà
+Statua di Libertys
+Torrette di Playfair
+Playfair Towerss
+Stanze di Arlington
+Arlington Roomss
+Atrio del Caesar
+Atrii del Caesar
+La Sicilia
+Il Sicilys
+Costruzione bassa generica del codice categoria
+Costruzioni basse generiche del codice categoria
+Parco
+Parchi
+Grande industria metallurgica
+Grande Industrys metallurgico
+Appartamenti di Gladston.
+Gladston Apts.s
+Quincy
+Quincys
+Torrette di Metcalfe
+Metcalfe Towerss
+Appartamenti di Delmar.
+Delmar Apts.s
+Appartamenti di tramonto.
+Tramonto Apts.s
+Costruzioni generiche del codice categoria centrale
+Buildingss generici del codice categoria centrale
+Grande miniera
+Grandi miniere
+Cinema del Delmar
+Cinema del Delmar
+Cinema di Baltimora
+Cinema di Baltimora
+Puntura
+Punture
+Arco del Davis
+Archi del Davis
+Torretta del neon di Mc
+Torrette del neon di Mc
+Industria farmaceutica
+Industrys farmaceutico
+Stazione di polizia
+Stazioni di polizia
+Sedi civiche di affari
+Affari civici Headquarterss
+Sedi dei beni immobili
+Beni immobili Headquarterss
+Ristorante
+Ristoranti
+Scuola
+Scuole
+Sedi di commercio
+Sedi di commercio
+Grande miniera del silicone
+Grandi miniere del silicone
+Stabilimento chimico
+Stabilimenti chimici
+Miniera chimica
+Miniere chimiche
+Industria dei vestiti
+Vestiti Industrys
+Miniera di carbone
+Miniere di carbone
+Industria elettronica
+Industrys elettronico
+Azienda agricola
+Aziende agricole
+Unità di elaborazione di alimento
+Unità di elaborazione di alimento
+Fabbrica degli apparecchi
+Apparecchi Factorys
+Industria metallurgica
+Industrys metallurgico
+Miniera
+Miniere
+Piccolo parco
+Piccoli parchi
+Miniera del silicone
+Miniere del silicone
+Miniera di pietra
+Miniere di pietra
+Industria tessile
+Tessile Industrys
+Parco della lucertola
+Parchi della lucertola
+Parco del Goblin
+Parchi del Goblin
+Parco del pollo
+Parchi del pollo
+Parco straniero
+Parchi stranieri
+Istituto universitario
+Istituti universitari
+Deposito
+Depositi
+Prigione
+Prigioni
+Museo
+Musei
+Corti di tennis
+Courtss di tennis
+Grande miniera di pietra
+Grandi miniere di pietra
+Centro commerciale
+Centri commerciali
+Supermercato
+Supermercati
+Mercato
+Mercati
+Grande industria tessile
+Grande tessile Industrys
+Torretta di IFEL
+Torrette di IFEL
+Municipio
+Municipi
+Centro commerciale
+Centri commerciali
+Antenna della TV
+Antenne della TV
+TV
+TV
+Costruzione spontanea
+Costruzioni spontanee
+Parco della lucertola
+Parchi della lucertola
+Parco del Goblin
+Parchi del Goblin
+Parco del pollo
+Parchi del pollo
+Parco straniero
+Parchi stranieri
+Istituto universitario
+Istituti universitari
+Deposito
+Depositi
+Prigione
+Prigioni
+Museo
+Musei
+Corti di tennis
+Courtss di tennis
+Immagazzinaggio chimico
+Immagazzinaggi chimici
+Conservazione frigorifera
+Conservazioni frigorifere
+Immagazzinaggio dei tessuti
+Immagazzinaggi dei tessuti
+Immagazzinaggio generale
+Immagazzinaggi generali
+Immagazzinaggio del minerale metallifero
+Immagazzinaggi del minerale metallifero
+Conservazione frigorifera eccellente
+Conservazioni frigorifere eccellenti
+Immagazzinaggio dell'importazione
+Immagazzinaggi dell'importazione
+Immagazzinaggio dell'esportazione
+Immagazzinaggi dell'esportazione
+Regolatore della popolazione del mondo
+Regolatori della popolazione del mondo
+Le caserne
+Il Barrackss
+Guglia
+Guglie
+Cupola del cielo
+Cupole del cielo
+Venditore del cielo
+Venditori del cielo
+Galaxie
+Galassie
+La molla
+Le molle
+Taramagushi
+Taramagushies
+Stanze blu
+Stanze blu
+Mariko rotondo
+Marikos rotondo
+Piccolo Koto
+Piccoli Kotos
+Capanna bianca
+Capanne bianche
+Stanze di Lione
+Stanze di Lione
+Palazzo blu
+Palazzi blu
+Palazzo dentellare
+Palazzi dentellare
+Stanze di Mountbatten
+Stanze di Mountbatten
+L'ambasciatore
+Gli ambasciatori
+La guglia
+Le guglie
+Mausoleo di leggenda
+Mausolei di leggenda
+Mausoleo di paradigma
+Mausolei di paradigma
+Centro di ricerca
+Centri di ricerca
+Immagazzinaggio del prodotto chimico di UW
+Immagazzinaggi del prodotto chimico di UW
+Conservazione frigorifera di UW
+Conservazioni frigorifere di UW
+Immagazzinaggio dei tessuti di UW
+Immagazzinaggi dei tessuti di UW
+Immagazzinaggio generale di UW
+Immagazzinaggi generali di UW
+Immagazzinaggio del minerale metallifero di UW
+Immagazzinaggi del minerale metallifero di UW
+Conservazione frigorifera eccellente di UW
+Conservazioni frigorifere eccellenti di UW
+Immagazzinaggio dell'importazione
+Immagazzinaggi dell'importazione
+Immagazzinaggio dell'esportazione
+Immagazzinaggi dell'esportazione
+Laminatoio del legname
+Laminatoi del legname
+Deposito di libro
+Depositi di libro
+Fabbrica della mobilia
+Fabbriche della mobilia
+Negozio di mobili
+Negozi di mobili
+Deposito di calcolatore
+Depositi di calcolatore
+Studi di film
+Studi di film
+Salone funereo
+Saloni funerei
+Salone funereo
+Saloni funerei
+Industria cartaria
+Industrie cartarie
+Pianta di stampa
+Piante di stampa
+Pianta di stampa
+Piante di stampa
+Portale
+Portali
+Sedi dell'azienda
+Sedi dell'azienda
+Sedi dell'azienda
+Sedi dell'azienda
+Sedi dell'azienda
+Sedi dell'azienda
+Sedi dell'azienda
+Sedi dell'azienda
+Rifiuti organici
+Rifiuti organici
+Piccoli rifiuti organici
+Piccoli rifiuti organici
+Pianta del fertilizzante
+Piante del fertilizzante
+Piccola pianta del fertilizzante
+Piccole piante del fertilizzante
+Azienda agricola A del grano
+Azienda agricola A del grano
+Piccola azienda agricola A del grano
+Piccola azienda agricola A del grano
+Laminatoio
+Laminatoi
+Piccolo laminatoio
+Piccoli laminatoi
+Pianta di cotone
+Piante di cotone
+Piccola pianta di cotone
+Piccole piante di cotone
+Pianta del pantalone
+Piante del pantalone
+Piccola pianta del pantalone
+Piccole piante del pantalone
+Negozio del pantalone
+Negozi del pantalone
+Forno
+Bakerys
+Fabbrica di Fruitpie
+Fabbrica di Fruitpie
+Azienda agricola A della frutta
+Azienda agricola A della frutta
+Fabbrica di gomma della linfa
+Fabbriche di gomma della linfa
+Piantagione dell'albero di gomma
+Piantagioni dell'albero di gomma
+Fabbrica di gomma
+Fabbriche di gomma
+Fabbrica di pattino
+Fabbriche di pattino
+Negozio della torta della frutta
+Negozi della torta della frutta
+Negozio di pattino
+Negozi di pattino
+Piccola azienda agricola di verdure A
+Piccola azienda agricola di verdure A
+Azienda agricola di verdure A
+Azienda agricola di verdure A
+Piccola fabbrica dello stufato
+Piccole fabbriche dello stufato
+Fabbrica dello stufato
+Fabbriche dello stufato
+Piccola miniera organica
+Piccole miniere organiche
+Miniera organica
+Miniere organiche
+Piccola fabbrica del polimero
+Piccole fabbriche del polimero
+fabbrica del polimero
+fabbriche del polimero
+Piccola fabbrica di nylon
+Piccole fabbriche di nylon
+Fabbrica di nylon
+Fabbriche di nylon
+Piccola fabbrica della camicia
+Piccole fabbriche della camicia
+Fabbrica della camicia
+Fabbriche della camicia
+Negozio dello stufato
+Negozi di pattino
+Negozio della camicia
+Negozi della camicia
+Il piccolo bestiame coltiva A
+Il piccolo bestiame coltiva A
+Il bestiame coltiva A
+Azienda agricola A del bestiame
+Piccola fabbrica dell'hamburger
+Piccole fabbriche dell'hamburger
+Fabbrica dell'hamburger
+Fabbriche dell'hamburger
+Piccola miniera chimica grezza
+Piccole miniere chimiche grezze
+Miniera chimica grezza
+Miniere chimiche grezze
+Piccolo stabilimento chimico di estrazione mineraria
+Piccoli stabilimenti chimici di estrazione mineraria
+Stabilimento chimico di estrazione mineraria
+Stabilimenti chimici di estrazione mineraria
+Piccola pianta di cuoio
+Piccole piante di cuoio
+Pianta di cuoio
+Piante di cuoio
+Piccola pianta del rivestimento di cuoio
+Piccole piante del rivestimento di cuoio
+Pianta del rivestimento di cuoio
+Piante del rivestimento di cuoio
+Negozio della barra dell'hamburger
+Negozi della barra dell'hamburger
+Negozio del rivestimento di cuoio
+Negozi del rivestimento di cuoio
+Miniera del ferro
+Miniere del ferro
+Piccola miniera del ferro
+Piccole miniere del ferro
+Miniera del silicone
+Miniere del silicone
+Piccola miniera del silicone
+Piccole miniere del silicone
+Miniera di carbone
+Miniere di carbone
+Miniera di piccolo carbone
+Miniere di piccolo carbone
+Industria siderurgica
+Industrie siderurgiche
+Piccola industria siderurgica
+Piccole industrie siderurgiche
+Pianta del chip di memoria
+Piante del chip di memoria
+Piccola pianta di circuito integrato di Memeory
+Piccole piante del chip di memoria
+Piccola pianta di automobile
+Piccole piante di automobile
+Pianta di fabbricazione della TV
+Piante di fabbricazione della TV
+Piccola pianta di fabbricazione della TV
+Piccole piante di fabbricazione della TV
+Deposito della TV
+Depositi della TV
+Piccolo concessionario auto
+Piccoli concessionari auto
+Deposito dell'automobile sportiva
+Depositi dell'automobile sportiva
+Piccola industria del PC
+Piccole industrie del PC
+Industria del PC
+Industrie del PC
+Pianta di fabbricazione dell'automobile sportiva
+Piante di fabbricazione dell'automobile sportiva
+Piccola pianta del CPU
+Piccole piante del CPU
+Pianta del CPU
+Piante del CPU
+Piccola industria di rame
+Piccole industrie di rame
+Industria di rame
+Industrie di rame
+Piccola pianta dell'olio di pino
+Piccole piante dell'olio di pino
+Pianta dell'olio di pino
+Piante dell'olio di pino
+Piccola miniera di ceramica
+Piccole miniere di ceramica
+Miniera di ceramica
+Miniere di ceramica
+Piccola miniera di rame
+Piccole miniere di rame
+Miniera di rame
+Miniere di rame
+Miniera di alluminio
+Miniere di alluminio
+Piccola miniera di alluminio
+Piccole miniere di alluminio
+Miniera di Cyrolite
+Miniere della criolite
+Piccola miniera della criolite
+Piccole miniere della criolite
+Miniera del silano
+Miniere del silano
+Piccola miniera del silano
+Piccole miniere del silano
+Industria della lavorazione dell'alluminio
+Industrie della lavorazione dell'alluminio
+Piccola industria della lavorazione dell'alluminio
+Piccola industria della lavorazione dell'alluminio
+Pianta di TFT
+Piante di TFT
+Piccola pianta di TFT
+Piccole piante di TFT
+Pianta della bici del motore
+Piante della bici del motore
+Pianta del telefono mobile
+Piante del telefono mobile
+Piccola pianta del telefono mobile
+Piccole piante del telefono mobile
+Deposito del telefono mobile
+Depositi del telefono mobile
+Gestione commerciale della bici del motore
+Gestioni commerciali della bici del motore
+Fabbrica di motori
+Fabbriche di motori
+Industria della gomma
+Industrie della gomma
+Pianta di Humvee
+Piante di Humvee
+Industria del fornello
+Industrie del fornello
+Gestione commerciale di Humvee
+Gestioni commerciali di Humvee
+Deposito del fornello
+Depositi del fornello
+Miniera del gesso
+Miniere del gesso
+Miniera del calcare
+Miniere del calcare
+Miniera della ghiaia
+Miniera della ghiaia
+Industria dell'edilizia
+Industrie dell'edilizia
+Pianta del sistema di controllo
+Piante del sistema di controllo
+Pianta del sistema di rete
+Piante del sistema di rete
+Industria concreta
+Industrie di Conscrete
+Industria pesante
+Heavy Industries
+Pianta dell'assistente
+Piante dell'assistente
+Industria dell'intonaco
+Industrie dell'intonaco
+Pianta robot del sistema
+Piante robot del sistema
+Industria della macchina di affari
+Industrie della macchina di affari
+Pianta di vetro
+Piante di vetro
+Pianta del sistema di Conveyorbelt
+Piante del sistema di Conveyorbelt
+Industria del calcolatore per problemi commerciali
+Industrie del calcolatore per problemi commerciali
+Liquidi
+0
+Pubblicità
+colpi
+colpi/giorno
+Macchine di affari
+articoli
+articoli/giorno
+Automobili
+automobili
+automobili/settimana
+Prodotti chimici
+chilogrammo
+kg/day
+Vestiti
+articoli
+articoli/giorno
+Servizi EDP
+ore
+ore/settimana
+Forza della costruzione
+tonnellate
+tonnellate/giorno
+Prodotti farmaceutici
+chilogrammo
+kg/day
+Alimento trasformato
+articoli
+articoli/giorno
+Componenti elettronici
+articoli
+articoli/giorno
+Tessuti e filetti
+tester
+tester/giorno
+Pellicole
+Pellicole
+Pellicole/giorno
+Alimento fresco
+chilogrammo
+kg/day
+Benzina
+lt
+lt/day
+hiPeople
+persone
+persone/mese
+hiWorkForce
+operai
+operai/giorno
+Elettrodomestici
+articoli
+articoli/giorno
+Servizi Giuridici
+ore
+ore/settimana
+Liquori
+articoli
+articoli/giorno
+loPeople
+persone
+persone/mese
+loWorkForce
+operai
+operai/giorno
+Macchinario
+macchine
+macchine/giorno
+Metalli
+chilogrammo
+kg/day
+midPeople
+persone
+persone/mese
+midWorkForce
+operai
+operai/giorno
+Uffici
+Petrolio greggio
+lt
+lt/day
+Minerale metallifero
+chilogrammo
+kg/day
+Prodotti chimici grezzi
+chilogrammo
+kg/day
+Carbone
+chilogrammo
+kg/day
+Silicone
+chilogrammo
+kg/day
+Pietra
+chilogrammo
+kg/day
+Materiali organici
+chilogrammo
+kg/day
+Plastica
+chilogrammo
+kg/day
+Giocattoli
+articoli
+articoli/giorno
+Legname
+chilogrammo
+kg/day
+Libri
+libri
+libri/giorno
+Mobilia
+articoli
+articoli/giorno
+Carta
+chilogrammo
+kg/day
+Cd
+Cd
+Cd/giorno
+Materiale stampato
+chilogrammo
+kg/day
+Concime
+chilogrammo
+kg/day
+Fertilizzante
+chilogrammo
+kg/day
+Frumento
+chilogrammo
+kg/day
+Cotone
+chilogrammo
+kg/day
+Farina
+chilogrammo
+kg/day
+Strati del cotone
+Tester
+Tester/giorno
+Pantaloni
+articolo
+articoli/giorno
+mele
+articolo
+articoli/giorno
+aranci
+articolo
+articoli/giorno
+rubbertree
+articolo
+articoli/giorno
+rubbersap
+articolo
+articoli/giorno
+rubbermat
+articolo
+articoli/giorno
+fruitpie
+articolo
+articoli/giorno
+pattini
+articolo
+articoli/giorno
+carote
+articolo
+articoli/giorno
+patate
+articolo
+articoli/giorno
+stufato
+articolo
+articoli/giorno
+orgaincchems
+articolo
+articoli/giorno
+polimeri
+articolo
+articoli/giorno
+nylon
+articolo
+articoli/giorno
+camice
+articolo
+articoli/giorno
+manzo
+articolo
+articoli/giorno
+leathermat
+articolo
+articoli/giorno
+hamburger
+articolo
+articoli/giorno
+rawchem
+articolo
+articoli/giorno
+miningchem
+articolo
+articoli/giorno
+leathersheet
+articolo
+articoli/giorno
+leatherjacket
+articolo
+articoli/giorno
+minerale ferroso
+articolo
+articoli/giorno
+carbone
+articolo
+articoli/giorno
+acciaio
+articolo
+articoli/giorno
+silicone
+articolo
+articoli/giorno
+chip di memoria
+articolo
+articoli/giorno
+piccole automobili
+articolo
+articoli/giorno
+minerale di rame
+articolo
+articoli/giorno
+minerale metallifero di ceramica
+articolo
+articoli/giorno
+olio di pino
+articolo
+articoli/giorno
+rame
+articolo
+articoli/giorno
+circuito integrato del CPU
+articolo
+articoli/giorno
+automobile sportiva
+articolo
+articoli/giorno
+sistema del pc
+articolo
+articoli/giorno
+minerale metallifero di alluminio
+articolo
+articoli/giorno
+silano
+articolo
+articoli/giorno
+alluminio
+articolo
+articoli/giorno
+criolite
+articolo
+articoli/giorno
+schermo del tft
+articolo
+articoli/giorno
+motocicletta
+articolo
+articoli/giorno
+telefono mobile
+articolo
+articoli/giorno
+gomme
+articolo
+articoli/giorno
+motore
+articolo
+articoli/giorno
+TV
+articolo
+articoli/giorno
+humvee
+articolo
+articoli/giorno
+vetro
+articolo
+articoli/giorno
+Fornello
+articolo
+articoli/giorno
+Concreto
+articolo
+articoli/giorno
+Plasterboard
+articolo
+articoli/giorno
+Sistema robot
+articolo
+articoli/giorno
+Sistema di controllo
+articolo
+articoli/giorno
+Sistema di Conveyorbelt 
+articolo
+articoli/giorno
+Sistema di rete
+articolo
+articoli/giorno
+Calcolatore per problemi commerciali
+articolo
+articoli/giorno
+Assistenti
+articolo
+articoli/giorno
+Gesso
+articolo
+articoli/giorno
+Calcare
+articolo
+articoli/giorno
+Ghiaia
+articolo
+articoli/giorno
+FacilityKinds
+0
+Campidoglio
+Uffici
+Sedi
+Aziende agricole
+Fabbriche
+Facilità pubbliche
+Residentials
+Commercio
+Speciale
+Municipio
+Centro commerciale
+Pubblico
+Proprietà dei magnum
+Uffici
+Sedi
+Aziende agricole
+Fabbriche
+Pubblico
+Residentials
+Commercio
+Speciale
+Municipio
+Centro commerciale
+Facilità
+Facilità
+Facilità
+Facilità
+Facilità
+Facilità
+Facilità
+Facilità
+Uffici
+Pubblico
+Commercio
+Industrie
+Residentials
+Sedi
+Speciale
+Municipio
+Centro commerciale
+Uffici
+Sedi
+Aziende agricole
+Fabbriche
+Pubblico
+Residentials
+Commercio
+Speciale
+Municipio
+Centro commerciale
+Magazzini
+Commercio
+Sedi
+Speciale
+TycoonLevels
+0
+Apprendista
+Ancora imparare economia. Protettivo dal IFEL, ha priorità nelle liste del cliente e del fornitore. Il costo di una costruzione è restituito se la costruzione è demolita. Può aument finoare alle facilità di %s. Può comprare dai centri commerciali. 50%% dei dispendii di ricerca è restituito alla fine dell'anno. 
+Imprenditore
+Ancora è protetto dal IFEL, ha determinate priorità nelle liste del cliente e del fornitore. 2/3 del costo di una costruzione è restituito se la costruzione è demolita. Può aument finoare alle facilità di %s. Può comprare dai centri commerciali. 30%% dei dispendii di ricerca è restituito alla fine dell'anno. 
+Dovete pagare il debito originale al IFEL ($100.000.000). Dovete avere un superiore medio di rapporto di profitto a $1,000/h
+Leggenda
+800 punti di prestigio. Avere accesso alle tecnologie della fila 5. Non può comprare dai centri commerciali. Nessun priorites, nessuna protezione dal IFEL. Può aument finoare alle facilità di %s.
+Dovete pagare $40.000.000.000 al IFEL. Dovete avere un superiore medio di rapporto di profitto a $500,000/h. Prestige più maggior di 15000.  
+Padrone
+200 punti di prestigio. Avere accesso alle tecnologie della fila 3. Non può comprare dai centri commerciali. Nessun priorites, nessuna protezione dal IFEL. Può aument finoare alle facilità di %s.
+Dovete pagare $2.000.000.000 al IFEL. Superiore medio di rapporto di profitto a $50,000/h Prestige più maggior di 2500.  
+Paradigma
+400 punti di prestigio. Avere accesso alle tecnologie della fila 4. Non può comprare dai centri commerciali. Nessun priorites, nessuna protezione dal IFEL. Può aument finoare alle facilità di %s.
+Dovete pagare $20.000.000.000 al IFEL. Superiore medio di rapporto di profitto a $100,000/h. Prestige più maggior di 5000. 
+Magnate
+100 punti di prestigio. Avere accesso alle tecnologie della fila 2. Non può comprare dai centri commerciali. Nessun priorites, nessuna protezione dal IFEL. Può aument finoare alle facilità di %s. 
+Dovete pagare $500.000.000 al IFEL. Dovete avere un superiore medio di rapporto di profitto a $5,000/h
+Oltre la leggenda
+punti di prestigio di %s. Non può comprare dai centri commerciali. Nessun priorites, nessuna protezione dal IFEL. Può aument finoare alle facilità di %s. 
+Dovete pagare %s al IFEL. Dovete fare ad un superiore medio di rapporto di profitto effettuare a %s/h. il vostro Prestige più maggior di 15000.
+Ministeri
+0
+Salute
+Formazione
+Difesa
+Agricoltura
+Industria chiara
+Industria pesante
+Commercio
+Alloggiamento
+Progetti
+0
+Istituti universitari
+Eliminazione di immondizia
+Riempimento del fuoco
+Riempimento di salute
+Prigioni
+Musei
+Riempimento della polizia
+Riempimento della scuola
+Servizi e divertimento
+Facilità di ricreazione
+Disoccupazione
+Condizione economica
+PublicFacilities
+0
+Istituti universitari
+Eliminazione di immondizia
+Riempimento del fuoco
+Riempimento di salute
+Prigioni
+Musei
+Riempimento della polizia
+Riempimento della scuola
+Facilità di ricreazione
+Valutazioni
+0
+Realizzazione di campagna
+Istituti universitari
+Eliminazione di immondizia
+Riempimento del fuoco
+Riempimento di salute
+Prigioni
+Musei
+Riempimento della polizia
+Sviluppo della città
+Riempimento della scuola
+Servizi e divertimento
+Facilità di ricreazione
+Tasse
+Occupazione
+Condizione economica
+WorldProjects
+0
+Istituti universitari
+Eliminazione di immondizia
+Riempimento del fuoco
+Riempimento di salute
+Prigioni
+Musei
+Riempimento della polizia
+Riempimento della scuola
+Servizi e divertimento
+Facilità di ricreazione
+Disoccupazione
+Condizione economica
+WorldRatings
+0
+Realizzazione di campagna
+Istituti universitari
+Eliminazione di immondizia
+Riempimento del fuoco
+Riempimento di salute
+Prigioni
+Musei
+Riempimento della polizia
+Sviluppo della città
+Riempimento della scuola
+Servizi e divertimento
+Facilità di ricreazione
+Tasse
+Occupazione
+Condizione economica
+Questa funzione appartiene a %s. Non ci sono suggerimenti per voi.
+Nessun suggerimenti per questa funzione.
+Suggerimento: Arrestare tutte le facilità che stanno perdendo i soldi.
+Suggerimento: Andare “CONTROLLANO„ ed impiegano alcuni fornitori.
+Avvertimento: Questa funzione ha bisogno del fornitore per %s.
+Avvertimento: Il fornitore di %s è caduto. Impiegare gli altri fornitori.
+Avvertimento: Le vendite di %s sono caduto. Ottenere assunto dalle altre facilità.
+Suggerimento: State importando %s perché i vostri fornitori stanno vendendo ad un'altra gente.
+Avvertimento: I vostri fornitori di %s stanno vendendo la loro intera produzione alla gente differente.
+Avvertimento: questa funzione ha bisogno di più forza di lavoro di %s.
+Avvertimento: Non abbastanza supporto dell'azienda. Dovete costruire le sedi dell'azienda o studiare la possibilità di aggiornarlo, se già lo abbiate costruito.
+Avvertimento: Questa funzione ha bisogno della forza di lavoro di %s.
+Aggiornamento: %d%%
+Aggiornamento livellato: %d
+Suggerimento: Il centro commerciale è stato assunto per costruire questo. Potreste impiegare qualcuno più poco costoso.
+Avvertimento: Dovete attirare più gente verso questa costruzione.
+Suggerimento: Dovete attirare più gente verso questa costruzione.
+Suggerimento: Ancora potete attirare più gente verso questa costruzione.
+Suggerimento: Ci è troppo poca gente in %s. Dovrete fare concorrenza ferocemente. Prova che rende l'affitto più basso.
+Congratulazioni: Questa costruzione sta funzionando BENE. Forse potete aumentare l'affitto un po'.
+occupazione di %d%% %s
+bene immobile di %s
+[chiuso]
+%d%% riparato
+abitanti di %d. opportunità di %d. QOL: qualità della vicinanza di %d%%: bellezza di %d%%: crimine di %d%%: inquinamento di %d%%: %d%%.
+Suggerimento: Web site del municipio di chiamata per trovare informazioni importanti.
+Suggerimento: Web site del centro commerciale di chiamata per vedere chi è vendente o comprante che cosa.
+cittadini di %d di %s spostati in ultimo giorno.
+%d%% dovuto le buone offerte residenziali, 
+%d%% per trovare un lavoro, 
+%d%% dovuto buona qualità dei servizi pubblici.
+i cittadini di %d di %s hanno spostato fuori l'ultimo giorno.
+%d%% dovuto gli stipendi e gli stati del lavoro, 
+%d%% dovuto le circostanze residenziali, 
+%d%% dovuto riempimento basso dei servizi pubblici, 
+%d%% dovuto disoccupazione, 
+%d%% dovuto mancanza di prodotti e di servizi.
+%d%% dovuto i disastri.
+Nessun movimenti di %s.
+abitanti di %s
+%s %s (unemp di %d%%)
+Suggerimento: Essere sicuro che ci sono abbastanza operai per effettuare la ricerca.
+%s, attendono prego mentre la ricerca è completata…
+Suggerimento: Andare “CONTROLLANO„ per effettuare i nuovi researchs.
+ricerca di %d%% completata
+Ricercando %s. costato: %s.
+Azienda di sostegno a %d%%.
+Esecuzione di ricerca: %s.
+Suggerimento: State provando a vendere pricipalmente alla gente di alta classe? Allora la qualità è la chiave.
+Suggerimento: State provando a vendere pricipalmente alla gente bassa del codice categoria? Allora il prezzo è la chiave.
+Avvertimento: Avete un problema con concorrenza. Ottenere una certa pubblicità.
+Avvertimento: Cuce che state designando i costumers come bersaglio in un senso errato.
+Suggerimento: Provare ad attrarre più clienti offrendo la migliore qualità ed i prezzi.
+Congratulazioni: Questa funzione sta funzionando BENE. In ogni modo potreste assistere a più gente.
+Congratulazioni: Questa funzione sta funzionando BENE. Mantenere appena questo senso.
+Avvertimento: bisogno di servizio di %s più rifornimenti.
+La funzione iniziata appena poche ore fa, là è suggerimenti per ora.
+Clienti potenziali (al giorno): %d ciao, %d metà di, %d basso. Clienti reali: %d ciao, %d metà di, %d basso.
+Suggerimento: Non produrre %s. Non avete clienti.
+Avvertimento: Questa funzione richiede %s di produrre. Impiegare alcuni fornitori o prova per pagare in più quelli che già avete.
+Suggerimento: Questa funzione ha bisogno di più %s di produrre %s.
+Suggerimento: Andare “CONTROLLANO„ ed impiegano più fornitori per %s.
+Suggerimento: Siete acquisto da un centro commerciale. Trovare alcuni fornitori locali.
+Ci è niente che possiamo fare circa il tempo ma attendere.
+Avvertimento: Non può funzionare fino a che non ricerchiate ancora %s.
+Avvertimento: Questa funzione sta difettando dei servizi. Controllare la linguetta di servizi sul pannello di CONTROLLO.
+rifornimenti
+Suggerimento: Questa città richiede più residentials per la gente di %s.
+Suggerimento: I nuovi depositi ed altri servizi incoraggierebbero l'attività economica.
+Avvertimento: Ci sono i %d%% di disoccupazione nella gente di %s.
+Avvertimento: Ci è un problema con %s.
+Suggerimento: Dovreste attirare più operai verso questa funzione nel caso vogliate aumentare il relativo rapporto di funzionamento.
+Avvertimento: Non abbastanza supporto dell'azienda. Dovete costruire le sedi dell'azienda o studiare la possibilità di aggiornarlo, se già lo abbiate costruito.
+riempimento di %s attraverso la città segnalata a %d%%.
+Questa città non è popolata!
+%s non è popolato. Investire qui e l'ordine di %s gli darà una somma di denaro di aditional.
+I cittadini di %s richiedono più %s.
+I cittadini di %s richiedono più %s.
+Per più informazioni sulla chiamata %s di %s, il giornale locale.
+%s residenziale. abitanti di %d. %d%% resistente al crimine, %d%% resistente ad inquinamento. Qualità di disegno: %d%%.
+uffici di %d da affittare. Qualità di disegno: %d%%.
+Produce fino a
+%s di %s
+Richiede
+%s
+Impiega:
+Richiede la ricerca %s a %s.
+Depositi fino a 
+%d %s di %s
+Vendite fino a
+per livello.
+Buys fino a
+per per servire i clienti di %d massimi
+ATTENZIONE! IL SINDACO OF %S HA CHIESTO LA DEMOLIZIONE DI QUESTA COSTRUZIONE DOVUTO LA PIANIFICAZIONE DI CITTÀ. LA DEMOLIZIONE AVVERRÀ IN MESI DI %D. IL IFEL PAGHERÀ IL PROPRIETARIO %S COME COMPENSAZIONE.
+Controlla le aziende di %d, le facilità di %d, mattonelle di %d nel programma (%s nelle imposte fondiarie).
+articoli di ricerca completati %d.
+È stato scelto sindaco di %s nella campagna di %d.
+Era il sindaco di %s da %d a %d con un %d%% della valutazione popolare.
+È stato infornato dal sindaco di %s in %d.
+Era il presidente di %s da %d a %d con un %d%% della valutazione popolare.
+È stato scelto presidente di %s nella campagna di %d.
+Era il ministro di %s da %d a %d con un %d%% della valutazione di IFEL.
+Si è nominato ministro di %s nella campagna di %d da %s.
+È stato dichiarato in bankrupty in %d
+Oltrepassato in %d
+Livello realizzato %s in %d
+Non ha potuto aggiornare l'anno scorso livellato. Non siete riuscito a pagare $%.0n
+Non ha potuto aggiornare l'anno scorso livellato. Richiedete un rapporto medio di profitto di $%.0n/h (l'anno scorso avete avuto $%.0n/h)
+Dovete essere scelto sindaco almeno una volta
+Dovete essere scelto presidente almeno una volta
+Non ha potuto aggiornare l'anno scorso livellato. Richiedete i punti di prestigio di %d
+Livello perso %s in %d. Non avete avuto i punti required di prestigio di %d
+Livello perso %s in %d. Non avete avuto il rapporto medio required di profitto di $%.0n/h (l'anno scorso avete avuto $%.0n/h)
+Livello perso %s in %d.
+%s unito in %d
+e
+Sindaco delle tasse stabilite di %s per %s a %s%%.
+Sindaco dell'insieme di %s una sovvenzione per %s.
+%s ha lanciato una campagna per %s.
+campagna withdrawed %s per %s
+%s è stato scelto sindaco di %s.
+%s era sindaco rieletto di %s.
+%s non ha sindaco.
+%s è stato infornato dal sindaco di %s.
+%s ha rimosso le relative sovvenzioni. La popolazione è già maggior di 9.000.
+%s era bankrupt dichiarato.
+%s ha costruito %s vicino a %s.
+%s ha fatto un cliente ripristinarsi.
+%s ha unito %s.
+Il programma satellite di %s è stato aggiornato.
+%s si è nominato %s.
+%s è stato scelto presidente di %s
+%s era presidente rieletto di %s.
+%s non ha presidente.
+%s ha lanciato una campagna per la presidenza di %s.
+campagna withdrawed %s per la presidenza di %s.
+punti di prestigio di %d da pubblicità.
+%d%% operativo.
+Presidente: %s.
+Presidente stimato a %d%%. anni di %d alle elezioni.
+Nessun presidente. anni di %d alle elezioni.
+Suggerimento: Se avete più di punti 1000 di prestigio potete lanciare la vostra campagna per la presidenza di %s.
+visori di %d
+%d%% che valuta
+Ore al giorno di radiodiffusione %d. %d%% degli annunci pubblicitari. %d%% di tempo degli annunci pubblicitari venduto. antenne di %d in tutto il mondo. Qualità della stazione televisiva: %d%%, efficienza: %d%%.
+Mano d'opera di noleggio a %d%%
+%s: %d di %d.
+AVVERTIMENTO: Non ci sono antenne allegate a questa funzione. Utilizzare il tasto di collegamento nel pannello di CONTROLLO per collegare un'antenna.
+Pubblico potenziale: %d.
+Valutazione della Manica: %d%%.
+SUGGERIMENTO: Usare “collegano„ il tasto nel pannello di CONTROLLO per collegare questa antenna ad una stazione.
+%d%% completato.
+arrestato dovuto le condizioni atmosferiche.
+uffici di %d affittati. indice di qualità di %d. BAP: %d%%. Bellezza: %d%%. Crimine: %d%%. Inquinamento %d%%.
+Edificio per uffici
+%d%% degli uffici affittati
+Conservazione:
+%s di %s all'indice qualiy di %d%%.
+Ministro di %s
+Ministero di %s
+vendite di %s a %d%%
+produzione di %s: %d%%
+Produzione: %d%%
+%s di %s all'indice di qualità di %d%%, efficienza di %d%%.
+Prezzo: %s
+Autorizzazione: %s
+Realizzare. Costo: %s
+Realizzare. Costo: %s /h
+Facilità: %d
+Nobiltà: I.T. di %s
+Prestige: I.T. di %s
+Livello: %s
+Riduzione del libro paga: %s%%
+Qualità di lavoro: %s%%
+Bellezza: %s%%
+Manutenzione: %s%%
+Segretezza: %s%%
+Sicurezza: %s%%
+Ambiente: %s%%
+Efficienza: %s%%
+Opportunità: I.T. di %s
+Qualità: I.T. di %s
+Data valutata della trascendenza: giorni di %d.
+AVVERTIMENTO! Tutte le facilità che appartengono a %s spariranno tranne questa costruzione. Ciò può interessare le vostre facilità in questo mondo.
+Crescenti alberi a %d%%
+Autorizzazione: indice di qualità “di %s„: %d%%.
+Contaminazione: giorno %d “di %s„ di %d, %d%% fatto.
+Ora giocando:
+Di alta classe
+Codice categoria centrale
+Codice categoria basso
+Quadri
+Professionisti
+Operai
+punti di prestigio di %d.
+Arrestato da %s.
+Arrestato: ha bisogno dei collegamenti.
+Arrestato: ha bisogno dei soldi.
+assunto
+rifiutato da politica di azienda
+già è stato assunto
+collegamento non permesso
+non può avere più dei collegamenti di %d
+Rifornimenti
+Clienti
+Collegamento a
+%s preso in prestito %s dal %s.
+Sindaco di %s
+sindaco
+Ricerca “%s„ completata. Controllare per vedere se c'è nuovi articoli in vostra pagina di configurazione.
+Ricercare “%s„ completato.
+Ricerca venduta. Alcuni articoli erano disabili in vostra pagina di configurazione.
+Ricerca venduta.
+%s trasferito con successo.
+%s osserva in avanti al guasto di %s.
+%s diventa neutro a %s.
+lealtà fatta voto in %s a %s.
+%s aspira realizzare il livello %s.
+%s avanzato al livello %s.
+%s non riuscito per avanzare al livello %s.
+%s è nell'ambito dell'esame accurato di fallimento.
+NUOVO ANNO FELICE!
+livello perso %s. di %s.
+NTA
+Prestige
+Ricchezza
+Efficienza: %d%%
+Opportunità: %d
+Generalità
+Commercio
+Industria
+Bene immobile
+Affitto|%d|Manutenzione|%d|
+Fornitori|%d|
+Prezzo|%d|Fornitori|%d|Annunci|%d|
+Prezzo|%d|Fornitori|%d|Clienti|%d|
+Stipendi|%d|
+Affitto|%d|Manutenzione|%d|
+Produzione: 
+Torneo

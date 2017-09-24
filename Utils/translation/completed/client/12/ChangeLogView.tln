@@ -1,0 +1,17 @@
+lbMayor.Caption=Borgmästare:
+ChangeLogView.Caption=ChangeLogView
+ChangeLogView.Hint=
+GradientBox1.Hint=
+GradientBox1.Text=GradientBox1
+IKnowBtn.Hint=Klicka här för att göra dessa nyheterna att inte synas igen
+IKnowBtn.Text=JAG VET
+LaterBtn.Hint=Visa dessa nyheterna igen, mer sistnämnd
+LaterBtn.Text=MER SISTNÄMND
+header.Caption=On-line nyheterna för legat
+header.Hint=
+Panel1.Caption=Panel1
+Panel1.Hint=
+Panel2.Caption=Panel1
+Panel2.Hint=
+Log.Hint=
+Log.Lines=1

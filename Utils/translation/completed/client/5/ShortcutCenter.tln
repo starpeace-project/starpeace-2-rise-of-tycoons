@@ -1,0 +1,14 @@
+=
+ShortcutCenter.Caption=键盘快捷键
+Label1.Caption=登记的键盘快捷键
+ListView1.Columns=3
+ListView1.Columns.0=描述
+ListView1.Columns.1=捷径
+ListView1.Columns.2=文本
+Button1.Caption=增加…
+Button1.Hint=点击增加捷径
+Button2.Caption=编辑…
+Button2.Hint=点击编辑shorcut
+Button3.Caption=删除
+Button3.Hint=点击消灭捷径
+Button4.Caption=关闭

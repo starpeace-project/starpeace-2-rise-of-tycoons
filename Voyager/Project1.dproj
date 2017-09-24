@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{9abe593f-f66d-442a-bf3a-b9aa3887eaaf}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Release</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <DCC_DCCCompiler>DCC32</DCC_DCCCompiler>
+    <DCC_DependencyCheckOutputName>Project1.exe</DCC_DependencyCheckOutputName>
+    <MainSource>Project1.dpr</MainSource>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <Version>7.0</Version>
+    <DCC_DebugInformation>False</DCC_DebugInformation>
+    <DCC_LocalDebugSymbols>False</DCC_LocalDebugSymbols>
+    <DCC_SymbolReferenceInfo>0</DCC_SymbolReferenceInfo>
+    <DCC_Define>RELEASE</DCC_Define>
+    <DCC_UnitSearchPath>..\Utils\indy10\Lib\security;..\Utils\indy10\Lib\protocols;..\Utils\indy10\Lib\system;..\Utils\indy10\Lib\Core;$(DELPHI)\Source\Win32\vcl;$(DELPHI)\Source\Win32\rtl\win;$(DELPHI)\Source\Win32\rtl\common;$(DELPHI)\Source\Toolsapi;..\RDO\Common;..\RDO\Server;..\Utils\Network;..\RDO\Client\;..\Utils\Misc;..\Voyager;..\Voyager\URLHandlers;..\voyager\Components;..\Utils\GameAPI;..\Utils\Graphics;..\Utils\Voice;..\DServer;..\Utils\CodeLib;..\Utils\debug;..\Utils\WinUtils;..\Utils\DirectX;..\Class Storage;..\Kernel;C:\starpeace\Source\Illegal\Illegal Kernel;C:\starpeace\Source\Voyager\Components\WebBrowser;C:\starpeace\Source\Utils\Vcl;C:\Users\darren\Documents\RAD Studio\Projects\httpget;C:\starpeace\Source\Logs</DCC_UnitSearchPath>
+    <DCC_ResourcePath>..\Utils\indy10\Lib\security;..\Utils\indy10\Lib\protocols;..\Utils\indy10\Lib\system;..\Utils\indy10\Lib\Core;$(DELPHI)\Source\Win32\vcl;$(DELPHI)\Source\Win32\rtl\win;$(DELPHI)\Source\Win32\rtl\common;$(DELPHI)\Source\Toolsapi;..\RDO\Common;..\RDO\Server;..\Utils\Network;..\RDO\Client\;..\Utils\Misc;..\Voyager;..\Voyager\URLHandlers;..\voyager\Components;..\Utils\GameAPI;..\Utils\Graphics;..\Utils\Voice;..\DServer;..\Utils\CodeLib;..\Utils\debug;..\Utils\WinUtils;..\Utils\DirectX;..\Class Storage;..\Kernel;C:\starpeace\Source\Illegal\Illegal Kernel;C:\starpeace\Source\Voyager\Components\WebBrowser;C:\starpeace\Source\Utils\Vcl;C:\Users\darren\Documents\RAD Studio\Projects\httpget;C:\starpeace\Source\Logs</DCC_ResourcePath>
+    <DCC_ObjPath>..\Utils\indy10\Lib\security;..\Utils\indy10\Lib\protocols;..\Utils\indy10\Lib\system;..\Utils\indy10\Lib\Core;$(DELPHI)\Source\Win32\vcl;$(DELPHI)\Source\Win32\rtl\win;$(DELPHI)\Source\Win32\rtl\common;$(DELPHI)\Source\Toolsapi;..\RDO\Common;..\RDO\Server;..\Utils\Network;..\RDO\Client\;..\Utils\Misc;..\Voyager;..\Voyager\URLHandlers;..\voyager\Components;..\Utils\GameAPI;..\Utils\Graphics;..\Utils\Voice;..\DServer;..\Utils\CodeLib;..\Utils\debug;..\Utils\WinUtils;..\Utils\DirectX;..\Class Storage;..\Kernel;C:\starpeace\Source\Illegal\Illegal Kernel;C:\starpeace\Source\Voyager\Components\WebBrowser;C:\starpeace\Source\Utils\Vcl;C:\Users\darren\Documents\RAD Studio\Projects\httpget;C:\starpeace\Source\Logs</DCC_ObjPath>
+    <DCC_IncludePath>..\Utils\indy10\Lib\security;..\Utils\indy10\Lib\protocols;..\Utils\indy10\Lib\system;..\Utils\indy10\Lib\Core;$(DELPHI)\Source\Win32\vcl;$(DELPHI)\Source\Win32\rtl\win;$(DELPHI)\Source\Win32\rtl\common;$(DELPHI)\Source\Toolsapi;..\RDO\Common;..\RDO\Server;..\Utils\Network;..\RDO\Client\;..\Utils\Misc;..\Voyager;..\Voyager\URLHandlers;..\voyager\Components;..\Utils\GameAPI;..\Utils\Graphics;..\Utils\Voice;..\DServer;..\Utils\CodeLib;..\Utils\debug;..\Utils\WinUtils;..\Utils\DirectX;..\Class Storage;..\Kernel;C:\starpeace\Source\Illegal\Illegal Kernel;C:\starpeace\Source\Voyager\Components\WebBrowser;C:\starpeace\Source\Utils\Vcl;C:\Users\darren\Documents\RAD Studio\Projects\httpget;C:\starpeace\Source\Logs</DCC_IncludePath>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <Version>7.0</Version>
+    <DCC_Define>DEBUG</DCC_Define>
+    <DCC_UnitSearchPath>..\Utils\indy10\Lib\security;..\Utils\indy10\Lib\protocols;..\Utils\indy10\Lib\system;..\Utils\indy10\Lib\Core;$(DELPHI)\Source\Win32\vcl;$(DELPHI)\Source\Win32\rtl\win;$(DELPHI)\Source\Win32\rtl\common;$(DELPHI)\Source\Toolsapi;..\RDO\Common;..\RDO\Server;..\Utils\Network;..\RDO\Client\;..\Utils\Misc;..\Voyager;..\Voyager\URLHandlers;..\voyager\Components;..\Utils\GameAPI;..\Utils\Graphics;..\Utils\Voice;..\DServer;..\Utils\CodeLib;..\Utils\debug;..\Utils\WinUtils;..\Utils\DirectX;..\Class Storage;..\Kernel;C:\starpeace\Source\Illegal\Illegal Kernel;C:\starpeace\Source\Voyager\Components\WebBrowser;C:\starpeace\Source\Utils\Vcl;C:\Users\darren\Documents\RAD Studio\Projects\httpget</DCC_UnitSearchPath>
+    <DCC_ResourcePath>..\Utils\indy10\Lib\security;..\Utils\indy10\Lib\protocols;..\Utils\indy10\Lib\system;..\Utils\indy10\Lib\Core;$(DELPHI)\Source\Win32\vcl;$(DELPHI)\Source\Win32\rtl\win;$(DELPHI)\Source\Win32\rtl\common;$(DELPHI)\Source\Toolsapi;..\RDO\Common;..\RDO\Server;..\Utils\Network;..\RDO\Client\;..\Utils\Misc;..\Voyager;..\Voyager\URLHandlers;..\voyager\Components;..\Utils\GameAPI;..\Utils\Graphics;..\Utils\Voice;..\DServer;..\Utils\CodeLib;..\Utils\debug;..\Utils\WinUtils;..\Utils\DirectX;..\Class Storage;..\Kernel;C:\starpeace\Source\Illegal\Illegal Kernel;C:\starpeace\Source\Voyager\Components\WebBrowser;C:\starpeace\Source\Utils\Vcl;C:\Users\darren\Documents\RAD Studio\Projects\httpget</DCC_ResourcePath>
+    <DCC_ObjPath>..\Utils\indy10\Lib\security;..\Utils\indy10\Lib\protocols;..\Utils\indy10\Lib\system;..\Utils\indy10\Lib\Core;$(DELPHI)\Source\Win32\vcl;$(DELPHI)\Source\Win32\rtl\win;$(DELPHI)\Source\Win32\rtl\common;$(DELPHI)\Source\Toolsapi;..\RDO\Common;..\RDO\Server;..\Utils\Network;..\RDO\Client\;..\Utils\Misc;..\Voyager;..\Voyager\URLHandlers;..\voyager\Components;..\Utils\GameAPI;..\Utils\Graphics;..\Utils\Voice;..\DServer;..\Utils\CodeLib;..\Utils\debug;..\Utils\WinUtils;..\Utils\DirectX;..\Class Storage;..\Kernel;C:\starpeace\Source\Illegal\Illegal Kernel;C:\starpeace\Source\Voyager\Components\WebBrowser;C:\starpeace\Source\Utils\Vcl;C:\Users\darren\Documents\RAD Studio\Projects\httpget</DCC_ObjPath>
+    <DCC_IncludePath>..\Utils\indy10\Lib\security;..\Utils\indy10\Lib\protocols;..\Utils\indy10\Lib\system;..\Utils\indy10\Lib\Core;$(DELPHI)\Source\Win32\vcl;$(DELPHI)\Source\Win32\rtl\win;$(DELPHI)\Source\Win32\rtl\common;$(DELPHI)\Source\Toolsapi;..\RDO\Common;..\RDO\Server;..\Utils\Network;..\RDO\Client\;..\Utils\Misc;..\Voyager;..\Voyager\URLHandlers;..\voyager\Components;..\Utils\GameAPI;..\Utils\Graphics;..\Utils\Voice;..\DServer;..\Utils\CodeLib;..\Utils\debug;..\Utils\WinUtils;..\Utils\DirectX;..\Class Storage;..\Kernel;C:\starpeace\Source\Illegal\Illegal Kernel;C:\starpeace\Source\Voyager\Components\WebBrowser;C:\starpeace\Source\Utils\Vcl;C:\Users\darren\Documents\RAD Studio\Projects\httpget</DCC_IncludePath>
+  </PropertyGroup>
+  <ProjectExtensions>
+    <Borland.Personality>Delphi.Personality</Borland.Personality>
+    <Borland.ProjectType />
+    <BorlandProject>
+<BorlandProject><Delphi.Personality><Parameters><Parameters Name="UseLauncher">False</Parameters><Parameters Name="LoadAllSymbols">True</Parameters><Parameters Name="LoadUnspecifiedSymbols">False</Parameters></Parameters><VersionInfo><VersionInfo Name="IncludeVerInfo">False</VersionInfo><VersionInfo Name="AutoIncBuild">False</VersionInfo><VersionInfo Name="MajorVer">1</VersionInfo><VersionInfo Name="MinorVer">0</VersionInfo><VersionInfo Name="Release">0</VersionInfo><VersionInfo Name="Build">0</VersionInfo><VersionInfo Name="Debug">False</VersionInfo><VersionInfo Name="PreRelease">False</VersionInfo><VersionInfo Name="Special">False</VersionInfo><VersionInfo Name="Private">False</VersionInfo><VersionInfo Name="DLL">False</VersionInfo><VersionInfo Name="Locale">2057</VersionInfo><VersionInfo Name="CodePage">1252</VersionInfo></VersionInfo><VersionInfoKeys><VersionInfoKeys Name="CompanyName"></VersionInfoKeys><VersionInfoKeys Name="FileDescription"></VersionInfoKeys><VersionInfoKeys Name="FileVersion">1.0.0.0</VersionInfoKeys><VersionInfoKeys Name="InternalName"></VersionInfoKeys><VersionInfoKeys Name="LegalCopyright"></VersionInfoKeys><VersionInfoKeys Name="LegalTrademarks"></VersionInfoKeys><VersionInfoKeys Name="OriginalFilename"></VersionInfoKeys><VersionInfoKeys Name="ProductName"></VersionInfoKeys><VersionInfoKeys Name="ProductVersion">1.0.0.0</VersionInfoKeys><VersionInfoKeys Name="Comments"></VersionInfoKeys></VersionInfoKeys><Source><Source Name="MainSource">Project1.dpr</Source></Source></Delphi.Personality></BorlandProject></BorlandProject>
+  </ProjectExtensions>
+  <Import Project="$(MSBuildBinPath)\Borland.Delphi.Targets" />
+  <ItemGroup>
+    <DelphiCompile Include="Project1.dpr">
+      <MainSource>MainSource</MainSource>
+    </DelphiCompile>
+    <DCCReference Include="blisttest1.pas">
+      <Form>Form1</Form>
+    </DCCReference>
+    <DCCReference Include="blisttest2.pas">
+      <Form>Frame1</Form>
+    </DCCReference>
+  </ItemGroup>
+</Project>

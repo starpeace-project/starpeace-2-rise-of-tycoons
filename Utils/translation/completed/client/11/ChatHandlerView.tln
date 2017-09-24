@@ -1,0 +1,11 @@
+btClose.Text=КОНЕЦ
+Panel4.Caption=Напечатайте ваши комментарии на машинке здесь:
+NoChannels.Caption=Отсутствие каналов, котор нужно показать
+CreateChannel.Hint=Щелкните для того чтобы создать канал
+CreateChannel.Text=Создайте канал
+JoinChannel.Hint=Щелкните для того чтобы соединить канал
+JoinChannel.Text=Соедините канал
+LeaveChannel.Hint=Щелкните для того чтобы выйти канал
+LeaveChannel.Text=Выходите канал
+Marquee.Caption=ДОБРО ПОЖАЛОВАТЬ К БОРМОТУШК Starpeace.
+Marquee.Hint=ДОБРО ПОЖАЛОВАТЬ К БОРМОТУШК Starpeace.

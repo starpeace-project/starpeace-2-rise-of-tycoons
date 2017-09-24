@@ -1,0 +1,41 @@
+classId := 'Driving-11';
+    AttrModLean := TAttributeModifier.Create(classID, 'Driving Licence ', 'Get the basic driving licence', TMetaAttribute(TheClassStorage.ClassById['Attribute', '11-Skill:Driving']), 500, 30, 15, 0, 20);
+    AttrModLean.Register('AttributeModifier');
+
+
+classId := '11-Skill:Driving';
+    AttrLean := TMetaAttribute.Create(classID, 'Driving', 'Driving Skill', 0);
+    AttrLean.Register('Attribute');
+    classId := '12-Skill:FireArms';
+    AttrLean := TMetaAttribute.Create(classID, 'Firearms', 'FireArms Skill', 10);
+    AttrLean.Register('Attribute');
+    classId := '13-Skill:Computer';
+    AttrLean := TMetaAttribute.Create(classID, 'Computer', 'Computer Skill', 0);
+    AttrLean.Register('Attribute');
+    classId := '14-Skill:Leadership';
+    AttrLean := TMetaAttribute.Create(classID, 'Leadership', 'Leadership Skill', 0);
+    AttrLean.Register('Attribute');
+    classId := '15-Skill:Brawling';
+    AttrLean := TMetaAttribute.Create(classID, 'Brawling', 'Brawling Skill', 30);
+    AttrLean.Register('Attribute');
+    classId := '16-Skill:Demolition';
+    AttrLean := TMetaAttribute.Create(classID, 'Demolition', 'Demolition and Fire Setting Skill', 0);
+    AttrLean.Register('Attribute');
+    classId := '17-Skill:Stealth';
+    AttrLean := TMetaAttribute.Create(classID, 'Stealth', 'Stealth and Disguise Skill', 10);
+    AttrLean.Register('Attribute');
+    classId := '18-Skill:Medicine';
+    AttrLean := TMetaAttribute.Create(classID, 'Medicine', 'Cure and Treat Skill', 0);
+    AttrLean.Register('Attribute');
+    classId := '19-Skill:Forgery';
+    AttrLean := TMetaAttribute.Create(classID, 'Forgery', 'Skill of Producing Fake Document and Money', 0);
+    AttrLean.Register('Attribute');
+
+Create( anId: TClassID;
+ aName widestring; aDesc         : widestring;
+ anAttribute   : TMetaAttribute;
+ aCost : single;
+ aTime  : LongInt;
+ aValue : integer;
+ aRequirement  : integer;
+ aDifficulty   : integer);

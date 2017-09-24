@@ -1,0 +1,15 @@
+lvLoans.Columns.3=Limite
+Label9.Caption=Président :
+xfer_ActualRuler.Caption=Aucun
+Label2.Caption=Estimation populaire :
+Label3.Caption=Évaluation de brasseurs d'affaires :
+Label4.Caption=Mandat Nº :
+Label5.Caption=Années aux élections :
+xfer_RulerRating.Caption=Aucun
+xfer_TycoonsRating.Caption=Aucun
+xfer_CampaignCount.Caption=Aucun
+xfer_YearsToElections.Caption=Aucun
+btnVisitPolitics.Hint=Clic pour visiter la page de la politique de président
+btnVisitPolitics.Text=Le Président Politics Page de visite
+Label8.Caption=QOL :
+xfer_QOL.Caption=100

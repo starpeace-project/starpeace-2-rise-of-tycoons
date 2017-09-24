@@ -1,0 +1,14 @@
+btnCancel.Text=Cancelación
+btnLoad.Hint=Cargar su cuadro de un archivo de disco
+btnLoad.Text=Carga
+btnPreview.Hint=Ver su cuadro de antemano
+btnPreview.Text=Inspección previo
+btnSend.Hint=Enviar su cuadro
+btnSend.Text=Enviar
+btnCancel.Text=Cerrarse
+ZoomIn.Hint=Enfocar adentro
+ZoomIn.Text=+
+ZoomOut.Hint=Zumbido hacia fuera
+ZoomOut.Text=-
+Marquee.Caption=ENVIAR SU CUADRO
+Marquee.Hint=ENVIAR SU CUADRO

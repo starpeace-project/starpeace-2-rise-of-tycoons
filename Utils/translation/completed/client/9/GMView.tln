@@ -1,0 +1,16 @@
+N2.Caption=Deleatur
+Label1.Caption=Ty:
+OnlineList.Columns=3
+OnlineList.Columns.0=Pseudonim
+OnlineList.Columns.1=Poziom
+OnlineList.Columns.2=Świat
+Label2.Caption=Ty:
+WaitingList.Columns=3
+WaitingList.Columns.0=Pseudonim
+WaitingList.Columns.1=Poziom
+WaitingList.Columns.2=Świat
+File1.Caption=&File
+EXitMnu.Caption=E&xit
+Shortcuts1.Caption=Skrót
+Minimize1.Caption=Bagatelizować
+Chat1.Caption=Gadka!

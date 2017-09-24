@@ -1,0 +1,16 @@
+N2.Caption=Supressão
+Label1.Caption=Fala a você:
+OnlineList.Columns=3
+OnlineList.Columns.0=Aliás
+OnlineList.Columns.1=Nível
+OnlineList.Columns.2=Mundo
+Label2.Caption=Esperando o:
+WaitingList.Columns=3
+WaitingList.Columns.0=Aliás
+WaitingList.Columns.1=Nível
+WaitingList.Columns.2=Mundo
+File1.Caption=&File
+EXitMnu.Caption=E&xit
+Shortcuts1.Caption=Atalhos
+Minimize1.Caption=Minimizar
+Chat1.Caption=Bate-papo!

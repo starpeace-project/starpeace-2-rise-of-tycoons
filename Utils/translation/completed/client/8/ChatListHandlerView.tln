@@ -1,0 +1,10 @@
+ChannelName.Caption=은밀한 회의
+Label1.Caption=잡담
+IgnoreUser.Hint=지금 선정된 사용자를 묵살하기 위하여 누르십시오
+IgnoreUser.Text=사용자를 묵살하십시오
+ChatOverMap.Hint=지도를 찾아보고 있는 동안 간담하기 위하여 누르십시오
+ChatOverMap.Text=지도에 간담하십시오
+FollowUser.Hint=선정한 사용자를 따르기 위하여 누르십시오
+FollowUser.Text=사용자를 따르십시오
+VoiceChat.Hint=음성 잡담 위원회를 얻기 위하여 누르십시오
+VoiceChat.Text=위원회를 말하십시오

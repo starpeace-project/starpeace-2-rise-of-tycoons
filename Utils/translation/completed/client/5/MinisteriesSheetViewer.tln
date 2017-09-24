@@ -1,0 +1,10 @@
+btnCancel.Text=取消卓绝
+lvMinisteries.Columns=4
+lvMinisteries.Columns.0=部
+lvMinisteries.Columns.1=大臣
+lvMinisteries.Columns.2=规定值
+lvMinisteries.Columns.3=预算
+lbBudget.Caption=明年的预算：
+btnSetBudget.Text=设置预算
+btnDeposeClick.Test=废除
+lbMinister.Caption=大臣：

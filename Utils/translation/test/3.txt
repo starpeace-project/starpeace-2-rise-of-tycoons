@@ -1,0 +1,18 @@
+SYSTEM
+%s hat %s eingetragen
+%s hat %s. gelassen.
+„%s“ lenken, verursacht durch %s. 
+Benutzer
+Benutzer
+und
+Sie benötigen ein Kennwort, diesen Kanal einzutragen.
+Es gibt keine Informationen, die zu diesem Gegenstand verbinden.
+Bediener sind bemüht zu verursachen Sicherungsdateien. Bitte warten.
+Unterstützung zur Scheibe abgeschlossen.
+DER BRIEFTRÄGER
+Sie haben Post von %s (%s).
+%s eingeführter Kanal %s.
+%s eingeführte Vorhalle.
+%s linker Kanal %s.
+%s linke Vorhalle.
+Bediener strebt unten Wartung in den %d Minuten an. Erwartete Stillstandszeit geschätzt, um aprox zu sein. %d Minuten.

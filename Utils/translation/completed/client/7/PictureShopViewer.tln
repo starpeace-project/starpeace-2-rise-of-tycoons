@@ -1,0 +1,14 @@
+btnCancel.Text=取り消し
+btnLoad.Hint=ディスクファイルからあなたの映像に荷を積みなさい
+btnLoad.Text=負荷
+btnPreview.Hint=あなたの映像を下検分しなさい
+btnPreview.Text=下検分
+btnSend.Hint=あなたの映像を送りなさい
+btnSend.Text=送りなさい
+btnCancel.Text=閉めなさい
+ZoomIn.Hint=急上昇させなさい
+ZoomIn.Text=+
+ZoomOut.Hint=ズームレンズ
+ZoomOut.Text=-
+Marquee.Caption=あなたの映像を送りなさい
+Marquee.Hint=あなたの映像を送りなさい

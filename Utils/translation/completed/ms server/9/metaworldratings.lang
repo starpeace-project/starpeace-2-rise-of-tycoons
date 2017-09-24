@@ -1,0 +1,17 @@
+﻿WorldProjects.Wealth.Name=Ekonomiczny Bogactwo
+Target=WorldRatings
+LangId=9
+WorldRatings.CampaignAccuracy.Name=Kampania Osiągnięcie
+WorldRatings.College.Name=Szkoła wyższa
+WorldRatings.Disposal.Name=Śmieciarski Usuwanie
+WorldRatings.Fire.Name=Pożarniczy Sprawozdanie
+WorldRatings.Health.Name=Zdrowie Sprawozdanie
+WorldRatings.Jail.Name=Więzienie
+WorldRatings.Museum.Name=Muzeum
+WorldRatings.Police.Name=Milicyjny Sprawozdanie
+WorldRatings.PopGrowth.Name=Miasto Przyrost
+WorldRatings.School.Name=Szkolny Sprawozdanie
+WorldRatings.Services.Name=Usługa i Rozrywka
+WorldRatings.Sport.Name=Rekreacyjny Udostępnienie
+WorldRatings.Taxes.Name=Podatek
+WorldRatings.Unemployment.Name=Zatrudnienie

@@ -1,0 +1,9 @@
+btnConnect.Text=ПОСКАЧИТЕ К МИРУ
+ChatLine.Lines=1
+ChatLine.Lines.0=Впишите текст бормотушк здесь…
+btnConnect.Hint=Вызовите оригинал игры
+btnConnect.Text=ВЫЗОВИТЕ ОРИГИНАЛ ИГРЫ
+btGMOptions.Hint=Покажите варианты
+btGMOptions.Text=ВАРИАНТЫ
+btClose.Text=КОНЕЦ
+Label8.Caption=Говорить к GM:

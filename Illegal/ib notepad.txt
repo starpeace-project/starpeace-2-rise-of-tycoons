@@ -1,0 +1,127 @@
+mission setup
+
+RDOAssignMission(LeaderName : widestring; TeamName : widestring; MissionName : widestring; RolesList : widestring; ParametersList : widestring; Objective : widestring; ObjectiveX : integer; ObjectiveY : integer; TargetType : integer; TargetName : widestring; Radius : integer; TargetPlayer : widestring; TargetFacType: widestring; Cost : widestring) : olevariant;
+
+
+LeaderName : widestring; -leaders name
+
+TeamName : widestring; -teams name
+
+MissionName : widestring; -mission name
+    'Bank Robbery',  'Gambling Place', 'Destroy Road', 
+
+RolesList : widestring; 
+	Roles := TStringList.Create;
+ 
+        Roles.Text := RolesList;
+	RolesToAss : TRolesInMission;
+	RolesToAss.Name[k] := Roles.Values['Name' + IntToStr(k)];
+                      
+	RolesToAss.Role[k] := Roles.Values['Role' + IntToStr(k)];
+                      
+	RolesToAss.Result[k] := 'OK';
+                      
+	team.Mission.Roles := RolesToAss;
+
+ParametersList : widestring;
+	Parameters := TStringList.Create;
+            
+	Parameters.Text := ParametersList;
+	ParamsToAss : TParametersInMission;
+	for l := 1 to (MaxOptions - 1) do
+                    
+	begin
+                      
+	ParamsToAss.Name[l] := Parameters.Values['Name' + IntToStr(l)];
+                      
+	if Parameters.Values['Value' + IntToStr(l)] = 'True'
+                      
+	then
+                        
+	ParamsToAss.Value[l] := True
+                      
+	else
+                        
+	ParamsToAss.Value[l] := False;
+                      
+	ParamsToAss.Way[l] := Parameters.Values['Way' + IntToStr(l)];
+                      
+	team.Mission.Parameters := ParamsToAss;
+                    
+	end;
+ 
+Objective : widestring;
+	team.Mission.TargetDescr := Objective;
+ 
+ObjectiveX : integer; 
+ObjectiveY : integer;
+	CoordToAss.X := ObjectiveX;
+                  
+	CoordToAss.Y := ObjectiveY;
+	team.Mission.TargetCoord := CoordToAss;
+ 
+TargetType : integer; 
+	team.Mission.TargetType := TTargetType(TargetType);
+	TTargetType =
+        (ttpCoordinates, ttpRoad, ttpCriminal, ttpTeam, ttpPlayer, ttpLeader, ttpCity, ttpFacility, 	ttpCompany, ttpFacilitiesFromPlayer, ttpFacilitiesFromPlayerInRadius, ttpFacilitiesFromCompany, 	ttpFacilitiesFromCompanyInRadius, ttpFacilitiesInRadius);
+
+TargetName : widestring; 
+	team.Mission.TargetName := TargetName;
+
+Radius : integer; 
+	team.Mission.Radius := Radius;
+
+TargetPlayer : widestring;
+	team.Mission.TargetPlayer := TargetPlayer;
+ 
+TargetFacType: widestring;
+	team.Mission.TargetFacType := TargetFacType;
+ 
+Cost : widestring
+	Leader.Money := Leader.Money - StrToFloat(Cost);
+                
+	team.Mission.Cost := StrToFloat(Cost);
+
+
+
+
+RDOStartMission(LeaderName : widestring; TeamName : widestring; MissionName : widestring) : olevariant;
+
+
+
+-------------------------------------------------------------------------------------------------------------------------
+
+mission:
+
+road destroy - client done, needs checking
+
+bank robbery -
+role 1 leader
+role 2 driver
+role 3 Artificer
+role 4 Gorilla
+role 5 hacker-1 (at hq preventing alarm)
+role 6 hacker-2 (open vault)
+
+
+param 1 Vault (way)- '','explosive','hacker'
+param 2 hacker(value)- use hacker to avoid alarm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

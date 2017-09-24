@@ -1,0 +1,8 @@
+=
+=
+strOperatingNormally=”Kupolen fungerar normalt”,
+strStopped=”Kupolen stoppades av ägaren”,
+strNotFunctioning=”Kupolen fungerar inte riktigt”,
+strNeedsSuppliers=”En eller flera basutbud inte mottas alls”,
+strNeedsBudget=”Det finns inte nog pengar som ska fungeras”,
+strNotEnoughSupplies=”Kupolen inte levereras, som den behöver att fungera riktigt”,

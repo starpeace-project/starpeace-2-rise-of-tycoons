@@ -1,0 +1,44 @@
+unit ftconnection;
+
+interface
+  uses
+  WinSockRDOConnection, RDOInterfaces, RDOObjectProxy,logs,variants;
+
+  type
+  Tftconnection = class
+    published
+    fconnection : olevariant;
+    function connect : olevariant;
+  end;
+
+  const
+  faddr = 'localhost';
+  fport =  9999;
+
+implementation
+
+function Tftconnection.connect : olevariant;
+   var
+     IBCnx : IRDOConnectionInit;
+   begin
+     IBCnx        := TWinSockRDOConnection.Create('ftserver');
+     IBCnx.Server := fAddr;
+     IBCnx.Port   := fPort;
+     if IBCnx.Connect( 10000 )
+     then
+        begin
+        result := TRDOObjectProxy.Create as IDispatch;
+        result.SetConnection( IBCnx );
+        result.BindTo( 'football' );
+        logs.Log('connection','connect');
+        end
+     else
+        begin
+        result := null;
+        logs.Log('connection','no connect');
+        end;
+   end;
+
+
+   
+end.

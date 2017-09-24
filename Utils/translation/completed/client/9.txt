@@ -1,0 +1,2228 @@
+6
+Advertiser
+Właściciel
+Cena
+Przepłacony
+Kopyto Szewskie
+Ilość
+Ostatni Wartość:
+n/a
+Koszt:
+n/a
+Reklama:
+0%
+(0)
+Stuknięcie tutaj nowy klient
+Dzierżawienie
+Klikać tutaj the wybrany związek
+Modyfikować
+3
+Imię
+Miasteczko
+Widz
+
+
+Panel
+
+
+0%
+Budżet:
+0%
+Interes:
+0%
+0%
+Pożyczać neutralny
+Pożyczać wróg
+Termin (rok):
+30%
+20
+Ukop pieniądze od the bank
+Ukop
+Wyburzać ten łatwość
+Wyburzać
+Zamykać ten łatwość
+Zamykać
+Kwota:
+Ukop pieniądze tutaj:
+Imię:
+The bank mieć żadny dosyć zakładać teraz.
+4
+Dłużnik
+Kwota
+Interes
+Termin
+Prezydent:
+Nikt
+Popularny Ocena:
+Potentat:
+Mandat polityczny Nº:
+Rok Wybory:
+Nikt
+Nikt
+Nikt
+Nikt
+Stuknięcie the prezydent polityka strona
+Wizyta Prezydent Polityka Wzywać
+QOL:
+100
+%
+6
+Imię
+Populacja
+QOL
+Handel
+Bogactwo
+Podatek
+Podatek: 0%
+0%
+Elekt
+Mayor:
+ChangeLogView
+
+
+GradientBox1
+Klikać tutaj klikać wiadomość znowu
+I ZNAĆ
+Pokazywać wiadomość wiadomość znowu, opóźniony
+OPÓŹNIONY
+Spadek Online Wiadomość
+
+Panel1
+
+Panel1
+
+
+(1)
+Tam  być żadny nowy wydarzenie
+Ściągać mapa informacja…
+Zmartwiony: Żadny historia informacja być dostępny do the koniec tego roku.
+Zamykać ten okno
+ZAKOŃCZENIE
+Pisać Na Maszynie twój komentarz tutaj:
+Żadny kanał
+Klikać kanał
+Tworzyć Kanał
+Klikać kanał
+Łączyć Kanał
+Klikać the kanał
+Opuszczać Kanał
+POWITANIE Starpeace GADKA.
+POWITANIE Starpeace GADKA.
+Tajny Spotkanie
+Gadka
+Klikać użytkownik obecnie wybierać
+Ignorować Użytkownik
+Klikać podczas gdy wyszukiwać the mapa
+Gawędzić nad Mapa
+Klikać the wybrany użytkownik
+Podążać Użytkownik
+Klikać głos gadka panel
+Opowiadać Panel
+Bela
+Bela
+Zamknięty okno
+Żadny ewidencyjny…
+:
+n/a
+n/a
+:
+Współczynnik:
+n/a
+0%
+Potwierdzać Hasło
+Domena być za pierwszym raz ty notować w Równoległy Domena.
+Zadawalać potwierdzać twój hasło:
+Hasło:
+Potwierdzać Hasło:
+Wchodzić Do hasło tutaj
+Potwierdzać hasło tutaj
+OK
+Odwoływać
+…
+Zadawalać czekanie…
+
+
+
+GradientBox1
+Nieznane
+
+Reputacja:
+
+Pieniądze:
+
+n/a
+
+Koszt:
+
+n/a
+
+n/a
+
+Zamknięty zastosowanie
+x
+
+2
+DRUŻYNA
+HISTORIA
+
+
+
+NewId
+
+Drużyna
+
+Historia
+
+Zadawalać czekanie podczas gdy Starpeace łączyć the Crimininal kartoteka…
+
+Ty mieć Kryminalny Tożsamość. Jeżeli ty chcieć jeden, ty musieć kryminalny pseudonim. Ten pseudonim być unikalny i tajny. Ono używać twój akcja w ten planeta.
+
+Wchodzić Do Twój Kryminalny Pseudonim Tutaj:
+
+Wystawiać narzuta mapa narzędzie
+Tworzyć Przestępca Id
+NOTATKA: Musieć ty zostać zanudzać ten Pseudonim, ty musieć reset twój całkowity przestępca profil. Próba pseudonim który ty utrzymywać dla twój cale życie.
+
+
+
+BŁĄD!
+
+Drużyna:
+
+Pokaz narzuta mapa narzędzie
+Rozwiązywać Drużyna
+Wystawiać narzuta mapa narzędzie
+M I S S I O N
+Pokaz narzuta mapa narzędzie
+Ustalony Kwatera główna
+Pokaz narzuta mapa narzędzie
+Iść Kwatera główna
+Wystawiać narzuta mapa narzędzie
+Nowy Drużyna
+n/a
+
+Koszt:
+
+Profit Netto:
+
+n/a
+
+Rok:
+
+n/a
+
+Pokaz narzuta mapa narzędzie
+Widok Przestępca Grafik dyżurów
+Pokaz narzuta mapa narzędzie
+Drużynowy Historia
+
+
+
+
+Stuknięcie tutaj Przestępca
+
+
+PRZYGOTOWYWAĆ!
+PRZYGOTOWYWAĆ!
+…
+
+
+
+Slot2
+
+Panel5
+
+Stuknięcie tutaj Przestępca
+
+
+PRZYGOTOWYWAĆ!
+PRZYGOTOWYWAĆ!
+…
+
+Panel4
+
+Panel5
+
+Stuknięcie tutaj Przestępca
+
+
+PRZYGOTOWYWAĆ!
+PRZYGOTOWYWAĆ!
+…
+
+Panel4
+
+Panel5
+
+Stuknięcie tutaj Przestępca
+
+
+PRZYGOTOWYWAĆ!
+PRZYGOTOWYWAĆ!
+…
+
+Panel4
+
+Panel5
+
+Stuknięcie tutaj Przestępca
+
+
+PRZYGOTOWYWAĆ!
+PRZYGOTOWYWAĆ!
+…
+
+Panel4
+
+Panel5
+
+Stuknięcie tutaj Przestępca
+
+
+PRZYGOTOWYWAĆ!
+PRZYGOTOWYWAĆ!
+…
+
+Panel4
+
+Panel5
+
+Stuknięcie tutaj Przestępca
+
+
+PRZYGOTOWYWAĆ!
+PRZYGOTOWYWAĆ!
+…
+
+Panel4
+
+
+
+Stuknięcie tutaj Przestępca
+
+
+PRZYGOTOWYWAĆ!
+PRZYGOTOWYWAĆ!
+…
+
+
+
+
+
+
+
+Kasować ten Tożsamość
+ALUZJA: Ty musieć Kwatera główna dla ten drużyna.
+ALUZJA: Ty musieć Kwatera główna dla ten drużyna.
+Przestępstwo
+
+Zamknięty okno
+x
+HISTORIA
+HISTORIA
+
+
+
+
+
+
+2
+DOSTĘPNY
+UZUPEŁNIAĆ
+
+Dostępny
+
+Zupełny
+
+
+
+
+Pokaz narzuta mapa narzędzie
+T R A I N
+Pokaz narzuta mapa narzędzie
+Zakończenie
+
+
+
+
+Pokaz narzuta mapa narzędzie
+Zakończenie
+
+CriminalRosterView
+
+Przestępca ten drużyna:
+
+Pokaz narzuta mapa narzędzie
+< POPRZEDZAJĄCY
+Pokaz narzuta mapa narzędzie
+WIĘCEJ >
+Pokaz narzuta mapa narzędzie
+H I R E
+Zamknięty zastosowanie
+x
+Panel4
+
+Panel5
+
+
+Panel4
+
+Panel5
+
+
+Panel4
+
+Panel5
+
+
+Panel4
+
+Panel5
+
+
+CriminalView
+
+
+GradientBox1
+James Bulger
+
+Pokaz narzuta mapa narzędzie
+Ogień!
+Pokaz narzuta mapa narzędzie
+Pociąg
+Pokaz narzuta mapa narzędzie
+Ruch
+Pokaz narzuta mapa narzędzie
+Historia
+0%
+Pensja:
+
+n/a
+
+Rola w the Drużyna:
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+Zamknięty zastosowanie
+x
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+
+
+Panel3
+
+Panel4
+
+
+Żadny komentarz
+Żadny komentarz
+
+
+
+
+
+
+
+
+
+
+
+
+Opis
+Wchodzić Do opis skrót tutaj
+Skrót
+Wybrany skrót
+Tekst
+Dodawać
+Odwoływać
+Tytuł:
+Wodowanie
+n/a
+Czas:
+Budżet:
+Odwoływać
+Uwolnienie
+$10,000,000
+Auto Uwolnienie
+12
+Nawrotny Film Produkcja
+Skok the klient świat
+SKOK ŚWIAT
+(1)
+Wchodzić Do gadka tekst tutaj…
+Dzwonić Gemowy Mistrz
+DZWONIĆ GRA MISTRZ
+Wystawiać Opcja
+OPCJA
+ZAKOŃCZENIE
+GM:
+Nikt
+Lista Gemowy Mistrz
+Ruch Gra Mistrz lista w priorytet lista
+RUCH RUCH
+Ruch Gra Mistrz puszek w priorytet lista
+RUCH PUSZEK
+Usuwać Gra Mistrz od lista
+USUWAĆ
+Robić Gra Jeden twój faworyt
+FAWORYT
+Dawać Gra Mistrzowski normalny traktowanie
+NORMALNA
+Ignorować ten Gemowy Mistrz
+ZIGNOROWANY
+Ustalony GM Priorytet:
+ZAKOŃCZENIE
+Organizować Gemowy Mistrz w the lista gemowy:
+Ruch Ruch
+Ruch Puszek
+-
+Priorytet
+Wysoki
+Normalna
+Zignorowany!
+Deleatur
+Ty:
+3
+Pseudonim
+Poziom
+Świat
+Ty:
+3
+Pseudonim
+Poziom
+Świat
+&File
+E&xit
+Skrót
+Bagatelizować
+Gadka!
+Czekanie!
+HintBoxWindow
+
+
+Aluzja Tekst
+
+Zamknięty okno
+x
+Zamknięty historia okno
+Zakończenie
+HISTORIA
+HISTORIA
+Imię:
+Twórca:
+n/a
+Wiek:
+n/a
+Stuknięcie ten łatwość
+Zakończenie
+Klikać ten łatwość
+Wyburzać
+n/a
+Klikać ten łatwość mapa w the mapa
+Łączyć
+Koszt:
+n/a
+ROI:
+n/a
+Imię:
+Właściciel:
+n/a
+Koszt:
+n/a
+ROI:
+n/a
+Wiek:
+n/a
+Stuknięcie ten łatwość
+Zakończenie
+Clisk ten łatwość
+Wyburzać
+Klikać ten łatwość mapa w the mapa
+Łączyć
+n/a
+Łączyć ten łatwość wszystkie twój przechować
+Bubel wszystko przechować
+Łączyć ten łatwość wszystkie twój fabryka
+Bubel wszystkie fabryka
+Łączyć ten łatwość wszystkie twój magazyn
+Bubel wszystkie magazyn
+Odłączać ten łatwość od wszystkie twój przechować
+Sprzedawać przechować
+Łączyć ten łatwość wszystkie twój fabryka
+Sprzedawać fabryka
+Łączyć ten łatwość wszystkie twój magazyn
+Sprzedawać magazyn
+Handlować Tryb:
+Handel z:
+3
+Firma Magazyn
+Eksporter
+Importer
+3
+Nikt
+Sojusznik tylko
+Anyone
+
+OK
+Imię:
+Firma:
+Nadpłata:
+x
+
+Odwoływać
+Deleatur
+0%
+0%
+n/a
+n/a
+Właściciel:
+Miasteczko:
+Stuknięcie dla klient dla the wybrany produkt
+REWIZJA >
+Obliczenie:
+Wchodzić Do firma imię rewizja dla klient udostępnienie ten firma tylko
+Importować Magazyn
+Sprawdzać jeżeli ty chcieć importowy magazyn w the rewizja dla klient
+Miarowy Magazyn
+Sprawdzać jeżeli ty chcieć miarowy magazyn w the rewizja dla klient
+Przechować
+Sprawdzać jeżeli ty chcieć prowiantowy w the rewizja dla klient
+Fabryka
+Sprawdzać jeżeli ty chcieć czek fabryka podczas gdy rewizja dla klient
+Wybrany maksimum klient ty chcieć dla
+20
+3
+Budynek
+Właściciel
+Miasteczko
+Wybierać wszystkie znajdować klient
+Wybierać Wszystko
+Unselect wszystkie znajdować klient
+Unselect Wszystko
+Klikać wszystkie wybrany klient
+SPRZEDAWAĆ WYBRANY
+Zamykać
+Wchodzić Do the imię miasteczko tutaj the rewizja dla klient taki miasteczko
+3
+DOSTĘPNY
+
+ROZWIJAĆ
+Stuknięcie tutaj the badanie
+Badanie
+Stuknięcie tutaj the badanie
+Przerwa
+Stuknięcie tutaj the badanie
+Bubel
+Zakończenie
+BADANIE
+Ściąganie…
+n/a
+n/a
+Żadny dostawca
+Otwarty
+Zakończenie
+Zakończenie
+Otwarty
+Zakończenie
+The pożyczka użyczać.
+The bank odrzucać twój prośba.
+The bank mieć dosyć zakładać teraz.
+Niewiadomy błąd.
+Ściąganie…
+Żadny pożyczka…
+%s rok
+jeden rok
+Nikt
+Nikt
+Nikt
+Nikt
+Początek
+Przerwa
+Początek
+Ściągać mapa…
+Otwarty
+Zakończenie
+Już
+%s rok
+Nigdy
+n/a
+%s tylko
+Zakończenie
+Otwarty
+Zakończenie
+Otwarty
+Zakończenie
+Zakończenie
+Otwarty
+Zakończenie
+Nikt
+Ściąganie…
+Ściąganie…
+Bubel (+%s)
+żadny minister
+Nikt
+Ściąganie…
+Przerwa
+Obrazek przeniesienie zatrzymywać.
+Przerwa
+The obrazek.
+Teraz ty przygotowywać ten ładny obrazek, stuknięcie Wysyłać.
+Przerobowy wizerunek.
+Móc the obrazek, retry opóźniony.
+Voyager wysyłać the obrazek the serwer.
+Móc the obrazek the serwer.
+Wysyłać
+Retry
+%s rok
+jeden rok
+%s punkt
+Nikt
+Nikt
+Nikt
+Nikt
+Nikt
+n/a
+Ściąganie…
+Żadny klient
+Otwarty
+Zakończenie
+Już
+%s rok
+Nigdy
+n/a
+n/a
+Zakończenie
+Otwarty
+Zakończenie
+Otwarty
+Zakończenie
+Już
+%s rok
+Nigdy
+Zakończenie
+Otwarty
+Zakończenie
+n/a
+n/a
+Ściąganie…
+Nikt
+Żadny dostawca
+%s rok
+jeden rok
+%s punkt
+Nikt
+Nikt
+Nikt
+Nikt
+Nikt
+n/a
+n/a
+n/a
+n/a
+n/a
+Ściąganie…
+Pusty
+Ściąganie…
+Pusty
+Ściąganie…
+Pusty
+Ściąganie…
+Subsydiować
+Subsydiować
+Nikt
+Podatek: %s%%
+Subsydiować
+Otwarty
+Zakończenie
+Już
+%s rok
+Nigdy
+n/a
+Zakończenie
+Otwarty
+Zakończenie
+Otwarty
+Zakończenie
+Już
+%s rok
+Nigdy
+n/a
+Zakończenie
+Otwarty
+Zakończenie
+Unknow błąd zdarzać się gdy próbować the mapa.
+Spadek Online móc mapa kartoteka na twój system.
+Spadek Online móc the mapa kartoteka na the serwer.
+Spadek Online móc decompress the mapa. Zadawalać czek dla dodatek przejażdżka przestrzeń.
+Unknow błąd zdarzać się gdy próbować the mapa.
+Mapa ściąganie nie udać się.
+Ściąganie Przerywać.
+%s Ty chcieć znowu?
+Mapa…
+Ładowniczy poczta rama…
+Ładowniczy gadka rama…
+Zaczynać dźwięk i muzyka…
+Ładowniczy pasek narzędzi rama…
+Ładowniczy wizerunek info…
+Rozpoczynanie mapa…
+Błąd
+The Logon dane ty precyzować być błędny lub tam  być problem w the komunikacja z the serwer. Zadawalać być pewny że ty mieć aktywny związek the Internet.
+Błąd
+Unknow błąd zdarzać się w the komunikacja z the serwer. Zadawalać próba znowu. Jeżeli oceanus zdarzać się zbyt często, zadawalać raport Oceanus.
+Tytuł
+Nikt
+Nikt
+Nikt
+%s (%s)
+Nikt
+Nikt
+Nikt
+%s (%s)
+Nikt
+Nikt
+Nikt
+%s (%s)
+%d (%d)
+%d (%d)
+%d (%d)
+Data: %s
+Ściąganie…
+Błąd: Nieważny drużyna imię
+Gra Mistrz:
+Gra Mistrzowski Serwer:
+Gra Mistrz być ruchliwie teraz, tam  być %d prośba tam, zadawalać czekanie lub próbować inny gemowy mistrz.
+Gra Mistrzowski Serwer:
+Gra Mistrz być oddalony teraz, zadawalać czekanie lub próbować inny gemowy mistrz.
+Gra Mistrzowski Serwer:
+Gra Mistrz być online!
+Gra Mistrzowski Serwer:
+Gra Mistrz odłączać, zadawalać próba inny gemowy mistrz.
+Wezwanie
+Wezwanie
+Zrozumienie zrozumienie
+Kostiumer
+Nikt
+Ściąganie…
+Podatek: %d%%
+Podatek: %s
+Wysoki
+Normalna
+Zignorowany!
+Móc kanał
+Ten kanał folować. Ty móc opóźniony, gdy opóźniony the użytkownik wewnątrz tam  opuszczać.
+Móc kanał
+Nieważny hasło.
+Wchodzić Do gadka tekst tutaj…
+NOWY KANAŁ (%S) TWORZYĆ.
+KORYTKOWY %S ZAMYKAĆ.
+TERAZ GAWĘDZIĆ W %S
+PLECY THE LOBBY.
+Nagłówek: %s
+aktualizowanie…
+Folować Parawanowy Gadka
+Gadka nad Mapa
+Klikać nad łatwość na the mapa związek.
+Aluzja: Operacja klikać gdy the forbiden kursor wystawiać.
+Aluzja: Używać pojedynczy stuknięcie łatwość na the mapa. Prawica - klikać QuickWeb opcja.
+Koszt budowy: %s
+Aluzja: Use dobro - stuknięcie operacja.
+Stuknięcie nad łatwość na the mapa estabish związek.
+Aluzja: Operacja stuknięcie gdy the forbiden kursor wystawiać.
+Błąd
+Ty mieć żadny dobro ten droga.
+Błąd
+Móc droga.
+BUDOWA PROŚBA ODRZUCAĆ
+The Mayor the miasto pozwolić budynek ten typ na ten lokacja. Zadawalać notatka który the strefa ten lokacja (wskazywać kolor) musieć z the strefa typ the łatwość ty zamierzać. Budynek strefa typ pokazywać oprócz the łatwość ikona na the Budowa Panel.
+BUDOWA PROŚBA ODRZUCAĆ
+Ty móc tam. Teren jasny.
+BUDOWA PROŚBA ODRZUCAĆ
+Ty dosięgać the ograniczenie budynek ty móc. Wyburzać niektóre budynek lub próba the następny poziom.
+BUDOWA NIE UDAĆ SIĘ
+Móc łatwość tutaj. Zadawalać upewniać się ty działać przynajmniej jeden firma.
+Błąd
+Móc udostępnienie.
+Błąd
+Móc udostępnienie.
+Żadny łatwość wybierać.
+Aluzja: Używać pojedynczy stuknięcie łatwość na the mapa. Prawica - klikać QuickWeb opcja.
+PONOWNY:
+Ponowny: %s
+Temat: %s
+Od: %s
+FW:
+FW: %s
+Temat: %s
+Od: %s
+Ten wiadomość dosięgać jakaś adres.
+Móc perfom ten akcja, Poczta Serwer być puszek.
+Móc save the wiadomość.
+Móc perfom ten akcja, Poczta Serwer być puszek.
+Błąd: %s
+jeden linia
+%d linia
+Główny Kwatera główna
+Przemysł Kwatera główna
+Biurowy i Mieszkaniowy Kwatera główna
+Handel Kwatera główna
+Sprawa Publiczna Kwatera główna
+Cześć Klasowy LoCost Residentials
+Klasa Średnia LoCost Residentials
+Depresja Klasowy LoCost Residentials
+Cześć Klasowy Residentials
+Klasa Średnia Residentials
+Depresja Klasowy Residentials
+Biuro
+Gospodarstwo rolne
+Karmowy Procesor
+Chemiczny Przemysł
+Kopalnia
+Przemysł Włókienniczy
+Metal Przemysł
+Elektroniczny Składnik Fabryka
+Odzieżowy Fabryka
+Gospodarstwo domowe Urządzenie Fabryka
+Biznesowy Maszyna Fabryka
+przemysł ciężki
+Samochodowy Fabryka
+przemysł budowlany
+Farmaceutyka Przemysł
+Klingeryt Przemysł
+Zabawkarski Fabryka
+Wieża Wiertnicza
+Rafineria
+Trunek Fabryka
+Sklep Spożywczy
+Odziewać Prowiantowy
+HHA Przechować
+Samochód Przechować
+Supermarket
+Bar
+Restauracja
+Film
+Lek Przechować
+Zabawka Przechować
+Benzynowy Stacja
+Firma Informatyczna
+Szpital
+Szkoła
+Komenda Policji
+Posterunek Straży Pożarnej
+Correctionals
+Park
+Bank
+Stacja telewizyjna
+TV Antena
+Zimno Magazyn
+Substancja chemiczna Magazyn
+Ogólny Magazyn
+Tkanina Magazyn
+Kruszec Magazyn
+Zabytek
+%d bytes/s
+(0) bytes/s
+%d bytes/s
+(0) bytes/s
+Świat…
+SYSTEM
+Móc związek z serwer.
+Ty ximpx nieważny imię.
+Ty ximpx nieważny hasło.
+Tam  być błąd serwer. Zadawalać być pewny że ty mieć aktywny związek the Internet.
+Tam  być błąd serwer. Zadawalać być pewny że ty mieć aktywny związek the Internet.
+Tam  być błąd serwer. Twój prośba zaprzeczać.
+Niewiadomy błąd zdarzać się. Zadawalać raport Oceanus jeżeli często zdarzać się zbyt często.
+Błąd
+SYSTEM
+Nieważny Hasło
+Oba hasło musieć!
+SYSTEM
+Związek serwer opuszczać. Czekać podczas gdy Voyager próba…
+SYSTEM
+Teraz ty postępować jako %s.
+Ty pomyślnie ponownie się łączyć.
+SYSTEM
+Tam  być błąd twój tożsamość %s.
+Próba nieudany. Znowu…
+%d nieoczytany wiadomość.
+%d nieoczytany wiadomość.
+Wskazywać przyjazd nowy poczta
+CHIRURG ZAWIADOMIENIE: Wykonywać stosunek z obcy forma życia, jeśli ono być od the przeciwna płeć.
+CHIRURG ZAWIADOMIENIE: Biegać z ostry przedmiot. Zawsze biegać z tępy przedmiot.
+CHIRURG ZAWIADOMIENIE: Papieros móc ty, twój rodzina i wszystkie twój przyjaciel.
+CHIRURG ZAWIADOMIENIE: Antipodes gryźć.
+WIADOMOŚĆ: Michael Jackson mamusia uciekać muzeum Louvre.
+WIADOMOŚĆ: Ford ogłaszać ono produkować samochód znowu.
+CHIRURG ZAWIADOMIENIE: Dynamit dostawać lepszy z czas. Jeżeli ty znajdować stary dynamit w twój chłodziarka wezwanie dla pomoc.
+WIADOMOŚĆ: GWIEZDNA WOJNA Epizod XII, Princess Zuloo w końcu dostawać the dziewczyna.
+WIADOMOŚĆ: Astronom i lekarz znajdować the Księżyc być the przyczyna najwięcej żołądek nieład.
+CHIRURG ZAWIADOMIENIE: Kapelusz móc włosiany strata i cronic migrena. Lekarz polecać the use hełm.
+WIADOMOŚĆ: Gigantyczny lizzard namierzony na górze latający spodeczek. Urzędnik powiedzieć uFOs móc UFOs.
+WIADOMOŚĆ: Prohibicja na wideo gra wycofywać w Anglia.
+WIADOMOŚĆ: Kanada wycofywać swój oddział wojskowy od Waszyngton po pomyślny mediacja the Królewiątko Arabia.
+WIADOMOŚĆ: Nowy Federacyjny prawo stan nieżywy ludzie być nieżywy do inaczej.
+WIADOMOŚĆ: Móc czekoladowy lody the lekarstwo dla nowotwór? Ekspert mówić nie sposób.
+WIADOMOŚĆ: Paleontologists odkrywać wszystkie T-Rex dowód zasadzać w the wczesny XX wiek KOMICZKA producent.
+WIADOMOŚĆ: Nowy anti-matter propulsor pchać podróż kosmiczna technologia trochę dalej.
+WIADOMOŚĆ: Identyczny replika Keops ostrosłup znajdować pod the Keops ostrosłup.
+WIADOMOŚĆ: Nauka odsłaniać żaba mnożyć w the ludzki kolonia.
+WIADOMOŚĆ: Derywacyjny praca od Heinsenberg's prawo udowadniać robot być kiedykolwiek kiedykolwiek - dla domowy zastosowanie.
+SYSTEM
+Gemowy Mistrz. Zadawalać czekanie…
+SYSTEM
+Ty odłączać od Gra Mistrz %s.
+Nikt
+WYWOŁAWCZY GRA MISTRZ
+SYSTEM
+Ty być online z the Gemowy Mistrz %s.
+SYSTEM
+The Gemowy Mistrz %s akceptować twój wezwanie. Twój prośba zrobić the liczba %d. Zadawalać czekanie until the Gemowy Mistrz przygotowywać ty.
+ZROZUMIENIE ZROZUMIENIE
+SYSTEM
+Tam  być żadny Gra Mistrz dostępny przy ten moment. Plase próba opóźniony.
+SYSTEM
+Tam  być błąd Gemowy Mistrz. Plase próba znowu.
+SYSTEM
+Twój wiadomość móc the Gemowy Mistrz.
+Wszystkie serwer zestrzelać. Plase próba opóźniony.
+Błąd
+Móc serwer. Zadawalać czek twój Połączenie z internetem i próba znowu.
+%s…
+Znak w nieudany. The Pseudonim ty ximpx wydawać się nieważny. Zadawalać próba znowu.
+Podpisywać w nieudany. The hasło ty ximpx wydawać się nieważny. Zadawalać próba znowu.
+Podpisywać w nieudany. Tam  być błąd the serwer. Zadawalać czek twój Połączenie z internetem i próba znowu.
+Błąd
+Błąd
+Spadek Online móc the wybrany świat. My polecać ty the standardowy sign-in procedura.
+Ściąganie…
+Ameryka
+W…
+Serwer…
+W…
+Ameryka
+Europa
+Azja
+Aktualizowanie…
+[ZAĆMIEWAĆ]
+Nikt.
+%s. Populacja: %s Inwestor: %s Rok: %s Online: %s Minimalny Szlachectwo: %s Reset Data: %s
+Powitanie the Univesal Mapa. Stuknięcie na jakikolwiek świat jakikolwiek rozszerzony informacja.
+Aktualizowanie…
+Otwarty
+Zakończenie
+Zakończenie
+Otwarty
+Zakończenie
+n/a
+SYSTEM
+Skanerowanie…
+Wchodzić Do gadka tekst tutaj…
+Ściąganie %s mapa. Sekunda móc to sekunda…
+Skanerowanie…
+POŁĄCZENIE
+Wysoki
+Normalna
+Zignorowany!
+Gra Mistrz:
+Gra Mistrzowski Serwer:
+Gra Mistrz być ruchliwie teraz, tam  być %d prośba tam, zadawalać czekanie lub próbować inny gemowy mistrz.
+Gra Mistrzowski Serwer:
+Gra Mistrz być oddalony teraz, zadawalać czekanie lub próbować inny gemowy mistrz.
+Gra Mistrzowski Serwer:
+łączyć %s
+Gra Mistrzowski Serwer:
+Gra Mistrz być online!
+Gra Mistrzowski Serwer:
+Gra Mistrz być ruchliwie, zadawalać czekanie trochę dla.
+Gra Mistrzowski Serwer:
+Gra Mistrz odłączać, zadawalać próba inny gemowy mistrz.
+Wezwanie
+Wezwanie
+Zrozumienie zrozumienie
+Kostiumer
+Ok
+Dodawać
+Tam  być konflikt!!
+Wchodzić Do the GMS imię!
+Wchodzić Do twój imię!
+Móc GM Serwer, znowu opóźniony lub sprawdzać GM Serwer położenie
+Użytkownik być Bezczynnie: %d secs
+Użytkownik czekać: %d secs
+Firma: %s Pieniądze: %s
+Móc GM Serwer, znowu opóźniony lub GM Serwer położenie.
+:
+KLIENT
+HANDEL
+OGÓLNY
+HISTORIA
+PRACA
+POŻYCZKA
+ZARZĄDZANIE
+MINISTERIES
+PRODUKT
+ROZGŁOS
+BADANIE
+RESIDENTIALS
+USŁUGA
+DOSTAWA
+PODATEK
+Bubel
+MAUZOLEUM
+Twój wymagać the gemowy. Klikać STRONA ten okno i the abonamentowy strona.
+Twój konto na Spadek Online chwilowo marznąć. Klikać SYTUACJA ten okno i strona dokąd ty otrzymywać informacja co do ten sytuacja.
+Ulepszenie
+Przerwa
+MIASTECZKO
+FILM
+ANTENA
+GŁOSOWANIE
+Rewizja…
+Serwer Ruchliwie
+Ty odłączać od the serwer.
+Zakup
+Konto Już Istnieć
+The Parawanowy Imię lub Sega.com Hasło ty wchodzić do być błędny.
+Seryjny Maxed
+Nieważny Serial
+Abonent Id Znajdować
+Ty móc tam. Klasa buildning być zbyt zamknięty inny budynek the ten sam klasa.
+Spadek Online serwer tworzyć pomocniczy kartoteka dla ten świat. Świat móc od sekunda minuta w zależności od the rozmiar the świat. Podczas Gdy ono trwać ty móc the mapa i budynek, ale niektóre opcja, jak Budowa, obezwładniać. Zauważać że the talerzowy ikona w twój pasek narzędzi zaświecać twój podczas wsparcie. Ty tylko widzieć ten wiadomość pudełko ten czas.
+SERWER WSPARCIE
+SERWER WSPARCIE KOŃCZYĆ
+Spadek Online serwer kończyć wsparcie. Ty móc bez ograniczenie.
+Być ty pewny ty chcieć twój %s?
+!
+Ten Sam Firma
+Ten Sam Miasto
+Klikać tutaj the turniej reguła.
+Całkowity Postęp.   
+KBytes ( 
+Obliczony Czas: 
+godzina. 
+godzina. 
+minuta. 
+minuta. 
+Móc książka telefoniczna.
+Błąd
+Instalacja nie udać się.
+Nie Udać Się instalacja.
+Móc główny zastosowanie. Błąd kod: 
+Nie Udać Się operacja.
+BŁĄD: Operacja nieudany opłata niewiadomy błąd.
+Błąd dysk (
+BŁĄD: Znajdować korumpować kartoteka (
+BŁĄD: Dekompresja nie udać się (
+). Sprawdzać dla dodatek przejażdżka przestrzeń.
+BŁĄD: Wskaźnik kartoteka korumpować. Zadawalać raport Sega.
+BŁĄD: Kartoteka ściąganie nie udać się (
+CZEŚĆ! TEN PROGRAM INSTALOWAĆ SPADEK ONLINE NA TWÓJ KOMPUTER. ZADAWALAĆ WCHODZIĆ DO THE INFORMACJA WYMAGAĆ.
+Móc initialize Sieć klient. Zadawalać być pewny ty instalować Internet Explorer 4.0 lub wielki.
+TAK
+NIE
+Robić
+Znalezienie Zasoby: 
+Ściąganie: 
+Zadawalać czekanie…
+Decompressing 
+organicwaste
+fert
+grainFarma
+młyn
+bawełna
+trouser
+fruitFarma
+fruitpie
+rubbersap
+rubbertree
+rubberfact
+shoefact
+vegFarma
+stewfact
+organicMine
+polimer
+nylon
+koszula
+Cattlefarma
+burgerfact
+rawChemMine
+miningchem
+skóra
+leatherjacket
+To być gmabling melina misja
+to być napad na bank misja
+misja być droga niszczyć misja
+Gra obok
+Stuknięcie tutaj
+NOWY KONTO
+ZNAK WEWNĄTRZ
+ODWOŁYWAĆ
+Username:
+Hasło:
+Powitanie Starpeace. Zadawalać zapewniać twój Username i Hasło.
+Wchodzić Do twój Starpeace pseudonim tutaj
+Wchodzić Do twój Starpeace hasło tutaj
+Teraz wybierać the świat ty chcieć:
+WCHODZIĆ DO WYBRANY ŚWIAT
+IŚĆ WSZECHRZECZY MAPA
+ODŚWIEŻAĆ WSZYSTKO
+ODŚWIEŻAĆ WYBRANY
+6
+Imię
+Populacja
+Inwestor
+Online
+Rok
+ŚWIST (msec)
+Skok świat ty już odwiedzać:
+Stuknięcie the wybrany planeta
+IŚĆ!
+Przybywający Położenie
+Sprawdzać ten pudełko ten łatwość konfigurować oparty na the położenie inny łatwość.
+Klonować Położenie
+Klikać the położenie ten łatwość
+Klon
+Ulepszenie
+Stuknięcie ten łatwość.
+Degradować
+Klikać ten łatwość.
+
+Poziom:
+Podczas:
+Następny Ulepszenie:
+(1)
+Akceptować Przybywający Położenie.
+Sprawdzać jeżeli ty chcieć ten łatwość using the położenie inny łatwość
+Tylko dla udostępnienie w ten miasteczko.
+Sprawdzać the skutek the klonowanie tylko dla udostępnienie w ten miasteczko
+Tylko dla udostępnienie w ten firma.
+Sprawdzać the skutek the klonowanie tylko dla udostępnienie w ten firma
+Aluzja: Używać pojedynczy stuknięcie łatwość na the mapa. Prawica - klikać QuickWeb opcja.
+Aluzja: Używać pojedynczy stuknięcie łatwość na the mapa. Prawica - klikać QuickWeb opcja.
+Żadny łatwość wybierać
+Żadny łatwość wybierać
+Iść z powrotem twój poprzedzający lokacja na the mapa
+< TYLNY
+Iść naprzód the następny lokacja ty odwiedzać
+NASTĘPNIE >
+Iść the pobliski Urząd Miasta
+IŚĆ URZĄD MIASTA
+Dostawać więcej info o the wybrany budynek (budynek right-click nad the budynek)
+SPRAWDZAĆ
+Wystawiać narzuta mapa narzędzie
+NARZUTA
+ZoomIn
+Zoom wewnątrz
+ZoomOut
+Zoom zoom
+Pokazywać Miasto Strefa narzuta
+MIASTO STREFA
+RotateCW
+Wirować CW
+RotateCCW
+Wirować CCW
+Data
+Zoom w (mały mapa)
++
+Zoom mapa (mały mapa)
+-
+Zamknięty gadka pudełko
+x
+Pokazywać
+Użytkownik Imię
+Pokazywać który użytkownik ty obecnie gonić
+Lista pożytecznie połączenie udostępnienie w the mapa
+Lista pożytecznie połączenie udostępnienie w the mapa
+Klikać the wybrany łatwość the połączenie
+DODAWAĆ
+Klikać łatwość od połączenie
+DEL
+Klikać the połączenie
+IŚĆ
+POŁĄCZENIE
+POŁĄCZENIE
+Udostępnienie który gubić pieniądze pojawiać się ocieniony w czerwień
+Sygnałowy przegrywający udostępnienie
+Aktywny Narzuta:
+Pokazywać the imię który narzuta być obecnie widoczny
+Wybierać the narzuta mapa ty chcieć
+48
+NIKT
+Budynek Strefa
+Miasteczko
+Piękno
+Populacja populacja
+Klasa średnia populacja
+Populacja populacja
+QOL
+Przestępstwo
+Zanieczyszczenie
+BAP
+Spodnie
+Piekarnia
+But
+Owocowy Kulebiak
+Cutlery
+Stołowy Płótno
+Świeży Babeczka
+Szkło
+Talerz
+Mały Samochód
+Telewizja
+Krawat
+Kostium
+Pod Odzież
+Kapelusz
+Skarpeta
+Bielizna
+Scarves
+Rzemienny Spodnie
+Sport Samochód
+MP3 Gracz
+Drukarka
+Kamera wideo
+Hoovers
+DVD Gracz
+Czajnik
+Mikrofala
+Opiekacz
+Kuchenka
+Motorowy Rower
+telefon komórkowy
+Samochodowy Obmycie Zestaw
+Samochód Połysk
+Samochód Lotniczy Freshener
+Puszysty Kostka do gry
+Humvee
+PECET
+Sygnałowy przegrywający udostępnienie
+Udostępnienie który gubić pieniądze przedstawienie cienić w czerwień
+MapOptionsView
+
+
+Przetwarzać Gastronomia
+
+Świeża Żywność usługa
+
+2
+WIDOCZNOŚĆ
+MAPA
+Panel1
+
+
+
+
+
+Widoczność
+
+Mapa
+
+
+Kryjówka Residentials Residentials
+
+Kryjówka W połowie-Grupować Residentials
+
+Kryjówka Residentials Residentials
+
+Kryjówka Biuro
+
+Kryjówka Przechować
+
+Kryjówka Fabryka
+
+Chować wszystko
+
+Pokazywać wszystko
+
+Chować Magazyn
+
+Piękno i Ziemia wartość
+
+Populacja
+
+Jakość Życia
+
+Przestępstwo
+
+Zanieczyszczenie
+
+Bussines Teren
+
+Świeża Żywność
+
+Przetwarzać Jedzenie
+
+Odziewać
+
+Domowy Chwyt
+
+Samochód
+
+Restauracja
+
+Bar
+USŁUGA
+
+OGÓLNY
+
+
+Normalna
+
+
+
+
+
+ZAKOŃCZENIE
+Ustalony Słowo Mądrość
+Słowo Mądrość:
+Odwoływać Transcendencja
+4
+Ministerstwo
+Minister
+
+Budżet
+Przyszły Rok Budżet:
+Ustalony Budżet
+Obalać
+Minister:
+Elekt
+MisionView
+
+Wybierać misja
+
+Kroczyć (1) 3
+
+Zamykać zastosowanie
+x
+
+(1)
+
+2
+
+3
+
+4
+
+Klikać na misja swój wymaganie.
+
+Wystawiać narzuta mapa narzędzie
+Wybierać Misja
+Wystawiać narzuta mapa narzędzie
+Camcel
+
+3
+Melina
+napad na bank
+Droga niszczyć
+Oszustwo
+Terroryzować i Poniżać się
+Niszczyć
+Robery
+Bank Robery
+Sabotaż
+Ten misja wymagać ty budynek na the mapa. Stuknięcie na the "Wybór Cel" guzik i the stuknięcie na the budynek ty chcieć the cel the misja.
+
+Pokaz narzuta mapa narzędzie
+Wybór Cel
+Pokaz narzuta mapa narzędzie
+< TYLNY
+Pokaz narzuta mapa narzędzie
+KONTYNUOWAĆ >
+Planować the misja tutaj. Jak Tylko ty wyznaczać the właściwy rola the członek zaspołu ty być sprawnie the misja.
+
+To być the typowy napad na bank. The drużyna zbierać wszystkie the pieniądze od the kontuar i the klient i the krypta, jeżeli ty wybierać w ten sposób.
+
+Odprawa:
+
+Pokaz narzuta mapa narzędzie
+S T A R T
+Pokaz narzuta mapa narzędzie
+< TYLNY
+2
+Rola
+Umiejętność równy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pokaz narzuta mapa narzędzie
+Zakończenie
+Misja bela:
+
+
+
+
+The Mayor the miasto pozwolić budynek ten typ na ten lokacja. Zadawalać notatka który the strefa ten lokacja (wskazywać kolor) musieć z the strefa typ the łatwość ty zamierzać. Budynek strefa typ pokazywać oprócz th 
+OK
+ODWOŁYWAĆ
+NIEWIADOMY BŁĄD
+Klikać twój wiadomość
+Wysyłać
+Klikać save twój wiadomość
+Save
+Zamykać ten wiadomość
+Zamykać
+:
+Temat:
+TWORZYĆ NOWY KANAŁ
+TWORZYĆ NOWY KANAŁ
+Klikać nowy kanał
+Tworzyć
+Odwoływać
+Wybierać imię dla the nowy kanał:
+Ty móc the kanał z hasło:
+Re-enter the hasło:
+Wchodzić Do kanał imię tutaj
+Wchodzić Do korytkowy hasło tutaj
+Sprawdzać twój hasło tutaj
+Wybierać gra:
+Maksimum gracz pozwolić:
+(0)
+2
+GADKA KANAŁ
+GRA KANAŁ
+NewTeamDlg
+
+Zamknięty okno
+x
+
+Drużynowy Imię:
+
+Pokaz narzuta mapa narzędzie
+Nowy Drużyna
+Pokaz narzuta mapa narzędzie
+Odwoływać
+TWORZYĆ DRUŻYNA
+TWORZYĆ DRUŻYNA
+
+
+BŁĄD!
+
+
+
+
+
+
+
+
+
+
+
+
+
+Opcja
+5
+Grafika
+Dźwięk
+Sieć
+Prywatność
+Dodatek
+&Visible udostępnienie:
+Stuknięcie wszystkie udostępnienie
+&Hide Wszystko
+Stuknięcie wszystkie udostępnienie
+&Show Wszystko
+Używać przezroczystość
+Sprawdzać przejrzysty budynek
+Pokazywać budynek animacja
+Sprawdzać animowany budynek
+Pokazywać samochód
+Sprawdzać samochód
+Pokazywać samolot
+Sprawdzać samolot
+Lista dostępny udostępnienie
+&Transparent narzuta
+Sprawdzać przejrzysty narzuta mapa
+Brzmieć FX Pojemność:
+Regulować mapa dźwięk pojemność tutaj
+50%
+Muzyczny Pojemność:
+Regulować muzyczny pojemność tutaj
+50%
+Playlista:
+Pokazywać lista wybrany tytuł
+Klikać muzyczny kartoteka twój playlista
+Dodawać kartoteka
+Klikać cały falcówka
+Dodawać książka telefoniczna
+Klikać kartoteka od the playlista
+Kasować kartoteka
+Klikać więcej muzyka
+Ściągać więcej muzyka
+Umożliwiać dźwięk
+Klikać mapa dźwięk
+Wysyłać:
+Otrzymywać:
+Suma Wysyłać:
+(0)
+(0)
+(0)
+Avg Tempo:
+(0) bajt/sec
+Suma Otrzymywać:
+(0) bajt/sec
+Tempo:
+(0)
+Utajenie:
+(0)
+Używać Szybki Logon
+Sprawdzać szybki logon
+Ignorować Lista:
+Usuwać od Lista
+Automatycznie Wchodzić Do Kanał na Logon:
+Skierowywać Imię:
+Skierowywać Hasło:
+Save gadka sesja kartoteka
+Save
+Język:
+Stuknięcie język
+Aktywować Język
+Postanowienie
+Częstotliwość
+Stosować
+Właściciel:
+Miasteczko:
+Stuknięcie dla dostawca the wybrany produkt
+REWIZJA >
+Obliczenie:
+Wchodzić Do firma imię rewizja dla dostawca udostępnienie ten firma tylko
+Eksportować Magazyn
+Sprawdzać eksportowy magazyn w the rewizja dla dostawca
+Miarowy Magazyn
+Sprawdzać miarowy magazyn w the rewizja dla dostawca
+Miasto Handlowy Centrum
+Sprawdzać handlowy centrum w the rewizja dla dostawca
+Fabryka
+Sprawdzać fabryka w the rewizja dla dostawca
+5
+Budynek
+Właściciel
+Miasteczko
+Cena
+Ilość
+Wybierać wszystkie znajdować dostawca
+Wybierać Wszystko
+Unselect wszystkie znajdować dostawca
+Unselect Wszystko
+Zakup od wybrany dostawca
+ZAKUP OD WYBRANY
+Zakończenie
+Wchodzić Do grodzki imię rewizja dla dostawca udostępnienie ten firma tylko 
+Wybrany maksimum dostawca ty chcieć dla
+20
+WCHODZIĆ DO HASŁO
+WCHODZIĆ DO HASŁO
+Wchodzić Do Hasło tutaj:
+OK
+Odwoływać
+Ładować twój obrazek od talerzowy kartoteka
+Ładunek
+Zapowiedź twój obrazek
+Zapowiedź
+Wysyłać twój obrazek
+Wysyłać
+Zamykać
+Zbliżać wewnątrz
++
+Zoom zoom
+-
+WYSYŁAĆ TWÓJ OBRAZEK
+WYSYŁAĆ TWÓJ OBRAZEK
+Zapowiedź
+
+
+
+
+2034
+
+35
+
+36
+
+37
+
+38
+
+39
+
+40
+
+41
+
+42
+
+43
+
+44
+
+2045
+
+v1
+
+v1
+
+v1
+
+v1
+
+v1
+
+v1
+
+v1
+
+v1
+
+v1
+
+v1
+
+v1
+
+v1
+
+Mayor:
+n/a
+Urząd Miasta Prestiż:
+Popularny Ocena:
+Potentat:
+Mandat polityczny Nº:
+Rok Wybory:
+n/a
+n/a
+n/a
+n/a
+n/a
+Klikać the polityka strona
+Wizyta Polityka Strona
+QOL:
+100
+%
+Oszacowywać the Mayor
+Czytać Wiadomość
+4
+Klient
+Firma
+Sprzedaż
+T. Koszt
+0%
+Cena:
+0%
+Stuknięcie tutaj twój produkt klient
+Oferta
+Stuknięcie tutaj klient
+Deleatur
+Szybki Logon
+
+Użytkownik Imię:
+
+Hasło:
+
+
+NOTATKA: Jeżeli ty być newcommer (lub twój imię pojawiać się w the lista twój) właśnie prasa Odwoływać i iść przez the Standardowy Logon procedura. Ty móc the Szybki Logon opóźniony od the Opcja Strona.
+
+
+
+OK
+
+Odwoływać
+
+Używać ostatni Hasło
+
+Obezwładniać Szybki Logon w przyszłości
+
+
+
+Imię:
+Właściciel:
+100%
+n/a
+Przestępstwo Opór:
+n/a
+Zanieczyszczenie Opór:
+Ekstra Prywatność:
+n/a
+n/a
+Ekstra Piękno:
+n/a
+Wiek:
+n/a
+Czynsz:
+100%
+Utrzymanie:
+100%
+100%
+Stuknięcie ten budynek
+Zakończenie
+Stuknięcie ten budynek
+Naprawa
+Klikać ten budynek
+Wyburzać
+n/a
+Koszt:
+n/a
+ROI:
+n/a
+
+Imię:
+Właściciel:
+n/a
+Wiek:
+n/a
+Stuknięcie ten łatwość
+Zakończenie
+Klikać thios łatwość
+Wyburzać
+Klikać ten łatwość mapa w the mapa
+Łączyć
+n/a
+Koszt:
+n/a
+ROI:
+n/a
+0%
+Dostawa:
+n/a
+n/a
+Lokalny Żądanie:
+Cena:
+n/a
+
+Klawiaturowy skrót
+Rejestrowy Klawiaturowy skrót
+3
+Opis
+Skrót
+Tekst
+Dodawać…
+Klikać skrót
+Redagować…
+Klikać shorcut
+Deleatur
+Klikać skrót
+Zamykać
+Klikać ten okno
+Pociąg
+
+
+
+
+X:
+
+Y:
+
+_
+
+_
+
+Obliczenie:
+
+_
+
+Kąt:
+
+_
+
+Ostatni Wartość:
+n/a
+Koszt:
+n/a
+7
+Łatwość
+Właściciel
+Cena
+Przepłacony
+Kopyto Szewskie
+Ilość
+T. Koszt
+Minimalny Ilość:
+0%
+0%
+Cena Cena:
+0%
+0%
+Stuknięcie tutaj nowy klient
+Dzierżawienie
+Klikać tutaj the wybrany związek
+Modyfikować
+Rozkazywać ilość
+Zakup Dostawa
+SurfaceViewer
+
+
+
+ROBIĆ ONO!
+
+
+400
+
+400
+
+?. Użytkownik Imię
+Pokazywać twój imię i twój pozycja w the NTA ranking
+$000,000,000
+Pokazywać ile pieniądze ty mieć
+Firma imię
+Pokazywać the imię the aktywny firma
+($0/h)
+Pokazywać godzina ty robić na godzina
+n/a
+Pokazywać the świat aktualny data
+0/0
+Pokazywać the liczba budynek szczelina ty mieć budowa i the sumaryczny liczba budynek szczelina dostępny
+Pokazywać the liczba budynek szczelina ty mieć budowa i the sumaryczny liczba budynek szczelina dostępny
+Wskazywać ty patrzeć the ten sam teren ty
+Ty mieć poczta!
+Wskazywać ty próbować z ty
+Upadłościowy ostrzeżenie
+Wskazywać ty patrzeć the ten sam teren ty
+Żadny nowy poczta
+Wskazywać ty próbować z ty
+Upadłościowy ostrzeżenie
+The sześcian wirować gdy Spadek Online żeglować
+Bagatelizować zastosowanie
+-
+Zamykać zastosowanie
+x
+Ty łączyć the Serwer
+The Serwer być ruchliwie wsparcie
+Łączyć the Serwer 
+Pracownik
+0%
+(0)
+(0)
+100
+100
+0%
+%
+%
+Profesjonalista
+0%
+(0)
+(0)
+100
+100
+0%
+%
+%
+Kierownictwo
+(0)
+100
+100
+0%
+(0)
+0%
+%
+%
+Wakat:
+Średnia Płaca:
+Siła Nabywcza:
+Minimalna Pensja:
+Intymny Wakat:
+Intymny Wakat:
+Depresja Klasa
+(0)
+(0)
+(0)
+%
+%
+Klasa Średnia
+(0)
+(0)
+(0)
+%
+%
+Wysoki Klasa
+(0)
+(0)
+(0)
+%
+%
+Wakat:
+Ilość Wskaźnik:
+Czynszowy Cena:
+Ogólny Wskaźnik:
+(0)
+8
+Imię
+Żądanie
+Oferta
+Pojemność
+Współczynnik
+IFEL Cena
+Avg. Cena
+Ilość
+10
+Imię
+Nadplanowy
+Kupować
+Dźgnięcie. Pojemność
+Zakup Pojemność
+Bubel Cena
+Bubel Q.
+Zakup Cena
+Zakup Q.
+Max. Cena
+3
+Imię
+Wartość
+W zeszłym roku
+Podatek
+Subsydiować
+PercPanel
+0%
+Podatek: 0%
+Wartość:
+Set
+10000000
+Imię:
+0%
+Godzina na powietrze:
+n/a
+Reklama:
+0%
+0%
+Stuknięcie the stacja
+Zakończenie
+Klikać the stacja
+Wyburzać
+0%
+Klikać the stacja udostępnienie w the mapa
+Łączyć
+Twórca:
+n/a
+Wiek:
+n/a
+Koszt:
+n/a
+ROI:
+n/a
+
+Ogólnoludzki Mapa
+3
+Oficjalny Świat
+Turniej Świat
+Gracz Świat
+ Świat znajdować w ten teren:
+Rodzaj obok:
+Wystrzał
+Inwestor
+Rok
+ŚWIST
+Powitanie the Univesal Mapa. Stuknięcie na jakikolwiek świat jakikolwiek rozszerzony informacja.
+Skok the planeta obecnie wybierać
+SKOK
+Odświeżać planeta lista wystawiać wystawiać
+ODŚWIEŻAĆ PLANETA LISTA
+Imię:
+Twórca:
+n/a
+Wiek:
+n/a
+Stuknięcie ten łatwość
+Zakończenie
+Klikać ten łatwość
+Wyburzać
+n/a
+Klikać ten łatwość mapa w the mapa
+Łączyć
+Koszt:
+n/a
+ROI:
+n/a
+
+czekanie
+
+
+
+
+NewInstallation
+
+Aktualizowanie
+
+…
+
+
+
+Spadek Online instalować w the następujący książka telefoniczna:
+
+
+
+Bagatelizować
+
+Rezygnować
+
+Wyszukiwać…
+
+Instalować
+
+C:\Program Files\Oceanus\Legacy Online \
+
+
+Gmeranie dla nowy składnik…
+
+
+Bagatelizować
+
+Rezygnować
+
+Retry
+
+Prgress
+
+Początek
+
+Całkowity postęp:
+
+
+Spadek Online skończony ściąganie the główny składnik. Teraz Spadek Online być pre-ściąganie wizerunek występ. Ty móc kiedykolwiek. 
+
+
+Sztuka Teraz
+
+
+HTMLView
+
+CZEŚĆ!
+CZEŚĆ!
+ULEPSZENIE
+OK
+Odwoływać
+Koszt:
+$25,000,000,000
+Poziom:
+Powiadomienie, Kopia stuknięcie
+Zamknięty okno
+x
+Bagatelizować okno
+-
+CZEŚĆ ŚWIAT!
+CZEŚĆ ŚWIAT!
+…
+Chwyt puszek przez twój mikrofon
+T A L K
+Ostatni mówca:
+Nikt
+4
+Kandydat
+
+Ważny Głosowanie
+Punkt
+Głosowanie
+Spadek Online
+Imię:
+Właściciel:
+n/a
+Koszt:
+n/a
+ROI:
+n/a
+Wiek:
+n/a
+Stuknięcie ten łatwość
+Zakończenie
+Clisk ten łatwość
+Wyburzać
+Klikać ten łatwość mapa w the mapa
+Łączyć
+n/a
+Łączyć ten łatwość wszystkie twój przechować
+Bubel wszystko przechować
+Łączyć ten łatwość wszystkie twój fabryka
+Bubel wszystkie fabryka
+Łączyć ten łatwość wszystkie twój magazyn
+Bubel wszystkie magazyn
+Odłączać ten łatwość od wszystkie twój przechować
+Sprzedawać przechować
+Łączyć ten łatwość wszystkie twój fabryka
+Sprzedawać fabryka
+Łączyć ten łatwość wszystkie twój magazyn
+Sprzedawać magazyn
+Handlować Tryb:
+Handel z:
+3
+Firma Magazyn
+Eksporter
+Importer
+3
+Nikt
+Sojusznik tylko
+Anyone
+Zamknięty zastosowanie
+x
+Bagatelizować zastosowanie
+-
+Pracownik
+(0) ((0))
+50%
+(1) (100%)
+100%
+Profesjonalista
+(0) ((0))
+50%
+5 (100%)
+100%
+Kierownictwo
+(0) ((0))
+50%
+(1) (100%)
+100%
+Aktualny Pracownik
+Siła Robocza Ilość
+Pensja

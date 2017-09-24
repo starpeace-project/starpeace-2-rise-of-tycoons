@@ -1,0 +1,15 @@
+lvLoans.Columns.3=기간
+Label9.Caption=대통령:
+xfer_ActualRuler.Caption=아무도
+Label2.Caption=대중적인 등급:
+Label3.Caption=다이쿤 평가:
+Label4.Caption=위임 Nº:
+Label5.Caption=선거에 년:
+xfer_RulerRating.Caption=아무도
+xfer_TycoonsRating.Caption=아무도
+xfer_CampaignCount.Caption=아무도
+xfer_YearsToElections.Caption=아무도
+btnVisitPolitics.Hint=대통령 정치 페이지를 방문하는 누르기
+btnVisitPolitics.Text=politics Page 방문 대통령
+Label8.Caption=QOL:
+xfer_QOL.Caption=100

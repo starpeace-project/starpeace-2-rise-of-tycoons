@@ -1,0 +1,17 @@
+Target=Ratings
+LangId=0
+Ratings.CampaignAccuracy.Name=Campaign Acomplishment
+Ratings.College.Name=Colleges
+Ratings.Disposal.Name=Garbage Disposal
+Ratings.Fire.Name=Fire Coverage
+Ratings.Health.Name=Health Coverage
+Ratings.Jail.Name=Jails
+Ratings.Museum.Name=Museums
+Ratings.Police.Name=Police Coverage
+Ratings.PopGrowth.Name=City Growth
+Ratings.School.Name=School Coverage
+Ratings.Services.Name=Services and Amusement
+Ratings.Sport.Name=Recreation Facilities
+Ratings.Taxes.Name=Taxes
+Ratings.Unemployment.Name=Employment
+Ratings.Wealth.Name=Economic Wealth

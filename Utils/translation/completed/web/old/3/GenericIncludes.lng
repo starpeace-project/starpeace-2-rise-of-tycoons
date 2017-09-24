@@ -1,0 +1,15 @@
+=
+=
+strGeneralInformation=„Allgemeine Informationen“
+strFacilityKind=„Anlagenart“
+strTown=„Stadt“
+strCluster=„Block“
+strCompany=„Firma“
+strCEO=„CEO“
+strOperation=„Betrieb“
+strWorkforce=„Arbeitskräfte“
+strHighClass=„Erstklassig“
+strWorkers=„Arbeitskräfte“
+strOf=„von“
+strMiddleClass=„Mittelstand“
+strLowClass=„Niedrige Kategorie“

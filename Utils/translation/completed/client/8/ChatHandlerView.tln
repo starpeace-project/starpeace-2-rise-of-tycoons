@@ -1,0 +1,11 @@
+btClose.Text=마지막
+Panel4.Caption=당신의 코멘트를 여기에서 타자를 치십시오:
+NoChannels.Caption=보여줄 것이다 수로 없음
+CreateChannel.Hint=수로를 창조하기 위하여 누르십시오
+CreateChannel.Text=채널을 창조하십시오
+JoinChannel.Hint=수로를 결합하기 위하여 누르십시오
+JoinChannel.Text=채널을 결합하십시오
+LeaveChannel.Hint=수로를 남겨두기 위하여 누르십시오
+LeaveChannel.Text=채널을 남겨두십시오
+Marquee.Caption=Starpeace 잡담에 환영.
+Marquee.Hint=Starpeace 잡담에 환영.

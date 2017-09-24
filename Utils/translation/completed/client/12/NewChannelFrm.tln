@@ -1,0 +1,17 @@
+Label2.Caption=Betvinga:
+Marquee.Caption=SKAPA NYTT KANALISERAR
+Marquee.Hint=SKAPA NYTT KANALISERAR
+btnCreate.Hint=Klicka för att skapa ett nytt kanaliserar
+btnCreate.Text=Skapa
+btnCancel.Text=Avbryt
+Label1.Caption=Välj ett känt för det nytt kanaliserar:
+Label2.Caption=Du kan skydda kanalisera med ett lösenord:
+Label3.Caption=Komma in igen lösenordet:
+ChannelName.Hint=Skriv in kanaliserar känt här
+Password.Hint=Skriv in kanaliserar lösenord här
+PasswordCheck.Hint=Kontrollera ditt lösenord här
+Label4.Caption=Välj en lek:
+Label5.Caption=Maximum av tillåtna spelare:
+Edit1.Text=0
+Tabs.TabNames=2
+Tabs.TabNames.0=PRATSTUND KANALISERAR

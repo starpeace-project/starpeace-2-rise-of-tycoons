@@ -1,0 +1,9 @@
+btnConnect.Text=SAUTER AU MONDE
+ChatLine.Lines=1
+ChatLine.Lines.0=Entrer dans le texte de causerie ici…
+btnConnect.Hint=Appeler un maître de jeu
+btnConnect.Text=APPELER LE MAÎTRE DE JEU
+btGMOptions.Hint=Présenter les options
+btGMOptions.Text=OPTIONS
+btClose.Text=FIN
+Label8.Caption=Parler au GM :

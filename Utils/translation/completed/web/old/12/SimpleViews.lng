@@ -1,0 +1,8 @@
+=
+=
+strOperatingNormally=”Fungera normalt”,
+strStopped=”Stoppat av ägaren”,
+strOperationTrouble=”Funktionen besvärar”,
+strNotBeingReceived=”En nödvändig tillförsel (eller mer) inte mottas”,
+strNotEnoughMoney=”Inte nog pengar som ska fungeras”,
+strNotEnoughSupplies=”Inte nog tillförsel”,

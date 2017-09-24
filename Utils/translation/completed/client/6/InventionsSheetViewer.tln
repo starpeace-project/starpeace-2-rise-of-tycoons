@@ -1,0 +1,12 @@
+eTown.Hint=Ga de naam hier van een stad in om het onderzoek naar cliënten tot dergelijke stad te beperken
+ftInveKind.TabNames=3
+ftInveKind.TabNames.0=BESCHIKBAAR
+ftInveKind.TabNames.1=Het ONDERZOEKEN
+ftInveKind.TabNames.2=ONTWIKKELD
+btnResearch.Hint=Klik hier om het onderzoek te beginnen
+btnResearch.Text=Onderzoek
+btnStop.Hint=Klik hier om het onderzoek tegen te houden
+btnStop.Text=Einde
+btnSell.Hint=Klik hier om het onderzoek te verkopen
+btnSell.Text=Verkoop
+btnClose.Text=Sluit

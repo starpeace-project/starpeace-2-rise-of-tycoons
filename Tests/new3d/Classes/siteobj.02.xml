@@ -1,0 +1,23 @@
+<classes>
+	<class id="siteobj.02">
+		<inherits>
+		</inherits>
+		<name lang="0">
+                        Class name
+                </name>
+		<desc lang="0">
+                        Class description
+                </desc>
+		<attributes/>
+		<media>
+			<sounds>
+			</sounds>
+			<models>
+				<model lod="100.000000" href="siteobj.02-100.iModel" type="iModel"/></models>
+			<icons>
+			</icons>
+		</media>
+		<actions>
+		</actions>
+	</class>
+</classes>

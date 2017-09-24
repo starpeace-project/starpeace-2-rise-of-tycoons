@@ -1,0 +1,12 @@
+=
+btnOK.Text=好
+Label1.Caption=名字：
+Label2.Caption=公司：
+overPay.Caption=过多报酬：
+btnClose.Text=x
+FramedButton1.Hint=
+FramedButton1.Text=取消
+btnDelete1.Text=删除
+peOverPay.Hint=0%
+OverPayPerc.Caption=0%
+facName.Caption=n/a

@@ -1,0 +1,342 @@
+unit worldlogon;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs,RDOInterfaces, MarqueeCtrl,RDOObjectProxy,WinSockRDOConnection,
+  StdCtrls, jpeg, ExtCtrls, ComCtrls, ImgList,StrUtils,logs,VisualControls, protocol,
+  VoyagerInterfaces, VoyagerServerInterfaces, Config, PDTabControl, Grids,
+  ValEdit, FramedButton, GIFImg;
+
+type
+
+  Tworldlogon = class(TVisualControl)
+    Notebook1: TNotebook;
+    Label1: TLabel;
+    Image1: TImage;
+    Image2: TImage;
+    Label2: TLabel;
+    Memo1: TMemo;
+    Label3: TLabel;
+    Memo2: TMemo;
+    Image3: TImage;
+    Label4: TLabel;
+    companylist: TListView;
+    companyimage: TImageList;
+    Label5: TLabel;
+    Label6: TLabel;
+    clusn: TPDTabControl;
+    Panel1: TPanel;
+    Panel2: TPanel;
+    Panel3: TPanel;
+    Panel4: TPanel;
+    Image4: TImage;
+    Label7: TLabel;
+    clusi: TImageList;
+    Image5: TImage;
+    lab7: TValueListEditor;
+    Edit1: TEdit;
+    FramedButton1: TFramedButton;
+    Label8: TLabel;
+    comperror: TLabel;
+    Label9: TLabel;
+    fb2: TFramedButton;
+    FramedButton2: TFramedButton;
+    Image6: TImage;
+    Image7: TImage;
+    procedure Image1Click(Sender: TObject);
+    procedure Image2Click(Sender: TObject);
+    procedure companylistClick(Sender: TObject);
+    procedure clusnTabChange(Sender: TObject);
+    procedure FramedButton1Click(Sender: TObject);
+    procedure FramedButton2Click(Sender: TObject);
+  private
+    { Private declarations }
+    fISCnx              : IRDOConnectionInit;
+    fWSISCnx            : TWinSockRDOConnection;
+    fClientView       : IClientView;
+    fMasterURLHandler : IMasterURLHandler;
+  private
+    procedure SetMasterURLHandler( aMasterURLHandler : IMasterURLHandler );
+  
+  public
+    fCache            : string ;
+    UserName: string;
+    Password: string;
+    WorldName: string;
+    Area: string;
+    ISAddr: string;
+    ISPort: string;
+    DSAddr: string;
+    DSPort: string;
+    clientviewid:string;
+    ResultType: string;
+    
+    fISProxy            : OleVariant;
+  companycount : integer;
+  private
+    fcompname : array[0..100] of string;
+    fcomprole : array[0..100] of string;
+    fcompid : array[0..100] of integer;
+    fcompcluster : array[0..100] of string;
+  public
+    { Public declarations }
+    property ClientView       : IClientView       write fClientView;
+    property MasterURLHandler : IMasterURLHandler write SetMasterURLHandler;
+    property Cache            : string            write fCache;
+  published
+    function login: olevariant;
+    function setpage(theint:integer): olevariant;
+  protected
+        procedure SetParent(which : TWinControl);  override;
+  end;
+
+const
+  compl  : array  [0..4] of string = ('Dissident','PGI','Mariko','Moab','Magna');
+  //var
+  //wlog: Tworldlogon;
+
+implementation
+
+{$R *.dfm}
+  uses
+    Threads, ServerCnxEvents, Literals, ClientMLS, Events, VCLUtils, CoolSB, ServerCnxHandler;
+
+
+function Tworldlogon.login: olevariant;
+var
+  i : integer;
+  canplay: boolean;
+begin
+//log into the world, check status, show companies or visa
+Notebook1.ActivePage:='logon';
+//logs.log('wlogin','start');
+                    
+//start code
+if fclientview = nil then logs.log('wlogin','no fclientview - ' );
+
+
+case AnsiIndexText(ResultType,['NORMAL','NEWACCOUNT','ERROR']) of
+  0:
+    begin
+     // fISProxy.BindTo( strtoint(clientviewid) );
+      //logs.log('wlogin','normal');
+      companylist.Items.Clear;
+      companylist.ViewStyle := vsIcon;
+      //logs.log('wlogin','clear');
+      companycount := fClientView.GetCompanyCount;
+      //logs.log('wlogin','c count ' + inttostr(companycount));
+      for i  := 0 to companycount - 1 do
+        with companylist.Items.add do
+          begin
+            //logs.log('wlogin','cadd' + fClientView.GetCompanyName2(i));
+            caption := fClientView.GetCompanyName2(i);    //   efcompname   efcomprole  efcompid
+            fcompname[i] :=fClientView.GetCompanyName2(i);
+            fcomprole[i] :=fClientView.GetCompanyOwnerRole(i);
+            fcompid[i]:=fClientView.GetCompanyId2(i);
+            fcompcluster[i] := fClientView.GetCompanyCluster(i);
+            case AnsiIndexText(fcompcluster[i],['pgi','dissidents','mariko','moab','magna']) of
+               0:  ImageIndex:=0;
+               1:  ImageIndex:=1;
+               2:  ImageIndex:=2;
+               3:  ImageIndex:=3;
+               4:  ImageIndex:=4;
+            else ImageIndex:=0;
+            {  := efcompname;
+             :=efcomprole;
+             :=efcompid;}
+            end;
+          end;
+
+      //logs.log('wlogin','show');
+      Notebook1.ActivePage:='sc';
+
+    end;
+
+  1:
+    begin
+     fWSISCnx      := TWinSockRDOConnection.Create('Interface Server');
+                    //logs.log('wlogin','connection1');
+                    fISCnx        := fWSISCnx;
+                    //logs.log('wlogin','connection1.1');
+                    fISCnx.Server := ISAddr;
+                    //logs.log('wlogin','connection1.2 ' + isport + ' - ' + isaddr);
+                    fISCnx.Port   := strtoint(ISPort);
+                    //logs.log('wlogin','connection2');
+                    fISProxy      := TRDOObjectProxy.Create as IDispatch;
+                    //logs.log('wlogin','connection3');
+                    try
+                      if fISCnx.Connect( 20000 )
+                        then
+                          begin
+                            fISProxy.SetConnection( fISCnx );
+                            //logs.log('wlogin','connection4');
+                            //fISProxy.BindTo( strtoint(clientviewid) );
+       fISProxy.BindTo( 'InterfaceServer' );
+       canplay:=false;
+       i:= fISProxy.CanJoinWorldEx(username);
+       if i=0 then canplay:=true;
+       if canplay then
+        begin
+        //show tycoon and rmove error
+          image2.Visible:=true;
+          label5.Visible:=false;
+        end
+       else
+        begin
+        //remove tycoon, and sho error
+          image2.Visible:=false;
+          label5.Visible:=true;
+        end;
+       Notebook1.ActivePage:='visa';
+       fISCnx   := nil;
+       fISProxy := Unassigned; 
+
+    end;
+      except
+                      fISCnx   := nil;
+                      fISProxy := Unassigned;
+      end;
+     end
+  else
+    begin
+
+    end;
+end;
+//end code
+                         
+                    
+//end
+result:='done';
+end;
+
+procedure Tworldlogon.clusnTabChange(Sender: TObject);
+begin
+  //clusn.CurrentTab:=0;
+    label7.Caption:=lab7.Cells[1,clusn.CurrentTab+1];
+    label7.Transparent := true;
+    fb2.Text:=lab7.Cells[1,clusn.CurrentTab+1];
+    //clusi.GetBitmap(clusn.CurrentTab,image5.Picture.Bitmap);
+    //load image from file
+    image5.Picture.LoadFromFile(ExtractFilePath( paramstr(0) ) + 'Cache\OtherImages\' + compl[clusn.CurrentTab] + '-cp.jpg');
+end;
+
+procedure Tworldlogon.companylistClick(Sender: TObject);
+ var
+    url,x9: string;
+    i: integer;
+
+begin
+  //go to world with that compnay and close isproxy
+  i:=companylist.ItemIndex;
+  //logs.log('wlogin','click - '+ inttostr(i));
+
+  //logs.log('wlogin','click3 - '+ fcompname[i]);
+  url:= '?frame_Action=SetCompany&frame_Id=CnxHandler&cluster=' + fcompcluster[i] + '&listid=' + inttostr(i) + '&Name=' + fcompname[i] + '&OwnerRole=' + fcomprole[i] + '&Id=' + inttostr(fcompid[i]);
+  //logs.log('wlogin','click2 - '  + '   ' + fcomprole[i]);
+  fMasterURLHandler.HandleURL(url);
+  x9:= '' ;
+  //fMasterURLHandler.HandleEvent( evnChannelChanged, x9 );
+  fISProxy := Unassigned;
+end;
+
+procedure Tworldlogon.FramedButton1Click(Sender: TObject);
+var
+  x2: string;
+  ErrorCode : TErrorCode;
+  p: pchar;
+  url:string;
+begin
+  //check if name = '', then send new company command, if result =numerical then error else goto company
+  if edit1.Text <> '' then
+    begin
+      //x2.Create('',0);
+      x2:= fClientView.NewCompany2( edit1.Text, compl[clusn.CurrentTab],ErrorCode );
+      //p:=pchar(string(x2));
+      //logs.log('tshow', inttostr(errorcode) + ' - ' + compl[clusn.CurrentTab] + ' - ' + edit1.Text + ' -x2 ' + x2);
+      if x2<> '' then
+        begin
+          //company created, goto company, kill proxy
+          url:= '?frame_Action=SetCompany&frame_Id=CnxHandler&Name=' + edit1.Text +'&cluster=' + compl[clusn.CurrentTab] + '&listid=' + inttostr(companylist.Items.Count) + '&Id=' + inttostr(ErrorCode);
+          //logs.log('tshow',url);
+          fMasterURLHandler.HandleURL(url);
+          end
+      else
+        begin
+          //error, show error info
+          comperror.Caption:= 'an error occured' + inttostr(ErrorCode) + ' - ' + clusn.TabNames.ValueFromIndex[clusn.CurrentTab];
+        end;  
+    end;
+end;
+
+procedure Tworldlogon.FramedButton2Click(Sender: TObject);
+begin
+   clusn.CurrentTab:=0;
+    label7.Caption:=lab7.Cells[1,0];
+    label7.Transparent := true;
+    image5.Picture.LoadFromFile(ExtractFilePath( paramstr(0) ) + 'Cache\OtherImages\' + compl[clusn.CurrentTab] + '-cp.jpg');
+    //clusi.GetBitmap(0,image5.Picture.Bitmap);
+    label7.Caption:=lab7.Cells[1,clusn.CurrentTab+1];
+    Notebook1.ActivePage:='nc';
+end;
+
+procedure Tworldlogon.Image1Click(Sender: TObject);
+begin
+//join world on visitor visa
+    fMasterURLHandler.HandleURL('?frame_Action=SetCompany&frame_Id=CnxHandler&Name=[VISITOR VISA]&Id=0&cluster=none&listid=0');
+
+end;
+
+procedure Tworldlogon.Image2Click(Sender: TObject);
+begin
+// set up new company on this world
+    //select dissident on tab, show dissident stuff
+    clusn.CurrentTab:=0;
+    label7.Caption:=lab7.Cells[1,0];
+    image5.Picture.LoadFromFile(ExtractFilePath( paramstr(0) ) + 'Cache\OtherImages\' + compl[clusn.CurrentTab] + '-cp.jpg');
+    //clusi.GetBitmap(0,image5.Picture.Bitmap);
+    label7.Caption:=lab7.Cells[1,clusn.CurrentTab+1];
+    Notebook1.ActivePage:='nc';
+end;
+
+function Tworldlogon.setpage(theint:integer): olevariant;
+begin
+  Notebook1.PageIndex:=theint;
+  result:='done';
+end;
+
+  procedure Tworldlogon.SetMasterURLHandler( aMasterURLHandler : IMasterURLHandler );
+    var
+      CachePath : string;
+    begin
+      fMasterURLHandler := aMasterURLHandler;
+      //fMasterURLHandler.HandleEvent( evnAnswerConfigHolder, fConfigHolder );
+     // fMasterURLHandler.HandleEvent( evnAnswerPrivateCache, CachePath );
+     // fLangList := TStringList.Create;
+     // try
+     //   fLangList.LoadFromFile( CachePath + 'lang.dat' );
+     // except
+     // end;
+    end;
+
+   procedure Tworldlogon.SetParent(which: TWinControl);
+  begin
+    inherited;
+    //logs.log('wlogin','setparent');
+    {if which<>nil
+      then
+        begin
+          RulesTicker.Visible := false;
+          if InitSkinImage
+            then
+              begin
+                InitializeCoolSB(WorldList.Handle);
+                if hThemeLib <> 0
+                  then
+                    SetWindowTheme(WorldList.Handle, ' ', ' ');
+                CoolSBEnableBar(WorldList.Handle, false, true);
+              end;
+        end;  }
+  end;
+end.

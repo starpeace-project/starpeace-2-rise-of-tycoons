@@ -1,0 +1,17 @@
+﻿PublicFacilities.Sport.Name=Facilidades da recreação
+Target=Avaliações
+LangId=10
+Ratings.CampaignAccuracy.Name=Realização da campanha
+Ratings.College.Name=Faculdades
+Ratings.Disposal.Name=Triturador
+Ratings.Fire.Name=Cobertura do fogo
+Ratings.Health.Name=Cobertura de saúde
+Ratings.Jail.Name=Cadeias
+Ratings.Museum.Name=Museus
+Ratings.Police.Name=Cobertura da polícia
+Ratings.PopGrowth.Name=Crescimento da cidade
+Ratings.School.Name=Cobertura da escola
+Ratings.Services.Name=Serviços e divertimento
+Ratings.Sport.Name=Facilidades da recreação
+Ratings.Taxes.Name=Impostos
+Ratings.Unemployment.Name=Emprego

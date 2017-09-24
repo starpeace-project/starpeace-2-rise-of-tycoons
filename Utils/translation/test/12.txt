@@ -1,0 +1,18 @@
+SYSTEM
+%s har skrivit in %s
+%s har lämnat %s.
+Kanalisera ”%s” som skapas av %s. 
+användare
+användare
+och
+Du behöver ett lösenord att skriva in detta kanaliserar.
+Det finns inte någon information som är tillhörande till denna, anmärker.
+Serveror är upptagna att skapa reserv sparar. Behaga väntan.
+Reserv till den avslutade disken.
+BREVBÄRAREN
+Du har att posta från %s (%s).
+skrivna in %s kanaliserar %s.
+%s skriven in lobby.
+lämnade %s kanaliserar %s.
+%s lämnad lobby.
+Den ska serveren går besegrar för underhåll i %d noterar. Förväntad tid beräknad för att vara aprox. %d noterar.

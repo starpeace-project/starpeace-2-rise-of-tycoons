@@ -1,0 +1,17 @@
+﻿WorldProjects.Wealth.Name=Ekonomisk rikedom
+Target=WorldRatings
+LangId=12
+WorldRatings.CampaignAccuracy.Name=Aktionprestation
+WorldRatings.College.Name=Högskolar
+WorldRatings.Disposal.Name=Avskrädeförfogande
+WorldRatings.Fire.Name=Avfyra täckning
+WorldRatings.Health.Name=Vård- täckning
+WorldRatings.Jail.Name=Arrester
+WorldRatings.Museum.Name=Museer
+WorldRatings.Police.Name=Polistäckning
+WorldRatings.PopGrowth.Name=Stadstillväxt
+WorldRatings.School.Name=Skola täckning
+WorldRatings.Services.Name=Servar och munterhet
+WorldRatings.Sport.Name=Rekreationlättheter
+WorldRatings.Taxes.Name=Skatter
+WorldRatings.Unemployment.Name=Anställning

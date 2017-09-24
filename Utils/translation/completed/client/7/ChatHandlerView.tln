@@ -1,0 +1,11 @@
+btClose.Text=終わり
+Panel4.Caption=あなたのコメントをここにタイプしなさい:
+NoChannels.Caption=示すべきチャネル無し
+CreateChannel.Hint=チャネルを作成するためにかちりと鳴らしなさい
+CreateChannel.Text=チャネルを作成しなさい
+JoinChannel.Hint=チャネルを結合するためにかちりと鳴らしなさい
+JoinChannel.Text=チャネルを結合しなさい
+LeaveChannel.Hint=チャネルを残すためにかちりと鳴らしなさい
+LeaveChannel.Text=チャネルを残しなさい
+Marquee.Caption=Starpeaceの雑談への歓迎。
+Marquee.Hint=Starpeaceの雑談への歓迎。

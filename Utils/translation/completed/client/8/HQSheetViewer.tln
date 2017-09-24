@@ -1,0 +1,16 @@
+HintText.Hint=역사
+Label1.Caption=이름:
+Label2.Caption=창조자:
+xfer_Creator.Caption=n/a
+Label6.Caption=나이:
+xfer_MetaFacilityName.Caption=n/a
+btnClose.Hint=이 시설을 닫는 누르기
+btnClose.Text=마지막
+btnDemolish.Hint=이 시설을 폭파하기 위하여 누르십시오
+btnDemolish.Text=폭파하십시오
+NameLabel.Caption=n/a
+btnConnect.Hint=지도에서 다른 사람에 이 시설을 연결하기 위하여 누르십시오
+btnConnect.Text=연결하십시오
+Label8.Caption=비용:
+lbCost.Caption=n/a
+Label9.Caption=ROI:

@@ -1,0 +1,12 @@
+lvProducts.Columns.9=Максимальное цена
+lvTaxes.Columns=3
+lvTaxes.Columns.0=Имя
+lvTaxes.Columns.1=Значение
+lvTaxes.Columns.2=В прошлом году
+rbTax.Caption=Тягло
+rbSubsidize.Caption=Субсидируйте
+PercPanel.Caption=PercPanel
+pbTax.Hint=0%
+lbTax.Caption=Тягло: 0%
+Label1.Caption=Значение:
+fbSet.Text=Комплект

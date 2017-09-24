@@ -1,0 +1,7 @@
+SkillBar4.Hint=
+Label1.Caption=Описание
+Label1.Hint=Впишите описание кратчайшего пути здесь
+Label2.Caption=Кратчайший путь
+Label2.Hint=Выберите кратчайший путь
+Label3.Caption=Текст
+Button1.Caption=Добавьте

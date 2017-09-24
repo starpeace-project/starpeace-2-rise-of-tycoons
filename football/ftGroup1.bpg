@@ -1,0 +1,29 @@
+#------------------------------------------------------------------------------
+VERSION = BWS.01
+#------------------------------------------------------------------------------
+!ifndef ROOT
+ROOT = $(MAKEDIR)\..
+!endif
+#------------------------------------------------------------------------------
+MAKE = $(ROOT)\bin\make.exe -$(MAKEFLAGS) -f$**
+DCC = $(ROOT)\bin\dcc32.exe $**
+BRCC = $(ROOT)\bin\brcc32.exe $**
+#------------------------------------------------------------------------------
+PROJECTS = football.exe ftserver.exe ib.mdx FIVEVoyager.free.exe
+#------------------------------------------------------------------------------
+default: $(PROJECTS)
+#------------------------------------------------------------------------------
+
+football.exe: client\football.dpr
+  $(DCC)
+
+ftserver.exe: server\ftserver.dpr
+  $(DCC)
+
+ib.mdx: ..\Model Extensions\Ib\ib.dpr
+  $(DCC)
+
+FIVEVoyager.free.exe: ..\freeVoyager\FIVEVoyager.dpr
+  $(DCC)
+
+

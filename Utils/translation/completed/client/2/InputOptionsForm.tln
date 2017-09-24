@@ -1,0 +1,12 @@
+=
+btnOK.Text=OK
+Label1.Caption=Nom :
+Label2.Caption=Compagnie :
+overPay.Caption=Paiement excessif :
+btnClose.Text=X
+FramedButton1.Hint=
+FramedButton1.Text=Annulation
+btnDelete1.Text=Suppression
+peOverPay.Hint=0%
+OverPayPerc.Caption=0%
+facName.Caption=Non-déterminé

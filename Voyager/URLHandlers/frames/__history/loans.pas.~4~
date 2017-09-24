@@ -1,0 +1,46 @@
+unit loans;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms, 
+  Dialogs, FramedButton, StdCtrls, ExtCtrls,VoyagerInterfaces;
+
+type
+  TFrame2 = class(TFrame)
+    Panel1: TPanel;
+    bname: TLabel;
+    bdate: TLabel;
+    bamount: TLabel;
+    brate: TLabel;
+    bterm: TLabel;
+    bnext: TLabel;
+    brepay: TFramedButton;
+  private
+    fMasterURLHandler : IMasterURLHandler;
+    procedure SetMasterURLHandler( aMasterURLHandler : IMasterURLHandler );
+  public
+    bid:integer;
+    property MasterURLHandler : IMasterURLHandler write SetMasterURLHandler;
+  end;
+ var
+  Frame2: Tframe2;
+implementation
+
+{$R *.dfm}
+
+
+procedure TFrame2.SetMasterURLHandler( aMasterURLHandler : IMasterURLHandler );
+    var
+      CachePath : string;
+    begin
+      fMasterURLHandler := aMasterURLHandler;
+      //fMasterURLHandler.HandleEvent( evnAnswerConfigHolder, fConfigHolder );
+     // fMasterURLHandler.HandleEvent( evnAnswerPrivateCache, CachePath );
+     // fLangList := TStringList.Create;
+     // try
+     //   fLangList.LoadFromFile( CachePath + 'lang.dat' );
+     // except
+     // end;
+    end;
+end.

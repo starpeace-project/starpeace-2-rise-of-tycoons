@@ -1,0 +1,11 @@
+Button2.Caption=Avbryt
+Label1.Caption=Titel:
+btnLaunch.Text=Barkass
+NameLabel.Caption=n/a
+Label2.Caption=Time:
+Label3.Caption=Budget:
+btnCancelFilm.Text=Annullering
+btnReleaseFilm.Text=Frigörare
+xfer_FilmBudget.Text=$10.000.000
+cbAutoRelease.Caption=Auto frigörare
+xfer_FilmTime.Text=12

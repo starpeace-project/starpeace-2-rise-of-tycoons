@@ -1,0 +1,16 @@
+HintText.Hint=HISTORIA
+Label1.Caption=Nombre:
+Label2.Caption=Creador:
+xfer_Creator.Caption=n/a
+Label6.Caption=Edad:
+xfer_MetaFacilityName.Caption=n/a
+btnClose.Hint=Tecleo para cerrar esta facilidad
+btnClose.Text=Cierre
+btnDemolish.Hint=Chascar para demoler esta facilidad
+btnDemolish.Text=Demoler
+NameLabel.Caption=n/a
+btnConnect.Hint=Chascar para conectar esta facilidad con otras en el mapa
+btnConnect.Text=Conectar
+Label8.Caption=Coste:
+lbCost.Caption=n/a
+Label9.Caption=ROI:
