@@ -1,17 +1,18 @@
-﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <ProjectGuid>{8eb8add7-cbb4-4381-8888-a8728b7e4d5e}</ProjectGuid>
     <MainSource>FIVEInterfaceServer.dpr</MainSource>
     <Configuration Condition=" '$(Configuration)' == '' ">Release</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <DCC_DCCCompiler>DCC32</DCC_DCCCompiler>
-    <DCC_DependencyCheckOutputName>..\..\Servers\FIVEInterfaceServer.exe</DCC_DependencyCheckOutputName>
+    <DCC_DependencyCheckOutputName>..\..\..\Release\Servers\FIVEInterfaceServer.exe</DCC_DependencyCheckOutputName>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <Version>7.0</Version>
     <DCC_WriteableConstants>True</DCC_WriteableConstants>
     <DCC_SymbolReferenceInfo>0</DCC_SymbolReferenceInfo>
-    <DCC_ExeOutput>C:\starpeace\Servers</DCC_ExeOutput>
+    <DCC_ExeOutput>C:\Repo\SP2\Release\Servers</DCC_ExeOutput>
     <DCC_UnitSearchPath>$(DELPHI)\Source\Win32\vcl;$(DELPHI)\Source\Win32\rtl\common;$(DELPHI)\Source\Win32\rtl\win;..\Kernel;..\StdBlocks;..\Class Storage;..\Cache;..\RDO\Common;..\RDO\Server;..\Utils\Network;..\RDO\Client;..\Persistence;..\Utils\Vcl;..\Utils\Misc;..\Surfaces;..\Mail;..\Utils\Serial;..\DServer</DCC_UnitSearchPath>
     <DCC_ResourcePath>$(DELPHI)\Source\Win32\vcl;$(DELPHI)\Source\Win32\rtl\common;$(DELPHI)\Source\Win32\rtl\win;..\Kernel;..\StdBlocks;..\Class Storage;..\Cache;..\RDO\Common;..\RDO\Server;..\Utils\Network;..\RDO\Client;..\Persistence;..\Utils\Vcl;..\Utils\Misc;..\Surfaces;..\Mail;..\Utils\Serial;..\DServer</DCC_ResourcePath>
     <DCC_ObjPath>$(DELPHI)\Source\Win32\vcl;$(DELPHI)\Source\Win32\rtl\common;$(DELPHI)\Source\Win32\rtl\win;..\Kernel;..\StdBlocks;..\Class Storage;..\Cache;..\RDO\Common;..\RDO\Server;..\Utils\Network;..\RDO\Client;..\Persistence;..\Utils\Vcl;..\Utils\Misc;..\Surfaces;..\Mail;..\Utils\Serial;..\DServer</DCC_ObjPath>

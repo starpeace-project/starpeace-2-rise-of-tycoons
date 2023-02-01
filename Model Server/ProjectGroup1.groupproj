@@ -1,0 +1,104 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{388fbf1f-03c0-40a4-875b-6ecd6ab7e3ea}</ProjectGuid>
+  </PropertyGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Projects Include="..\Model Extensions\Dissidents\DissidentPack1.dproj" />
+    <Projects Include="..\Model Extensions\General\GeneralPack1.dproj" />
+    <Projects Include="..\Model Extensions\Ib\ib.dproj" />
+    <Projects Include="..\Model Extensions\Magna\MagnaPack1.dproj" />
+    <Projects Include="..\Model Extensions\Mariko\MarikoPack1.dproj" />
+    <Projects Include="..\Model Extensions\Moab\MoabPack1.dproj" />
+    <Projects Include="..\Model Extensions\PGI\PGIPack1.dproj" />
+    <Projects Include="FIVEModelServer.dproj" />
+  </ItemGroup>
+  <ProjectExtensions>
+    <Borland.Personality>Default.Personality</Borland.Personality>
+    <Borland.ProjectType />
+    <BorlandProject>
+  <BorlandProject xmlns=""> <Default.Personality> </Default.Personality> </BorlandProject></BorlandProject>
+  </ProjectExtensions>
+  <Target Name="FIVEModelServer">
+    <MSBuild Projects="FIVEModelServer.dproj" Targets="" />
+  </Target>
+  <Target Name="FIVEModelServer:Clean">
+    <MSBuild Projects="FIVEModelServer.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="FIVEModelServer:Make">
+    <MSBuild Projects="FIVEModelServer.dproj" Targets="Make" />
+  </Target>
+  <Target Name="DissidentPack1">
+    <MSBuild Projects="..\Model Extensions\Dissidents\DissidentPack1.dproj" Targets="" />
+  </Target>
+  <Target Name="DissidentPack1:Clean">
+    <MSBuild Projects="..\Model Extensions\Dissidents\DissidentPack1.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="DissidentPack1:Make">
+    <MSBuild Projects="..\Model Extensions\Dissidents\DissidentPack1.dproj" Targets="Make" />
+  </Target>
+  <Target Name="GeneralPack1">
+    <MSBuild Projects="..\Model Extensions\General\GeneralPack1.dproj" Targets="" />
+  </Target>
+  <Target Name="GeneralPack1:Clean">
+    <MSBuild Projects="..\Model Extensions\General\GeneralPack1.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="GeneralPack1:Make">
+    <MSBuild Projects="..\Model Extensions\General\GeneralPack1.dproj" Targets="Make" />
+  </Target>
+  <Target Name="MagnaPack1">
+    <MSBuild Projects="..\Model Extensions\Magna\MagnaPack1.dproj" Targets="" />
+  </Target>
+  <Target Name="MagnaPack1:Clean">
+    <MSBuild Projects="..\Model Extensions\Magna\MagnaPack1.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="MagnaPack1:Make">
+    <MSBuild Projects="..\Model Extensions\Magna\MagnaPack1.dproj" Targets="Make" />
+  </Target>
+  <Target Name="MarikoPack1">
+    <MSBuild Projects="..\Model Extensions\Mariko\MarikoPack1.dproj" Targets="" />
+  </Target>
+  <Target Name="MarikoPack1:Clean">
+    <MSBuild Projects="..\Model Extensions\Mariko\MarikoPack1.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="MarikoPack1:Make">
+    <MSBuild Projects="..\Model Extensions\Mariko\MarikoPack1.dproj" Targets="Make" />
+  </Target>
+  <Target Name="MoabPack1">
+    <MSBuild Projects="..\Model Extensions\Moab\MoabPack1.dproj" Targets="" />
+  </Target>
+  <Target Name="MoabPack1:Clean">
+    <MSBuild Projects="..\Model Extensions\Moab\MoabPack1.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="MoabPack1:Make">
+    <MSBuild Projects="..\Model Extensions\Moab\MoabPack1.dproj" Targets="Make" />
+  </Target>
+  <Target Name="PGIPack1">
+    <MSBuild Projects="..\Model Extensions\PGI\PGIPack1.dproj" Targets="" />
+  </Target>
+  <Target Name="PGIPack1:Clean">
+    <MSBuild Projects="..\Model Extensions\PGI\PGIPack1.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="PGIPack1:Make">
+    <MSBuild Projects="..\Model Extensions\PGI\PGIPack1.dproj" Targets="Make" />
+  </Target>
+  <Target Name="ib">
+    <MSBuild Projects="..\Model Extensions\Ib\ib.dproj" Targets="" />
+  </Target>
+  <Target Name="ib:Clean">
+    <MSBuild Projects="..\Model Extensions\Ib\ib.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="ib:Make">
+    <MSBuild Projects="..\Model Extensions\Ib\ib.dproj" Targets="Make" />
+  </Target>
+  <Target Name="Build">
+    <CallTarget Targets="FIVEModelServer;DissidentPack1;GeneralPack1;MagnaPack1;MarikoPack1;MoabPack1;PGIPack1;ib" />
+  </Target>
+  <Target Name="Clean">
+    <CallTarget Targets="FIVEModelServer:Clean;DissidentPack1:Clean;GeneralPack1:Clean;MagnaPack1:Clean;MarikoPack1:Clean;MoabPack1:Clean;PGIPack1:Clean;ib:Clean" />
+  </Target>
+  <Target Name="Make">
+    <CallTarget Targets="FIVEModelServer:Make;DissidentPack1:Make;GeneralPack1:Make;MagnaPack1:Make;MarikoPack1:Make;MoabPack1:Make;PGIPack1:Make;ib:Make" />
+  </Target>
+  <Import Condition="Exists('$(MSBuildBinPath)\Borland.Group.Targets')" Project="$(MSBuildBinPath)\Borland.Group.Targets" />
+</Project>

@@ -1,0 +1,54 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{3150f358-30d7-4746-b12f-7b6f6bfb7231}</ProjectGuid>
+  </PropertyGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Projects Include="..\Cache Server\FIVECacheServer.dproj" />
+    <Projects Include="..\Mail Server\FIVEMailServer.dproj" />
+    <Projects Include="..\News Server\FIVENewsServer.dproj" />
+  </ItemGroup>
+  <ProjectExtensions>
+    <Borland.Personality>Default.Personality</Borland.Personality>
+    <Borland.ProjectType />
+    <BorlandProject>
+  <BorlandProject xmlns=""> <Default.Personality> </Default.Personality> </BorlandProject></BorlandProject>
+  </ProjectExtensions>
+  <Target Name="FIVECacheServer">
+    <MSBuild Projects="..\Cache Server\FIVECacheServer.dproj" Targets="" />
+  </Target>
+  <Target Name="FIVECacheServer:Clean">
+    <MSBuild Projects="..\Cache Server\FIVECacheServer.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="FIVECacheServer:Make">
+    <MSBuild Projects="..\Cache Server\FIVECacheServer.dproj" Targets="Make" />
+  </Target>
+  <Target Name="FIVEMailServer">
+    <MSBuild Projects="..\Mail Server\FIVEMailServer.dproj" Targets="" />
+  </Target>
+  <Target Name="FIVEMailServer:Clean">
+    <MSBuild Projects="..\Mail Server\FIVEMailServer.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="FIVEMailServer:Make">
+    <MSBuild Projects="..\Mail Server\FIVEMailServer.dproj" Targets="Make" />
+  </Target>
+  <Target Name="FIVENewsServer">
+    <MSBuild Projects="..\News Server\FIVENewsServer.dproj" Targets="" />
+  </Target>
+  <Target Name="FIVENewsServer:Clean">
+    <MSBuild Projects="..\News Server\FIVENewsServer.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="FIVENewsServer:Make">
+    <MSBuild Projects="..\News Server\FIVENewsServer.dproj" Targets="Make" />
+  </Target>
+  <Target Name="Build">
+    <CallTarget Targets="FIVECacheServer;FIVEMailServer;FIVENewsServer" />
+  </Target>
+  <Target Name="Clean">
+    <CallTarget Targets="FIVECacheServer:Clean;FIVEMailServer:Clean;FIVENewsServer:Clean" />
+  </Target>
+  <Target Name="Make">
+    <CallTarget Targets="FIVECacheServer:Make;FIVEMailServer:Make;FIVENewsServer:Make" />
+  </Target>
+  <Import Condition="Exists('$(MSBuildBinPath)\Borland.Group.Targets')" Project="$(MSBuildBinPath)\Borland.Group.Targets" />
+</Project>
