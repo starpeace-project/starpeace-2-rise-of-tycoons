@@ -1,0 +1,18 @@
+11/12/2004 16:31:10 <Remote_Cnx> (10)- Query timed out sel 10111888 call RDOMapSegaUser "^" "%puggy"; Time: 20000
+11/12/2004 16:31:17 <Remote_Cnx> (10)- Query timed out sel 10144312 call RDOMapSegaUser "^" "%puggy"; Time: 20000
+11/12/2004 16:31:17 <Remote_Cnx> (10)- Query timed out sel 10143696 call RDOMapSegaUser "^" "%puggy"; Time: 20000
+11/12/2004 16:31:17 <Remote_Cnx> (10)- Query timed out sel 10155200 call RDOMapSegaUser "^" "%puggy"; Time: 20000
+11/12/2004 16:31:17 <Remote_Cnx> (10)- Query timed out sel 10159452 call RDOMapSegaUser "^" "%puggy"; Time: 20000
+11/12/2004 16:31:17 <Remote_Cnx> (10)- Query timed out sel 10155496 call RDOMapSegaUser "^" "%puggy"; Time: 20000
+11/12/2004 16:31:17 <Remote_Cnx> (10)- Query timed out idof "DirectoryServer"; Time: 20000
+11/12/2004 16:31:17 <Remote_Cnx> (10)- Query timed out sel 10146660 call RDOMapSegaUser "^" "%puggy"; Time: 20000
+11/12/2004 16:31:17 <Remote_Cnx> (10)- Query timed out sel 10149560 call RDOMapSegaUser "^" "%puggy"; Time: 20000
+11/12/2004 16:31:17 <Remote_Cnx> (10)- Query timed out sel 10152580 call RDOMapSegaUser "^" "%puggy"; Time: 20000
+11/12/2004 16:31:17 <Remote_Cnx> (10)- Query timed out sel 10158000 call RDOMapSegaUser "^" "%puggy"; Time: 20000
+11/12/2004: Unspecified error @ TDirectorySession.RDOMapSegaUser
+11/12/2004: Unspecified error @ TDirectorySession.RDOMapSegaUser
+11/12/2004: Unspecified error @ TDirectorySession.RDOMapSegaUser
+11/12/2004: Unspecified error @ TDirectorySession.RDOMapSegaUser
+11/12/2004: Unspecified error @ TDirectorySession.RDOMapSegaUser
+11/12/2004: Unspecified error @ TDirectorySession.RDOMapSegaUser
+11/12/2004: Unspecified error @ TDirectorySession.RDOMapSegaUser

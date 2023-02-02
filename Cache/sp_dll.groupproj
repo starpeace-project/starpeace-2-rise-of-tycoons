@@ -1,0 +1,84 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{ed17f4a6-bf77-438a-b93b-ad76bdd94377}</ProjectGuid>
+  </PropertyGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Projects Include="CacheManager.dproj" />
+    <Projects Include="FolderIterator.dproj" />
+    <Projects Include="InputSrch.dproj" />
+    <Projects Include="ModelServerCache.dproj" />
+    <Projects Include="OutputSrch.dproj" />
+    <Projects Include="Visual.dproj" />
+  </ItemGroup>
+  <ProjectExtensions>
+    <Borland.Personality>Default.Personality</Borland.Personality>
+    <Borland.ProjectType />
+    <BorlandProject>
+  <BorlandProject xmlns=""> <Default.Personality> </Default.Personality> </BorlandProject></BorlandProject>
+  </ProjectExtensions>
+  <Target Name="CacheManager">
+    <MSBuild Projects="CacheManager.dproj" Targets="" />
+  </Target>
+  <Target Name="CacheManager:Clean">
+    <MSBuild Projects="CacheManager.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="CacheManager:Make">
+    <MSBuild Projects="CacheManager.dproj" Targets="Make" />
+  </Target>
+  <Target Name="FolderIterator">
+    <MSBuild Projects="FolderIterator.dproj" Targets="" />
+  </Target>
+  <Target Name="FolderIterator:Clean">
+    <MSBuild Projects="FolderIterator.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="FolderIterator:Make">
+    <MSBuild Projects="FolderIterator.dproj" Targets="Make" />
+  </Target>
+  <Target Name="InputSrch">
+    <MSBuild Projects="InputSrch.dproj" Targets="" />
+  </Target>
+  <Target Name="InputSrch:Clean">
+    <MSBuild Projects="InputSrch.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="InputSrch:Make">
+    <MSBuild Projects="InputSrch.dproj" Targets="Make" />
+  </Target>
+  <Target Name="ModelServerCache">
+    <MSBuild Projects="ModelServerCache.dproj" Targets="" />
+  </Target>
+  <Target Name="ModelServerCache:Clean">
+    <MSBuild Projects="ModelServerCache.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="ModelServerCache:Make">
+    <MSBuild Projects="ModelServerCache.dproj" Targets="Make" />
+  </Target>
+  <Target Name="Visual">
+    <MSBuild Projects="Visual.dproj" Targets="" />
+  </Target>
+  <Target Name="Visual:Clean">
+    <MSBuild Projects="Visual.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="Visual:Make">
+    <MSBuild Projects="Visual.dproj" Targets="Make" />
+  </Target>
+  <Target Name="OutputSrch">
+    <MSBuild Projects="OutputSrch.dproj" Targets="" />
+  </Target>
+  <Target Name="OutputSrch:Clean">
+    <MSBuild Projects="OutputSrch.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="OutputSrch:Make">
+    <MSBuild Projects="OutputSrch.dproj" Targets="Make" />
+  </Target>
+  <Target Name="Build">
+    <CallTarget Targets="CacheManager;FolderIterator;InputSrch;ModelServerCache;Visual;OutputSrch" />
+  </Target>
+  <Target Name="Clean">
+    <CallTarget Targets="CacheManager:Clean;FolderIterator:Clean;InputSrch:Clean;ModelServerCache:Clean;Visual:Clean;OutputSrch:Clean" />
+  </Target>
+  <Target Name="Make">
+    <CallTarget Targets="CacheManager:Make;FolderIterator:Make;InputSrch:Make;ModelServerCache:Make;Visual:Make;OutputSrch:Make" />
+  </Target>
+  <Import Condition="Exists('$(MSBuildBinPath)\Borland.Group.Targets')" Project="$(MSBuildBinPath)\Borland.Group.Targets" />
+</Project>

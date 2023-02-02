@@ -96,7 +96,7 @@ implementation
       s  :=  '' ;
       try
         Reg.RootKey := HKEY_LOCAL_MACHINE ;
-        if Reg.OpenKey ('SOFTWARE\Oceanus\Five' , false)
+        if Reg.OpenKey ('SOFTWARE\Wow6432Node\Starpeace2\Five' , false)
           then
             begin
               s := Reg.ReadString ( 'PublicIP' ) ;

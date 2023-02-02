@@ -1,0 +1,10 @@
+26/02/2005 15:31:09 Running at: 26/02/2005 15:31:09
+26/02/2005 15:31:41 ERROR: pFullPathKeyExists [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied
+26/02/2005 15:31:41 ERROR: pFullPathKeyExists [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied
+26/02/2005 15:31:41 ERROR: CreateFullPathKey (true) [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied
+26/02/2005 15:31:57 ERROR: pFullPathKeyExists [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied
+26/02/2005 15:31:57 ERROR: pFullPathKeyExists [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied
+26/02/2005 15:31:57 ERROR: CreateFullPathKey (true) [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied
+26/02/2005 15:32:40 ERROR: pFullPathKeyExists [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied
+26/02/2005 15:32:57 ERROR: pFullPathKeyExists [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied
+26/02/2005 15:33:05 Stopping at: 26/02/2005 15:33:05

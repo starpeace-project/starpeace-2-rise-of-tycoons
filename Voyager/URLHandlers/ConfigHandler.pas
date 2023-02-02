@@ -43,8 +43,8 @@ interface
     tidMetaHandler_ConfigHandler = 'ConfigHandler';
 
   const
-    VOYAGER_ROOT = '\SOFTWARE\Pugland\Starpeace\Client\';
-    TEST_VOYAGER_ROOT = '\SOFTWARE\Pugland\Starpeacetest\Client\';
+    VOYAGER_ROOT = '\SOFTWARE\Wow6432Node\Starpeace2\Client\';
+    TEST_VOYAGER_ROOT = '\SOFTWARE\Wow6432Node\Starpeace2\Client\';
 
 implementation
 

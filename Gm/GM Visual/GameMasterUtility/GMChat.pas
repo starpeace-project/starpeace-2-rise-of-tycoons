@@ -159,7 +159,7 @@ implementation
     IMAGEIDX_QUEUED2 = 11;
 
   const
-    DATA_KEYNAME = '\SOFTWARE\pugland\Starpeace\Client\System';
+    DATA_KEYNAME = '\SOFTWARE\Wow6432Node\Starpeace2\Client\System';
 
 {$R *.DFM}
 

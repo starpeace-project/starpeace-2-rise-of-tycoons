@@ -14,7 +14,7 @@ implementation
     Windows, SysUtils, FileCtrl, Classes, SyncObjs, Registry;
 
   const
-    LogsKey  = '\Software\Oceanus\Five\logs\';
+    LogsKey  = '\Software\Wow6432Node\Starpeace2\Five\logs\';
 
   var
     LogLock    : TCriticalSection = nil;

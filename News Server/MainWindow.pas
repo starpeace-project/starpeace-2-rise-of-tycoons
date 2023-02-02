@@ -136,7 +136,7 @@ implementation
               begin
                 try
                   UseDS.Checked  := Reg.ReadBool( 'UseDirServer' );
-                  DSAddress.Text := 'starpeace.co.cc';
+                  DSAddress.Text := 'dir.starpeace.co.uk';
                   DSPort.Text    := Reg.ReadString( 'DSPort' );
                   DSArea.Text    := Reg.ReadString( 'Area' );
                   DSCluster.Text := Reg.ReadString( 'Cluster' );

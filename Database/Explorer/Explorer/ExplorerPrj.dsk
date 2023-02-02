@@ -1,0 +1,253 @@
+[MainWindow]
+Create=1
+Visible=1
+State=2
+Left=0
+Top=0
+Width=800
+Height=107
+MaxLeft=1
+MaxTop=-4
+MaxWidth=1032
+MaxHeight=107
+ClientWidth=1024
+ClientHeight=60
+
+[ProjectManager]
+LargeButtons=1
+Column0Width=75
+Column1Width=125
+Column2Width=125
+
+[PropertyInspector]
+Create=1
+Visible=1
+State=0
+Left=25
+Top=144
+Width=239
+Height=493
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=231
+ClientHeight=467
+SplitPos=84
+
+[HistoryLists\hiWatchExpression]
+Count=0
+
+[HistoryLists\hiEvalExpression]
+Count=32
+H0=cbCurrKey.Text
+H1=Text
+H2=cbCurrKey
+H3=theItem.Caption
+H4=Caption
+H5=EntryList.Text
+H6=ConfigurationFrm.Edit1.Text
+H7=ConfigurationFrm.Edit2.Text
+H8=ConfigurationFrm
+H9=FiveListView.Items.Item[0].Caption
+H10=FiveListView.Items.Item[0]
+H11=theItem
+H12=ValueName
+H13=EntryList
+H14=EntryList.Count
+H15=edFullPathKey.Text
+H16=edFullPathKey
+H17=ISCnx.Port
+H18=ISCnx
+H19=ISCnx.Server
+H20=QueryText
+H21=ISProxy
+H22=NodeName + '/' + ValuesList.Strings[j]
+H23=NodeName
+H24=ValuesList.Strings[j]
+H25=ValuesList
+H26=ValuesList.Text
+H27=Security
+H28=TreeFiveKey.Selected.Text
+H29=TreeFiveKey.Selected
+H30=NewKeyForm.edCurrKey.Text
+H31=KeyList.Text
+
+[HistoryLists\hiEvalNewValue]
+Count=2
+H0=1
+H1=-1
+
+[HistoryLists\hiOpenFile]
+Count=32
+H0=d:\work\sources\tests\explorer\explorerprj.dpr
+H1=e:\prueba\explorerprj.dpr
+H2=d:\work\sources\directory server\fivedirectoryserver.dpr
+H3=d:\work\sources\directory server\directorymanager.pas
+H4=d:\work\sources\tests\sql explorer\directorymanager.pas
+H5=d:\work\sources\tests\sql explorer\sqlexplorerapp.pas
+H6=d:\work\sources\tests\sql explorer\editkeyfrm.pas
+H7=e:\prueba\explorer.pas
+H8=d:\work\sources\tests\sql explorer single\sqlexplorer.dpr
+H9=d:\work\sources\tests\new explorer single\sqlexplorer.dpr
+H10=d:\work\sources\directory server\copy of directoryserver.pas
+H11=d:\work\sources\directory server\copy of directorymanager.pas
+H12=d:\work\sources\directory server\directoryserver.pas
+H13=d:\work\sources\tests\explorer\editvaluefrm.pas
+H14=d:\work\sources\tests\explorer\newkeyfrm.pas
+H15=d:\work\sources\tests\explorer\editkeyfrm.pas
+H16=d:\work\sources\tests\explorer\directorymanager.pas
+H17=d:\work\sources\tests\sql explorer\configuration.pas
+H18=\\rosi\d\work\sources\tests\sql explorer\sqlexplorerapp.pas
+H19=d:\work\sources\tests\sql connection\sqlserverrdoapp.pas
+H20=d:\work\sources\tests\sql explorer\newkeyfrm.pas
+H21=d:\work\sources\tests\sql explorer\sqlexplorer.dpr
+H22=d:\work\sources\tests\sql explorer single\sqlexplorerapp.pas
+H23=d:\work\sources\tests\sql explorer single\newkeyfrm.pas
+H24=d:\work\sources\tests\sql explorer single\editkeyfrm.pas
+H25=d:\work\sources\tests\sql explorer single\directorymanager.pas
+H26=d:\work\sources\tests\sql explorer single\configuration.pas
+H27=d:\work\sources\tests\sql single test\project1.dpr
+H28=d:\work\sources\tests\sql single test\sqlapp.pas
+H29=d:\work\sources\tests\sql single test\directorymanager.pas
+H30=d:\work\sources\tests\xml database\project1.dpr
+H31=d:\work\sources\tests\sql explorer\sqlserverrdoapp.pas
+
+[HistoryLists\hiRunParams]
+Count=4
+H0=localhost 1111
+H1=localhost 5555
+H2=www.starpeace.net 8000
+H3=bean 8000
+
+[HistoryLists\hiUnitAlias]
+Count=1
+H0=WinTypes=Windows;WinProcs=Windows;DbiTypes=BDE;DbiProcs=BDE;DbiErrs=BDE;
+
+[HistoryLists\hiLibUnitAliases]
+Count=1
+H0=WinTypes=Windows;WinProcs=Windows;DbiTypes=BDE;DbiProcs=BDE;DbiErrs=BDE;
+
+[HistoryLists\hiSearchMasks]
+Count=6
+H0=D:\Work\Sources\Directory Server
+H1=E:\Electric Information\Soft-Sources\PSX 3.0\Component\Elements
+H2=D:\Work\Five\Source\RDO
+H3=D:\Work\Five\Source\
+H4=D:\Work\Five\Source\Mail Server
+H5=D:\Work\Five\Source\Mail
+
+[Closed Files]
+File_0=SourceModule,'D:\Work\Sources\Tests\SQL Explorer\DirectoryManager.pas',0,1,1163,5,1196,0,0
+File_1=SourceModule,'D:\Work\Sources\Tests\SQL Explorer\SQLExplorerApp.pas',0,1,575,37,576,1,0
+File_2=SourceModule,'D:\Work\Sources\Utils\vcl\Windows.pas',0,1,17244,1,17261,0,0
+File_3=SourceModule,'D:\Work\Sources\Rdo\Client\RDOObjectProxy.pas',0,1,432,30,434,0,0
+File_4=SourceModule,'D:\Work\Sources\Tests\Explorer\DirectoryManager.pas',0,1,628,57,646,0,0
+File_5=SourceModule,'D:\Work\Sources\Rdo\Client\WinSockRDOConnection.pas',0,1,261,51,275,0,0
+File_6=SourceModule,'D:\Work\Sources\Directory Server\DirectoryServer.pas',0,1,319,68,329,0,0
+File_7=SourceModule,'D:\Work\Sources\Tests\SQL Explorer\EditKeyFrm.pas',0,1,1,20,11,1,0
+
+[Modules]
+Module0=D:\Work\Sources\Tests\Explorer\Configuration.pas
+Module1=D:\Work\Sources\Tests\Explorer\NewKeyFrm.pas
+Module2=D:\Work\Sources\Tests\Explorer\EditValueFrm.pas
+Module3=D:\Work\Sources\Tests\Explorer\Explorer.pas
+Module4=D:\Work\Sources\Directory Server\DirectoryManager.pas
+Module5=D:\Work\Sources\Tests\Explorer\ExplorerPrj.dpr
+Count=6
+EditWindowCount=1
+
+[D:\Work\Sources\Tests\Explorer\Configuration.pas]
+ModuleType=SourceModule
+FormState=1
+FormOnTop=0
+
+[D:\Work\Sources\Tests\Explorer\NewKeyFrm.pas]
+ModuleType=SourceModule
+FormState=1
+FormOnTop=1
+
+[D:\Work\Sources\Tests\Explorer\EditValueFrm.pas]
+ModuleType=SourceModule
+FormState=1
+FormOnTop=0
+
+[D:\Work\Sources\Tests\Explorer\Explorer.pas]
+ModuleType=SourceModule
+FormState=1
+FormOnTop=0
+
+[D:\Work\Sources\Directory Server\DirectoryManager.pas]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[D:\Work\Sources\Tests\Explorer\ExplorerPrj.dpr]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[EditWindow0]
+Create=1
+Visible=1
+State=2
+Left=210
+Top=125
+Width=696
+Height=488
+MaxLeft=-4
+MaxTop=99
+MaxWidth=1032
+MaxHeight=673
+ClientWidth=1024
+ClientHeight=645
+SplitPos=50
+MessagePane=0
+ViewCount=5
+CurrentView=2
+View0=0
+View1=1
+View2=2
+View3=3
+View4=4
+
+[View0]
+Module=D:\Work\Sources\Tests\Explorer\Explorer.pas
+CursorX=65
+CursorY=186
+TopLine=175
+LeftCol=1
+
+[View1]
+Module=D:\Work\Sources\Tests\Explorer\NewKeyFrm.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View2]
+Module=D:\Work\Sources\Tests\Explorer\Configuration.pas
+CursorX=51
+CursorY=12
+TopLine=1
+LeftCol=1
+
+[View3]
+Module=D:\Work\Sources\Tests\Explorer\EditValueFrm.pas
+CursorX=12
+CursorY=7
+TopLine=1
+LeftCol=1
+
+[View4]
+Module=D:\Work\Sources\Directory Server\DirectoryManager.pas
+CursorX=65
+CursorY=963
+TopLine=948
+LeftCol=1
+
+[Watches]
+Count=1
+Watch0='result',256,0,18,1
+
+[Breakpoints]
+Count=0
+

@@ -5,13 +5,13 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Release</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <DCC_DCCCompiler>DCC32</DCC_DCCCompiler>
-    <DCC_DependencyCheckOutputName>..\..\..\Servers\GeneralPack1.mdx</DCC_DependencyCheckOutputName>
+    <DCC_DependencyCheckOutputName>..\..\..\..\Release\Servers\GeneralPack1.mdx</DCC_DependencyCheckOutputName>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <Version>7.0</Version>
     <DCC_WriteableConstants>True</DCC_WriteableConstants>
     <DCC_SymbolReferenceInfo>0</DCC_SymbolReferenceInfo>
-    <DCC_ExeOutput>C:\starpeace\Servers</DCC_ExeOutput>
+    <DCC_ExeOutput>C:\Repo\SP2\Release\Servers</DCC_ExeOutput>
     <DCC_UnitSearchPath>$(DELPHI)\Source\Win32\rtl\common;$(DELPHI)\Source\Win32\rtl\win;$(DELPHI)\Source\Win32\vcl;..\..\Circuits;..\..\Kernel;..\..\StdBlocks;..\..\Class Storage;..\..\Cache;..\..\RDO\Common;..\..\RDO\Server;..\..\Utils\Network;..\..\RDO\Client\;..\..\Persistence;..\..\Utils\Misc;..\..\Surfaces;..\..\Mail;..\..\Actors;..\..\Tasks;..\..\Utils\Vcl;..\..\Logs;..\..\DServer</DCC_UnitSearchPath>
     <DCC_ResourcePath>$(DELPHI)\Source\Win32\rtl\common;$(DELPHI)\Source\Win32\rtl\win;$(DELPHI)\Source\Win32\vcl;..\..\Circuits;..\..\Kernel;..\..\StdBlocks;..\..\Class Storage;..\..\Cache;..\..\RDO\Common;..\..\RDO\Server;..\..\Utils\Network;..\..\RDO\Client\;..\..\Persistence;..\..\Utils\Misc;..\..\Surfaces;..\..\Mail;..\..\Actors;..\..\Tasks;..\..\Utils\Vcl;..\..\Logs;..\..\DServer</DCC_ResourcePath>
     <DCC_ObjPath>$(DELPHI)\Source\Win32\rtl\common;$(DELPHI)\Source\Win32\rtl\win;$(DELPHI)\Source\Win32\vcl;..\..\Circuits;..\..\Kernel;..\..\StdBlocks;..\..\Class Storage;..\..\Cache;..\..\RDO\Common;..\..\RDO\Server;..\..\Utils\Network;..\..\RDO\Client\;..\..\Persistence;..\..\Utils\Misc;..\..\Surfaces;..\..\Mail;..\..\Actors;..\..\Tasks;..\..\Utils\Vcl;..\..\Logs;..\..\DServer</DCC_ObjPath>
@@ -20,6 +20,9 @@
     <DCC_UNSAFE_TYPE>True</DCC_UNSAFE_TYPE>
     <DCC_UNSAFE_CODE>True</DCC_UNSAFE_CODE>
     <DCC_UNSAFE_CAST>True</DCC_UNSAFE_CAST>
+    <DCC_DcuOutput>C:\Repo\SP2\dcu</DCC_DcuOutput>
+    <DCC_ObjOutput>C:\Repo\SP2\dcu</DCC_ObjOutput>
+    <DCC_HppOutput>C:\Repo\SP2\dcu</DCC_HppOutput>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <Version>7.0</Version>

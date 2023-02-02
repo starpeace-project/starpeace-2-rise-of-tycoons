@@ -3,7 +3,26 @@
     <ProjectGuid>{18b55b74-965c-488e-95ac-e7cfa09f90b9}</ProjectGuid>
   </PropertyGroup>
   <ItemGroup />
-  <ItemGroup />
+  <ItemGroup>
+    <Projects Include="Cache Server\FIVECacheServer.dproj" />
+    <Projects Include="dserver3\FIVEDirectoryServer.dproj" />
+    <Projects Include="Gm\GM Visual\GameMasterServer\FIVEGameMasterServer.dproj" />
+    <Projects Include="Gm\GM Visual\GameMasterUtility\GMCenter.dproj" />
+    <Projects Include="Installer\voyager2.dproj" />
+    <Projects Include="Interface Server\FIVEInterfaceServer.dproj" />
+    <Projects Include="Mail Server\FIVEMailServer.dproj" />
+    <Projects Include="Model Extensions\Dissidents\DissidentPack1.dproj" />
+    <Projects Include="Model Extensions\General\GeneralPack1.dproj" />
+    <Projects Include="Model Extensions\Ib\ib.dproj" />
+    <Projects Include="Model Extensions\Magna\MagnaPack1.dproj" />
+    <Projects Include="Model Extensions\Mariko\MarikoPack1.dproj" />
+    <Projects Include="Model Extensions\Moab\MoabPack1.dproj" />
+    <Projects Include="Model Extensions\PGI\PGIPack1.dproj" />
+    <Projects Include="Model Server\FIVEModelServer.dproj" />
+    <Projects Include="News Server\FIVENewsServer.dproj" />
+    <Projects Include="Voyager\FIVEVoyager.dproj" />
+    <Projects Include="Voyager\flaunch.dproj" />
+  </ItemGroup>
   <ProjectExtensions>
     <Borland.Personality>Default.Personality</Borland.Personality>
     <Borland.ProjectType />
@@ -18,15 +37,6 @@
   </Target>
   <Target Name="FIVEVoyager:Make">
     <MSBuild Projects="Voyager\FIVEVoyager.dproj" Targets="Make" />
-  </Target>
-  <Target Name="DServer">
-    <MSBuild Projects="DServer\DServer.dproj" Targets="" />
-  </Target>
-  <Target Name="DServer:Clean">
-    <MSBuild Projects="DServer\DServer.dproj" Targets="Clean" />
-  </Target>
-  <Target Name="DServer:Make">
-    <MSBuild Projects="DServer\DServer.dproj" Targets="Make" />
   </Target>
   <Target Name="FIVECacheServer">
     <MSBuild Projects="Cache Server\FIVECacheServer.dproj" Targets="" />
@@ -172,13 +182,23 @@
   <Target Name="FIVEGameMasterServer:Make">
     <MSBuild Projects="Gm\GM Visual\GameMasterServer\FIVEGameMasterServer.dproj" Targets="Make" />
   </Target>
+  <Target Name="FIVEDirectoryServer">
+    <MSBuild Projects="dserver3\FIVEDirectoryServer.dproj" Targets="" />
+  </Target>
+  <Target Name="FIVEDirectoryServer:Clean">
+    <MSBuild Projects="dserver3\FIVEDirectoryServer.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="FIVEDirectoryServer:Make">
+    <MSBuild Projects="dserver3\FIVEDirectoryServer.dproj" Targets="Make" />
+  </Target>
   <Target Name="Build">
-    <CallTarget Targets="FIVEVoyager;DServer;FIVECacheServer;FIVEMailServer;FIVENewsServer;voyager2;FIVEInterfaceServer;FIVEModelServer;PGIPack1;MoabPack1;MarikoPack1;MagnaPack1;DissidentPack1;GeneralPack1;ib;flaunch;GMCenter;FIVEGameMasterServer" />
+    <CallTarget Targets="FIVEVoyager;FIVECacheServer;FIVEMailServer;FIVENewsServer;voyager2;FIVEInterfaceServer;FIVEModelServer;PGIPack1;MoabPack1;MarikoPack1;MagnaPack1;DissidentPack1;GeneralPack1;ib;flaunch;GMCenter;FIVEGameMasterServer;FIVEDirectoryServer" />
   </Target>
   <Target Name="Clean">
-    <CallTarget Targets="FIVEVoyager:Clean;DServer:Clean;FIVECacheServer:Clean;FIVEMailServer:Clean;FIVENewsServer:Clean;voyager2:Clean;FIVEInterfaceServer:Clean;FIVEModelServer:Clean;PGIPack1:Clean;MoabPack1:Clean;MarikoPack1:Clean;MagnaPack1:Clean;DissidentPack1:Clean;GeneralPack1:Clean;ib:Clean;flaunch:Clean;GMCenter:Clean;FIVEGameMasterServer:Clean" />
+    <CallTarget Targets="FIVEVoyager:Clean;FIVECacheServer:Clean;FIVEMailServer:Clean;FIVENewsServer:Clean;voyager2:Clean;FIVEInterfaceServer:Clean;FIVEModelServer:Clean;PGIPack1:Clean;MoabPack1:Clean;MarikoPack1:Clean;MagnaPack1:Clean;DissidentPack1:Clean;GeneralPack1:Clean;ib:Clean;flaunch:Clean;GMCenter:Clean;FIVEGameMasterServer:Clean;FIVEDirectoryServer:Clean" />
   </Target>
   <Target Name="Make">
-    <CallTarget Targets="FIVEVoyager:Make;DServer:Make;FIVECacheServer:Make;FIVEMailServer:Make;FIVENewsServer:Make;voyager2:Make;FIVEInterfaceServer:Make;FIVEModelServer:Make;PGIPack1:Make;MoabPack1:Make;MarikoPack1:Make;MagnaPack1:Make;DissidentPack1:Make;GeneralPack1:Make;ib:Make;flaunch:Make;GMCenter:Make;FIVEGameMasterServer:Make" />
+    <CallTarget Targets="FIVEVoyager:Make;FIVECacheServer:Make;FIVEMailServer:Make;FIVENewsServer:Make;voyager2:Make;FIVEInterfaceServer:Make;FIVEModelServer:Make;PGIPack1:Make;MoabPack1:Make;MarikoPack1:Make;MagnaPack1:Make;DissidentPack1:Make;GeneralPack1:Make;ib:Make;flaunch:Make;GMCenter:Make;FIVEGameMasterServer:Make;FIVEDirectoryServer:Make" />
   </Target>
+  <Import Condition="Exists('$(MSBuildBinPath)\Borland.Group.Targets')" Project="$(MSBuildBinPath)\Borland.Group.Targets" />
 </Project>

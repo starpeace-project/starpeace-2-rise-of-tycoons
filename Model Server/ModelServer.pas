@@ -12,7 +12,7 @@ interface
     tidRDOHook_World = 'World';
 
   const
-    tidRegKey_ModelServer     = '\SOFTWARE\Oceanus\FIVE\ModelServer';
+    tidRegKey_ModelServer     = '\SOFTWARE\Wow6432Node\Starpeace2\FIVE\ModelServer';
     tidRegKey_ModelExtensions = tidRegKey_ModelServer + '\Extensions';
 
   const

@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{c710d953-78d8-4ca5-a00d-772ce5e69a64}</ProjectGuid>
+    <MainSource>DServer.dpr</MainSource>
+    <Configuration Condition=" '$(Configuration)' == '' ">Release</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <DCC_DCCCompiler>DCC32</DCC_DCCCompiler>
+    <DCC_DependencyCheckOutputName>..\..\..\Release\Servers\DServer.exe</DCC_DependencyCheckOutputName>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <Version>7.0</Version>
+    <DCC_DebugInformation>False</DCC_DebugInformation>
+    <DCC_WriteableConstants>True</DCC_WriteableConstants>
+    <DCC_LocalDebugSymbols>False</DCC_LocalDebugSymbols>
+    <DCC_SymbolReferenceInfo>0</DCC_SymbolReferenceInfo>
+    <DCC_ExeOutput>C:\Repo\SP2\Release\Servers</DCC_ExeOutput>
+    <DCC_UnitSearchPath>$(DELPHI)\Source\Win32\vcl;$(DELPHI)\Source\Win32\rtl\win;$(DELPHI)\Source\Win32\rtl\common;..\Kernel;..\StdBlocks;..\Class Storage;..\Cache;..\RDO\Common;..\RDO\Server;..\Utils\Network;..\RDO\Client\;..\Persistence;..\Utils\Misc;..\Surfaces;..\Mail;..\Utils\Vcl;$(DELPHI)\Source\Property Editors;..\Protocol;$(DELPHI)\Source\ToolsAPI;$(DELPHI)\Source\Vcl</DCC_UnitSearchPath>
+    <DCC_ResourcePath>$(DELPHI)\Source\Win32\vcl;$(DELPHI)\Source\Win32\rtl\win;$(DELPHI)\Source\Win32\rtl\common;..\Kernel;..\StdBlocks;..\Class Storage;..\Cache;..\RDO\Common;..\RDO\Server;..\Utils\Network;..\RDO\Client\;..\Persistence;..\Utils\Misc;..\Surfaces;..\Mail;..\Utils\Vcl;$(DELPHI)\Source\Property Editors;..\Protocol;$(DELPHI)\Source\ToolsAPI;$(DELPHI)\Source\Vcl</DCC_ResourcePath>
+    <DCC_ObjPath>$(DELPHI)\Source\Win32\vcl;$(DELPHI)\Source\Win32\rtl\win;$(DELPHI)\Source\Win32\rtl\common;..\Kernel;..\StdBlocks;..\Class Storage;..\Cache;..\RDO\Common;..\RDO\Server;..\Utils\Network;..\RDO\Client\;..\Persistence;..\Utils\Misc;..\Surfaces;..\Mail;..\Utils\Vcl;$(DELPHI)\Source\Property Editors;..\Protocol;$(DELPHI)\Source\ToolsAPI;$(DELPHI)\Source\Vcl</DCC_ObjPath>
+    <DCC_IncludePath>$(DELPHI)\Source\Win32\vcl;$(DELPHI)\Source\Win32\rtl\win;$(DELPHI)\Source\Win32\rtl\common;..\Kernel;..\StdBlocks;..\Class Storage;..\Cache;..\RDO\Common;..\RDO\Server;..\Utils\Network;..\RDO\Client\;..\Persistence;..\Utils\Misc;..\Surfaces;..\Mail;..\Utils\Vcl;$(DELPHI)\Source\Property Editors;..\Protocol;$(DELPHI)\Source\ToolsAPI;$(DELPHI)\Source\Vcl</DCC_IncludePath>
+    <DCC_Define>REPORTMEM;LIBRARY;USELogs;RELEASE</DCC_Define>
+    <DCC_UNSAFE_TYPE>True</DCC_UNSAFE_TYPE>
+    <DCC_UNSAFE_CODE>True</DCC_UNSAFE_CODE>
+    <DCC_UNSAFE_CAST>True</DCC_UNSAFE_CAST>
+    <DCC_DcuOutput>C:\Repo\SP2\dcu</DCC_DcuOutput>
+    <DCC_ObjOutput>C:\Repo\SP2\dcu</DCC_ObjOutput>
+    <DCC_HppOutput>C:\Repo\SP2\dcu</DCC_HppOutput>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <Version>7.0</Version>
+    <DCC_WriteableConstants>True</DCC_WriteableConstants>
+    <DCC_SymbolReferenceInfo>0</DCC_SymbolReferenceInfo>
+    <DCC_ExeOutput>C:\starpeace\Servers3</DCC_ExeOutput>
+    <DCC_UnitSearchPath>..\Kernel;..\StdBlocks;..\Class Storage;..\Cache;..\RDO\Common;..\RDO\Server;..\Utils\Network;..\RDO\Client\;..\Persistence;..\Utils\Misc;..\Surfaces;..\Mail;..\Utils\Vcl;$(DELPHI)\Source\Property Editors;..\Protocol;$(DELPHI)\Source\ToolsAPI;$(DELPHI)\Source\Vcl</DCC_UnitSearchPath>
+    <DCC_ResourcePath>..\Kernel;..\StdBlocks;..\Class Storage;..\Cache;..\RDO\Common;..\RDO\Server;..\Utils\Network;..\RDO\Client\;..\Persistence;..\Utils\Misc;..\Surfaces;..\Mail;..\Utils\Vcl;$(DELPHI)\Source\Property Editors;..\Protocol;$(DELPHI)\Source\ToolsAPI;$(DELPHI)\Source\Vcl</DCC_ResourcePath>
+    <DCC_ObjPath>..\Kernel;..\StdBlocks;..\Class Storage;..\Cache;..\RDO\Common;..\RDO\Server;..\Utils\Network;..\RDO\Client\;..\Persistence;..\Utils\Misc;..\Surfaces;..\Mail;..\Utils\Vcl;$(DELPHI)\Source\Property Editors;..\Protocol;$(DELPHI)\Source\ToolsAPI;$(DELPHI)\Source\Vcl</DCC_ObjPath>
+    <DCC_IncludePath>..\Kernel;..\StdBlocks;..\Class Storage;..\Cache;..\RDO\Common;..\RDO\Server;..\Utils\Network;..\RDO\Client\;..\Persistence;..\Utils\Misc;..\Surfaces;..\Mail;..\Utils\Vcl;$(DELPHI)\Source\Property Editors;..\Protocol;$(DELPHI)\Source\ToolsAPI;$(DELPHI)\Source\Vcl</DCC_IncludePath>
+    <DCC_Define>REPORTMEM;LIBRARY;USELogs;DEBUG</DCC_Define>
+    <DCC_UNSAFE_TYPE>True</DCC_UNSAFE_TYPE>
+    <DCC_UNSAFE_CODE>True</DCC_UNSAFE_CODE>
+    <DCC_UNSAFE_CAST>True</DCC_UNSAFE_CAST>
+  </PropertyGroup>
+  <ProjectExtensions>
+    <Borland.Personality>Delphi.Personality</Borland.Personality>
+    <Borland.ProjectType>VCLApplication</Borland.ProjectType>
+    <BorlandProject>
+<BorlandProject><Delphi.Personality><Parameters><Parameters Name="UseLauncher">False</Parameters><Parameters Name="LoadAllSymbols">True</Parameters><Parameters Name="LoadUnspecifiedSymbols">False</Parameters></Parameters><VersionInfo><VersionInfo Name="IncludeVerInfo">True</VersionInfo><VersionInfo Name="AutoIncBuild">False</VersionInfo><VersionInfo Name="MajorVer">2023</VersionInfo><VersionInfo Name="MinorVer">0</VersionInfo><VersionInfo Name="Release">0</VersionInfo><VersionInfo Name="Build">0</VersionInfo><VersionInfo Name="Debug">False</VersionInfo><VersionInfo Name="PreRelease">False</VersionInfo><VersionInfo Name="Special">False</VersionInfo><VersionInfo Name="Private">False</VersionInfo><VersionInfo Name="DLL">False</VersionInfo><VersionInfo Name="Locale">1033</VersionInfo><VersionInfo Name="CodePage">1252</VersionInfo></VersionInfo><VersionInfoKeys><VersionInfoKeys Name="CompanyName"></VersionInfoKeys><VersionInfoKeys Name="FileDescription"></VersionInfoKeys><VersionInfoKeys Name="FileVersion">2023.0.0.0</VersionInfoKeys><VersionInfoKeys Name="InternalName"></VersionInfoKeys><VersionInfoKeys Name="LegalCopyright"></VersionInfoKeys><VersionInfoKeys Name="LegalTrademarks"></VersionInfoKeys><VersionInfoKeys Name="OriginalFilename"></VersionInfoKeys><VersionInfoKeys Name="ProductName"></VersionInfoKeys><VersionInfoKeys Name="ProductVersion">1.0.0.0</VersionInfoKeys><VersionInfoKeys Name="Comments"></VersionInfoKeys></VersionInfoKeys><Source><Source Name="MainSource">DServer.dpr</Source></Source></Delphi.Personality></BorlandProject></BorlandProject>
+  </ProjectExtensions>
+  <Import Project="$(MSBuildBinPath)\Borland.Delphi.Targets" />
+  <ItemGroup>
+    <DelphiCompile Include="DServer.dpr">
+      <MainSource>MainSource</MainSource>
+    </DelphiCompile>
+    <DCCReference Include="..\Kernel\rc4.pas" />
+    <DCCReference Include="..\Logs\Logs.pas" />
+    <DCCReference Include="..\Utils\Serial\AutoCheck.pas" />
+    <DCCReference Include="..\Utils\Serial\CRC32.pas" />
+    <DCCReference Include="..\Utils\Serial\GenIdd.pas" />
+    <DCCReference Include="..\Utils\Serial\MemMapFile.pas" />
+    <DCCReference Include="DirectoryManager.pas" />
+    <DCCReference Include="DirectoryRegistry.pas" />
+    <DCCReference Include="DirectoryServer.pas" />
+    <DCCReference Include="DirectoryServerProtocol.pas" />
+    <DCCReference Include="MainWindow.pas">
+      <Form>DirectoryWin</Form>
+    </DCCReference>
+    <None Include="debug.txt" />
+  </ItemGroup>
+</Project>

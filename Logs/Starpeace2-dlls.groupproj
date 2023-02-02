@@ -1,0 +1,44 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{a40c6c16-b1a1-40ba-a38a-50214b1e4cd4}</ProjectGuid>
+  </PropertyGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Projects Include="..\Kernel\ThreadRegistry.dproj" />
+    <Projects Include="FIVELogs.dproj" />
+  </ItemGroup>
+  <ProjectExtensions>
+    <Borland.Personality>Default.Personality</Borland.Personality>
+    <Borland.ProjectType />
+    <BorlandProject>
+<BorlandProject xmlns=""><Default.Personality></Default.Personality></BorlandProject></BorlandProject>
+  </ProjectExtensions>
+  <Target Name="FIVELogs">
+    <MSBuild Projects="FIVELogs.dproj" Targets="" />
+  </Target>
+  <Target Name="FIVELogs:Clean">
+    <MSBuild Projects="FIVELogs.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="FIVELogs:Make">
+    <MSBuild Projects="FIVELogs.dproj" Targets="Make" />
+  </Target>
+  <Target Name="ThreadRegistry">
+    <MSBuild Projects="..\Kernel\ThreadRegistry.dproj" Targets="" />
+  </Target>
+  <Target Name="ThreadRegistry:Clean">
+    <MSBuild Projects="..\Kernel\ThreadRegistry.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="ThreadRegistry:Make">
+    <MSBuild Projects="..\Kernel\ThreadRegistry.dproj" Targets="Make" />
+  </Target>
+  <Target Name="Build">
+    <CallTarget Targets="FIVELogs;ThreadRegistry" />
+  </Target>
+  <Target Name="Clean">
+    <CallTarget Targets="FIVELogs:Clean;ThreadRegistry:Clean" />
+  </Target>
+  <Target Name="Make">
+    <CallTarget Targets="FIVELogs:Make;ThreadRegistry:Make" />
+  </Target>
+  <Import Condition="Exists('$(MSBuildBinPath)\Borland.Group.Targets')" Project="$(MSBuildBinPath)\Borland.Group.Targets" />
+</Project>

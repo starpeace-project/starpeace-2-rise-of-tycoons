@@ -17,7 +17,8 @@ uses
   CacheObjects in '..\Cache\CacheObjects.pas',
   InputSearchWrap in 'InputSearchWrap.pas',
   OutputSearchWrap in 'OutputSearchWrap.pas',
-  WinSockRDOConnectionsServer in '..\Rdo\Server\WinSockRDOConnectionsServer.pas';
+  WinSockRDOConnectionsServer in '..\Rdo\Server\WinSockRDOConnectionsServer.pas',
+  CacheRegistryKeys in '..\Cache\CacheRegistryKeys.pas';
 
 {$R *.RES}
 

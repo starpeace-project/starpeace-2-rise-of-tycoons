@@ -8,7 +8,7 @@ uses
   ShareMem;
 
 const
-  ModelServerKey = '\Software\pugland\Five\ModelServer\'; 
+  ModelServerKey = '\Software\Wow6432Node\Starpeace2\Five\ModelServer\'; 
 var
   WorldNamekey: string;
 
@@ -412,7 +412,7 @@ implementation
                   else fLastRestarted := 0;
                 try
                   UseDS.Checked  := Reg.ReadBool( 'UseDirServer' );
-                  DSAddress.Text := 'starpeacelive.com';//Reg.ReadString( 'DSAddr' );
+                  DSAddress.Text := 'dir.starpeace.co.uk';//Reg.ReadString( 'DSAddr' );
                   DSPort.Text    := Reg.ReadString( 'DSPort' );
                   DSArea.Text    := Reg.ReadString( 'Area' );
                   DSCluster.Text := Reg.ReadString( 'Cluster' );

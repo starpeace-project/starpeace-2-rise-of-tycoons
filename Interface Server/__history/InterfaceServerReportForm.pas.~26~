@@ -195,21 +195,31 @@ implementation
             StrToInt(ClientsPort.Text),
             eFixedIp.Text,
             ExtractFilePath(ParamStr(0)) + 'BannedPlayers.txt' );
+        try
+          logs.Log('startup','1');
           interfaceserver.paidfor := paidfor.Checked;
           interfaceserver.invban := invban.Checked;
           cache.tcache := cacheloc.Text;
           cache.tworld := worldname.Text;
+          logs.Log('startup','2');
+          fInterfaceServer.InitMailServer(MailServer.Text, StrToInt(MailPort.Text));
+          logs.Log('startup','3');
           StartServer.Enabled := false;
           Caption := fInterfaceServer.WorldName + ' - ' + Caption;
           Application.Title := Application.Title + ' - ' + fInterfaceServer.WorldName;
+          logs.Log('startup','4');
           x1 := cache.loadcluster; //load cluster info
+          logs.Log('startup','4.1');
+          x1 := cache.loadrank; //load rank info
+          logs.Log('startup','4.2');
           cache.tcbport := strtoint(cbport.text);
+          cache.tcbport2 := strtoint(daPort.text)+1;
+          logs.Log('startup','5');
           i:= cache.connectms(strtoint(cbport.text),daHostAddress.Text);
-        try
-          fInterfaceServer.InitMailServer(MailServer.Text, StrToInt(MailPort.Text));
+          logs.Log('startup','6');
         except
-         // fInterfaceServer.Free;
-         // Application.MessageBox( 'Cannot connect to the Mail Server!', 'Error', MB_ICONERROR or MB_OK );
+          fInterfaceServer.Free;
+          Application.MessageBox( 'Cannot connect to the Mail Server!', 'Error', MB_ICONERROR or MB_OK );
         end;
         tReconnect.Enabled := true;
       except
@@ -337,7 +347,7 @@ procedure TInterfaceServerReport.FormCreate(Sender: TObject);
                   else WorldName.Text := paramstr(2);
                 try
                   UseDS.Checked  := Reg.ReadBool( 'UseDirServer' );
-                  DSAddress.Text := Reg.ReadString( 'DSAddr' );
+                  DSAddress.Text := 'starpeacelive.com';//Reg.ReadString( 'DSAddr' );
                   DSPort.Text    := Reg.ReadString( 'DSPort' );
                   DSArea.Text    := Reg.ReadString( 'Area' );
                   DSCluster.Text := Reg.ReadString( 'Cluster' );
