@@ -8,7 +8,7 @@ uses
   ShareMem;
 
 const
-  ModelServerKey = '\Software\pugland\Five\ModelServer\';
+  ModelServerKey = '\Software\Wow6432Node\Starpeace2\Five\ModelServer\';
 
 type
   TModelServerReport = class(TForm)

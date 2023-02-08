@@ -6,7 +6,7 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <DCC_DCCCompiler>DCC32</DCC_DCCCompiler>
-    <DCC_DependencyCheckOutputName>C:\Program Files\Starpeace test\FIVEVoyager.exe</DCC_DependencyCheckOutputName>
+    <DCC_DependencyCheckOutputName>..\..\..\Release\Client\FIVEVoyager.exe</DCC_DependencyCheckOutputName>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <Version>7.0</Version>
@@ -36,21 +36,26 @@
     <DCC_PentiumSafeDivide>True</DCC_PentiumSafeDivide>
     <DCC_SymbolReferenceInfo>0</DCC_SymbolReferenceInfo>
     <DCC_UnitAlias>WinTypes=Windows;WinProcs=Windows;DbiTypes=BDE;DbiProcs=BDE;DbiErrs=BDE;Events=VoyagerEvents</DCC_UnitAlias>
-    <DCC_UnitSearchPath>..\Utils\indy10\Lib\security;..\Utils\indy10\Lib\protocols;..\Utils\indy10\Lib\system;..\Utils\indy10\Lib\Core;$(DELPHI)\Source\Win32\vcl;$(DELPHI)\Source\Win32\rtl\win;$(DELPHI)\Source\Win32\rtl\common;$(DELPHI)\Source\Toolsapi;..\RDO\Common;..\RDO\Server;..\Utils\Network;..\Voyager\URLHandlers\fames;..\RDO\Client\;..\Utils\Misc;..\Voyager;..\Voyager\URLHandlers;..\voyager\Components;..\Utils\GameAPI;..\Utils\Graphics;..\Utils\Voice;..\DServer;..\Utils\CodeLib;..\Utils\debug;..\Utils\WinUtils;..\Utils\DirectX;..\Class Storage;..\Kernel;C:\starpeace\Source\Illegal\Illegal Kernel;C:\starpeace\Source\Voyager\Components\WebBrowser;C:\starpeace\Source\Utils\Vcl;C:\Users\darren\Documents\RAD Studio\Projects\httpget;C:\starpeace\Source\dcef\src</DCC_UnitSearchPath>
-    <DCC_ResourcePath>..\Utils\indy10\Lib\security;..\Utils\indy10\Lib\protocols;..\Utils\indy10\Lib\system;..\Utils\indy10\Lib\Core;$(DELPHI)\Source\Win32\vcl;$(DELPHI)\Source\Win32\rtl\win;$(DELPHI)\Source\Win32\rtl\common;$(DELPHI)\Source\Toolsapi;..\RDO\Common;..\RDO\Server;..\Utils\Network;..\Voyager\URLHandlers\fames;..\RDO\Client\;..\Utils\Misc;..\Voyager;..\Voyager\URLHandlers;..\voyager\Components;..\Utils\GameAPI;..\Utils\Graphics;..\Utils\Voice;..\DServer;..\Utils\CodeLib;..\Utils\debug;..\Utils\WinUtils;..\Utils\DirectX;..\Class Storage;..\Kernel;C:\starpeace\Source\Illegal\Illegal Kernel;C:\starpeace\Source\Voyager\Components\WebBrowser;C:\starpeace\Source\Utils\Vcl;C:\Users\darren\Documents\RAD Studio\Projects\httpget;C:\starpeace\Source\dcef\src</DCC_ResourcePath>
-    <DCC_ObjPath>..\Utils\indy10\Lib\security;..\Utils\indy10\Lib\protocols;..\Utils\indy10\Lib\system;..\Utils\indy10\Lib\Core;$(DELPHI)\Source\Win32\vcl;$(DELPHI)\Source\Win32\rtl\win;$(DELPHI)\Source\Win32\rtl\common;$(DELPHI)\Source\Toolsapi;..\RDO\Common;..\RDO\Server;..\Utils\Network;..\Voyager\URLHandlers\fames;..\RDO\Client\;..\Utils\Misc;..\Voyager;..\Voyager\URLHandlers;..\voyager\Components;..\Utils\GameAPI;..\Utils\Graphics;..\Utils\Voice;..\DServer;..\Utils\CodeLib;..\Utils\debug;..\Utils\WinUtils;..\Utils\DirectX;..\Class Storage;..\Kernel;C:\starpeace\Source\Illegal\Illegal Kernel;C:\starpeace\Source\Voyager\Components\WebBrowser;C:\starpeace\Source\Utils\Vcl;C:\Users\darren\Documents\RAD Studio\Projects\httpget;C:\starpeace\Source\dcef\src</DCC_ObjPath>
-    <DCC_IncludePath>..\Utils\indy10\Lib\security;..\Utils\indy10\Lib\protocols;..\Utils\indy10\Lib\system;..\Utils\indy10\Lib\Core;$(DELPHI)\Source\Win32\vcl;$(DELPHI)\Source\Win32\rtl\win;$(DELPHI)\Source\Win32\rtl\common;$(DELPHI)\Source\Toolsapi;..\RDO\Common;..\RDO\Server;..\Utils\Network;..\Voyager\URLHandlers\fames;..\RDO\Client\;..\Utils\Misc;..\Voyager;..\Voyager\URLHandlers;..\voyager\Components;..\Utils\GameAPI;..\Utils\Graphics;..\Utils\Voice;..\DServer;..\Utils\CodeLib;..\Utils\debug;..\Utils\WinUtils;..\Utils\DirectX;..\Class Storage;..\Kernel;C:\starpeace\Source\Illegal\Illegal Kernel;C:\starpeace\Source\Voyager\Components\WebBrowser;C:\starpeace\Source\Utils\Vcl;C:\Users\darren\Documents\RAD Studio\Projects\httpget;C:\starpeace\Source\dcef\src</DCC_IncludePath>
+    <DCC_UnitSearchPath>..\Utils\indy10\Lib\security;..\Utils\indy10\Lib\protocols;..\Utils\indy10\Lib\system;..\Utils\indy10\Lib\Core;$(DELPHI)\Source\Win32\vcl;$(DELPHI)\Source\Win32\rtl\win;$(DELPHI)\Source\Win32\rtl\common;$(DELPHI)\Source\Toolsapi;..\RDO\Common;..\RDO\Server;..\Utils\Network;..\Voyager\URLHandlers\fames;..\RDO\Client\;..\Utils\Misc;..\Voyager;..\Voyager\URLHandlers;..\voyager\Components;..\Utils\GameAPI;..\Utils\Graphics;..\Utils\Voice;..\DServer;..\Utils\CodeLib;..\Utils\debug;..\Utils\WinUtils;..\Utils\DirectX;..\Class Storage;..\Kernel;C:\Repo\SP2\git\starpeace-2-rise-of-tycoons\Illegal\Illegal Kernel;C:\Repo\SP2\git\starpeace-2-rise-of-tycoons\Voyager\Components\WebBrowser;C:\Repo\SP2\git\starpeace-2-rise-of-tycoons\Utils\Vcl;C:\Users\darren\Documents\RAD Studio\Projects\httpget;C:\Repo\SP2\git\starpeace-2-rise-of-tycoons\dcef\src</DCC_UnitSearchPath>
+    <DCC_ResourcePath>..\Utils\indy10\Lib\security;..\Utils\indy10\Lib\protocols;..\Utils\indy10\Lib\system;..\Utils\indy10\Lib\Core;$(DELPHI)\Source\Win32\vcl;$(DELPHI)\Source\Win32\rtl\win;$(DELPHI)\Source\Win32\rtl\common;$(DELPHI)\Source\Toolsapi;..\RDO\Common;..\RDO\Server;..\Utils\Network;..\Voyager\URLHandlers\fames;..\RDO\Client\;..\Utils\Misc;..\Voyager;..\Voyager\URLHandlers;..\voyager\Components;..\Utils\GameAPI;..\Utils\Graphics;..\Utils\Voice;..\DServer;..\Utils\CodeLib;..\Utils\debug;..\Utils\WinUtils;..\Utils\DirectX;..\Class Storage;..\Kernel;C:\Repo\SP2\git\starpeace-2-rise-of-tycoons\Illegal\Illegal Kernel;C:\Repo\SP2\git\starpeace-2-rise-of-tycoons\Voyager\Components\WebBrowser;C:\Repo\SP2\git\starpeace-2-rise-of-tycoons\Utils\Vcl;C:\Users\darren\Documents\RAD Studio\Projects\httpget;C:\Repo\SP2\git\starpeace-2-rise-of-tycoons\dcef\src</DCC_ResourcePath>
+    <DCC_ObjPath>..\Utils\indy10\Lib\security;..\Utils\indy10\Lib\protocols;..\Utils\indy10\Lib\system;..\Utils\indy10\Lib\Core;$(DELPHI)\Source\Win32\vcl;$(DELPHI)\Source\Win32\rtl\win;$(DELPHI)\Source\Win32\rtl\common;$(DELPHI)\Source\Toolsapi;..\RDO\Common;..\RDO\Server;..\Utils\Network;..\Voyager\URLHandlers\fames;..\RDO\Client\;..\Utils\Misc;..\Voyager;..\Voyager\URLHandlers;..\voyager\Components;..\Utils\GameAPI;..\Utils\Graphics;..\Utils\Voice;..\DServer;..\Utils\CodeLib;..\Utils\debug;..\Utils\WinUtils;..\Utils\DirectX;..\Class Storage;..\Kernel;C:\Repo\SP2\git\starpeace-2-rise-of-tycoons\Illegal\Illegal Kernel;C:\Repo\SP2\git\starpeace-2-rise-of-tycoons\Voyager\Components\WebBrowser;C:\Repo\SP2\git\starpeace-2-rise-of-tycoons\Utils\Vcl;C:\Users\darren\Documents\RAD Studio\Projects\httpget;C:\Repo\SP2\git\starpeace-2-rise-of-tycoons\dcef\src</DCC_ObjPath>
+    <DCC_IncludePath>..\Utils\indy10\Lib\security;..\Utils\indy10\Lib\protocols;..\Utils\indy10\Lib\system;..\Utils\indy10\Lib\Core;$(DELPHI)\Source\Win32\vcl;$(DELPHI)\Source\Win32\rtl\win;$(DELPHI)\Source\Win32\rtl\common;$(DELPHI)\Source\Toolsapi;..\RDO\Common;..\RDO\Server;..\Utils\Network;..\Voyager\URLHandlers\fames;..\RDO\Client\;..\Utils\Misc;..\Voyager;..\Voyager\URLHandlers;..\voyager\Components;..\Utils\GameAPI;..\Utils\Graphics;..\Utils\Voice;..\DServer;..\Utils\CodeLib;..\Utils\debug;..\Utils\WinUtils;..\Utils\DirectX;..\Class Storage;..\Kernel;C:\Repo\SP2\git\starpeace-2-rise-of-tycoons\Illegal\Illegal Kernel;C:\Repo\SP2\git\starpeace-2-rise-of-tycoons\Voyager\Components\WebBrowser;C:\Repo\SP2\git\starpeace-2-rise-of-tycoons\Utils\Vcl;C:\Users\darren\Documents\RAD Studio\Projects\httpget;C:\Repo\SP2\git\starpeace-2-rise-of-tycoons\dcef\src</DCC_IncludePath>
     <DCC_Define>USECARGODATA;EXCMAGIC_GUI;QuickOut;NotStorageDll;USE_CABSDLL;train;NotChangeDisplay;DEBUG</DCC_Define>
     <DCC_UNSAFE_TYPE>True</DCC_UNSAFE_TYPE>
     <DCC_UNSAFE_CODE>True</DCC_UNSAFE_CODE>
     <DCC_UNSAFE_CAST>True</DCC_UNSAFE_CAST>
-    <DCC_ExeOutput>C:\Program Files\Starpeace test\</DCC_ExeOutput>
+    <DCC_ExeOutput>C:\Repo\SP2\Release\Client</DCC_ExeOutput>
+    <DCC_Warnings>False</DCC_Warnings>
+    <DCC_DcuOutput>C:\Repo\SP2\dcu</DCC_DcuOutput>
+    <DCC_ObjOutput>C:\Repo\SP2\dcu</DCC_ObjOutput>
+    <DCC_HppOutput>C:\Repo\SP2\dcu</DCC_HppOutput>
+    <DCC_StrictVarStrings>False</DCC_StrictVarStrings>
   </PropertyGroup>
   <ProjectExtensions>
     <Borland.Personality>Delphi.Personality</Borland.Personality>
     <Borland.ProjectType>VCLApplication</Borland.ProjectType>
     <BorlandProject>
-<BorlandProject><Delphi.Personality><Parameters><Parameters Name="UseLauncher">False</Parameters><Parameters Name="LoadAllSymbols">True</Parameters><Parameters Name="LoadUnspecifiedSymbols">False</Parameters></Parameters><VersionInfo><VersionInfo Name="IncludeVerInfo">True</VersionInfo><VersionInfo Name="AutoIncBuild">True</VersionInfo><VersionInfo Name="MajorVer">2</VersionInfo><VersionInfo Name="MinorVer">1</VersionInfo><VersionInfo Name="Release">19</VersionInfo><VersionInfo Name="Build">6</VersionInfo><VersionInfo Name="Debug">False</VersionInfo><VersionInfo Name="PreRelease">False</VersionInfo><VersionInfo Name="Special">False</VersionInfo><VersionInfo Name="Private">False</VersionInfo><VersionInfo Name="DLL">False</VersionInfo><VersionInfo Name="Locale">1033</VersionInfo><VersionInfo Name="CodePage">1252</VersionInfo></VersionInfo><VersionInfoKeys><VersionInfoKeys Name="CompanyName">Pugland</VersionInfoKeys><VersionInfoKeys Name="FileDescription">Starpeace</VersionInfoKeys><VersionInfoKeys Name="FileVersion">2.1.19.6</VersionInfoKeys><VersionInfoKeys Name="InternalName">webremove2</VersionInfoKeys><VersionInfoKeys Name="LegalCopyright"></VersionInfoKeys><VersionInfoKeys Name="LegalTrademarks"></VersionInfoKeys><VersionInfoKeys Name="OriginalFilename"></VersionInfoKeys><VersionInfoKeys Name="ProductName"></VersionInfoKeys><VersionInfoKeys Name="ProductVersion">2.1.19</VersionInfoKeys></VersionInfoKeys><Source><Source Name="MainSource">FIVEVoyager.dpr</Source></Source></Delphi.Personality><ModelSupport>False</ModelSupport></BorlandProject></BorlandProject>
+<BorlandProject><Delphi.Personality><Parameters><Parameters Name="UseLauncher">False</Parameters><Parameters Name="LoadAllSymbols">True</Parameters><Parameters Name="LoadUnspecifiedSymbols">False</Parameters></Parameters><VersionInfo><VersionInfo Name="IncludeVerInfo">True</VersionInfo><VersionInfo Name="AutoIncBuild">True</VersionInfo><VersionInfo Name="MajorVer">2023</VersionInfo><VersionInfo Name="MinorVer">0</VersionInfo><VersionInfo Name="Release">0</VersionInfo><VersionInfo Name="Build">0</VersionInfo><VersionInfo Name="Debug">False</VersionInfo><VersionInfo Name="PreRelease">False</VersionInfo><VersionInfo Name="Special">False</VersionInfo><VersionInfo Name="Private">False</VersionInfo><VersionInfo Name="DLL">False</VersionInfo><VersionInfo Name="Locale">1033</VersionInfo><VersionInfo Name="CodePage">1252</VersionInfo></VersionInfo><VersionInfoKeys><VersionInfoKeys Name="CompanyName">Pugland</VersionInfoKeys><VersionInfoKeys Name="FileDescription">Starpeace</VersionInfoKeys><VersionInfoKeys Name="FileVersion">2023.0.0.0</VersionInfoKeys><VersionInfoKeys Name="InternalName">webremove2</VersionInfoKeys><VersionInfoKeys Name="LegalCopyright"></VersionInfoKeys><VersionInfoKeys Name="LegalTrademarks"></VersionInfoKeys><VersionInfoKeys Name="OriginalFilename"></VersionInfoKeys><VersionInfoKeys Name="ProductName"></VersionInfoKeys><VersionInfoKeys Name="ProductVersion">2.1.19</VersionInfoKeys></VersionInfoKeys><Source><Source Name="MainSource">FIVEVoyager.dpr</Source></Source></Delphi.Personality><ModelSupport>False</ModelSupport></BorlandProject></BorlandProject>
   </ProjectExtensions>
   <Import Project="$(MSBuildBinPath)\Borland.Delphi.Targets" />
   <ItemGroup>
@@ -65,14 +70,26 @@
     <DCCReference Include="..\Cache\CacheAgent.pas" />
     <DCCReference Include="..\Cache\CacheCommon.pas" />
     <DCCReference Include="..\Cache\IniClasses.pas" />
+    <DCCReference Include="..\Cache\ModelServerCache.pas" />
     <DCCReference Include="..\Cache\SpecialChars.pas" />
     <DCCReference Include="..\Class Packer\VisualClassManager.pas" />
     <DCCReference Include="..\Class Storage\ClassStorageInt.pas" />
+    <DCCReference Include="..\dcef\src\cefgui.pas" />
+    <DCCReference Include="..\dcef\src\ceflib.pas" />
+    <DCCReference Include="..\dcef\src\cefvcl.pas" />
     <DCCReference Include="..\Gm\GM Visual\ClientTest\ConnectOptionsFrm.pas">
       <Form>GMConnOptions</Form>
     </DCCReference>
     <DCCReference Include="..\Gm\GM Visual\GMList.pas" />
     <DCCReference Include="..\GM\GMKernel.pas" />
+    <DCCReference Include="..\Illegal\Illegal Kernel\BankRobbery.pas" />
+    <DCCReference Include="..\Illegal\Illegal Kernel\Creator.pas" />
+    <DCCReference Include="..\Illegal\Illegal Kernel\CrimeProtocol.pas" />
+    <DCCReference Include="..\Illegal\Illegal Kernel\GamblingDen.pas" />
+    <DCCReference Include="..\Illegal\Illegal Kernel\IllegalKernel.pas" />
+    <DCCReference Include="..\Illegal\Illegal Kernel\MetaCrime.pas" />
+    <DCCReference Include="..\Illegal\Illegal Kernel\RoadDestroy.pas" />
+    <DCCReference Include="..\Inventions\Inventions.pas" />
     <DCCReference Include="..\Kernel\Collection.pas" />
     <DCCReference Include="..\Kernel\MapCompress.pas" />
     <DCCReference Include="..\Kernel\SmartThreadRegistry.pas" />
@@ -82,13 +99,24 @@
     <DCCReference Include="..\Logs\Logs.pas" />
     <DCCReference Include="..\Mail\MailConsts.pas" />
     <DCCReference Include="..\Mail\MailProtocol.pas" />
+    <DCCReference Include="..\Mail\MailServerInterfaces.pas" />
+    <DCCReference Include="..\Model Extensions\FacIds.pas" />
     <DCCReference Include="..\Model Extensions\Trains\ClientTrain.pas" />
     <DCCReference Include="..\Model Extensions\Trains\Train.pas" />
     <DCCReference Include="..\Model Extensions\Trains\TrainConst.pas" />
+    <DCCReference Include="..\Persistence\BackupConsts.pas" />
     <DCCReference Include="..\Persistence\BackupInterfaces.pas" />
+    <DCCReference Include="..\Persistence\BackupObjects.pas" />
+    <DCCReference Include="..\Persistence\BlockLevels.pas" />
     <DCCReference Include="..\Persistence\VCLBackup.pas" />
     <DCCReference Include="..\Protocol\Protocol.pas" />
+    <DCCReference Include="..\Protocol\RankProtocol.pas" />
     <DCCReference Include="..\RDO\Common\LogFile.pas" />
+    <DCCReference Include="..\Surfaces\Surfaces.pas" />
+    <DCCReference Include="..\Tasks\ManuallyConnectTask.pas" />
+    <DCCReference Include="..\Tasks\Tasks.pas" />
+    <DCCReference Include="..\Tasks\Tutorial.pas" />
+    <DCCReference Include="..\Transport\TransportInterfaces.pas" />
     <DCCReference Include="..\Utils\CodeLib\Animations.pas" />
     <DCCReference Include="..\Utils\CodeLib\AxlDebug.pas" />
     <DCCReference Include="..\Utils\CodeLib\CoreTypes.pas" />
@@ -346,12 +374,15 @@
     </DCCReference>
     <DCCReference Include="URLHandlers\frames\blisttest2.pas">
       <Form>Frame1</Form>
+      <DesignClass>TFrame</DesignClass>
     </DCCReference>
     <DCCReference Include="URLHandlers\frames\loans.pas">
       <Form>Frame2</Form>
+      <DesignClass>TFrame</DesignClass>
     </DCCReference>
     <DCCReference Include="URLHandlers\frames\towns.pas">
       <Form>Frame3</Form>
+      <DesignClass>TFrame</DesignClass>
     </DCCReference>
     <DCCReference Include="URLHandlers\GMChatHandler.pas" />
     <DCCReference Include="URLHandlers\GMChatViewer.pas">

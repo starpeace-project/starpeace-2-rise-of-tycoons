@@ -957,6 +957,7 @@ implementation
         else fBaseDir := aBaseDir;
 
       Log( 'Survival', TimeToStr( Now ) + ' Registering at Cache Server...' );
+      Log( 'Survival', TimeToStr( Now ) + '-' + aName + '-' + aCacheHost + '-' + IntToStr(aCSPort) + '-' + IntToStr(aCCPort) + '-' + WorldURL);
       if not ModelServerCache.RegisterWorld( aName, aCacheHost, aCSPort, aCCPort, WorldURL )
         then raise Exception.Create( 'Cannot register world in cache server side' );
       Log( 'Survival', TimeToStr( Now ) + ' Registering at Cache Server Sucessfull.' );

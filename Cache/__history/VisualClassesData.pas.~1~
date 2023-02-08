@@ -16,7 +16,7 @@ implementation
     VisualRoot : string = '';
 
   const
-    tidVisualRoot = '\Software\pugland\Five\ModelServer';
+    tidVisualRoot = '\Software\Wow6432Node\Starpeace2\Five\ModelServer';
 
   function ReadVisualClassRoot : string;
     var

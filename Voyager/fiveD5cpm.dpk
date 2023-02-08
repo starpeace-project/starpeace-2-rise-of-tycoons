@@ -42,8 +42,6 @@ contains
   InfoBook in 'components\InfoBook.pas',
   InternationalizerComponent in 'components\InternationalizerComponent.pas',
   MarqueeCtrl in 'components\MarqueeCtrl.pas',
- // MultiBMPButton in 'components\MultiBMPButton.pas',
-  //OpaquePanel in 'components\OpaquePanel.pas',
   PDTabControl in 'components\PDTabControl.pas',
   PercentEdit in 'components\PercentEdit.pas',
   PlayerGif in '..\utils\vcl\PlayerGif.pas';

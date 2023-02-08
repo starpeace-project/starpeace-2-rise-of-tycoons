@@ -95,7 +95,7 @@ implementation
     RDOObjectProxy, ISMLS, Logs, WinSock, cache;
 
   const
-    ISKey  = '\Software\pugland\Five\InterfaceServer\';
+    ISKey  = '\Software\Wow6432Node\Starpeace2\Five\InterfaceServer\';
     WorldNameS : string = '';
 {
   procedure TInterfaceServerReport.SaveRegistryData;

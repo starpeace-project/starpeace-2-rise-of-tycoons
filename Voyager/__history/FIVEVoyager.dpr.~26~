@@ -240,7 +240,17 @@ uses
   buildhandler in 'URLHandlers\buildhandler.pas',
   builder in 'URLHandlers\builder.pas' {builder},
   tycoonhandler in 'URLHandlers\tycoonhandler.pas',
-  tycoonviewer in 'URLHandlers\tycoonviewer.pas' {tycoonview};
+  tycoonviewer in 'URLHandlers\tycoonviewer.pas' {tycoonview},
+  tycoonshowhandler in 'URLHandlers\tycoonshowhandler.pas',
+  tycoonshow in 'URLHandlers\tycoonshow.pas' {tycoonshower},
+  classload in 'classload.pas',
+  loans in 'URLHandlers\frames\loans.pas' {Frame2: TFrame},
+  blisttest2 in 'URLHandlers\frames\blisttest2.pas' {Frame1: TFrame},
+  searchviewhandler in 'URLHandlers\searchviewhandler.pas',
+  searchview in 'URLHandlers\searchview.pas' {searchviewf},
+  towns in 'URLHandlers\frames\towns.pas' {Frame3: TFrame},
+  cefvcl in '..\dcef\src\cefvcl.pas',
+  cefgui in '..\dcef\src\cefgui.pas';
 
 // ,
   //wlogon in 'URLHandlers\wlogon.pas' {twlogon}   
@@ -273,7 +283,9 @@ begin
   Application.CreateForm(TMisionView, MisionView);
   Application.CreateForm(TNewTeamDlg, NewTeamDlg);
   Application.CreateForm(TForm2, Form2);
-  Application.CreateForm(Ttycoonview, tycoonview);
+  Application.CreateForm(Tsearchviewf, searchviewf);
+  //Application.CreateForm(Ttycoonshower, tycoonshower);
+  // Application.CreateForm(Ttycoonview, tycoonview);
   //Application.CreateForm(TForm3, Form3);
   //Application.CreateForm(Twlog, wlog);
   //Application.CreateForm(Ttwlogon, twlogon);

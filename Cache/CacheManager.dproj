@@ -5,7 +5,7 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <DCC_DCCCompiler>DCC32</DCC_DCCCompiler>
-    <DCC_DependencyCheckOutputName>..\..\dll\CacheManager.dll</DCC_DependencyCheckOutputName>
+    <DCC_DependencyCheckOutputName>C:\starpeace\dll\CacheManager.dll</DCC_DependencyCheckOutputName>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <Version>7.0</Version>
@@ -35,6 +35,7 @@
     <DCC_UNSAFE_CODE>True</DCC_UNSAFE_CODE>
     <DCC_UNSAFE_CAST>True</DCC_UNSAFE_CAST>
     <DCC_ExeOutput>C:\starpeace\dll</DCC_ExeOutput>
+    <DCC_Warnings>False</DCC_Warnings>
   </PropertyGroup>
   <ProjectExtensions>
     <Borland.Personality>Delphi.Personality</Borland.Personality>
@@ -54,7 +55,9 @@
     <DCCReference Include="..\RDO\Common\ErrorCodes.pas" />
     <DCCReference Include="..\RDO\Common\LogFile.pas" />
     <DCCReference Include="..\RDO\Common\RDOProtocol.pas" />
-    <DCCReference Include="CachedObjectAuto.pas" />
+    <DCCReference Include="CachedObjectAuto.pas">
+      <CoClasses>CachedObject</CoClasses>
+    </DCCReference>
     <DCCReference Include="CacheManager_TLB.pas" />
     <DCCReference Include="CacheObjects.pas" />
     <DCCReference Include="CacheObjectSpool.pas" />
